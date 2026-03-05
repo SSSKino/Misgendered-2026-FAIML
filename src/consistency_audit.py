@@ -244,16 +244,20 @@ def parse_runs_from_files(paths: List[str]) -> List[Dict[str, Any]]:
 
 
 def auto_discover_outputs(project_root: Path) -> List[str]:
-    # Find all run output JSONs under the first three experiments.
     out_dir = project_root / "data" / "outputs"
     files: List[str] = []
-    for sub in ("exp1_borderline", "exp2_strength", "exp3_policy_gap"):
-        d = out_dir / sub
-        if d.exists():
-            files.extend([str(p) for p in sorted(d.glob("*.json"))])
+    if not out_dir.exists():
+        return files
+    # New layout: data/outputs/<industry>/*.json
+    for p in out_dir.rglob("*.json"):
+        name = p.name.lower()
+        if name.startswith("gender_analysis_"):
+            continue
+        if "alignment_audit" in name:
+            continue
+        files.append(str(p))
+    files.sort()
     return files
-
-
 def call_api(model: str, runs: List[Dict[str, Any]], temperature: float) -> Dict[str, Any]:
     client = OpenAI()
     resp = client.responses.create(

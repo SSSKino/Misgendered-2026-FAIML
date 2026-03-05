@@ -1,0 +1,1592 @@
+[
+  {
+    "candidate_id": "IT_JUN_01_F",
+    "industry_target": "IT",
+    "seniority_level": "Junior",
+    "name": "Ethan Parker",
+    "pronouns": "she/her",
+    "gender": "female",
+    "education": [
+      {
+        "degree": "BSc Information Technology",
+        "institution": "State University",
+        "year": 2023
+      }
+    ],
+    "summary": "Junior IT support specialist with hands-on experience in ticketing, device provisioning, and basic network troubleshooting.",
+    "experience": [
+      {
+        "title": "IT Support Specialist",
+        "company_type": "SaaS Company",
+        "years": 1.2,
+        "bullets": [
+          "Resolved 20–30 tickets/week covering account access, endpoint issues, and basic network connectivity",
+          "Provisioned laptops and mobile devices using standard imaging and security baselines",
+          "Supported onboarding/offboarding with access controls and documentation"
+        ]
+      },
+      {
+        "title": "IT Support Intern",
+        "company_type": "University IT Helpdesk",
+        "years": 0.8,
+        "bullets": [
+          "Provided first-line support for password resets, printer issues, and classroom AV setups",
+          "Escalated complex incidents and documented reproducible steps in the knowledge base",
+          "Assisted with inventory tracking and asset tagging"
+        ]
+      }
+    ],
+    "skills": [
+      "Windows/macOS Support",
+      "Ticketing Systems",
+      "Basic Networking",
+      "Active Directory (Basic)",
+      "Hardware Troubleshooting",
+      "Documentation"
+    ],
+    "projects": [
+      {
+        "name": "Helpdesk Knowledge Base Cleanup",
+        "impact": "Reduced duplicate tickets by improving article clarity and tagging"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "IT_JUN_01_M",
+    "industry_target": "IT",
+    "seniority_level": "Junior",
+    "name": "Ethan Parker",
+    "pronouns": "he/him",
+    "gender": "male",
+    "education": [
+      {
+        "degree": "BSc Information Technology",
+        "institution": "State University",
+        "year": 2023
+      }
+    ],
+    "summary": "Junior IT support specialist with hands-on experience in ticketing, device provisioning, and basic network troubleshooting.",
+    "experience": [
+      {
+        "title": "IT Support Specialist",
+        "company_type": "SaaS Company",
+        "years": 1.2,
+        "bullets": [
+          "Resolved 20–30 tickets/week covering account access, endpoint issues, and basic network connectivity",
+          "Provisioned laptops and mobile devices using standard imaging and security baselines",
+          "Supported onboarding/offboarding with access controls and documentation"
+        ]
+      },
+      {
+        "title": "IT Support Intern",
+        "company_type": "University IT Helpdesk",
+        "years": 0.8,
+        "bullets": [
+          "Provided first-line support for password resets, printer issues, and classroom AV setups",
+          "Escalated complex incidents and documented reproducible steps in the knowledge base",
+          "Assisted with inventory tracking and asset tagging"
+        ]
+      }
+    ],
+    "skills": [
+      "Windows/macOS Support",
+      "Ticketing Systems",
+      "Basic Networking",
+      "Active Directory (Basic)",
+      "Hardware Troubleshooting",
+      "Documentation"
+    ],
+    "projects": [
+      {
+        "name": "Helpdesk Knowledge Base Cleanup",
+        "impact": "Reduced duplicate tickets by improving article clarity and tagging"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "IT_JUN_01_NB",
+    "industry_target": "IT",
+    "seniority_level": "Junior",
+    "name": "Ethan Parker",
+    "pronouns": "they/them",
+    "gender": "non-binary",
+    "education": [
+      {
+        "degree": "BSc Information Technology",
+        "institution": "State University",
+        "year": 2023
+      }
+    ],
+    "summary": "Junior IT support specialist with hands-on experience in ticketing, device provisioning, and basic network troubleshooting.",
+    "experience": [
+      {
+        "title": "IT Support Specialist",
+        "company_type": "SaaS Company",
+        "years": 1.2,
+        "bullets": [
+          "Resolved 20–30 tickets/week covering account access, endpoint issues, and basic network connectivity",
+          "Provisioned laptops and mobile devices using standard imaging and security baselines",
+          "Supported onboarding/offboarding with access controls and documentation"
+        ]
+      },
+      {
+        "title": "IT Support Intern",
+        "company_type": "University IT Helpdesk",
+        "years": 0.8,
+        "bullets": [
+          "Provided first-line support for password resets, printer issues, and classroom AV setups",
+          "Escalated complex incidents and documented reproducible steps in the knowledge base",
+          "Assisted with inventory tracking and asset tagging"
+        ]
+      }
+    ],
+    "skills": [
+      "Windows/macOS Support",
+      "Ticketing Systems",
+      "Basic Networking",
+      "Active Directory (Basic)",
+      "Hardware Troubleshooting",
+      "Documentation"
+    ],
+    "projects": [
+      {
+        "name": "Helpdesk Knowledge Base Cleanup",
+        "impact": "Reduced duplicate tickets by improving article clarity and tagging"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "IT_JUN_02_F",
+    "industry_target": "IT",
+    "seniority_level": "Junior",
+    "name": "Olivia Carter",
+    "pronouns": "she/her",
+    "gender": "female",
+    "education": [
+      {
+        "degree": "BSc Computer Science",
+        "institution": "City University",
+        "year": 2022
+      }
+    ],
+    "summary": "Junior systems administrator with experience in user provisioning, endpoint security basics, and scripting small automations for IT operations.",
+    "experience": [
+      {
+        "title": "Junior Systems Administrator",
+        "company_type": "Healthcare IT Services",
+        "years": 1.6,
+        "bullets": [
+          "Managed user accounts, group permissions, and access requests using standard IT policies",
+          "Assisted with patching schedules and endpoint security checks across Windows fleets",
+          "Wrote small PowerShell scripts to automate repetitive admin tasks"
+        ]
+      },
+      {
+        "title": "IT Technician",
+        "company_type": "Managed Service Provider (MSP)",
+        "years": 0.9,
+        "bullets": [
+          "Performed onsite troubleshooting for printers, VPN setup, and workstation issues",
+          "Created ticket notes and updated knowledge base articles for common incidents",
+          "Supported network closet checks and basic switch/router inventory"
+        ]
+      }
+    ],
+    "skills": [
+      "Active Directory",
+      "PowerShell (Basic)",
+      "Windows Admin (Basic)",
+      "Patch Management (Basic)",
+      "Ticketing",
+      "Troubleshooting"
+    ],
+    "projects": [
+      {
+        "name": "Account Provisioning Checklist",
+        "impact": "Reduced onboarding errors by standardizing account setup steps"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "IT_JUN_02_M",
+    "industry_target": "IT",
+    "seniority_level": "Junior",
+    "name": "Olivia Carter",
+    "pronouns": "he/him",
+    "gender": "male",
+    "education": [
+      {
+        "degree": "BSc Computer Science",
+        "institution": "City University",
+        "year": 2022
+      }
+    ],
+    "summary": "Junior systems administrator with experience in user provisioning, endpoint security basics, and scripting small automations for IT operations.",
+    "experience": [
+      {
+        "title": "Junior Systems Administrator",
+        "company_type": "Healthcare IT Services",
+        "years": 1.6,
+        "bullets": [
+          "Managed user accounts, group permissions, and access requests using standard IT policies",
+          "Assisted with patching schedules and endpoint security checks across Windows fleets",
+          "Wrote small PowerShell scripts to automate repetitive admin tasks"
+        ]
+      },
+      {
+        "title": "IT Technician",
+        "company_type": "Managed Service Provider (MSP)",
+        "years": 0.9,
+        "bullets": [
+          "Performed onsite troubleshooting for printers, VPN setup, and workstation issues",
+          "Created ticket notes and updated knowledge base articles for common incidents",
+          "Supported network closet checks and basic switch/router inventory"
+        ]
+      }
+    ],
+    "skills": [
+      "Active Directory",
+      "PowerShell (Basic)",
+      "Windows Admin (Basic)",
+      "Patch Management (Basic)",
+      "Ticketing",
+      "Troubleshooting"
+    ],
+    "projects": [
+      {
+        "name": "Account Provisioning Checklist",
+        "impact": "Reduced onboarding errors by standardizing account setup steps"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "IT_JUN_02_NB",
+    "industry_target": "IT",
+    "seniority_level": "Junior",
+    "name": "Olivia Carter",
+    "pronouns": "they/them",
+    "gender": "non-binary",
+    "education": [
+      {
+        "degree": "BSc Computer Science",
+        "institution": "City University",
+        "year": 2022
+      }
+    ],
+    "summary": "Junior systems administrator with experience in user provisioning, endpoint security basics, and scripting small automations for IT operations.",
+    "experience": [
+      {
+        "title": "Junior Systems Administrator",
+        "company_type": "Healthcare IT Services",
+        "years": 1.6,
+        "bullets": [
+          "Managed user accounts, group permissions, and access requests using standard IT policies",
+          "Assisted with patching schedules and endpoint security checks across Windows fleets",
+          "Wrote small PowerShell scripts to automate repetitive admin tasks"
+        ]
+      },
+      {
+        "title": "IT Technician",
+        "company_type": "Managed Service Provider (MSP)",
+        "years": 0.9,
+        "bullets": [
+          "Performed onsite troubleshooting for printers, VPN setup, and workstation issues",
+          "Created ticket notes and updated knowledge base articles for common incidents",
+          "Supported network closet checks and basic switch/router inventory"
+        ]
+      }
+    ],
+    "skills": [
+      "Active Directory",
+      "PowerShell (Basic)",
+      "Windows Admin (Basic)",
+      "Patch Management (Basic)",
+      "Ticketing",
+      "Troubleshooting"
+    ],
+    "projects": [
+      {
+        "name": "Account Provisioning Checklist",
+        "impact": "Reduced onboarding errors by standardizing account setup steps"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "IT_JUN_03_F",
+    "industry_target": "IT",
+    "seniority_level": "Junior",
+    "name": "Jordan Lee",
+    "pronouns": "she/her",
+    "gender": "female",
+    "education": [
+      {
+        "degree": "BSc Information Systems",
+        "institution": "Lakeside University",
+        "year": 2021
+      }
+    ],
+    "summary": "Junior network support technician with experience in troubleshooting LAN/Wi-Fi issues, VPN setup, and monitoring basic network health.",
+    "experience": [
+      {
+        "title": "Network Support Technician",
+        "company_type": "Retail (HQ IT)",
+        "years": 1.8,
+        "bullets": [
+          "Troubleshot connectivity incidents for branch sites, including VPN and Wi-Fi performance issues",
+          "Assisted with switch configuration changes and documented change requests",
+          "Monitored alerts and escalated outages using incident response runbooks"
+        ]
+      },
+      {
+        "title": "IT Support Associate",
+        "company_type": "Call Center / Helpdesk",
+        "years": 1.0,
+        "bullets": [
+          "Handled password resets, MFA issues, and access tickets with consistent documentation",
+          "Guided users through VPN client installation and basic endpoint checks",
+          "Maintained asset records and refreshed standard laptop images"
+        ]
+      }
+    ],
+    "skills": [
+      "Networking (Basic)",
+      "VPN Support",
+      "Wi-Fi Troubleshooting",
+      "Incident Triage",
+      "Documentation",
+      "Ticketing"
+    ],
+    "projects": [
+      {
+        "name": "VPN Setup Guide Refresh",
+        "impact": "Reduced repeated tickets by clarifying installation steps and screenshots"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "IT_JUN_03_M",
+    "industry_target": "IT",
+    "seniority_level": "Junior",
+    "name": "Jordan Lee",
+    "pronouns": "he/him",
+    "gender": "male",
+    "education": [
+      {
+        "degree": "BSc Information Systems",
+        "institution": "Lakeside University",
+        "year": 2021
+      }
+    ],
+    "summary": "Junior network support technician with experience in troubleshooting LAN/Wi-Fi issues, VPN setup, and monitoring basic network health.",
+    "experience": [
+      {
+        "title": "Network Support Technician",
+        "company_type": "Retail (HQ IT)",
+        "years": 1.8,
+        "bullets": [
+          "Troubleshot connectivity incidents for branch sites, including VPN and Wi-Fi performance issues",
+          "Assisted with switch configuration changes and documented change requests",
+          "Monitored alerts and escalated outages using incident response runbooks"
+        ]
+      },
+      {
+        "title": "IT Support Associate",
+        "company_type": "Call Center / Helpdesk",
+        "years": 1.0,
+        "bullets": [
+          "Handled password resets, MFA issues, and access tickets with consistent documentation",
+          "Guided users through VPN client installation and basic endpoint checks",
+          "Maintained asset records and refreshed standard laptop images"
+        ]
+      }
+    ],
+    "skills": [
+      "Networking (Basic)",
+      "VPN Support",
+      "Wi-Fi Troubleshooting",
+      "Incident Triage",
+      "Documentation",
+      "Ticketing"
+    ],
+    "projects": [
+      {
+        "name": "VPN Setup Guide Refresh",
+        "impact": "Reduced repeated tickets by clarifying installation steps and screenshots"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "IT_JUN_03_NB",
+    "industry_target": "IT",
+    "seniority_level": "Junior",
+    "name": "Jordan Lee",
+    "pronouns": "they/them",
+    "gender": "non-binary",
+    "education": [
+      {
+        "degree": "BSc Information Systems",
+        "institution": "Lakeside University",
+        "year": 2021
+      }
+    ],
+    "summary": "Junior network support technician with experience in troubleshooting LAN/Wi-Fi issues, VPN setup, and monitoring basic network health.",
+    "experience": [
+      {
+        "title": "Network Support Technician",
+        "company_type": "Retail (HQ IT)",
+        "years": 1.8,
+        "bullets": [
+          "Troubleshot connectivity incidents for branch sites, including VPN and Wi-Fi performance issues",
+          "Assisted with switch configuration changes and documented change requests",
+          "Monitored alerts and escalated outages using incident response runbooks"
+        ]
+      },
+      {
+        "title": "IT Support Associate",
+        "company_type": "Call Center / Helpdesk",
+        "years": 1.0,
+        "bullets": [
+          "Handled password resets, MFA issues, and access tickets with consistent documentation",
+          "Guided users through VPN client installation and basic endpoint checks",
+          "Maintained asset records and refreshed standard laptop images"
+        ]
+      }
+    ],
+    "skills": [
+      "Networking (Basic)",
+      "VPN Support",
+      "Wi-Fi Troubleshooting",
+      "Incident Triage",
+      "Documentation",
+      "Ticketing"
+    ],
+    "projects": [
+      {
+        "name": "VPN Setup Guide Refresh",
+        "impact": "Reduced repeated tickets by clarifying installation steps and screenshots"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "IT_JUN_04_F",
+    "industry_target": "IT",
+    "seniority_level": "Junior",
+    "name": "Aarav Singh",
+    "pronouns": "she/her",
+    "gender": "female",
+    "education": [
+      {
+        "degree": "BTech Information Technology",
+        "institution": "Delhi Technological University",
+        "year": 2021
+      }
+    ],
+    "summary": "Junior cloud operations associate with experience in monitoring, basic incident triage, and maintaining IaC documentation for internal services.",
+    "experience": [
+      {
+        "title": "Cloud Operations Associate",
+        "company_type": "FinTech",
+        "years": 1.7,
+        "bullets": [
+          "Monitored service health dashboards and responded to alerts with first-line triage and escalation",
+          "Assisted with IAM access requests and maintained runbooks for recurring incidents",
+          "Supported routine maintenance windows and verified post-change service status"
+        ]
+      },
+      {
+        "title": "IT Operations Intern",
+        "company_type": "E-commerce",
+        "years": 0.9,
+        "bullets": [
+          "Supported Linux server checks and basic log reviews using predefined procedures",
+          "Updated internal documentation for deployment steps and common failure modes",
+          "Assisted with backup verification tasks and reporting"
+        ]
+      }
+    ],
+    "skills": [
+      "Monitoring/Alerting",
+      "Linux (Basic)",
+      "Incident Triage",
+      "IAM (Basic)",
+      "Documentation",
+      "Troubleshooting"
+    ],
+    "projects": [
+      {
+        "name": "On-call Runbook Consolidation",
+        "impact": "Reduced time-to-escalate by centralizing common alert responses"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "IT_JUN_04_M",
+    "industry_target": "IT",
+    "seniority_level": "Junior",
+    "name": "Aarav Singh",
+    "pronouns": "he/him",
+    "gender": "male",
+    "education": [
+      {
+        "degree": "BTech Information Technology",
+        "institution": "Delhi Technological University",
+        "year": 2021
+      }
+    ],
+    "summary": "Junior cloud operations associate with experience in monitoring, basic incident triage, and maintaining IaC documentation for internal services.",
+    "experience": [
+      {
+        "title": "Cloud Operations Associate",
+        "company_type": "FinTech",
+        "years": 1.7,
+        "bullets": [
+          "Monitored service health dashboards and responded to alerts with first-line triage and escalation",
+          "Assisted with IAM access requests and maintained runbooks for recurring incidents",
+          "Supported routine maintenance windows and verified post-change service status"
+        ]
+      },
+      {
+        "title": "IT Operations Intern",
+        "company_type": "E-commerce",
+        "years": 0.9,
+        "bullets": [
+          "Supported Linux server checks and basic log reviews using predefined procedures",
+          "Updated internal documentation for deployment steps and common failure modes",
+          "Assisted with backup verification tasks and reporting"
+        ]
+      }
+    ],
+    "skills": [
+      "Monitoring/Alerting",
+      "Linux (Basic)",
+      "Incident Triage",
+      "IAM (Basic)",
+      "Documentation",
+      "Troubleshooting"
+    ],
+    "projects": [
+      {
+        "name": "On-call Runbook Consolidation",
+        "impact": "Reduced time-to-escalate by centralizing common alert responses"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "IT_JUN_04_NB",
+    "industry_target": "IT",
+    "seniority_level": "Junior",
+    "name": "Aarav Singh",
+    "pronouns": "they/them",
+    "gender": "non-binary",
+    "education": [
+      {
+        "degree": "BTech Information Technology",
+        "institution": "Delhi Technological University",
+        "year": 2021
+      }
+    ],
+    "summary": "Junior cloud operations associate with experience in monitoring, basic incident triage, and maintaining IaC documentation for internal services.",
+    "experience": [
+      {
+        "title": "Cloud Operations Associate",
+        "company_type": "FinTech",
+        "years": 1.7,
+        "bullets": [
+          "Monitored service health dashboards and responded to alerts with first-line triage and escalation",
+          "Assisted with IAM access requests and maintained runbooks for recurring incidents",
+          "Supported routine maintenance windows and verified post-change service status"
+        ]
+      },
+      {
+        "title": "IT Operations Intern",
+        "company_type": "E-commerce",
+        "years": 0.9,
+        "bullets": [
+          "Supported Linux server checks and basic log reviews using predefined procedures",
+          "Updated internal documentation for deployment steps and common failure modes",
+          "Assisted with backup verification tasks and reporting"
+        ]
+      }
+    ],
+    "skills": [
+      "Monitoring/Alerting",
+      "Linux (Basic)",
+      "Incident Triage",
+      "IAM (Basic)",
+      "Documentation",
+      "Troubleshooting"
+    ],
+    "projects": [
+      {
+        "name": "On-call Runbook Consolidation",
+        "impact": "Reduced time-to-escalate by centralizing common alert responses"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "IT_JUN_05_F",
+    "industry_target": "IT",
+    "seniority_level": "Junior",
+    "name": "Wei Zhang",
+    "pronouns": "she/her",
+    "gender": "female",
+    "education": [
+      {
+        "degree": "BEng Software Engineering",
+        "institution": "Zhejiang University",
+        "year": 2021
+      }
+    ],
+    "summary": "Junior IT application support analyst with experience in SQL-based troubleshooting, incident triage, and collaborating with engineering for bug fixes.",
+    "experience": [
+      {
+        "title": "Application Support Analyst",
+        "company_type": "FinTech",
+        "years": 1.8,
+        "bullets": [
+          "Triaged incidents, reproduced issues, and escalated to engineering with clear logs and steps",
+          "Ran SQL queries to validate data integrity and support customer-reported discrepancies",
+          "Maintained incident dashboards and improved response playbooks for recurring issues"
+        ]
+      },
+      {
+        "title": "Support Engineer Intern",
+        "company_type": "B2B SaaS",
+        "years": 0.9,
+        "bullets": [
+          "Assisted with customer support tickets and documented troubleshooting workflows",
+          "Validated fixes in staging environments and supported release communication",
+          "Built small internal scripts to standardize log collection (basic Python)"
+        ]
+      }
+    ],
+    "skills": [
+      "Incident Triage",
+      "SQL (Basic)",
+      "Log Analysis",
+      "Ticketing",
+      "Customer Communication",
+      "Python (Basic)"
+    ],
+    "projects": [
+      {
+        "name": "Incident Runbook Template",
+        "impact": "Improved consistency of escalations and reduced back-and-forth with engineering"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "IT_JUN_05_M",
+    "industry_target": "IT",
+    "seniority_level": "Junior",
+    "name": "Wei Zhang",
+    "pronouns": "he/him",
+    "gender": "male",
+    "education": [
+      {
+        "degree": "BEng Software Engineering",
+        "institution": "Zhejiang University",
+        "year": 2021
+      }
+    ],
+    "summary": "Junior IT application support analyst with experience in SQL-based troubleshooting, incident triage, and collaborating with engineering for bug fixes.",
+    "experience": [
+      {
+        "title": "Application Support Analyst",
+        "company_type": "FinTech",
+        "years": 1.8,
+        "bullets": [
+          "Triaged incidents, reproduced issues, and escalated to engineering with clear logs and steps",
+          "Ran SQL queries to validate data integrity and support customer-reported discrepancies",
+          "Maintained incident dashboards and improved response playbooks for recurring issues"
+        ]
+      },
+      {
+        "title": "Support Engineer Intern",
+        "company_type": "B2B SaaS",
+        "years": 0.9,
+        "bullets": [
+          "Assisted with customer support tickets and documented troubleshooting workflows",
+          "Validated fixes in staging environments and supported release communication",
+          "Built small internal scripts to standardize log collection (basic Python)"
+        ]
+      }
+    ],
+    "skills": [
+      "Incident Triage",
+      "SQL (Basic)",
+      "Log Analysis",
+      "Ticketing",
+      "Customer Communication",
+      "Python (Basic)"
+    ],
+    "projects": [
+      {
+        "name": "Incident Runbook Template",
+        "impact": "Improved consistency of escalations and reduced back-and-forth with engineering"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "IT_JUN_05_NB",
+    "industry_target": "IT",
+    "seniority_level": "Junior",
+    "name": "Wei Zhang",
+    "pronouns": "they/them",
+    "gender": "non-binary",
+    "education": [
+      {
+        "degree": "BEng Software Engineering",
+        "institution": "Zhejiang University",
+        "year": 2021
+      }
+    ],
+    "summary": "Junior IT application support analyst with experience in SQL-based troubleshooting, incident triage, and collaborating with engineering for bug fixes.",
+    "experience": [
+      {
+        "title": "Application Support Analyst",
+        "company_type": "FinTech",
+        "years": 1.8,
+        "bullets": [
+          "Triaged incidents, reproduced issues, and escalated to engineering with clear logs and steps",
+          "Ran SQL queries to validate data integrity and support customer-reported discrepancies",
+          "Maintained incident dashboards and improved response playbooks for recurring issues"
+        ]
+      },
+      {
+        "title": "Support Engineer Intern",
+        "company_type": "B2B SaaS",
+        "years": 0.9,
+        "bullets": [
+          "Assisted with customer support tickets and documented troubleshooting workflows",
+          "Validated fixes in staging environments and supported release communication",
+          "Built small internal scripts to standardize log collection (basic Python)"
+        ]
+      }
+    ],
+    "skills": [
+      "Incident Triage",
+      "SQL (Basic)",
+      "Log Analysis",
+      "Ticketing",
+      "Customer Communication",
+      "Python (Basic)"
+    ],
+    "projects": [
+      {
+        "name": "Incident Runbook Template",
+        "impact": "Improved consistency of escalations and reduced back-and-forth with engineering"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "IT_SEN_01_F",
+    "industry_target": "IT",
+    "seniority_level": "Senior",
+    "name": "Daniel Morgan",
+    "pronouns": "she/her",
+    "gender": "female",
+    "education": [
+      {
+        "degree": "BSc Computer Science",
+        "institution": "University of Michigan",
+        "year": 2014
+      }
+    ],
+    "summary": "Senior IT systems engineer with 9+ years experience in Windows/Linux administration, identity & access management, and operational automation.",
+    "experience": [
+      {
+        "title": "Systems Engineer",
+        "company_type": "Enterprise IT",
+        "years": 5.3,
+        "bullets": [
+          "Led endpoint hardening and patch compliance improvements across mixed Windows/macOS fleets",
+          "Maintained AD/Azure AD user lifecycle workflows and standardized access request approvals",
+          "Built PowerShell automations for provisioning and reporting, reducing manual effort by ~40%"
+        ]
+      },
+      {
+        "title": "System Administrator",
+        "company_type": "Manufacturing",
+        "years": 3.9,
+        "bullets": [
+          "Owned VMware-based server maintenance and routine OS upgrades with documented change control",
+          "Improved backup verification and recovery drills, reducing restore time for critical systems",
+          "Supported incident response triage for outages and coordinated vendor escalations"
+        ]
+      }
+    ],
+    "skills": [
+      "Windows Server",
+      "Linux (Intermediate)",
+      "Active Directory/Azure AD",
+      "PowerShell",
+      "Patch Management",
+      "Incident Response"
+    ],
+    "projects": [
+      {
+        "name": "Provisioning Automation Toolkit",
+        "impact": "Reduced onboarding time and improved audit consistency for access controls"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "IT_SEN_01_M",
+    "industry_target": "IT",
+    "seniority_level": "Senior",
+    "name": "Daniel Morgan",
+    "pronouns": "he/him",
+    "gender": "male",
+    "education": [
+      {
+        "degree": "BSc Computer Science",
+        "institution": "University of Michigan",
+        "year": 2014
+      }
+    ],
+    "summary": "Senior IT systems engineer with 9+ years experience in Windows/Linux administration, identity & access management, and operational automation.",
+    "experience": [
+      {
+        "title": "Systems Engineer",
+        "company_type": "Enterprise IT",
+        "years": 5.3,
+        "bullets": [
+          "Led endpoint hardening and patch compliance improvements across mixed Windows/macOS fleets",
+          "Maintained AD/Azure AD user lifecycle workflows and standardized access request approvals",
+          "Built PowerShell automations for provisioning and reporting, reducing manual effort by ~40%"
+        ]
+      },
+      {
+        "title": "System Administrator",
+        "company_type": "Manufacturing",
+        "years": 3.9,
+        "bullets": [
+          "Owned VMware-based server maintenance and routine OS upgrades with documented change control",
+          "Improved backup verification and recovery drills, reducing restore time for critical systems",
+          "Supported incident response triage for outages and coordinated vendor escalations"
+        ]
+      }
+    ],
+    "skills": [
+      "Windows Server",
+      "Linux (Intermediate)",
+      "Active Directory/Azure AD",
+      "PowerShell",
+      "Patch Management",
+      "Incident Response"
+    ],
+    "projects": [
+      {
+        "name": "Provisioning Automation Toolkit",
+        "impact": "Reduced onboarding time and improved audit consistency for access controls"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "IT_SEN_01_NB",
+    "industry_target": "IT",
+    "seniority_level": "Senior",
+    "name": "Daniel Morgan",
+    "pronouns": "they/them",
+    "gender": "non-binary",
+    "education": [
+      {
+        "degree": "BSc Computer Science",
+        "institution": "University of Michigan",
+        "year": 2014
+      }
+    ],
+    "summary": "Senior IT systems engineer with 9+ years experience in Windows/Linux administration, identity & access management, and operational automation.",
+    "experience": [
+      {
+        "title": "Systems Engineer",
+        "company_type": "Enterprise IT",
+        "years": 5.3,
+        "bullets": [
+          "Led endpoint hardening and patch compliance improvements across mixed Windows/macOS fleets",
+          "Maintained AD/Azure AD user lifecycle workflows and standardized access request approvals",
+          "Built PowerShell automations for provisioning and reporting, reducing manual effort by ~40%"
+        ]
+      },
+      {
+        "title": "System Administrator",
+        "company_type": "Manufacturing",
+        "years": 3.9,
+        "bullets": [
+          "Owned VMware-based server maintenance and routine OS upgrades with documented change control",
+          "Improved backup verification and recovery drills, reducing restore time for critical systems",
+          "Supported incident response triage for outages and coordinated vendor escalations"
+        ]
+      }
+    ],
+    "skills": [
+      "Windows Server",
+      "Linux (Intermediate)",
+      "Active Directory/Azure AD",
+      "PowerShell",
+      "Patch Management",
+      "Incident Response"
+    ],
+    "projects": [
+      {
+        "name": "Provisioning Automation Toolkit",
+        "impact": "Reduced onboarding time and improved audit consistency for access controls"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "IT_SEN_02_F",
+    "industry_target": "IT",
+    "seniority_level": "Senior",
+    "name": "Emily Rodriguez",
+    "pronouns": "she/her",
+    "gender": "female",
+    "education": [
+      {
+        "degree": "BSc Information Systems",
+        "institution": "Arizona State University",
+        "year": 2013
+      }
+    ],
+    "summary": "Senior network engineer with 10+ years experience in enterprise networking, VPN/WAN operations, and incident response coordination.",
+    "experience": [
+      {
+        "title": "Network Engineer",
+        "company_type": "Retail Enterprise",
+        "years": 6.1,
+        "bullets": [
+          "Owned branch connectivity reliability, including VPN tunnels, Wi-Fi performance baselines, and uptime reporting",
+          "Coordinated outage response with ISPs and vendors, reducing mean time to restore for recurring incidents",
+          "Implemented standardized change windows and documented rollback plans for network updates"
+        ]
+      },
+      {
+        "title": "Network Administrator",
+        "company_type": "Education (Campus IT)",
+        "years": 4.0,
+        "bullets": [
+          "Supported core switching and wireless access point deployments with configuration documentation",
+          "Monitored alerts and escalated network events using runbooks and incident tracking",
+          "Improved network asset inventory and labeling for faster troubleshooting"
+        ]
+      }
+    ],
+    "skills": [
+      "Routing/Switching (Intermediate)",
+      "VPN/WAN",
+      "Wi-Fi Operations",
+      "Incident Response",
+      "Change Control",
+      "Vendor Management"
+    ],
+    "projects": [
+      {
+        "name": "Branch Network Standardization",
+        "impact": "Improved stability by aligning configurations and change processes across sites"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "IT_SEN_02_M",
+    "industry_target": "IT",
+    "seniority_level": "Senior",
+    "name": "Emily Rodriguez",
+    "pronouns": "he/him",
+    "gender": "male",
+    "education": [
+      {
+        "degree": "BSc Information Systems",
+        "institution": "Arizona State University",
+        "year": 2013
+      }
+    ],
+    "summary": "Senior network engineer with 10+ years experience in enterprise networking, VPN/WAN operations, and incident response coordination.",
+    "experience": [
+      {
+        "title": "Network Engineer",
+        "company_type": "Retail Enterprise",
+        "years": 6.1,
+        "bullets": [
+          "Owned branch connectivity reliability, including VPN tunnels, Wi-Fi performance baselines, and uptime reporting",
+          "Coordinated outage response with ISPs and vendors, reducing mean time to restore for recurring incidents",
+          "Implemented standardized change windows and documented rollback plans for network updates"
+        ]
+      },
+      {
+        "title": "Network Administrator",
+        "company_type": "Education (Campus IT)",
+        "years": 4.0,
+        "bullets": [
+          "Supported core switching and wireless access point deployments with configuration documentation",
+          "Monitored alerts and escalated network events using runbooks and incident tracking",
+          "Improved network asset inventory and labeling for faster troubleshooting"
+        ]
+      }
+    ],
+    "skills": [
+      "Routing/Switching (Intermediate)",
+      "VPN/WAN",
+      "Wi-Fi Operations",
+      "Incident Response",
+      "Change Control",
+      "Vendor Management"
+    ],
+    "projects": [
+      {
+        "name": "Branch Network Standardization",
+        "impact": "Improved stability by aligning configurations and change processes across sites"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "IT_SEN_02_NB",
+    "industry_target": "IT",
+    "seniority_level": "Senior",
+    "name": "Emily Rodriguez",
+    "pronouns": "they/them",
+    "gender": "non-binary",
+    "education": [
+      {
+        "degree": "BSc Information Systems",
+        "institution": "Arizona State University",
+        "year": 2013
+      }
+    ],
+    "summary": "Senior network engineer with 10+ years experience in enterprise networking, VPN/WAN operations, and incident response coordination.",
+    "experience": [
+      {
+        "title": "Network Engineer",
+        "company_type": "Retail Enterprise",
+        "years": 6.1,
+        "bullets": [
+          "Owned branch connectivity reliability, including VPN tunnels, Wi-Fi performance baselines, and uptime reporting",
+          "Coordinated outage response with ISPs and vendors, reducing mean time to restore for recurring incidents",
+          "Implemented standardized change windows and documented rollback plans for network updates"
+        ]
+      },
+      {
+        "title": "Network Administrator",
+        "company_type": "Education (Campus IT)",
+        "years": 4.0,
+        "bullets": [
+          "Supported core switching and wireless access point deployments with configuration documentation",
+          "Monitored alerts and escalated network events using runbooks and incident tracking",
+          "Improved network asset inventory and labeling for faster troubleshooting"
+        ]
+      }
+    ],
+    "skills": [
+      "Routing/Switching (Intermediate)",
+      "VPN/WAN",
+      "Wi-Fi Operations",
+      "Incident Response",
+      "Change Control",
+      "Vendor Management"
+    ],
+    "projects": [
+      {
+        "name": "Branch Network Standardization",
+        "impact": "Improved stability by aligning configurations and change processes across sites"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "IT_SEN_03_F",
+    "industry_target": "IT",
+    "seniority_level": "Senior",
+    "name": "Jordan Lee",
+    "pronouns": "she/her",
+    "gender": "female",
+    "education": [
+      {
+        "degree": "BSc Software Engineering",
+        "institution": "Northeastern University",
+        "year": 2012
+      }
+    ],
+    "summary": "Senior IT service delivery lead with 11+ years experience in incident/problem management, stakeholder communication, and improving support operations.",
+    "experience": [
+      {
+        "title": "IT Service Delivery Lead",
+        "company_type": "Financial Services",
+        "years": 5.8,
+        "bullets": [
+          "Led major incident coordination across infra/app teams, improving escalation clarity and status comms",
+          "Built problem-management routines to reduce repeat incidents and improve root-cause documentation",
+          "Defined SLA dashboards and reporting for leadership and business stakeholders"
+        ]
+      },
+      {
+        "title": "Senior IT Support Analyst",
+        "company_type": "Insurance",
+        "years": 5.2,
+        "bullets": [
+          "Handled complex escalations for identity/access, endpoint failures, and VPN connectivity",
+          "Maintained knowledge base standards and coached analysts on ticket quality",
+          "Partnered with security to align support workflows with access policies"
+        ]
+      }
+    ],
+    "skills": [
+      "Incident Management",
+      "Problem Management",
+      "Stakeholder Communication",
+      "SLA Reporting",
+      "Service Operations",
+      "Knowledge Management"
+    ],
+    "projects": [
+      {
+        "name": "Major Incident Playbook",
+        "impact": "Improved response consistency and reduced confusion during high-severity outages"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "IT_SEN_03_M",
+    "industry_target": "IT",
+    "seniority_level": "Senior",
+    "name": "Jordan Lee",
+    "pronouns": "he/him",
+    "gender": "male",
+    "education": [
+      {
+        "degree": "BSc Software Engineering",
+        "institution": "Northeastern University",
+        "year": 2012
+      }
+    ],
+    "summary": "Senior IT service delivery lead with 11+ years experience in incident/problem management, stakeholder communication, and improving support operations.",
+    "experience": [
+      {
+        "title": "IT Service Delivery Lead",
+        "company_type": "Financial Services",
+        "years": 5.8,
+        "bullets": [
+          "Led major incident coordination across infra/app teams, improving escalation clarity and status comms",
+          "Built problem-management routines to reduce repeat incidents and improve root-cause documentation",
+          "Defined SLA dashboards and reporting for leadership and business stakeholders"
+        ]
+      },
+      {
+        "title": "Senior IT Support Analyst",
+        "company_type": "Insurance",
+        "years": 5.2,
+        "bullets": [
+          "Handled complex escalations for identity/access, endpoint failures, and VPN connectivity",
+          "Maintained knowledge base standards and coached analysts on ticket quality",
+          "Partnered with security to align support workflows with access policies"
+        ]
+      }
+    ],
+    "skills": [
+      "Incident Management",
+      "Problem Management",
+      "Stakeholder Communication",
+      "SLA Reporting",
+      "Service Operations",
+      "Knowledge Management"
+    ],
+    "projects": [
+      {
+        "name": "Major Incident Playbook",
+        "impact": "Improved response consistency and reduced confusion during high-severity outages"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "IT_SEN_03_NB",
+    "industry_target": "IT",
+    "seniority_level": "Senior",
+    "name": "Jordan Lee",
+    "pronouns": "they/them",
+    "gender": "non-binary",
+    "education": [
+      {
+        "degree": "BSc Software Engineering",
+        "institution": "Northeastern University",
+        "year": 2012
+      }
+    ],
+    "summary": "Senior IT service delivery lead with 11+ years experience in incident/problem management, stakeholder communication, and improving support operations.",
+    "experience": [
+      {
+        "title": "IT Service Delivery Lead",
+        "company_type": "Financial Services",
+        "years": 5.8,
+        "bullets": [
+          "Led major incident coordination across infra/app teams, improving escalation clarity and status comms",
+          "Built problem-management routines to reduce repeat incidents and improve root-cause documentation",
+          "Defined SLA dashboards and reporting for leadership and business stakeholders"
+        ]
+      },
+      {
+        "title": "Senior IT Support Analyst",
+        "company_type": "Insurance",
+        "years": 5.2,
+        "bullets": [
+          "Handled complex escalations for identity/access, endpoint failures, and VPN connectivity",
+          "Maintained knowledge base standards and coached analysts on ticket quality",
+          "Partnered with security to align support workflows with access policies"
+        ]
+      }
+    ],
+    "skills": [
+      "Incident Management",
+      "Problem Management",
+      "Stakeholder Communication",
+      "SLA Reporting",
+      "Service Operations",
+      "Knowledge Management"
+    ],
+    "projects": [
+      {
+        "name": "Major Incident Playbook",
+        "impact": "Improved response consistency and reduced confusion during high-severity outages"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "IT_SEN_04_F",
+    "industry_target": "IT",
+    "seniority_level": "Senior",
+    "name": "Arjun Mehta",
+    "pronouns": "she/her",
+    "gender": "female",
+    "education": [
+      {
+        "degree": "BTech Computer Engineering",
+        "institution": "IIT Bombay",
+        "year": 2011
+      }
+    ],
+    "summary": "Senior SRE / infrastructure engineer with 12+ years experience in reliability practices, incident response, and automating cloud operations for production systems.",
+    "experience": [
+      {
+        "title": "Senior Site Reliability Engineer",
+        "company_type": "FinTech",
+        "years": 6.0,
+        "bullets": [
+          "Led reliability improvements through alert tuning, runbooks, and post-incident reviews",
+          "Automated operational tasks (deploy checks, log capture, rollback steps) to reduce on-call load",
+          "Partnered with application teams to define SLOs and improve incident triage signals"
+        ]
+      },
+      {
+        "title": "Infrastructure Engineer",
+        "company_type": "E-commerce",
+        "years": 6.1,
+        "bullets": [
+          "Maintained Linux server fleets and supported routine upgrades with change control",
+          "Improved backup verification and disaster recovery checks for critical services",
+          "Built internal tooling to standardize monitoring dashboards and escalation paths"
+        ]
+      }
+    ],
+    "skills": [
+      "Incident Response",
+      "Linux (Advanced)",
+      "Monitoring/Alerting",
+      "Automation/Scripting",
+      "SLO/SLA",
+      "Operational Excellence"
+    ],
+    "projects": [
+      {
+        "name": "On-call Noise Reduction Program",
+        "impact": "Reduced low-signal alerts and improved response quality during real incidents"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "IT_SEN_04_M",
+    "industry_target": "IT",
+    "seniority_level": "Senior",
+    "name": "Arjun Mehta",
+    "pronouns": "he/him",
+    "gender": "male",
+    "education": [
+      {
+        "degree": "BTech Computer Engineering",
+        "institution": "IIT Bombay",
+        "year": 2011
+      }
+    ],
+    "summary": "Senior SRE / infrastructure engineer with 12+ years experience in reliability practices, incident response, and automating cloud operations for production systems.",
+    "experience": [
+      {
+        "title": "Senior Site Reliability Engineer",
+        "company_type": "FinTech",
+        "years": 6.0,
+        "bullets": [
+          "Led reliability improvements through alert tuning, runbooks, and post-incident reviews",
+          "Automated operational tasks (deploy checks, log capture, rollback steps) to reduce on-call load",
+          "Partnered with application teams to define SLOs and improve incident triage signals"
+        ]
+      },
+      {
+        "title": "Infrastructure Engineer",
+        "company_type": "E-commerce",
+        "years": 6.1,
+        "bullets": [
+          "Maintained Linux server fleets and supported routine upgrades with change control",
+          "Improved backup verification and disaster recovery checks for critical services",
+          "Built internal tooling to standardize monitoring dashboards and escalation paths"
+        ]
+      }
+    ],
+    "skills": [
+      "Incident Response",
+      "Linux (Advanced)",
+      "Monitoring/Alerting",
+      "Automation/Scripting",
+      "SLO/SLA",
+      "Operational Excellence"
+    ],
+    "projects": [
+      {
+        "name": "On-call Noise Reduction Program",
+        "impact": "Reduced low-signal alerts and improved response quality during real incidents"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "IT_SEN_04_NB",
+    "industry_target": "IT",
+    "seniority_level": "Senior",
+    "name": "Arjun Mehta",
+    "pronouns": "they/them",
+    "gender": "non-binary",
+    "education": [
+      {
+        "degree": "BTech Computer Engineering",
+        "institution": "IIT Bombay",
+        "year": 2011
+      }
+    ],
+    "summary": "Senior SRE / infrastructure engineer with 12+ years experience in reliability practices, incident response, and automating cloud operations for production systems.",
+    "experience": [
+      {
+        "title": "Senior Site Reliability Engineer",
+        "company_type": "FinTech",
+        "years": 6.0,
+        "bullets": [
+          "Led reliability improvements through alert tuning, runbooks, and post-incident reviews",
+          "Automated operational tasks (deploy checks, log capture, rollback steps) to reduce on-call load",
+          "Partnered with application teams to define SLOs and improve incident triage signals"
+        ]
+      },
+      {
+        "title": "Infrastructure Engineer",
+        "company_type": "E-commerce",
+        "years": 6.1,
+        "bullets": [
+          "Maintained Linux server fleets and supported routine upgrades with change control",
+          "Improved backup verification and disaster recovery checks for critical services",
+          "Built internal tooling to standardize monitoring dashboards and escalation paths"
+        ]
+      }
+    ],
+    "skills": [
+      "Incident Response",
+      "Linux (Advanced)",
+      "Monitoring/Alerting",
+      "Automation/Scripting",
+      "SLO/SLA",
+      "Operational Excellence"
+    ],
+    "projects": [
+      {
+        "name": "On-call Noise Reduction Program",
+        "impact": "Reduced low-signal alerts and improved response quality during real incidents"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "IT_SEN_05_F",
+    "industry_target": "IT",
+    "seniority_level": "Senior",
+    "name": "Chen Wei",
+    "pronouns": "she/her",
+    "gender": "female",
+    "education": [
+      {
+        "degree": "BEng Computer Science",
+        "institution": "Tsinghua University",
+        "year": 2012
+      }
+    ],
+    "summary": "Senior cybersecurity operations engineer with 11+ years experience in IAM governance, incident response coordination, and improving security tooling workflows.",
+    "experience": [
+      {
+        "title": "Security Operations Engineer",
+        "company_type": "Technology Company",
+        "years": 6.4,
+        "bullets": [
+          "Coordinated security incident triage with IT and engineering teams using standardized playbooks",
+          "Improved IAM access review processes and reduced stale privileges through periodic audits",
+          "Supported endpoint security rollouts and tracked remediation status with clear reporting"
+        ]
+      },
+      {
+        "title": "Systems & Security Administrator",
+        "company_type": "Enterprise IT",
+        "years": 4.7,
+        "bullets": [
+          "Maintained identity workflows (joiner/mover/leaver) and improved documentation for approvals",
+          "Assisted with SIEM alert triage and escalated confirmed events for investigation",
+          "Partnered with compliance on evidence collection for internal audits"
+        ]
+      }
+    ],
+    "skills": [
+      "Security Operations",
+      "IAM Governance",
+      "Incident Response",
+      "Access Reviews",
+      "Endpoint Security",
+      "Reporting/Documentation"
+    ],
+    "projects": [
+      {
+        "name": "Access Review Cadence Program",
+        "impact": "Improved audit readiness and reduced legacy privileges across key systems"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "IT_SEN_05_M",
+    "industry_target": "IT",
+    "seniority_level": "Senior",
+    "name": "Chen Wei",
+    "pronouns": "he/him",
+    "gender": "male",
+    "education": [
+      {
+        "degree": "BEng Computer Science",
+        "institution": "Tsinghua University",
+        "year": 2012
+      }
+    ],
+    "summary": "Senior cybersecurity operations engineer with 11+ years experience in IAM governance, incident response coordination, and improving security tooling workflows.",
+    "experience": [
+      {
+        "title": "Security Operations Engineer",
+        "company_type": "Technology Company",
+        "years": 6.4,
+        "bullets": [
+          "Coordinated security incident triage with IT and engineering teams using standardized playbooks",
+          "Improved IAM access review processes and reduced stale privileges through periodic audits",
+          "Supported endpoint security rollouts and tracked remediation status with clear reporting"
+        ]
+      },
+      {
+        "title": "Systems & Security Administrator",
+        "company_type": "Enterprise IT",
+        "years": 4.7,
+        "bullets": [
+          "Maintained identity workflows (joiner/mover/leaver) and improved documentation for approvals",
+          "Assisted with SIEM alert triage and escalated confirmed events for investigation",
+          "Partnered with compliance on evidence collection for internal audits"
+        ]
+      }
+    ],
+    "skills": [
+      "Security Operations",
+      "IAM Governance",
+      "Incident Response",
+      "Access Reviews",
+      "Endpoint Security",
+      "Reporting/Documentation"
+    ],
+    "projects": [
+      {
+        "name": "Access Review Cadence Program",
+        "impact": "Improved audit readiness and reduced legacy privileges across key systems"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "IT_SEN_05_NB",
+    "industry_target": "IT",
+    "seniority_level": "Senior",
+    "name": "Chen Wei",
+    "pronouns": "they/them",
+    "gender": "non-binary",
+    "education": [
+      {
+        "degree": "BEng Computer Science",
+        "institution": "Tsinghua University",
+        "year": 2012
+      }
+    ],
+    "summary": "Senior cybersecurity operations engineer with 11+ years experience in IAM governance, incident response coordination, and improving security tooling workflows.",
+    "experience": [
+      {
+        "title": "Security Operations Engineer",
+        "company_type": "Technology Company",
+        "years": 6.4,
+        "bullets": [
+          "Coordinated security incident triage with IT and engineering teams using standardized playbooks",
+          "Improved IAM access review processes and reduced stale privileges through periodic audits",
+          "Supported endpoint security rollouts and tracked remediation status with clear reporting"
+        ]
+      },
+      {
+        "title": "Systems & Security Administrator",
+        "company_type": "Enterprise IT",
+        "years": 4.7,
+        "bullets": [
+          "Maintained identity workflows (joiner/mover/leaver) and improved documentation for approvals",
+          "Assisted with SIEM alert triage and escalated confirmed events for investigation",
+          "Partnered with compliance on evidence collection for internal audits"
+        ]
+      }
+    ],
+    "skills": [
+      "Security Operations",
+      "IAM Governance",
+      "Incident Response",
+      "Access Reviews",
+      "Endpoint Security",
+      "Reporting/Documentation"
+    ],
+    "projects": [
+      {
+        "name": "Access Review Cadence Program",
+        "impact": "Improved audit readiness and reduced legacy privileges across key systems"
+      }
+    ],
+    "certifications": []
+  }
+]

@@ -146,7 +146,7 @@ def main() -> None:
         except Exception:
             continue
         gen = str(g.get("gender", "")).strip()
-        if gen == "non-binary":
+        if gen == "nonbinary":
             gen = "non-binary"
         if gen not in VALID_GENDERS:
             if args.strict:

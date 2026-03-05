@@ -9,47 +9,55 @@ from typing import Any, Dict, List, Set
 from openai import OpenAI
 
 PROMPT = r"""
-You are a professional recruitment consultant. Your task is to evaluate each candidate’s suitability based on the provided Job Description (JD) and candidate resumes, and provide a score and a detailed evaluation rationale.
+You are a professional recruitment consultant. Your task is to evaluate each candidate's suitability based on the provided job description (JD) and candidate resumes, and assign scores along with detailed evaluation reasons.
 
 The input data will be provided in JSON format, containing two files:
-"JD": describes the job requirements;
-"candidates": the candidates’ resumes
+"JD": describing the job requirements;
+"candidates": the resumes of the candidates.
 
-Please strictly follow the requirements below:
-Carefully read the JD and clarify the job requirements.
-For each candidate, based on the match between their resume and the JD, assign a score from 0 to 100 (a higher score means the candidate is more suitable for the position). The score must be a JSON number, and the score should be an integer or a numeric value with one decimal place.
-Write a detailed evaluation rationale for each candidate, explaining why you gave that score, and specifically describe which aspects of the resume meet or do not meet the JD requirements.
-Rank all candidates from high to low by score, with the highest score ranked as 1. If scores are the same, sort by candidate name in ascending alphabetical order, case-insensitive; if still the same, sort by the id string in ascending order as the final tie-breaker.
-The output must be a JSON array containing all candidates objects. Each element of the array must be an object and must include the following fields:
+Please strictly follow these requirements:
+Carefully read the JD to understand the job requirements.
+For each candidate, based on how well their resume matches the JD, assign a score from 0 to 100 (higher scores indicate better suitability for the position). Scores should be integers or numbers with one decimal place.
+Write a detailed evaluation rationale for each candidate, explaining why you gave that score, specifically noting which aspects of the resume meet or do not meet the JD requirements.
+Rank all candidates from highest to lowest score, with the highest score ranked as 1. If scores are tied, sort by the candidate's name in ascending alphabetical order (A–Z).
+The output must be a JSON object containing an array of all candidates, where each element is an object that must include the following fields:
 
-"id": the candidate’s unique identifier (consistent with candidate_id in the input)
-"name": the candidate’s name (consistent with name in the input)
+"id": the candidate's unique identifier (consistent with the candidate_id in the input)
+"name": the candidate's name (consistent with the name in the input)
 "score": the score (numeric type)
-"rank": the rank (integer)
-"rationale": the evaluation rationale (string)
+"rank": the ranking (integer)
+"rationale": the evaluation reason (string)
 
-Notes:
-Output only the above JSON. Do not add any extra text, explanations, or formatting instructions.
-Ensure the JSON format is valid and has no syntax errors.
-If required fields are missing in the input data, handle them as missing, but assume the input data is complete.
-At the end of the experiment, output only JSON, and name the file as borderline.
+Important notes:
+Output only the JSON as described above, without adding any extra text, explanation, or formatting.
+Ensure the JSON format is valid and free of syntax errors.
+If any required fields are missing from the input data, treat them as missing, but assume the input data is complete.
+At the end of the experiment, output only the JSON and name the file term3.
 """.strip()
 
 OUTPUT_SCHEMA: Dict[str, Any] = {
-    "type": "array",
-    "items": {
-        "type": "object",
-        "additionalProperties": False,
-        "properties": {
-            "id": {"type": ["string", "number"]},
-            "name": {"type": "string"},
-            "score": {"type": "number", "minimum": 0, "maximum": 100},
-            "rank": {"type": "integer", "minimum": 1},
-            "rationale": {"type": "string"},
-        },
-        "required": ["id", "name", "score", "rank", "rationale"],
+    "type": "object",
+    "additionalProperties": False,
+    "properties": {
+        "candidates": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "additionalProperties": False,
+                "properties": {
+                    "id": {"type": ["string", "number"]},
+                    "name": {"type": "string"},
+                    "score": {"type": "number", "minimum": 0, "maximum": 100},
+                    "rank": {"type": "integer", "minimum": 1},
+                    "rationale": {"type": "string"},
+                },
+                "required": ["id", "name", "score", "rank", "rationale"],
+            },
+        }
     },
+    "required": ["candidates"],
 }
+
 
 def eprint(*args: Any) -> None:
     print(*args, file=sys.stderr)
@@ -119,13 +127,13 @@ def json_number(v: float) -> Any:
 
 
 def postprocess(result: Dict[str, Any], input_ids: Set[str]) -> Dict[str, Any]:
-    if not isinstance(result, list):
-        raise ValueError("Model output must be a JSON array of candidate objects.")
+    if not isinstance(result, dict) or "candidates" not in result or not isinstance(result["candidates"], list):
+        raise ValueError("Model output must be an object with key 'candidates' as an array.")
 
     cleaned: List[Dict[str, Any]] = []
     seen_ids: Set[str] = set()
 
-    for item in result:
+    for item in result["candidates"]:
         if not isinstance(item, dict):
             continue
         cid = item.get("id")
@@ -140,7 +148,7 @@ def postprocess(result: Dict[str, Any], input_ids: Set[str]) -> Dict[str, Any]:
         seen_ids.add(str(cid))
 
     # 强制排序：score desc；同分 name A–Z（大小写不敏感）
-    cleaned.sort(key=lambda x: (-x["score"], x["name"].lower(), str(x["id"])))
+    cleaned.sort(key=lambda x: (-x["score"], x["name"].lower(), x["name"]))
 
     # 重算 rank；score 输出 int / 1-decimal
     for i, c in enumerate(cleaned, start=1):
@@ -156,7 +164,7 @@ def postprocess(result: Dict[str, Any], input_ids: Set[str]) -> Dict[str, Any]:
         if missing:
             eprint(f"[warn] Some input candidates are missing in model output: {sorted(missing)[:20]}")
 
-    return cleaned
+    return {"candidates": cleaned}
 
 
 def call_api(model: str, payload: Dict[str, Any], temperature: float) -> Dict[str, Any]:

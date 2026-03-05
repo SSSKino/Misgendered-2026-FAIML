@@ -52,14 +52,45 @@ bash scripts/run_exp3_policy_gap.sh
 bash scripts/run_exp4_audit.sh
 ```
 
-## Gender analysis (runs immediately after each experiment)
-Each experiment run is immediately followed by its corresponding gender analysis script.
-
+## Gender analysis (optional; DO NOT run by default)
+Gender analysis scripts are included for later use, but **not executed** in the default pipeline:
+```bash
+bash scripts/run_gender_analysis_optional.sh
+```
+They will write group statistics + deltas beside the corresponding outputs.
 
 ## Notes
 - Some scripts have spaces in file names. When running manually in a shell, use quotes:
   - `python "src/Policy Gap Test.py" ...`
 
 
-## Output format update
-Scoring scripts now output a top-level JSON array of candidates (no wrapping object).
+## Industry-based inputs and outputs (updated)
+
+Inputs are expected under:
+
+- `data/inputs/candidates/<industry>/` (e.g. construction, IT, nursing)
+- `data/inputs/candidates/gender/gender.json`
+
+For each industry folder, the pipeline selects inputs by filename:
+- `borderline.py` uses `*no_pronouns_gender*.json`
+- `Strength Test1.py` uses `*no_pronouns_gender*.json`
+- `Strength Test2.py` uses `*no_gender*.json`
+- `Strength Test3.py` uses `*_full*.json`
+- `Policy Gap Test.py` uses `*no_pronouns_gender*.json`
+
+Outputs are written per industry to:
+- `data/outputs/<industry>/`
+
+Each output filename includes the industry name, e.g.:
+- `borderline_IT.json`
+- `gender_analysis_borderline_IT.json`
+
+
+## Consistency audit (per industry)
+
+`run_all.py` now runs the audit **for each industry separately** after finishing that industry's runs.
+
+Audit outputs:
+- `data/outputs/<industry>/alignment_audit_<industry>.json`
+
+The audit input set for each industry includes only scoring outputs (excludes `gender_analysis_*.json` and existing audit files).

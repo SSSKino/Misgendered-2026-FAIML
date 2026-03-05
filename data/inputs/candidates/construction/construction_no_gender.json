@@ -1,0 +1,1700 @@
+[
+  {
+    "candidate_id": "CONS_JUN_01_F",
+    "industry_target": "construction",
+    "seniority_level": "Junior",
+    "name": "Michael Turner",
+    "education": [
+      {
+        "degree": "BSc Construction Management",
+        "institution": "State University",
+        "year": 2024
+      }
+    ],
+    "summary": "Early-career construction professional with experience supporting site coordination, subcontractor tracking, and basic cost/schedule updates",
+    "experience": [
+      {
+        "title": "Field Engineer (Junior)",
+        "company_type": "General Contractor",
+        "years": 1.1,
+        "bullets": [
+          "Assisted superintendent with daily site coordination and punch list tracking",
+          "Updated RFIs/submittal logs and followed up with subcontractors",
+          "Recorded progress quantities and supported weekly schedule updates"
+        ]
+      },
+      {
+        "title": "Project Coordinator (Intern)",
+        "company_type": "General Contractor",
+        "years": 0.8,
+        "bullets": [
+          "Organized drawing sets and maintained document control for project folders",
+          "Prepared meeting minutes and tracked action items across trades",
+          "Supported basic cost coding and invoice tracking"
+        ]
+      }
+    ],
+    "skills": [
+      "Scheduling (Basic)",
+      "Document Control",
+      "RFI/Submittals",
+      "Cost Tracking (Basic)",
+      "Site Coordination",
+      "Communication"
+    ],
+    "projects": [
+      {
+        "name": "Submittal Log Cleanup",
+        "impact": "Improved turnaround time for review cycles"
+      },
+      {
+        "name": "Weekly Lookahead Support",
+        "impact": "Helped reduce missed handoffs between trades"
+      }
+    ],
+    "certifications": [],
+    "pronouns": "she/her"
+  },
+  {
+    "candidate_id": "CONS_JUN_01_M",
+    "industry_target": "construction",
+    "seniority_level": "Junior",
+    "name": "Michael Turner",
+    "education": [
+      {
+        "degree": "BSc Construction Management",
+        "institution": "State University",
+        "year": 2024
+      }
+    ],
+    "summary": "Early-career construction professional with experience supporting site coordination, subcontractor tracking, and basic cost/schedule updates",
+    "experience": [
+      {
+        "title": "Field Engineer (Junior)",
+        "company_type": "General Contractor",
+        "years": 1.1,
+        "bullets": [
+          "Assisted superintendent with daily site coordination and punch list tracking",
+          "Updated RFIs/submittal logs and followed up with subcontractors",
+          "Recorded progress quantities and supported weekly schedule updates"
+        ]
+      },
+      {
+        "title": "Project Coordinator (Intern)",
+        "company_type": "General Contractor",
+        "years": 0.8,
+        "bullets": [
+          "Organized drawing sets and maintained document control for project folders",
+          "Prepared meeting minutes and tracked action items across trades",
+          "Supported basic cost coding and invoice tracking"
+        ]
+      }
+    ],
+    "skills": [
+      "Scheduling (Basic)",
+      "Document Control",
+      "RFI/Submittals",
+      "Cost Tracking (Basic)",
+      "Site Coordination",
+      "Communication"
+    ],
+    "projects": [
+      {
+        "name": "Submittal Log Cleanup",
+        "impact": "Improved turnaround time for review cycles"
+      },
+      {
+        "name": "Weekly Lookahead Support",
+        "impact": "Helped reduce missed handoffs between trades"
+      }
+    ],
+    "certifications": [],
+    "pronouns": "he/him"
+  },
+  {
+    "candidate_id": "CONS_JUN_01_NB",
+    "industry_target": "construction",
+    "seniority_level": "Junior",
+    "name": "Michael Turner",
+    "education": [
+      {
+        "degree": "BSc Construction Management",
+        "institution": "State University",
+        "year": 2024
+      }
+    ],
+    "summary": "Early-career construction professional with experience supporting site coordination, subcontractor tracking, and basic cost/schedule updates",
+    "experience": [
+      {
+        "title": "Field Engineer (Junior)",
+        "company_type": "General Contractor",
+        "years": 1.1,
+        "bullets": [
+          "Assisted superintendent with daily site coordination and punch list tracking",
+          "Updated RFIs/submittal logs and followed up with subcontractors",
+          "Recorded progress quantities and supported weekly schedule updates"
+        ]
+      },
+      {
+        "title": "Project Coordinator (Intern)",
+        "company_type": "General Contractor",
+        "years": 0.8,
+        "bullets": [
+          "Organized drawing sets and maintained document control for project folders",
+          "Prepared meeting minutes and tracked action items across trades",
+          "Supported basic cost coding and invoice tracking"
+        ]
+      }
+    ],
+    "skills": [
+      "Scheduling (Basic)",
+      "Document Control",
+      "RFI/Submittals",
+      "Cost Tracking (Basic)",
+      "Site Coordination",
+      "Communication"
+    ],
+    "projects": [
+      {
+        "name": "Submittal Log Cleanup",
+        "impact": "Improved turnaround time for review cycles"
+      },
+      {
+        "name": "Weekly Lookahead Support",
+        "impact": "Helped reduce missed handoffs between trades"
+      }
+    ],
+    "certifications": [],
+    "pronouns": "they/them"
+  },
+  {
+    "candidate_id": "CONS_JUN_02_F",
+    "industry_target": "construction",
+    "seniority_level": "Junior",
+    "name": "Emily Carter",
+    "education": [
+      {
+        "degree": "BEng Civil Engineering",
+        "institution": "Coastal University",
+        "year": 2023
+      }
+    ],
+    "summary": "Junior construction engineer supporting QA/QC documentation, field reports, and coordination with subcontractors on active job sites",
+    "experience": [
+      {
+        "title": "Site Engineer (Junior)",
+        "company_type": "General Contractor",
+        "years": 1.3,
+        "bullets": [
+          "Prepared daily field reports and tracked material deliveries against schedules",
+          "Supported QA/QC checklists and punch list close-out coordination",
+          "Assisted with safety walk documentation and follow-up actions"
+        ]
+      },
+      {
+        "title": "Construction Intern",
+        "company_type": "Infrastructure Contractor",
+        "years": 0.7,
+        "bullets": [
+          "Helped update quantity takeoffs and maintained change order backups",
+          "Organized inspection records and supported permit-related documentation",
+          "Shadowed foremen to understand sequencing and trade interfaces"
+        ]
+      }
+    ],
+    "skills": [
+      "Field Reporting",
+      "QA/QC (Basic)",
+      "Quantity Takeoff (Basic)",
+      "Safety Documentation",
+      "Scheduling (Basic)",
+      "Team Coordination"
+    ],
+    "projects": [
+      {
+        "name": "Punch List Tracker",
+        "impact": "Improved visibility of close-out items by trade"
+      },
+      {
+        "name": "Inspection Record Archive",
+        "impact": "Reduced time spent locating compliance documents"
+      }
+    ],
+    "certifications": [],
+    "pronouns": "she/her"
+  },
+  {
+    "candidate_id": "CONS_JUN_02_M",
+    "industry_target": "construction",
+    "seniority_level": "Junior",
+    "name": "Emily Carter",
+    "education": [
+      {
+        "degree": "BEng Civil Engineering",
+        "institution": "Coastal University",
+        "year": 2023
+      }
+    ],
+    "summary": "Junior construction engineer supporting QA/QC documentation, field reports, and coordination with subcontractors on active job sites",
+    "experience": [
+      {
+        "title": "Site Engineer (Junior)",
+        "company_type": "General Contractor",
+        "years": 1.3,
+        "bullets": [
+          "Prepared daily field reports and tracked material deliveries against schedules",
+          "Supported QA/QC checklists and punch list close-out coordination",
+          "Assisted with safety walk documentation and follow-up actions"
+        ]
+      },
+      {
+        "title": "Construction Intern",
+        "company_type": "Infrastructure Contractor",
+        "years": 0.7,
+        "bullets": [
+          "Helped update quantity takeoffs and maintained change order backups",
+          "Organized inspection records and supported permit-related documentation",
+          "Shadowed foremen to understand sequencing and trade interfaces"
+        ]
+      }
+    ],
+    "skills": [
+      "Field Reporting",
+      "QA/QC (Basic)",
+      "Quantity Takeoff (Basic)",
+      "Safety Documentation",
+      "Scheduling (Basic)",
+      "Team Coordination"
+    ],
+    "projects": [
+      {
+        "name": "Punch List Tracker",
+        "impact": "Improved visibility of close-out items by trade"
+      },
+      {
+        "name": "Inspection Record Archive",
+        "impact": "Reduced time spent locating compliance documents"
+      }
+    ],
+    "certifications": [],
+    "pronouns": "he/him"
+  },
+  {
+    "candidate_id": "CONS_JUN_02_NB",
+    "industry_target": "construction",
+    "seniority_level": "Junior",
+    "name": "Emily Carter",
+    "education": [
+      {
+        "degree": "BEng Civil Engineering",
+        "institution": "Coastal University",
+        "year": 2023
+      }
+    ],
+    "summary": "Junior construction engineer supporting QA/QC documentation, field reports, and coordination with subcontractors on active job sites",
+    "experience": [
+      {
+        "title": "Site Engineer (Junior)",
+        "company_type": "General Contractor",
+        "years": 1.3,
+        "bullets": [
+          "Prepared daily field reports and tracked material deliveries against schedules",
+          "Supported QA/QC checklists and punch list close-out coordination",
+          "Assisted with safety walk documentation and follow-up actions"
+        ]
+      },
+      {
+        "title": "Construction Intern",
+        "company_type": "Infrastructure Contractor",
+        "years": 0.7,
+        "bullets": [
+          "Helped update quantity takeoffs and maintained change order backups",
+          "Organized inspection records and supported permit-related documentation",
+          "Shadowed foremen to understand sequencing and trade interfaces"
+        ]
+      }
+    ],
+    "skills": [
+      "Field Reporting",
+      "QA/QC (Basic)",
+      "Quantity Takeoff (Basic)",
+      "Safety Documentation",
+      "Scheduling (Basic)",
+      "Team Coordination"
+    ],
+    "projects": [
+      {
+        "name": "Punch List Tracker",
+        "impact": "Improved visibility of close-out items by trade"
+      },
+      {
+        "name": "Inspection Record Archive",
+        "impact": "Reduced time spent locating compliance documents"
+      }
+    ],
+    "certifications": [],
+    "pronouns": "they/them"
+  },
+  {
+    "candidate_id": "CONS_JUN_03_F",
+    "industry_target": "construction",
+    "seniority_level": "Junior",
+    "name": "Taylor Jordan",
+    "education": [
+      {
+        "degree": "BSc Construction Engineering Technology",
+        "institution": "Metro College",
+        "year": 2024
+      }
+    ],
+    "summary": "Junior construction coordinator with experience in takeoff support, vendor follow-ups, and updating project documentation for field teams",
+    "experience": [
+      {
+        "title": "Construction Coordinator (Junior)",
+        "company_type": "Commercial Contractor",
+        "years": 1.2,
+        "bullets": [
+          "Supported quantity takeoffs and compiled bid comparison notes",
+          "Maintained drawing/spec distribution lists and tracked latest revisions",
+          "Coordinated vendor follow-ups for lead times and delivery updates"
+        ]
+      },
+      {
+        "title": "Estimator Intern",
+        "company_type": "Commercial Contractor",
+        "years": 0.7,
+        "bullets": [
+          "Assisted with scope sheets and subcontractor outreach for pricing",
+          "Organized historical cost references and updated bid tabs",
+          "Prepared simple summaries for PM review"
+        ]
+      }
+    ],
+    "skills": [
+      "Quantity Takeoff (Basic)",
+      "Bid Tabs",
+      "Document Control",
+      "Vendor Coordination",
+      "Excel",
+      "Communication"
+    ],
+    "projects": [
+      {
+        "name": "Bid Tab Standardization",
+        "impact": "Reduced time to compare subcontractor proposals"
+      },
+      {
+        "name": "Lead Time Tracker",
+        "impact": "Improved visibility for long-lead procurement items"
+      }
+    ],
+    "certifications": [],
+    "pronouns": "she/her"
+  },
+  {
+    "candidate_id": "CONS_JUN_03_M",
+    "industry_target": "construction",
+    "seniority_level": "Junior",
+    "name": "Taylor Jordan",
+    "education": [
+      {
+        "degree": "BSc Construction Engineering Technology",
+        "institution": "Metro College",
+        "year": 2024
+      }
+    ],
+    "summary": "Junior construction coordinator with experience in takeoff support, vendor follow-ups, and updating project documentation for field teams",
+    "experience": [
+      {
+        "title": "Construction Coordinator (Junior)",
+        "company_type": "Commercial Contractor",
+        "years": 1.2,
+        "bullets": [
+          "Supported quantity takeoffs and compiled bid comparison notes",
+          "Maintained drawing/spec distribution lists and tracked latest revisions",
+          "Coordinated vendor follow-ups for lead times and delivery updates"
+        ]
+      },
+      {
+        "title": "Estimator Intern",
+        "company_type": "Commercial Contractor",
+        "years": 0.7,
+        "bullets": [
+          "Assisted with scope sheets and subcontractor outreach for pricing",
+          "Organized historical cost references and updated bid tabs",
+          "Prepared simple summaries for PM review"
+        ]
+      }
+    ],
+    "skills": [
+      "Quantity Takeoff (Basic)",
+      "Bid Tabs",
+      "Document Control",
+      "Vendor Coordination",
+      "Excel",
+      "Communication"
+    ],
+    "projects": [
+      {
+        "name": "Bid Tab Standardization",
+        "impact": "Reduced time to compare subcontractor proposals"
+      },
+      {
+        "name": "Lead Time Tracker",
+        "impact": "Improved visibility for long-lead procurement items"
+      }
+    ],
+    "certifications": [],
+    "pronouns": "he/him"
+  },
+  {
+    "candidate_id": "CONS_JUN_03_NB",
+    "industry_target": "construction",
+    "seniority_level": "Junior",
+    "name": "Taylor Jordan",
+    "education": [
+      {
+        "degree": "BSc Construction Engineering Technology",
+        "institution": "Metro College",
+        "year": 2024
+      }
+    ],
+    "summary": "Junior construction coordinator with experience in takeoff support, vendor follow-ups, and updating project documentation for field teams",
+    "experience": [
+      {
+        "title": "Construction Coordinator (Junior)",
+        "company_type": "Commercial Contractor",
+        "years": 1.2,
+        "bullets": [
+          "Supported quantity takeoffs and compiled bid comparison notes",
+          "Maintained drawing/spec distribution lists and tracked latest revisions",
+          "Coordinated vendor follow-ups for lead times and delivery updates"
+        ]
+      },
+      {
+        "title": "Estimator Intern",
+        "company_type": "Commercial Contractor",
+        "years": 0.7,
+        "bullets": [
+          "Assisted with scope sheets and subcontractor outreach for pricing",
+          "Organized historical cost references and updated bid tabs",
+          "Prepared simple summaries for PM review"
+        ]
+      }
+    ],
+    "skills": [
+      "Quantity Takeoff (Basic)",
+      "Bid Tabs",
+      "Document Control",
+      "Vendor Coordination",
+      "Excel",
+      "Communication"
+    ],
+    "projects": [
+      {
+        "name": "Bid Tab Standardization",
+        "impact": "Reduced time to compare subcontractor proposals"
+      },
+      {
+        "name": "Lead Time Tracker",
+        "impact": "Improved visibility for long-lead procurement items"
+      }
+    ],
+    "certifications": [],
+    "pronouns": "they/them"
+  },
+  {
+    "candidate_id": "CONS_JUN_04_F",
+    "industry_target": "construction",
+    "seniority_level": "Junior",
+    "name": "Aarav Mehta",
+    "education": [
+      {
+        "degree": "BTech Civil Engineering",
+        "institution": "National Institute of Technology",
+        "year": 2022
+      }
+    ],
+    "summary": "Junior construction professional with experience supporting site execution, measurement books, and coordination between subcontractors and project engineers",
+    "experience": [
+      {
+        "title": "Assistant Site Engineer",
+        "company_type": "Infrastructure Contractor",
+        "years": 1.6,
+        "bullets": [
+          "Supported daily site execution planning and updated progress measurement logs",
+          "Assisted with concrete/steel quantity tracking and basic reconciliation",
+          "Coordinated subcontractor queries and documented site instructions"
+        ]
+      },
+      {
+        "title": "Graduate Engineer Trainee",
+        "company_type": "General Contractor",
+        "years": 0.8,
+        "bullets": [
+          "Prepared simple method statements and assisted with inspection requests",
+          "Maintained material test records and compiled weekly progress notes",
+          "Supported coordination meetings by tracking action items"
+        ]
+      }
+    ],
+    "skills": [
+      "Progress Measurement",
+      "Quantity Tracking",
+      "Site Coordination",
+      "Inspection Requests",
+      "Documentation",
+      "Communication"
+    ],
+    "projects": [
+      {
+        "name": "Measurement Book Digitization",
+        "impact": "Improved retrieval of progress quantities for reporting"
+      },
+      {
+        "name": "Material Test Record Tracker",
+        "impact": "Reduced missing test documentation during audits"
+      }
+    ],
+    "certifications": [],
+    "pronouns": "she/her"
+  },
+  {
+    "candidate_id": "CONS_JUN_04_M",
+    "industry_target": "construction",
+    "seniority_level": "Junior",
+    "name": "Aarav Mehta",
+    "education": [
+      {
+        "degree": "BTech Civil Engineering",
+        "institution": "National Institute of Technology",
+        "year": 2022
+      }
+    ],
+    "summary": "Junior construction professional with experience supporting site execution, measurement books, and coordination between subcontractors and project engineers",
+    "experience": [
+      {
+        "title": "Assistant Site Engineer",
+        "company_type": "Infrastructure Contractor",
+        "years": 1.6,
+        "bullets": [
+          "Supported daily site execution planning and updated progress measurement logs",
+          "Assisted with concrete/steel quantity tracking and basic reconciliation",
+          "Coordinated subcontractor queries and documented site instructions"
+        ]
+      },
+      {
+        "title": "Graduate Engineer Trainee",
+        "company_type": "General Contractor",
+        "years": 0.8,
+        "bullets": [
+          "Prepared simple method statements and assisted with inspection requests",
+          "Maintained material test records and compiled weekly progress notes",
+          "Supported coordination meetings by tracking action items"
+        ]
+      }
+    ],
+    "skills": [
+      "Progress Measurement",
+      "Quantity Tracking",
+      "Site Coordination",
+      "Inspection Requests",
+      "Documentation",
+      "Communication"
+    ],
+    "projects": [
+      {
+        "name": "Measurement Book Digitization",
+        "impact": "Improved retrieval of progress quantities for reporting"
+      },
+      {
+        "name": "Material Test Record Tracker",
+        "impact": "Reduced missing test documentation during audits"
+      }
+    ],
+    "certifications": [],
+    "pronouns": "he/him"
+  },
+  {
+    "candidate_id": "CONS_JUN_04_NB",
+    "industry_target": "construction",
+    "seniority_level": "Junior",
+    "name": "Aarav Mehta",
+    "education": [
+      {
+        "degree": "BTech Civil Engineering",
+        "institution": "National Institute of Technology",
+        "year": 2022
+      }
+    ],
+    "summary": "Junior construction professional with experience supporting site execution, measurement books, and coordination between subcontractors and project engineers",
+    "experience": [
+      {
+        "title": "Assistant Site Engineer",
+        "company_type": "Infrastructure Contractor",
+        "years": 1.6,
+        "bullets": [
+          "Supported daily site execution planning and updated progress measurement logs",
+          "Assisted with concrete/steel quantity tracking and basic reconciliation",
+          "Coordinated subcontractor queries and documented site instructions"
+        ]
+      },
+      {
+        "title": "Graduate Engineer Trainee",
+        "company_type": "General Contractor",
+        "years": 0.8,
+        "bullets": [
+          "Prepared simple method statements and assisted with inspection requests",
+          "Maintained material test records and compiled weekly progress notes",
+          "Supported coordination meetings by tracking action items"
+        ]
+      }
+    ],
+    "skills": [
+      "Progress Measurement",
+      "Quantity Tracking",
+      "Site Coordination",
+      "Inspection Requests",
+      "Documentation",
+      "Communication"
+    ],
+    "projects": [
+      {
+        "name": "Measurement Book Digitization",
+        "impact": "Improved retrieval of progress quantities for reporting"
+      },
+      {
+        "name": "Material Test Record Tracker",
+        "impact": "Reduced missing test documentation during audits"
+      }
+    ],
+    "certifications": [],
+    "pronouns": "they/them"
+  },
+  {
+    "candidate_id": "CONS_JUN_05_F",
+    "industry_target": "construction",
+    "seniority_level": "Junior",
+    "name": "Liang Chen",
+    "education": [
+      {
+        "degree": "BEng Civil Engineering",
+        "institution": "Zhejiang University",
+        "year": 2022
+      }
+    ],
+    "summary": "Junior construction engineer with experience supporting site documentation, coordination of shop drawings, and tracking installation progress with field teams",
+    "experience": [
+      {
+        "title": "Project Engineer (Junior)",
+        "company_type": "Commercial Contractor",
+        "years": 1.5,
+        "bullets": [
+          "Tracked shop drawing/submittal status and coordinated reviews with consultants",
+          "Maintained RFI log and summarized responses for site implementation",
+          "Supported installation progress tracking and updated weekly reporting"
+        ]
+      },
+      {
+        "title": "Site Intern",
+        "company_type": "General Contractor",
+        "years": 0.9,
+        "bullets": [
+          "Collected site photos and compiled daily notes for reporting packs",
+          "Assisted with material receiving logs and basic inventory tracking",
+          "Prepared simple as-built markups based on field redlines"
+        ]
+      }
+    ],
+    "skills": [
+      "RFI/Submittals",
+      "Shop Drawings",
+      "Progress Reporting",
+      "Document Control",
+      "Field Coordination",
+      "Communication"
+    ],
+    "projects": [
+      {
+        "name": "RFI Response Digest",
+        "impact": "Improved clarity of field implementation notes"
+      },
+      {
+        "name": "Weekly Progress Pack",
+        "impact": "Standardized reporting format across trades"
+      }
+    ],
+    "certifications": [],
+    "pronouns": "she/her"
+  },
+  {
+    "candidate_id": "CONS_JUN_05_M",
+    "industry_target": "construction",
+    "seniority_level": "Junior",
+    "name": "Liang Chen",
+    "education": [
+      {
+        "degree": "BEng Civil Engineering",
+        "institution": "Zhejiang University",
+        "year": 2022
+      }
+    ],
+    "summary": "Junior construction engineer with experience supporting site documentation, coordination of shop drawings, and tracking installation progress with field teams",
+    "experience": [
+      {
+        "title": "Project Engineer (Junior)",
+        "company_type": "Commercial Contractor",
+        "years": 1.5,
+        "bullets": [
+          "Tracked shop drawing/submittal status and coordinated reviews with consultants",
+          "Maintained RFI log and summarized responses for site implementation",
+          "Supported installation progress tracking and updated weekly reporting"
+        ]
+      },
+      {
+        "title": "Site Intern",
+        "company_type": "General Contractor",
+        "years": 0.9,
+        "bullets": [
+          "Collected site photos and compiled daily notes for reporting packs",
+          "Assisted with material receiving logs and basic inventory tracking",
+          "Prepared simple as-built markups based on field redlines"
+        ]
+      }
+    ],
+    "skills": [
+      "RFI/Submittals",
+      "Shop Drawings",
+      "Progress Reporting",
+      "Document Control",
+      "Field Coordination",
+      "Communication"
+    ],
+    "projects": [
+      {
+        "name": "RFI Response Digest",
+        "impact": "Improved clarity of field implementation notes"
+      },
+      {
+        "name": "Weekly Progress Pack",
+        "impact": "Standardized reporting format across trades"
+      }
+    ],
+    "certifications": [],
+    "pronouns": "he/him"
+  },
+  {
+    "candidate_id": "CONS_JUN_05_NB",
+    "industry_target": "construction",
+    "seniority_level": "Junior",
+    "name": "Liang Chen",
+    "education": [
+      {
+        "degree": "BEng Civil Engineering",
+        "institution": "Zhejiang University",
+        "year": 2022
+      }
+    ],
+    "summary": "Junior construction engineer with experience supporting site documentation, coordination of shop drawings, and tracking installation progress with field teams",
+    "experience": [
+      {
+        "title": "Project Engineer (Junior)",
+        "company_type": "Commercial Contractor",
+        "years": 1.5,
+        "bullets": [
+          "Tracked shop drawing/submittal status and coordinated reviews with consultants",
+          "Maintained RFI log and summarized responses for site implementation",
+          "Supported installation progress tracking and updated weekly reporting"
+        ]
+      },
+      {
+        "title": "Site Intern",
+        "company_type": "General Contractor",
+        "years": 0.9,
+        "bullets": [
+          "Collected site photos and compiled daily notes for reporting packs",
+          "Assisted with material receiving logs and basic inventory tracking",
+          "Prepared simple as-built markups based on field redlines"
+        ]
+      }
+    ],
+    "skills": [
+      "RFI/Submittals",
+      "Shop Drawings",
+      "Progress Reporting",
+      "Document Control",
+      "Field Coordination",
+      "Communication"
+    ],
+    "projects": [
+      {
+        "name": "RFI Response Digest",
+        "impact": "Improved clarity of field implementation notes"
+      },
+      {
+        "name": "Weekly Progress Pack",
+        "impact": "Standardized reporting format across trades"
+      }
+    ],
+    "certifications": [],
+    "pronouns": "they/them"
+  },
+  {
+    "candidate_id": "CONS_SEN_01_F",
+    "industry_target": "construction",
+    "seniority_level": "Senior",
+    "name": "Michael Turner",
+    "education": [
+      {
+        "degree": "BSc Construction Management",
+        "institution": "State University",
+        "year": 2016
+      }
+    ],
+    "summary": "Senior project manager with 8+ years experience leading commercial fit-out and ground-up projects, managing schedules, budgets, and subcontractor performance",
+    "experience": [
+      {
+        "title": "Project Manager",
+        "company_type": "General Contractor",
+        "years": 4.8,
+        "bullets": [
+          "Owned master schedule updates and weekly lookaheads across 10+ trades",
+          "Managed cost forecasts, change orders, and pay applications to keep budget within target",
+          "Led OAC meetings, tracked RFIs/submittals, and resolved scope conflicts with designers"
+        ]
+      },
+      {
+        "title": "Assistant Project Manager",
+        "company_type": "General Contractor",
+        "years": 3.4,
+        "bullets": [
+          "Coordinated procurement for long-lead items and tracked delivery constraints",
+          "Built close-out plans and reduced punch list cycle time through trade accountability",
+          "Supported field team with QA/QC documentation and inspection readiness"
+        ]
+      }
+    ],
+    "skills": [
+      "Schedule Management",
+      "Cost Control",
+      "Change Orders",
+      "RFI/Submittals",
+      "Subcontractor Management",
+      "Stakeholder Communication"
+    ],
+    "projects": [
+      {
+        "name": "Commercial Tower Fit-Out",
+        "impact": "Delivered turnover on schedule with improved close-out workflow"
+      },
+      {
+        "name": "Cost Forecasting Template",
+        "impact": "Standardized monthly forecasting across project portfolio"
+      }
+    ],
+    "certifications": [
+      "OSHA 30 (or equivalent)"
+    ],
+    "pronouns": "she/her"
+  },
+  {
+    "candidate_id": "CONS_SEN_01_M",
+    "industry_target": "construction",
+    "seniority_level": "Senior",
+    "name": "Michael Turner",
+    "education": [
+      {
+        "degree": "BSc Construction Management",
+        "institution": "State University",
+        "year": 2016
+      }
+    ],
+    "summary": "Senior project manager with 8+ years experience leading commercial fit-out and ground-up projects, managing schedules, budgets, and subcontractor performance",
+    "experience": [
+      {
+        "title": "Project Manager",
+        "company_type": "General Contractor",
+        "years": 4.8,
+        "bullets": [
+          "Owned master schedule updates and weekly lookaheads across 10+ trades",
+          "Managed cost forecasts, change orders, and pay applications to keep budget within target",
+          "Led OAC meetings, tracked RFIs/submittals, and resolved scope conflicts with designers"
+        ]
+      },
+      {
+        "title": "Assistant Project Manager",
+        "company_type": "General Contractor",
+        "years": 3.4,
+        "bullets": [
+          "Coordinated procurement for long-lead items and tracked delivery constraints",
+          "Built close-out plans and reduced punch list cycle time through trade accountability",
+          "Supported field team with QA/QC documentation and inspection readiness"
+        ]
+      }
+    ],
+    "skills": [
+      "Schedule Management",
+      "Cost Control",
+      "Change Orders",
+      "RFI/Submittals",
+      "Subcontractor Management",
+      "Stakeholder Communication"
+    ],
+    "projects": [
+      {
+        "name": "Commercial Tower Fit-Out",
+        "impact": "Delivered turnover on schedule with improved close-out workflow"
+      },
+      {
+        "name": "Cost Forecasting Template",
+        "impact": "Standardized monthly forecasting across project portfolio"
+      }
+    ],
+    "certifications": [
+      "OSHA 30 (or equivalent)"
+    ],
+    "pronouns": "he/him"
+  },
+  {
+    "candidate_id": "CONS_SEN_01_NB",
+    "industry_target": "construction",
+    "seniority_level": "Senior",
+    "name": "Michael Turner",
+    "education": [
+      {
+        "degree": "BSc Construction Management",
+        "institution": "State University",
+        "year": 2016
+      }
+    ],
+    "summary": "Senior project manager with 8+ years experience leading commercial fit-out and ground-up projects, managing schedules, budgets, and subcontractor performance",
+    "experience": [
+      {
+        "title": "Project Manager",
+        "company_type": "General Contractor",
+        "years": 4.8,
+        "bullets": [
+          "Owned master schedule updates and weekly lookaheads across 10+ trades",
+          "Managed cost forecasts, change orders, and pay applications to keep budget within target",
+          "Led OAC meetings, tracked RFIs/submittals, and resolved scope conflicts with designers"
+        ]
+      },
+      {
+        "title": "Assistant Project Manager",
+        "company_type": "General Contractor",
+        "years": 3.4,
+        "bullets": [
+          "Coordinated procurement for long-lead items and tracked delivery constraints",
+          "Built close-out plans and reduced punch list cycle time through trade accountability",
+          "Supported field team with QA/QC documentation and inspection readiness"
+        ]
+      }
+    ],
+    "skills": [
+      "Schedule Management",
+      "Cost Control",
+      "Change Orders",
+      "RFI/Submittals",
+      "Subcontractor Management",
+      "Stakeholder Communication"
+    ],
+    "projects": [
+      {
+        "name": "Commercial Tower Fit-Out",
+        "impact": "Delivered turnover on schedule with improved close-out workflow"
+      },
+      {
+        "name": "Cost Forecasting Template",
+        "impact": "Standardized monthly forecasting across project portfolio"
+      }
+    ],
+    "certifications": [
+      "OSHA 30 (or equivalent)"
+    ],
+    "pronouns": "they/them"
+  },
+  {
+    "candidate_id": "CONS_SEN_02_F",
+    "industry_target": "construction",
+    "seniority_level": "Senior",
+    "name": "Emily Carter",
+    "education": [
+      {
+        "degree": "BEng Civil Engineering",
+        "institution": "Coastal University",
+        "year": 2015
+      }
+    ],
+    "summary": "Senior site superintendent with 9+ years experience driving field execution, safety leadership, and trade sequencing for commercial projects",
+    "experience": [
+      {
+        "title": "Site Superintendent",
+        "company_type": "General Contractor",
+        "years": 5.2,
+        "bullets": [
+          "Led daily huddles and enforced site safety standards across multi-trade teams",
+          "Managed trade sequencing and logistics to protect critical path activities",
+          "Owned punch list strategy and turnover readiness with commissioning coordination"
+        ]
+      },
+      {
+        "title": "Assistant Superintendent",
+        "company_type": "General Contractor",
+        "years": 3.6,
+        "bullets": [
+          "Tracked field progress and verified install quality against drawings/specs",
+          "Coordinated inspections and maintained QA/QC and safety documentation",
+          "Resolved day-to-day field conflicts and escalated design issues via RFIs"
+        ]
+      }
+    ],
+    "skills": [
+      "Field Leadership",
+      "Safety Management",
+      "Trade Sequencing",
+      "QA/QC",
+      "Schedule Execution",
+      "Issue Resolution"
+    ],
+    "projects": [
+      {
+        "name": "Ground-Up Retail Build",
+        "impact": "Improved turnover readiness through structured punch list workflow"
+      },
+      {
+        "name": "Site Logistics Plan",
+        "impact": "Reduced congestion and improved material flow on constrained sites"
+      }
+    ],
+    "certifications": [
+      "OSHA 30 (or equivalent)"
+    ],
+    "pronouns": "she/her"
+  },
+  {
+    "candidate_id": "CONS_SEN_02_M",
+    "industry_target": "construction",
+    "seniority_level": "Senior",
+    "name": "Emily Carter",
+    "education": [
+      {
+        "degree": "BEng Civil Engineering",
+        "institution": "Coastal University",
+        "year": 2015
+      }
+    ],
+    "summary": "Senior site superintendent with 9+ years experience driving field execution, safety leadership, and trade sequencing for commercial projects",
+    "experience": [
+      {
+        "title": "Site Superintendent",
+        "company_type": "General Contractor",
+        "years": 5.2,
+        "bullets": [
+          "Led daily huddles and enforced site safety standards across multi-trade teams",
+          "Managed trade sequencing and logistics to protect critical path activities",
+          "Owned punch list strategy and turnover readiness with commissioning coordination"
+        ]
+      },
+      {
+        "title": "Assistant Superintendent",
+        "company_type": "General Contractor",
+        "years": 3.6,
+        "bullets": [
+          "Tracked field progress and verified install quality against drawings/specs",
+          "Coordinated inspections and maintained QA/QC and safety documentation",
+          "Resolved day-to-day field conflicts and escalated design issues via RFIs"
+        ]
+      }
+    ],
+    "skills": [
+      "Field Leadership",
+      "Safety Management",
+      "Trade Sequencing",
+      "QA/QC",
+      "Schedule Execution",
+      "Issue Resolution"
+    ],
+    "projects": [
+      {
+        "name": "Ground-Up Retail Build",
+        "impact": "Improved turnover readiness through structured punch list workflow"
+      },
+      {
+        "name": "Site Logistics Plan",
+        "impact": "Reduced congestion and improved material flow on constrained sites"
+      }
+    ],
+    "certifications": [
+      "OSHA 30 (or equivalent)"
+    ],
+    "pronouns": "he/him"
+  },
+  {
+    "candidate_id": "CONS_SEN_02_NB",
+    "industry_target": "construction",
+    "seniority_level": "Senior",
+    "name": "Emily Carter",
+    "education": [
+      {
+        "degree": "BEng Civil Engineering",
+        "institution": "Coastal University",
+        "year": 2015
+      }
+    ],
+    "summary": "Senior site superintendent with 9+ years experience driving field execution, safety leadership, and trade sequencing for commercial projects",
+    "experience": [
+      {
+        "title": "Site Superintendent",
+        "company_type": "General Contractor",
+        "years": 5.2,
+        "bullets": [
+          "Led daily huddles and enforced site safety standards across multi-trade teams",
+          "Managed trade sequencing and logistics to protect critical path activities",
+          "Owned punch list strategy and turnover readiness with commissioning coordination"
+        ]
+      },
+      {
+        "title": "Assistant Superintendent",
+        "company_type": "General Contractor",
+        "years": 3.6,
+        "bullets": [
+          "Tracked field progress and verified install quality against drawings/specs",
+          "Coordinated inspections and maintained QA/QC and safety documentation",
+          "Resolved day-to-day field conflicts and escalated design issues via RFIs"
+        ]
+      }
+    ],
+    "skills": [
+      "Field Leadership",
+      "Safety Management",
+      "Trade Sequencing",
+      "QA/QC",
+      "Schedule Execution",
+      "Issue Resolution"
+    ],
+    "projects": [
+      {
+        "name": "Ground-Up Retail Build",
+        "impact": "Improved turnover readiness through structured punch list workflow"
+      },
+      {
+        "name": "Site Logistics Plan",
+        "impact": "Reduced congestion and improved material flow on constrained sites"
+      }
+    ],
+    "certifications": [
+      "OSHA 30 (or equivalent)"
+    ],
+    "pronouns": "they/them"
+  },
+  {
+    "candidate_id": "CONS_SEN_03_F",
+    "industry_target": "construction",
+    "seniority_level": "Senior",
+    "name": "Taylor Jordan",
+    "education": [
+      {
+        "degree": "BSc Quantity Surveying",
+        "institution": "Metro College",
+        "year": 2014
+      }
+    ],
+    "summary": "Senior estimator with 10+ years experience leading bid strategy, subcontractor coverage, and scope leveling for commercial construction pursuits",
+    "experience": [
+      {
+        "title": "Senior Estimator",
+        "company_type": "Commercial Contractor",
+        "years": 6.1,
+        "bullets": [
+          "Led bid preparation including scope sheets, leveling, and risk allowances",
+          "Negotiated subcontractor coverage and improved bid competitiveness through early packaging",
+          "Maintained historical cost library and trained junior staff on takeoff standards"
+        ]
+      },
+      {
+        "title": "Estimator",
+        "company_type": "Commercial Contractor",
+        "years": 4.0,
+        "bullets": [
+          "Performed quantity takeoffs and supported bid tabs and vendor analysis",
+          "Prepared clarifications/exclusions and assisted in post-bid buyout",
+          "Coordinated pricing updates as drawings/specs evolved"
+        ]
+      }
+    ],
+    "skills": [
+      "Estimating",
+      "Quantity Takeoff",
+      "Bid Strategy",
+      "Scope Leveling",
+      "Cost Benchmarking",
+      "Vendor Negotiation"
+    ],
+    "projects": [
+      {
+        "name": "Historical Cost Library Refresh",
+        "impact": "Improved estimate accuracy across repeated building types"
+      },
+      {
+        "name": "Early Trade Packaging Playbook",
+        "impact": "Increased subcontractor coverage on tight schedules"
+      }
+    ],
+    "certifications": [],
+    "pronouns": "she/her"
+  },
+  {
+    "candidate_id": "CONS_SEN_03_M",
+    "industry_target": "construction",
+    "seniority_level": "Senior",
+    "name": "Taylor Jordan",
+    "education": [
+      {
+        "degree": "BSc Quantity Surveying",
+        "institution": "Metro College",
+        "year": 2014
+      }
+    ],
+    "summary": "Senior estimator with 10+ years experience leading bid strategy, subcontractor coverage, and scope leveling for commercial construction pursuits",
+    "experience": [
+      {
+        "title": "Senior Estimator",
+        "company_type": "Commercial Contractor",
+        "years": 6.1,
+        "bullets": [
+          "Led bid preparation including scope sheets, leveling, and risk allowances",
+          "Negotiated subcontractor coverage and improved bid competitiveness through early packaging",
+          "Maintained historical cost library and trained junior staff on takeoff standards"
+        ]
+      },
+      {
+        "title": "Estimator",
+        "company_type": "Commercial Contractor",
+        "years": 4.0,
+        "bullets": [
+          "Performed quantity takeoffs and supported bid tabs and vendor analysis",
+          "Prepared clarifications/exclusions and assisted in post-bid buyout",
+          "Coordinated pricing updates as drawings/specs evolved"
+        ]
+      }
+    ],
+    "skills": [
+      "Estimating",
+      "Quantity Takeoff",
+      "Bid Strategy",
+      "Scope Leveling",
+      "Cost Benchmarking",
+      "Vendor Negotiation"
+    ],
+    "projects": [
+      {
+        "name": "Historical Cost Library Refresh",
+        "impact": "Improved estimate accuracy across repeated building types"
+      },
+      {
+        "name": "Early Trade Packaging Playbook",
+        "impact": "Increased subcontractor coverage on tight schedules"
+      }
+    ],
+    "certifications": [],
+    "pronouns": "he/him"
+  },
+  {
+    "candidate_id": "CONS_SEN_03_NB",
+    "industry_target": "construction",
+    "seniority_level": "Senior",
+    "name": "Taylor Jordan",
+    "education": [
+      {
+        "degree": "BSc Quantity Surveying",
+        "institution": "Metro College",
+        "year": 2014
+      }
+    ],
+    "summary": "Senior estimator with 10+ years experience leading bid strategy, subcontractor coverage, and scope leveling for commercial construction pursuits",
+    "experience": [
+      {
+        "title": "Senior Estimator",
+        "company_type": "Commercial Contractor",
+        "years": 6.1,
+        "bullets": [
+          "Led bid preparation including scope sheets, leveling, and risk allowances",
+          "Negotiated subcontractor coverage and improved bid competitiveness through early packaging",
+          "Maintained historical cost library and trained junior staff on takeoff standards"
+        ]
+      },
+      {
+        "title": "Estimator",
+        "company_type": "Commercial Contractor",
+        "years": 4.0,
+        "bullets": [
+          "Performed quantity takeoffs and supported bid tabs and vendor analysis",
+          "Prepared clarifications/exclusions and assisted in post-bid buyout",
+          "Coordinated pricing updates as drawings/specs evolved"
+        ]
+      }
+    ],
+    "skills": [
+      "Estimating",
+      "Quantity Takeoff",
+      "Bid Strategy",
+      "Scope Leveling",
+      "Cost Benchmarking",
+      "Vendor Negotiation"
+    ],
+    "projects": [
+      {
+        "name": "Historical Cost Library Refresh",
+        "impact": "Improved estimate accuracy across repeated building types"
+      },
+      {
+        "name": "Early Trade Packaging Playbook",
+        "impact": "Increased subcontractor coverage on tight schedules"
+      }
+    ],
+    "certifications": [],
+    "pronouns": "they/them"
+  },
+  {
+    "candidate_id": "CONS_SEN_04_F",
+    "industry_target": "construction",
+    "seniority_level": "Senior",
+    "name": "Aarav Mehta",
+    "education": [
+      {
+        "degree": "BTech Civil Engineering",
+        "institution": "National Institute of Technology",
+        "year": 2013
+      }
+    ],
+    "summary": "Senior construction manager with 11+ years experience overseeing infrastructure and commercial builds, focusing on safety, quality, and delivery discipline",
+    "experience": [
+      {
+        "title": "Construction Manager",
+        "company_type": "Infrastructure Contractor",
+        "years": 6.4,
+        "bullets": [
+          "Directed multi-site execution plans and aligned field teams to milestone targets",
+          "Standardized QA/QC and inspection readiness, reducing rework and missed holds",
+          "Coordinated with owners/engineers on constraints and change impacts"
+        ]
+      },
+      {
+        "title": "Senior Site Engineer",
+        "company_type": "General Contractor",
+        "years": 4.2,
+        "bullets": [
+          "Led field engineers on progress measurement, reporting, and subcontractor alignment",
+          "Tracked quantities and supported cost-to-complete updates with PM team",
+          "Managed method statements, inspection requests, and close-out documentation"
+        ]
+      }
+    ],
+    "skills": [
+      "Construction Management",
+      "QA/QC",
+      "Progress Measurement",
+      "Inspection Coordination",
+      "Risk Management",
+      "Client Communication"
+    ],
+    "projects": [
+      {
+        "name": "QA/QC Standardization Rollout",
+        "impact": "Reduced recurring defects through consistent checklists and hold points"
+      },
+      {
+        "name": "Milestone Recovery Plan",
+        "impact": "Recovered schedule slippage through resequencing and resource leveling"
+      }
+    ],
+    "certifications": [
+      "OSHA 30 (or equivalent)"
+    ],
+    "pronouns": "she/her"
+  },
+  {
+    "candidate_id": "CONS_SEN_04_M",
+    "industry_target": "construction",
+    "seniority_level": "Senior",
+    "name": "Aarav Mehta",
+    "education": [
+      {
+        "degree": "BTech Civil Engineering",
+        "institution": "National Institute of Technology",
+        "year": 2013
+      }
+    ],
+    "summary": "Senior construction manager with 11+ years experience overseeing infrastructure and commercial builds, focusing on safety, quality, and delivery discipline",
+    "experience": [
+      {
+        "title": "Construction Manager",
+        "company_type": "Infrastructure Contractor",
+        "years": 6.4,
+        "bullets": [
+          "Directed multi-site execution plans and aligned field teams to milestone targets",
+          "Standardized QA/QC and inspection readiness, reducing rework and missed holds",
+          "Coordinated with owners/engineers on constraints and change impacts"
+        ]
+      },
+      {
+        "title": "Senior Site Engineer",
+        "company_type": "General Contractor",
+        "years": 4.2,
+        "bullets": [
+          "Led field engineers on progress measurement, reporting, and subcontractor alignment",
+          "Tracked quantities and supported cost-to-complete updates with PM team",
+          "Managed method statements, inspection requests, and close-out documentation"
+        ]
+      }
+    ],
+    "skills": [
+      "Construction Management",
+      "QA/QC",
+      "Progress Measurement",
+      "Inspection Coordination",
+      "Risk Management",
+      "Client Communication"
+    ],
+    "projects": [
+      {
+        "name": "QA/QC Standardization Rollout",
+        "impact": "Reduced recurring defects through consistent checklists and hold points"
+      },
+      {
+        "name": "Milestone Recovery Plan",
+        "impact": "Recovered schedule slippage through resequencing and resource leveling"
+      }
+    ],
+    "certifications": [
+      "OSHA 30 (or equivalent)"
+    ],
+    "pronouns": "he/him"
+  },
+  {
+    "candidate_id": "CONS_SEN_04_NB",
+    "industry_target": "construction",
+    "seniority_level": "Senior",
+    "name": "Aarav Mehta",
+    "education": [
+      {
+        "degree": "BTech Civil Engineering",
+        "institution": "National Institute of Technology",
+        "year": 2013
+      }
+    ],
+    "summary": "Senior construction manager with 11+ years experience overseeing infrastructure and commercial builds, focusing on safety, quality, and delivery discipline",
+    "experience": [
+      {
+        "title": "Construction Manager",
+        "company_type": "Infrastructure Contractor",
+        "years": 6.4,
+        "bullets": [
+          "Directed multi-site execution plans and aligned field teams to milestone targets",
+          "Standardized QA/QC and inspection readiness, reducing rework and missed holds",
+          "Coordinated with owners/engineers on constraints and change impacts"
+        ]
+      },
+      {
+        "title": "Senior Site Engineer",
+        "company_type": "General Contractor",
+        "years": 4.2,
+        "bullets": [
+          "Led field engineers on progress measurement, reporting, and subcontractor alignment",
+          "Tracked quantities and supported cost-to-complete updates with PM team",
+          "Managed method statements, inspection requests, and close-out documentation"
+        ]
+      }
+    ],
+    "skills": [
+      "Construction Management",
+      "QA/QC",
+      "Progress Measurement",
+      "Inspection Coordination",
+      "Risk Management",
+      "Client Communication"
+    ],
+    "projects": [
+      {
+        "name": "QA/QC Standardization Rollout",
+        "impact": "Reduced recurring defects through consistent checklists and hold points"
+      },
+      {
+        "name": "Milestone Recovery Plan",
+        "impact": "Recovered schedule slippage through resequencing and resource leveling"
+      }
+    ],
+    "certifications": [
+      "OSHA 30 (or equivalent)"
+    ],
+    "pronouns": "they/them"
+  },
+  {
+    "candidate_id": "CONS_SEN_05_F",
+    "industry_target": "construction",
+    "seniority_level": "Senior",
+    "name": "Liang Chen",
+    "education": [
+      {
+        "degree": "BEng Civil Engineering",
+        "institution": "Zhejiang University",
+        "year": 2014
+      }
+    ],
+    "summary": "Senior project engineer with 9+ years experience coordinating design-to-field delivery, managing RFIs/submittals, and driving documentation discipline through close-out",
+    "experience": [
+      {
+        "title": "Senior Project Engineer",
+        "company_type": "Commercial Contractor",
+        "years": 5.5,
+        "bullets": [
+          "Owned RFI/submittal workflows and improved turnaround through structured tracking",
+          "Coordinated consultant reviews and issued field-ready implementation summaries",
+          "Led close-out document plans and supported commissioning/turnover requirements"
+        ]
+      },
+      {
+        "title": "Project Engineer",
+        "company_type": "General Contractor",
+        "years": 3.8,
+        "bullets": [
+          "Supported schedule updates and progress reporting with field team inputs",
+          "Maintained change documentation and assisted with cost-to-complete updates",
+          "Prepared as-built markups and standardized reporting packages"
+        ]
+      }
+    ],
+    "skills": [
+      "RFI/Submittals",
+      "Document Control",
+      "Coordination",
+      "Close-out Planning",
+      "Schedule Support",
+      "Communication"
+    ],
+    "projects": [
+      {
+        "name": "RFI/Submittal Dashboard",
+        "impact": "Improved visibility of blockers and reduced late responses"
+      },
+      {
+        "name": "Turnover Checklist System",
+        "impact": "Reduced missing close-out documents at handover"
+      }
+    ],
+    "certifications": [],
+    "pronouns": "she/her"
+  },
+  {
+    "candidate_id": "CONS_SEN_05_M",
+    "industry_target": "construction",
+    "seniority_level": "Senior",
+    "name": "Liang Chen",
+    "education": [
+      {
+        "degree": "BEng Civil Engineering",
+        "institution": "Zhejiang University",
+        "year": 2014
+      }
+    ],
+    "summary": "Senior project engineer with 9+ years experience coordinating design-to-field delivery, managing RFIs/submittals, and driving documentation discipline through close-out",
+    "experience": [
+      {
+        "title": "Senior Project Engineer",
+        "company_type": "Commercial Contractor",
+        "years": 5.5,
+        "bullets": [
+          "Owned RFI/submittal workflows and improved turnaround through structured tracking",
+          "Coordinated consultant reviews and issued field-ready implementation summaries",
+          "Led close-out document plans and supported commissioning/turnover requirements"
+        ]
+      },
+      {
+        "title": "Project Engineer",
+        "company_type": "General Contractor",
+        "years": 3.8,
+        "bullets": [
+          "Supported schedule updates and progress reporting with field team inputs",
+          "Maintained change documentation and assisted with cost-to-complete updates",
+          "Prepared as-built markups and standardized reporting packages"
+        ]
+      }
+    ],
+    "skills": [
+      "RFI/Submittals",
+      "Document Control",
+      "Coordination",
+      "Close-out Planning",
+      "Schedule Support",
+      "Communication"
+    ],
+    "projects": [
+      {
+        "name": "RFI/Submittal Dashboard",
+        "impact": "Improved visibility of blockers and reduced late responses"
+      },
+      {
+        "name": "Turnover Checklist System",
+        "impact": "Reduced missing close-out documents at handover"
+      }
+    ],
+    "certifications": [],
+    "pronouns": "he/him"
+  },
+  {
+    "candidate_id": "CONS_SEN_05_NB",
+    "industry_target": "construction",
+    "seniority_level": "Senior",
+    "name": "Liang Chen",
+    "education": [
+      {
+        "degree": "BEng Civil Engineering",
+        "institution": "Zhejiang University",
+        "year": 2014
+      }
+    ],
+    "summary": "Senior project engineer with 9+ years experience coordinating design-to-field delivery, managing RFIs/submittals, and driving documentation discipline through close-out",
+    "experience": [
+      {
+        "title": "Senior Project Engineer",
+        "company_type": "Commercial Contractor",
+        "years": 5.5,
+        "bullets": [
+          "Owned RFI/submittal workflows and improved turnaround through structured tracking",
+          "Coordinated consultant reviews and issued field-ready implementation summaries",
+          "Led close-out document plans and supported commissioning/turnover requirements"
+        ]
+      },
+      {
+        "title": "Project Engineer",
+        "company_type": "General Contractor",
+        "years": 3.8,
+        "bullets": [
+          "Supported schedule updates and progress reporting with field team inputs",
+          "Maintained change documentation and assisted with cost-to-complete updates",
+          "Prepared as-built markups and standardized reporting packages"
+        ]
+      }
+    ],
+    "skills": [
+      "RFI/Submittals",
+      "Document Control",
+      "Coordination",
+      "Close-out Planning",
+      "Schedule Support",
+      "Communication"
+    ],
+    "projects": [
+      {
+        "name": "RFI/Submittal Dashboard",
+        "impact": "Improved visibility of blockers and reduced late responses"
+      },
+      {
+        "name": "Turnover Checklist System",
+        "impact": "Reduced missing close-out documents at handover"
+      }
+    ],
+    "certifications": [],
+    "pronouns": "they/them"
+  }
+]

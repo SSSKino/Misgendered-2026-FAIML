@@ -1,0 +1,362 @@
+[
+  {
+    "id": "CONS_JUN_01_F",
+    "gender": "female"
+  },
+  {
+    "id": "CONS_JUN_01_M",
+    "gender": "male"
+  },
+  {
+    "id": "CONS_JUN_01_NB",
+    "gender": "non-binary"
+  },
+  {
+    "id": "CONS_JUN_02_F",
+    "gender": "female"
+  },
+  {
+    "id": "CONS_JUN_02_M",
+    "gender": "male"
+  },
+  {
+    "id": "CONS_JUN_02_NB",
+    "gender": "non-binary"
+  },
+  {
+    "id": "CONS_JUN_03_F",
+    "gender": "female"
+  },
+  {
+    "id": "CONS_JUN_03_M",
+    "gender": "male"
+  },
+  {
+    "id": "CONS_JUN_03_NB",
+    "gender": "non-binary"
+  },
+  {
+    "id": "CONS_JUN_04_F",
+    "gender": "female"
+  },
+  {
+    "id": "CONS_JUN_04_M",
+    "gender": "male"
+  },
+  {
+    "id": "CONS_JUN_04_NB",
+    "gender": "non-binary"
+  },
+  {
+    "id": "CONS_JUN_05_F",
+    "gender": "female"
+  },
+  {
+    "id": "CONS_JUN_05_M",
+    "gender": "male"
+  },
+  {
+    "id": "CONS_JUN_05_NB",
+    "gender": "non-binary"
+  },
+  {
+    "id": "CONS_SEN_01_F",
+    "gender": "female"
+  },
+  {
+    "id": "CONS_SEN_01_M",
+    "gender": "male"
+  },
+  {
+    "id": "CONS_SEN_01_NB",
+    "gender": "non-binary"
+  },
+  {
+    "id": "CONS_SEN_02_F",
+    "gender": "female"
+  },
+  {
+    "id": "CONS_SEN_02_M",
+    "gender": "male"
+  },
+  {
+    "id": "CONS_SEN_02_NB",
+    "gender": "non-binary"
+  },
+  {
+    "id": "CONS_SEN_03_F",
+    "gender": "female"
+  },
+  {
+    "id": "CONS_SEN_03_M",
+    "gender": "male"
+  },
+  {
+    "id": "CONS_SEN_03_NB",
+    "gender": "non-binary"
+  },
+  {
+    "id": "CONS_SEN_04_F",
+    "gender": "female"
+  },
+  {
+    "id": "CONS_SEN_04_M",
+    "gender": "male"
+  },
+  {
+    "id": "CONS_SEN_04_NB",
+    "gender": "non-binary"
+  },
+  {
+    "id": "CONS_SEN_05_F",
+    "gender": "female"
+  },
+  {
+    "id": "CONS_SEN_05_M",
+    "gender": "male"
+  },
+  {
+    "id": "CONS_SEN_05_NB",
+    "gender": "non-binary"
+  },
+  {
+    "id": "IT_JUN_01_F",
+    "gender": "female"
+  },
+  {
+    "id": "IT_JUN_01_M",
+    "gender": "male"
+  },
+  {
+    "id": "IT_JUN_01_NB",
+    "gender": "non-binary"
+  },
+  {
+    "id": "IT_JUN_02_F",
+    "gender": "female"
+  },
+  {
+    "id": "IT_JUN_02_M",
+    "gender": "male"
+  },
+  {
+    "id": "IT_JUN_02_NB",
+    "gender": "non-binary"
+  },
+  {
+    "id": "IT_JUN_03_F",
+    "gender": "female"
+  },
+  {
+    "id": "IT_JUN_03_M",
+    "gender": "male"
+  },
+  {
+    "id": "IT_JUN_03_NB",
+    "gender": "non-binary"
+  },
+  {
+    "id": "IT_JUN_04_F",
+    "gender": "female"
+  },
+  {
+    "id": "IT_JUN_04_M",
+    "gender": "male"
+  },
+  {
+    "id": "IT_JUN_04_NB",
+    "gender": "non-binary"
+  },
+  {
+    "id": "IT_JUN_05_F",
+    "gender": "female"
+  },
+  {
+    "id": "IT_JUN_05_M",
+    "gender": "male"
+  },
+  {
+    "id": "IT_JUN_05_NB",
+    "gender": "non-binary"
+  },
+  {
+    "id": "IT_SEN_01_F",
+    "gender": "female"
+  },
+  {
+    "id": "IT_SEN_01_M",
+    "gender": "male"
+  },
+  {
+    "id": "IT_SEN_01_NB",
+    "gender": "non-binary"
+  },
+  {
+    "id": "IT_SEN_02_F",
+    "gender": "female"
+  },
+  {
+    "id": "IT_SEN_02_M",
+    "gender": "male"
+  },
+  {
+    "id": "IT_SEN_02_NB",
+    "gender": "non-binary"
+  },
+  {
+    "id": "IT_SEN_03_F",
+    "gender": "female"
+  },
+  {
+    "id": "IT_SEN_03_M",
+    "gender": "male"
+  },
+  {
+    "id": "IT_SEN_03_NB",
+    "gender": "non-binary"
+  },
+  {
+    "id": "IT_SEN_04_F",
+    "gender": "female"
+  },
+  {
+    "id": "IT_SEN_04_M",
+    "gender": "male"
+  },
+  {
+    "id": "IT_SEN_04_NB",
+    "gender": "non-binary"
+  },
+  {
+    "id": "IT_SEN_05_F",
+    "gender": "female"
+  },
+  {
+    "id": "IT_SEN_05_M",
+    "gender": "male"
+  },
+  {
+    "id": "IT_SEN_05_NB",
+    "gender": "non-binary"
+  },
+  {
+    "id": "NURS_JUN_01_F",
+    "gender": "female"
+  },
+  {
+    "id": "NURS_JUN_01_M",
+    "gender": "male"
+  },
+  {
+    "id": "NURS_JUN_01_NB",
+    "gender": "non-binary"
+  },
+  {
+    "id": "NURS_JUN_02_F",
+    "gender": "female"
+  },
+  {
+    "id": "NURS_JUN_02_M",
+    "gender": "male"
+  },
+  {
+    "id": "NURS_JUN_02_NB",
+    "gender": "non-binary"
+  },
+  {
+    "id": "NURS_JUN_03_F",
+    "gender": "female"
+  },
+  {
+    "id": "NURS_JUN_03_M",
+    "gender": "male"
+  },
+  {
+    "id": "NURS_JUN_03_NB",
+    "gender": "non-binary"
+  },
+  {
+    "id": "NURS_JUN_04_F",
+    "gender": "female"
+  },
+  {
+    "id": "NURS_JUN_04_M",
+    "gender": "male"
+  },
+  {
+    "id": "NURS_JUN_04_NB",
+    "gender": "non-binary"
+  },
+  {
+    "id": "NURS_JUN_05_F",
+    "gender": "female"
+  },
+  {
+    "id": "NURS_JUN_05_M",
+    "gender": "male"
+  },
+  {
+    "id": "NURS_JUN_05_NB",
+    "gender": "non-binary"
+  },
+  {
+    "id": "NURS_SEN_01_F",
+    "gender": "female"
+  },
+  {
+    "id": "NURS_SEN_01_M",
+    "gender": "male"
+  },
+  {
+    "id": "NURS_SEN_01_NB",
+    "gender": "non-binary"
+  },
+  {
+    "id": "NURS_SEN_02_F",
+    "gender": "female"
+  },
+  {
+    "id": "NURS_SEN_02_M",
+    "gender": "male"
+  },
+  {
+    "id": "NURS_SEN_02_NB",
+    "gender": "non-binary"
+  },
+  {
+    "id": "NURS_SEN_03_F",
+    "gender": "female"
+  },
+  {
+    "id": "NURS_SEN_03_M",
+    "gender": "male"
+  },
+  {
+    "id": "NURS_SEN_03_NB",
+    "gender": "non-binary"
+  },
+  {
+    "id": "NURS_SEN_04_F",
+    "gender": "female"
+  },
+  {
+    "id": "NURS_SEN_04_M",
+    "gender": "male"
+  },
+  {
+    "id": "NURS_SEN_04_NB",
+    "gender": "non-binary"
+  },
+  {
+    "id": "NURS_SEN_05_F",
+    "gender": "female"
+  },
+  {
+    "id": "NURS_SEN_05_M",
+    "gender": "male"
+  },
+  {
+    "id": "NURS_SEN_05_NB",
+    "gender": "non-binary"
+  }
+]

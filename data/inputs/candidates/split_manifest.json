@@ -1,0 +1,66 @@
+{
+  "input_file": "简历(1).json",
+  "output_root": "../candidates",
+  "industries": {
+    "construction": {
+      "industry_slug": "construction",
+      "counts": {
+        "base_candidates": 30,
+        "no_pronouns_gender": 30,
+        "no_gender": 30,
+        "full": 30
+      },
+      "outputs": {
+        "no_pronouns_gender_file": "construction_no_pronouns_gender.json",
+        "no_gender_file": "construction_no_gender.json",
+        "full_file": "construction_full.json",
+        "all_variants_file": null
+      },
+      "anomalies": []
+    },
+    "nursing": {
+      "industry_slug": "nursing",
+      "counts": {
+        "base_candidates": 30,
+        "no_pronouns_gender": 30,
+        "no_gender": 30,
+        "full": 30
+      },
+      "outputs": {
+        "no_pronouns_gender_file": "nursing_no_pronouns_gender.json",
+        "no_gender_file": "nursing_no_gender.json",
+        "full_file": "nursing_full.json",
+        "all_variants_file": null
+      },
+      "anomalies": []
+    },
+    "IT": {
+      "industry_slug": "IT",
+      "counts": {
+        "base_candidates": 30,
+        "no_pronouns_gender": 30,
+        "no_gender": 30,
+        "full": 30
+      },
+      "outputs": {
+        "no_pronouns_gender_file": "IT_no_pronouns_gender.json",
+        "no_gender_file": "IT_no_gender.json",
+        "full_file": "IT_full.json",
+        "all_variants_file": null
+      },
+      "anomalies": []
+    }
+  },
+  "gender_export": {
+    "output_folder": "gender/",
+    "output_file": "gender.json",
+    "stats": {
+      "dupes": 0,
+      "missing_id": 0,
+      "missing_gender": 180,
+      "invalid_gender": 0,
+      "unique": 90
+    }
+  },
+  "notes": []
+}
