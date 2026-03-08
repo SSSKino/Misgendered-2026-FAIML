@@ -1,28 +1,30 @@
 #!/usr/bin/env python3
-# split_candidates_by_industry_and_cues.py
+# split_and_build_pronouns.py
 """
-Fixed defaults:
-- Input file is fixed to: 简历(1).json (resolved relative to this script directory)
-- Output directory is fixed to: ../candidates (a sibling folder of rawdata; resolved relative to this script directory)
+ONE-STOP script (combine split + pronouns export).
 
-Function:
-Split a candidate resume dataset into industries (by `industry_target`),
-and within each industry output 3 variants based on pronouns/gender cues:
+Fixed defaults (no args needed):
+- Input file: 简历(1).json (must be in the SAME folder as this script; typically rawdata/)
+- Output root: ../candidates (folder sibling to rawdata)
 
-A) no_pronouns_gender: remove both `pronouns` and `gender` (and scrub pronoun disclosure in summary)
-B) no_gender: keep/add `pronouns`, remove `gender`
-C) full: keep/add both `pronouns` and `gender`
+What it does:
+1) Split candidates by `industry_target` into industry folders under ../candidates/
+2) For each industry, write 3 "cue" variants (each file contains ALL candidates for that industry):
+   - <industry>_no_pronouns_gender.json  (remove pronouns + gender)
+   - <industry>_no_gender.json           (keep/add pronouns, remove gender)
+   - <industry>_full.json                (keep/add pronouns + gender)
+   Optionally: <industry>_all_variants.json if --combined is provided.
+3) Build a deduplicated pronouns file under: ../candidates/pronouns/pronouns.json
+   - Dedup key: base_id = candidate_id with trailing _A/_B/_C removed (if present)
+   - Keep LAST valid pronouns per base_id
+   - Output array sorted by id
 
-Each output file contains ALL candidates for that industry, aligned by base_id:
-base_id = candidate_id with trailing _A/_B/_C removed if present (so the same candidate aligns across variants).
+Also writes:
+- ../candidates/split_manifest.json (NO per-file full paths; only split summary + filenames + anomalies + pronouns export stats)
 
-Input format:
-- Top-level JSON array: [ {...}, ... ]
-- Or object: { "candidates": [ {...}, ... ] }
-
-Usage (no args needed):
-python split_candidates_by_industry_and_cues.py
-python split_candidates_by_industry_and_cues.py --combined
+Usage:
+python split_and_build_pronouns.py
+python split_and_build_pronouns.py --combined
 """
 
 import argparse
@@ -32,14 +34,20 @@ import re
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
 
+# -------- split helpers --------
 PRONOUN_RE = re.compile(r"\b(he/him|she/her|they/them)\b", re.IGNORECASE)
 DISCLOSE_RE = re.compile(
     r"\s*(?:\.\s*)?(?:My\s+prefer\s+pronoun(?:ce)?\s+is\s+(he/him|she/her|they/them)\.?)\s*",
     re.IGNORECASE,
 )
 
+VALID_PRONOUNS = {"he/him", "she/her", "they/them"}
+SUFFIX_RE = re.compile(r"^(.*)_([ABC])$")
+
+
 def load_candidates(path: Path) -> List[Dict[str, Any]]:
-    data = json.loads(path.read_text(encoding="utf-8"))
+    # utf-8-sig to tolerate BOM
+    data = json.loads(path.read_text(encoding="utf-8-sig"))
     if isinstance(data, dict) and isinstance(data.get("candidates"), list):
         arr = data["candidates"]
     elif isinstance(data, list):
@@ -48,14 +56,22 @@ def load_candidates(path: Path) -> List[Dict[str, Any]]:
         raise ValueError("Input must be a JSON array or an object with key 'candidates' as an array.")
     return [x for x in arr if isinstance(x, dict)]
 
+
 def safe_slug(s: str) -> str:
-    return re.sub(r"[^A-Za-z0-9_-]+", "_", s.strip())
+    s = str(s or "").strip()
+    return re.sub(r"[^A-Za-z0-9_-]+", "_", s) or "unknown"
+
 
 def base_id_and_variant(candidate_id: str) -> Tuple[str, Optional[str]]:
-    m = re.match(r"^(.*)_([ABC])$", candidate_id)
+    m = SUFFIX_RE.match(candidate_id)
     if m:
         return m.group(1), m.group(2)
     return candidate_id, None
+
+
+def base_id(candidate_id: str) -> str:
+    return base_id_and_variant(candidate_id)[0]
+
 
 def has_pronouns(rec: Dict[str, Any]) -> bool:
     if "pronouns" in rec and isinstance(rec["pronouns"], str) and rec["pronouns"].strip():
@@ -63,12 +79,15 @@ def has_pronouns(rec: Dict[str, Any]) -> bool:
     summary = str(rec.get("summary", ""))
     return PRONOUN_RE.search(summary) is not None
 
+
 def extract_pronouns_from_summary(summary: str) -> Optional[str]:
     m = PRONOUN_RE.search(summary or "")
     return m.group(1).lower() if m else None
 
+
 def scrub_pronoun_disclosure(summary: str) -> str:
     return DISCLOSE_RE.sub(" ", summary or "").strip()
+
 
 def infer_gender_from_pronouns(pronouns: Optional[str]) -> Optional[str]:
     if not pronouns:
@@ -81,6 +100,7 @@ def infer_gender_from_pronouns(pronouns: Optional[str]) -> Optional[str]:
     if p == "they/them":
         return "non-binary"
     return None
+
 
 def pick_record(variants: List[Dict[str, Any]], prefer_letter: Optional[str], predicate) -> Dict[str, Any]:
     """
@@ -99,9 +119,10 @@ def pick_record(variants: List[Dict[str, Any]], prefer_letter: Optional[str], pr
         return matches[-1]
     return variants[-1]
 
-def make_variant_record(rec: Dict[str, Any], base_id: str, mode: str) -> Dict[str, Any]:
+
+def make_variant_record(rec: Dict[str, Any], base_candidate_id: str, mode: str) -> Dict[str, Any]:
     out = copy.deepcopy(rec)
-    out["candidate_id"] = base_id  # normalize id across A/B/C
+    out["candidate_id"] = base_candidate_id  # normalize id across A/B/C
 
     if mode == "no_pronouns_gender":
         out.pop("pronouns", None)
@@ -141,89 +162,141 @@ def make_variant_record(rec: Dict[str, Any], base_id: str, mode: str) -> Dict[st
 
     raise ValueError(f"Unknown mode: {mode}")
 
+
+# -------- pronouns export helpers --------
+def normalize_pronouns(value: Any, summary: Any = None) -> Optional[str]:
+    if isinstance(value, str):
+        s = value.strip().lower()
+        s = re.sub(r"\s+", "", s)
+        mapping = {
+            "he/him": "he/him",
+            "she/her": "she/her",
+            "they/them": "they/them",
+            "hehim": "he/him",
+            "sheher": "she/her",
+            "theythem": "they/them",
+        }
+        if s in mapping:
+            return mapping[s]
+    if isinstance(summary, str):
+        extracted = extract_pronouns_from_summary(summary)
+        if extracted in VALID_PRONOUNS:
+            return extracted
+    return None
+
+
+
+def build_pronouns(rows: List[Dict[str, Any]]) -> Tuple[List[Dict[str, str]], Dict[str, int]]:
+    seen: Dict[str, str] = {}
+    stats = {"dupes": 0, "missing_id": 0, "missing_pronouns": 0, "invalid_pronouns": 0}
+
+    for rec in rows:
+        cid = rec.get("candidate_id", rec.get("id"))
+        if cid is None:
+            stats["missing_id"] += 1
+            continue
+        bid = base_id(str(cid))
+
+        np = normalize_pronouns(rec.get("pronouns"), rec.get("summary"))
+        if np is None:
+            if rec.get("pronouns") is None and not extract_pronouns_from_summary(str(rec.get("summary", ""))):
+                stats["missing_pronouns"] += 1
+            else:
+                stats["invalid_pronouns"] += 1
+            continue
+
+        if bid in seen:
+            stats["dupes"] += 1
+        seen[bid] = np  # keep last valid
+
+    out: List[Dict[str, str]] = [{"id": k, "pronouns": v} for k, v in seen.items()]
+    out.sort(key=lambda x: x["id"])
+    stats["unique"] = len(out)
+    return out, stats
+
+
 def main() -> None:
     ap = argparse.ArgumentParser()
-    # Defaults:
     ap.add_argument("--combined", action="store_true",
                     help="Also write a combined per-industry file containing all 3 variants.")
     args = ap.parse_args()
 
     base_dir = Path(__file__).resolve().parent
     inp = base_dir / "简历(1).json"
-    out_dir = (base_dir / ".." / "candidates").resolve()
+    out_root = (base_dir / ".." / "candidates").resolve()
 
-    out_dir.mkdir(parents=True, exist_ok=True)
-    candidates = load_candidates(inp)
+    out_root.mkdir(parents=True, exist_ok=True)
 
-    # Split by industry_target
+    rows = load_candidates(inp)
+
+    # ------------- Split by industry_target -------------
     by_industry: Dict[str, List[Dict[str, Any]]] = {}
-    for rec in candidates:
+    for rec in rows:
         industry = str(rec.get("industry_target", "unknown"))
         by_industry.setdefault(industry, []).append(rec)
 
-    # Manifest: do NOT include per-file full paths; only describe outcomes.
     manifest: Dict[str, Any] = {
         "input_file": "简历(1).json",
         "output_root": "../candidates",
         "industries": {},
+        "pronouns_export": {},
         "notes": [],
     }
 
     for industry, recs in by_industry.items():
         slug = safe_slug(industry)
-        ind_dir = out_dir / slug
+        ind_dir = out_root / slug
         ind_dir.mkdir(parents=True, exist_ok=True)
 
-        # Group by base_id
+        # Group by base_id (align A/B/C)
         grouped: Dict[str, List[Dict[str, Any]]] = {}
         for r in recs:
             cid = str(r.get("candidate_id", "")).strip()
             if not cid:
                 continue
-            base, _ = base_id_and_variant(cid)
-            grouped.setdefault(base, []).append(r)
+            grouped.setdefault(base_id(cid), []).append(r)
 
         no_pg: List[Dict[str, Any]] = []
         no_g: List[Dict[str, Any]] = []
         full: List[Dict[str, Any]] = []
         anomalies: List[str] = []
 
-        for base, vars_ in grouped.items():
+        for bid, vars_ in grouped.items():
             rA = pick_record(vars_, "A", lambda x: (not has_pronouns(x)) and ("gender" not in x))
             rB = pick_record(vars_, "B", lambda x: has_pronouns(x) and ("gender" not in x))
             rC = pick_record(vars_, "C", lambda x: has_pronouns(x) and ("gender" in x))
 
-            no_pg.append(make_variant_record(rA, base, "no_pronouns_gender"))
-            no_g.append(make_variant_record(rB, base, "no_gender"))
-            full.append(make_variant_record(rC, base, "full"))
+            no_pg.append(make_variant_record(rA, bid, "no_pronouns_gender"))
+            no_g.append(make_variant_record(rB, bid, "no_gender"))
+            full.append(make_variant_record(rC, bid, "full"))
 
-            if ("pronouns" not in full[-1]) or ("gender" not in full[-1]):
-                anomalies.append(f"{industry}:{base}: full variant missing pronouns/gender after normalization")
+            if "pronouns" not in full[-1]:
+                anomalies.append(f"{industry}:{bid}: full variant missing pronouns after normalization")
 
         # Deterministic order
         no_pg.sort(key=lambda x: str(x.get("candidate_id", "")))
         no_g.sort(key=lambda x: str(x.get("candidate_id", "")))
         full.sort(key=lambda x: str(x.get("candidate_id", "")))
 
-        # Write files
-        f_no_pg = ind_dir / f"{slug}_no_pronouns_gender.json"
-        f_no_g = ind_dir / f"{slug}_no_gender.json"
-        f_full = ind_dir / f"{slug}_full.json"
+        # Write split files
+        f_no_pg_name = f"{slug}_no_pronouns_gender.json"
+        f_no_g_name = f"{slug}_no_gender.json"
+        f_full_name = f"{slug}_full.json"
 
-        f_no_pg.write_text(json.dumps(no_pg, ensure_ascii=False, indent=2), encoding="utf-8")
-        f_no_g.write_text(json.dumps(no_g, ensure_ascii=False, indent=2), encoding="utf-8")
-        f_full.write_text(json.dumps(full, ensure_ascii=False, indent=2), encoding="utf-8")
+        (ind_dir / f_no_pg_name).write_text(json.dumps(no_pg, ensure_ascii=False, indent=2), encoding="utf-8")
+        (ind_dir / f_no_g_name).write_text(json.dumps(no_g, ensure_ascii=False, indent=2), encoding="utf-8")
+        (ind_dir / f_full_name).write_text(json.dumps(full, ensure_ascii=False, indent=2), encoding="utf-8")
 
+        all_variants_name = None
         if args.combined:
+            all_variants_name = f"{slug}_all_variants.json"
             combined = {
                 "industry_target": industry,
                 "no_pronouns_gender": no_pg,
                 "no_gender": no_g,
                 "full": full,
             }
-            (ind_dir / f"{slug}_all_variants.json").write_text(
-                json.dumps(combined, ensure_ascii=False, indent=2), encoding="utf-8"
-            )
+            (ind_dir / all_variants_name).write_text(json.dumps(combined, ensure_ascii=False, indent=2), encoding="utf-8")
 
         manifest["industries"][industry] = {
             "industry_slug": slug,
@@ -234,18 +307,29 @@ def main() -> None:
                 "full": len(full),
             },
             "outputs": {
-                "no_pronouns_gender_file": f"{slug}_no_pronouns_gender.json",
-                "no_gender_file": f"{slug}_no_gender.json",
-                "full_file": f"{slug}_full.json",
-                "all_variants_file": (f"{slug}_all_variants.json" if args.combined else None),
+                "no_pronouns_gender_file": f_no_pg_name,
+                "no_gender_file": f_no_g_name,
+                "full_file": f_full_name,
+                "all_variants_file": all_variants_name,
             },
             "anomalies": anomalies[:50],
         }
 
-    (out_dir / "split_manifest.json").write_text(
-        json.dumps(manifest, ensure_ascii=False, indent=2),
-        encoding="utf-8",
-    )
+    # ------------- Build pronouns.json under candidates/pronouns/ -------------
+    pronouns_list, pronouns_stats = build_pronouns(rows)
+    pronouns_dir = out_root / "pronouns"
+    pronouns_dir.mkdir(parents=True, exist_ok=True)
+    (pronouns_dir / "pronouns.json").write_text(json.dumps(pronouns_list, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    manifest["pronouns_export"] = {
+        "output_folder": "pronouns/",
+        "output_file": "pronouns.json",
+        "stats": pronouns_stats,
+    }
+
+    # Write manifest (no full paths)
+    (out_root / "split_manifest.json").write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8")
+
 
 if __name__ == "__main__":
     main()

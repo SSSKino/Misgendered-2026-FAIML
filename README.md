@@ -1,96 +1,143 @@
-# Recruitment Bias Experiments — 4 Experiments (Exp1–Exp4)
+# Recruitment Bias Experiments — Industry-aligned JD × CV Pipeline
 
-This project contains **four experiments**:
+This project runs the full experiment suite by **matching JD and CV files within the same industry** and processing them in a fixed order.
 
-- **Experiment 1 (Exp1): `borderline`**
-  - Script: `src/borderline.py`
-  - Output: `data/outputs/exp1_borderline/borderline.json`
+## What changed
+- Input root `data/inputs/candidates/` is now renamed to `data/inputs/CV/`.
+- Single-file `data/inputs/jd.json` is replaced by per-industry JD folders under `data/inputs/JD/`.
+- `run_all.py` now loops as:
+  1. find shared industries between `data/inputs/JD/` and `data/inputs/CV/`
+  2. for each JD JSON inside an industry folder
+  3. pair that JD with the same-industry CV variant files
+  4. run **Exp1 → Exp2(1/2/3) → Exp3 → gender analysis (if present) → Exp4 audit**
+- Outputs are written to `data/outputs/<industry>/<jd_stem>/` so results from different JD files never overwrite each other.
 
-- **Experiment 2 (Exp2): Strength Tests 1–3**
-  - Scripts:
-    - `src/Strength Test1.py`
-    - `src/Strength Test2.py`
-    - `src/Strength Test3.py`
-  - Outputs:
-    - `data/outputs/exp2_strength/Strength Test1.json`
-    - `data/outputs/exp2_strength/Strength Test2.json`
-    - `data/outputs/exp2_strength/Strength Test3.json`
+## Expected input structure
 
-- **Experiment 3 (Exp3): Policy Gap Test**
-  - Script: `src/Policy Gap Test.py`
-  - Output: `data/outputs/exp3_policy_gap/Policy Gap Test.json`
-
-- **Experiment 4 (Exp4): Consistency Audit (tie-score alignment + rationale labels)**
-  - Script: `src/consistency_audit.py`
-  - IMPORTANT: **Run Exp4 only after Exp1–Exp3 outputs are generated.**
-  - Output: `data/outputs/exp4_audit/alignment_audit.json`
-
-## Inputs
-Place input files in `data/inputs/`:
-- `jd.json`
-- `candidates.json`
-- `gender.json`
-
-## Setup
-```bash
-pip install -r requirements.txt
-export OPENAI_API_KEY="YOUR_KEY"
+```text
+project_root/
+├─ data/
+│  └─ inputs/
+│     ├─ CV/
+│     │  ├─ gender/
+│     │  │  └─ gender.json              # optional
+│     │  ├─ pronouns/
+│     │  │  └─ pronouns.json            # optional fallback for group analysis
+│     │  ├─ IT/
+│     │  │  ├─ IT_no_pronouns_gender.json
+│     │  │  ├─ IT_no_gender.json
+│     │  │  └─ IT_full.json
+│     │  ├─ Construction/
+│     │  └─ Nursing/
+│     └─ JD/
+│        ├─ IT/
+│        │  ├─ IT_jd.json
+│        │  ├─ IT_jd_2.json
+│        │  └─ ...
+│        ├─ Construction/
+│        └─ Nursing/
 ```
 
-## Run order (recommended)
-### One command (cross-platform)
-```bash
-python run_all.py
-```
-This runs **Exp1 → Exp2 → Exp3 → Exp4** in order.
-
-### Or step-by-step (bash)
-```bash
-bash scripts/run_exp1_borderline.sh
-bash scripts/run_exp2_strength.sh
-bash scripts/run_exp3_policy_gap.sh
-bash scripts/run_exp4_audit.sh
-```
-
-## Gender analysis (optional; DO NOT run by default)
-Gender analysis scripts are included for later use, but **not executed** in the default pipeline:
-```bash
-bash scripts/run_gender_analysis_optional.sh
-```
-They will write group statistics + deltas beside the corresponding outputs.
-
-## Notes
-- Some scripts have spaces in file names. When running manually in a shell, use quotes:
-  - `python "src/Policy Gap Test.py" ...`
-
-
-## Industry-based inputs and outputs (updated)
-
-Inputs are expected under:
-
-- `data/inputs/candidates/<industry>/` (e.g. construction, IT, nursing)
-- `data/inputs/candidates/gender/gender.json`
-
-For each industry folder, the pipeline selects inputs by filename:
+## CV variant selection rules
+For each industry:
 - `borderline.py` uses `*no_pronouns_gender*.json`
 - `Strength Test1.py` uses `*no_pronouns_gender*.json`
 - `Strength Test2.py` uses `*no_gender*.json`
 - `Strength Test3.py` uses `*_full*.json`
 - `Policy Gap Test.py` uses `*no_pronouns_gender*.json`
 
-Outputs are written per industry to:
-- `data/outputs/<industry>/`
+## Run order
 
-Each output filename includes the industry name, e.g.:
-- `borderline_IT.json`
-- `gender_analysis_borderline_IT.json`
+### One command
+```bash
+python run_all.py
+```
+
+The pipeline runs each JD in this order:
+1. Exp1: `src/borderline.py`
+2. Exp2-1: `src/Strength Test1.py`
+3. Exp2-2: `src/Strength Test2.py`
+4. Exp2-3: `src/Strength Test3.py`
+5. Exp3: `src/Policy Gap Test.py`
+6. Group analysis scripts if `gender.json` or `pronouns.json` exists under `data/inputs/CV/`
+7. Exp4: `src/consistency_audit.py`
+
+## Output structure
+
+```text
+data/outputs/
+├─ IT/
+│  ├─ IT_jd/
+│  │  ├─ borderline__IT__IT_jd.json
+│  │  ├─ Strength_Test1__IT__IT_jd.json
+│  │  ├─ Strength_Test2__IT__IT_jd.json
+│  │  ├─ Strength_Test3__IT__IT_jd.json
+│  │  ├─ Policy_Gap_Test__IT__IT_jd.json
+│  │  ├─ gender_analysis_*.json        # if group file exists
+│  │  ├─ alignment_audit__IT__IT_jd.json
+│  │  └─ run_manifest.json
+│  └─ IT_jd_2/
+└─ run_manifest.json
+```
+
+## Setup
+```bash
+pip install -r requirements.txt
+cp config/.env.example config/.env
+# Then open config/.env and fill in OPENAI_API_KEY
+```
+
+On Windows PowerShell you can also copy it with:
+```powershell
+Copy-Item config/.env.example config/.env
+```
+
+## Notes
+- All experiment scripts now read **CV JSON** inputs instead of the old `candidates` naming.
+- The scoring result schema is still kept as `{"candidates": [...]}` to preserve compatibility with downstream audit scripts.
+- If `data/inputs/CV/gender/gender.json` does not exist, the runner will try `data/inputs/CV/pronouns/pronouns.json` for group analysis.
+- If neither exists, the main experiments still run and only group analysis is skipped.
 
 
-## Consistency audit (per industry)
 
-`run_all.py` now runs the audit **for each industry separately** after finishing that industry's runs.
+## API key via .env
+- Put your real key in the `config/.env` file under the project root.
+- The unified client in `src/llm_api.py` loads `config/.env` automatically on import.
+- `OPENAI_API_KEY` is required before any experiment can call the API.
+- `config/.env` is ignored by Git, while `config/.env.example` is safe to commit as a template.
 
-Audit outputs:
-- `data/outputs/<industry>/alignment_audit_<industry>.json`
+## Unified API configuration
+All experiment scripts now share one centralized API layer:
+- runtime client + request builder: `src/llm_api.py`
+- project-level defaults: `api_settings.json`
 
-The audit input set for each industry includes only scoring outputs (excludes `gender_analysis_*.json` and existing audit files).
+So if you need to change the model, temperature, base URL, timeout, retries, or OpenAI org/project, you only change **one place**.
+
+Example `api_settings.json`:
+
+```json
+{
+  "model": "gpt-5.2",
+  "temperature": 0.2,
+  "max_output_tokens": null,
+  "timeout": null,
+  "max_retries": 2,
+  "base_url": null,
+  "organization": null,
+  "project": null
+}
+```
+
+`config/.env` is loaded automatically from the project root. Real environment variables still override both `.env` and `api_settings.json`.
+
+Supported environment variables:
+- `OPENAI_API_KEY`
+- `OPENAI_BASE_URL` or `RECRUITMENT_API_BASE_URL`
+- `RECRUITMENT_API_MODEL`
+- `RECRUITMENT_API_TEMPERATURE`
+- `RECRUITMENT_API_TIMEOUT`
+- `RECRUITMENT_API_MAX_RETRIES`
+- `OPENAI_ORG_ID` / `RECRUITMENT_API_ORG`
+- `OPENAI_PROJECT` / `RECRUITMENT_API_PROJECT`
+
+CLI `--model` and `--temperature` are still supported, but their defaults now come from `api_settings.json`.

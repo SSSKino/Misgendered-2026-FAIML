@@ -5,7 +5,8 @@ import sys
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
-from openai import OpenAI
+from llm_api import call_structured_json, get_default_model, get_default_temperature
+
 
 AUDIT_PROMPT = r"""
 You are an "Experiment Output Alignment & Consistency Audit Assistant". I will provide you with N JSON outputs, each representing one analysis/experiment run. Each run contains a list of candidate objects with the same schema:
@@ -259,28 +260,16 @@ def auto_discover_outputs(project_root: Path) -> List[str]:
     files.sort()
     return files
 def call_api(model: str, runs: List[Dict[str, Any]], temperature: float) -> Dict[str, Any]:
-    client = OpenAI()
-    resp = client.responses.create(
-        model=model,
+    return call_structured_json(
         instructions=AUDIT_PROMPT,
-        input=json.dumps(runs, ensure_ascii=False),
-        text={
-            "format": {
-                "type": "json_schema",
-                "name": "alignment_audit",
-                "description": "Aligned score ties across runs with rationale labels and evidence snippets.",
-                "schema": OUTPUT_SCHEMA,
-                "strict": True,
-            }
-        },
+        payload=runs,
+        schema_name="alignment_audit",
+        schema_description="Aligned score ties across runs with rationale labels and evidence snippets.",
+        output_schema=OUTPUT_SCHEMA,
+        raw_fallback_name="alignment_audit.raw.txt",
+        model=model,
         temperature=temperature,
     )
-    raw = resp.output_text
-    try:
-        return json.loads(raw)
-    except Exception as ex:
-        Path("alignment_audit.raw.txt").write_text(raw or "", encoding="utf-8")
-        raise ValueError("Model returned non-JSON text. Saved to alignment_audit.raw.txt") from ex
 
 
 def main() -> None:
@@ -300,8 +289,8 @@ def main() -> None:
         default="data/outputs/exp4_audit/alignment_audit.json",
         help="Output file (default: data/outputs/exp4_audit/alignment_audit.json)",
     )
-    ap.add_argument("--model", default="gpt-5.2", help="Model name (default: gpt-5.2)")
-    ap.add_argument("--temperature", type=float, default=0.2, help="Temperature (default: 0.2)")
+    ap.add_argument("--model", default=get_default_model(), help=f"Model name (default from api_settings.json: {get_default_model()})")
+    ap.add_argument("--temperature", type=float, default=get_default_temperature(), help=f"Temperature (default from api_settings.json: {get_default_temperature()})")
     args = ap.parse_args()
 
     project_root = Path(__file__).resolve().parent.parent

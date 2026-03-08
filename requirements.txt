@@ -1,1 +1,5 @@
-openai>=1.0.0
+# Core API client
+openai>=1.40.0
+
+# Load API keys and local overrides from config/.env
+python-dotenv>=1.0.1

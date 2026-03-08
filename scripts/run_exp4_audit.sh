@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 set -euo pipefail
-python src/consistency_audit.py --out data/outputs/exp4_audit/alignment_audit.json
+echo "Deprecated single-experiment wrapper. Use: python run_all.py"
+python run_all.py

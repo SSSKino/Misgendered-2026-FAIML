@@ -5,3 +5,7 @@ venv/
 logs/
 *.raw.txt
 .DS_Store
+# Local secrets
+config/.env
+config/.env.*
+!config/.env.example
