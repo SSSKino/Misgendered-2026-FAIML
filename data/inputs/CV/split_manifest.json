@@ -1,0 +1,93 @@
+{
+  "input_file": "data/inputs/rawdata/CV.json",
+  "output_root": "data/inputs/CV",
+  "industries": {
+    "Construction": {
+      "industry_slug": "Construction",
+      "source_industries": [
+        "construction"
+      ],
+      "counts": {
+        "base_candidates": 72,
+        "no_pronouns_gender": 72,
+        "no_gender": 72,
+        "full": 72
+      },
+      "outputs": {
+        "no_pronouns_gender_file": "Construction_no_pronouns_gender.json",
+        "no_gender_file": "Construction_no_gender.json",
+        "full_file": "Construction_full.json",
+        "all_variants_file": "Construction_all_variants.json"
+      },
+      "anomalies": []
+    },
+    "Nursing": {
+      "industry_slug": "Nursing",
+      "source_industries": [
+        "nursing"
+      ],
+      "counts": {
+        "base_candidates": 64,
+        "no_pronouns_gender": 64,
+        "no_gender": 64,
+        "full": 64
+      },
+      "outputs": {
+        "no_pronouns_gender_file": "Nursing_no_pronouns_gender.json",
+        "no_gender_file": "Nursing_no_gender.json",
+        "full_file": "Nursing_full.json",
+        "all_variants_file": "Nursing_all_variants.json"
+      },
+      "anomalies": [
+        "Nursing:NURS_SEN_07_THON: full variant missing pronouns/gender after normalization"
+      ]
+    },
+    "IT": {
+      "industry_slug": "IT",
+      "source_industries": [
+        "IT"
+      ],
+      "counts": {
+        "base_candidates": 72,
+        "no_pronouns_gender": 72,
+        "no_gender": 72,
+        "full": 72
+      },
+      "outputs": {
+        "no_pronouns_gender_file": "IT_no_pronouns_gender.json",
+        "no_gender_file": "IT_no_gender.json",
+        "full_file": "IT_full.json",
+        "all_variants_file": "IT_all_variants.json"
+      },
+      "anomalies": []
+    }
+  },
+  "notes": [
+    "Paths are fixed in code and use project-relative locations.",
+    "Project root is auto-detected by walking upward from the script location.",
+    "All CV outputs are always generated: variants + combined + pronouns + gender + manifest.",
+    "CV and JD share the same canonical industry directory naming logic."
+  ],
+  "pronouns_export": {
+    "output_folder": "pronouns/",
+    "output_file": "pronouns.json",
+    "stats": {
+      "dupes": 0,
+      "missing_id": 0,
+      "missing_pronouns": 415,
+      "invalid_pronouns": 51,
+      "unique": 156
+    }
+  },
+  "gender_export": {
+    "output_folder": "gender/",
+    "output_file": "gender.json",
+    "stats": {
+      "dupes": 0,
+      "missing_id": 0,
+      "missing_gender": 415,
+      "invalid_gender": 103,
+      "unique": 104
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "input_file": "data/inputs/rawdata/JD.json",
+  "output_root": "data/inputs/JD",
+  "metadata": {
+    "source": "O*NET Online Database",
+    "url": "https://www.onetcenter.org/database.html",
+    "industries": [
+      "IT",
+      "Construction",
+      "Nursing"
+    ],
+    "fields_collected": [
+      "soc_code",
+      "title",
+      "description",
+      "skills",
+      "abilities",
+      "knowledge",
+      "tasks",
+      "technology_skills",
+      "education_requirements",
+      "work_activities",
+      "work_context"
+    ]
+  },
+  "industries": {
+    "IT": {
+      "industry_slug": "IT",
+      "source_industries": [
+        "IT"
+      ],
+      "occupation_count": 18,
+      "output_file": "IT_jd.json"
+    },
+    "Construction": {
+      "industry_slug": "Construction",
+      "source_industries": [
+        "Construction"
+      ],
+      "occupation_count": 18,
+      "output_file": "Construction_jd.json"
+    },
+    "Nursing": {
+      "industry_slug": "Nursing",
+      "source_industries": [
+        "Nursing"
+      ],
+      "occupation_count": 18,
+      "output_file": "Nursing_jd.json"
+    }
+  },
+  "notes": [
+    "Paths are fixed in code and use project-relative locations.",
+    "JD is split by industries under the occupations object.",
+    "Each industry output contains metadata + canonical industry name + occupations list.",
+    "CV and JD share the same canonical industry directory naming logic."
+  ]
+}
