@@ -1,0 +1,6622 @@
+{
+  "metadata": {
+    "source": "O*NET Online Database",
+    "url": "https://www.onetcenter.org/database.html",
+    "industries": [
+      "IT",
+      "Construction",
+      "Nursing"
+    ],
+    "fields_collected": [
+      "soc_code",
+      "title",
+      "description",
+      "skills",
+      "abilities",
+      "knowledge",
+      "tasks",
+      "technology_skills",
+      "education_requirements",
+      "work_activities",
+      "work_context"
+    ],
+    "industry": "IT",
+    "total_occupations": 18
+  },
+  "occupations": [
+    {
+      "soc_code": "11-3021.00",
+      "title": "Computer and Information Systems Managers",
+      "description": "Plan, direct, or coordinate activities in such fields as electronic data processing, information systems, systems analysis, and computer programming.",
+      "skills": [
+        {
+          "name": "Critical Thinking",
+          "tier_label": "High"
+        },
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "High"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "High"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Coordination",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Writing",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Evaluation",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Management of Personnel Resources",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Social Perceptiveness",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Learning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Time Management",
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Oral Comprehension",
+          "tier_label": "High"
+        },
+        {
+          "name": "Oral Expression",
+          "tier_label": "High"
+        },
+        {
+          "name": "Written Comprehension",
+          "tier_label": "High"
+        },
+        {
+          "name": "Problem Sensitivity",
+          "tier_label": "High"
+        },
+        {
+          "name": "Deductive Reasoning",
+          "tier_label": "High"
+        },
+        {
+          "name": "Inductive Reasoning",
+          "tier_label": "High"
+        },
+        {
+          "name": "Information Ordering",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Written Expression",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Near Vision",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speech Clarity",
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Computers and Electronics",
+          "tier_label": "High"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "tier_label": "High"
+        },
+        {
+          "name": "Administration and Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Engineering and Technology",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "English Language",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Personnel and Human Resources",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Education and Training",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Telecommunications",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Design",
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Direct daily operations of department, analyzing workflow, establishing priorities, developing standards and setting deadlines.",
+        "Meet with department heads, managers, supervisors, vendors, and others, to solicit cooperation and resolve problems.",
+        "Review project plans to plan and coordinate project activity.",
+        "Assign and review the work of systems analysts, programmers, and other computer-related workers.",
+        "Provide users with technical support for computer problems.",
+        "Develop computer information resources, providing for data security and control, strategic computing, and disaster recovery.",
+        "Recruit, hire, train and supervise staff, or participate in staffing decisions.",
+        "Stay abreast of advances in technology.",
+        "Consult with users, management, vendors, and technicians to assess computing needs and system requirements.",
+        "Develop and interpret organizational goals, policies, and procedures."
+      ],
+      "technology_skills": [
+        {
+          "category": "Customer relationship management CRM software",
+          "example": "ACT! Premium"
+        },
+        {
+          "category": "Desktop publishing software",
+          "example": "Adobe Distiller"
+        },
+        {
+          "category": "Web platform development software",
+          "example": "Adobe Flex"
+        },
+        {
+          "category": "Object or component oriented development software",
+          "example": "Advanced business application programming ABAP"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Alpha Four"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Web Services AWS software"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Apache Cassandra"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Apache Hadoop"
+        },
+        {
+          "category": "Portal server software",
+          "example": "Apache HTTP Server"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Apache Maven"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Apache Pig"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Apache Solr"
+        },
+        {
+          "category": "Web platform development software",
+          "example": "Apache Tomcat"
+        },
+        {
+          "category": "Video creation and editing software",
+          "example": "Apple Final Cut Pro"
+        },
+        {
+          "category": "Video creation and editing software",
+          "example": "Apple iMovie"
+        },
+        {
+          "category": "Presentation software",
+          "example": "Apple iWork Keynote"
+        },
+        {
+          "category": "Spreadsheet software",
+          "example": "Apple iWork Numbers"
+        },
+        {
+          "category": "Word processing software",
+          "example": "Apple iWork Pages"
+        },
+        {
+          "category": "Operating system software",
+          "example": "Apple macOS"
+        },
+        {
+          "category": "Content workflow software",
+          "example": "Atlassian JIRA"
+        }
+      ],
+      "education_requirements": {
+        "On-Site or In-Plant Training": [
+          {
+            "category": "Up to 1 month"
+          },
+          {
+            "category": "6 months to 1 year"
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "6 months to 1 year"
+          },
+          {
+            "category": "1 to 3 months"
+          },
+          {
+            "category": "3 to 6 months"
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "6 years to 8 years"
+          },
+          {
+            "category": "4 years to 6 years"
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "Bachelor's degree"
+          },
+          {
+            "category": "Some college, no degree"
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Working with Computers",
+          "tier_label": "High"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Communicating with Supervisors, Peers, or Subordinates",
+          "tier_label": "High"
+        },
+        {
+          "name": "Identifying Objects, Actions, and Events",
+          "tier_label": "High"
+        },
+        {
+          "name": "Organizing, Planning, and Prioritizing Work",
+          "tier_label": "High"
+        },
+        {
+          "name": "Analyzing Data or Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Developing and Building Teams",
+          "tier_label": "High"
+        },
+        {
+          "name": "Developing Objectives and Strategies",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Guiding, Directing, and Motivating Subordinates",
+          "tier_label": "Moderate"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "E-Mail",
+          "tier_label": "High"
+        },
+        {
+          "name": "Work With or Contribute to a Work Group or Team",
+          "tier_label": "High"
+        },
+        {
+          "name": "Determine Tasks, Priorities and Goals",
+          "tier_label": "High"
+        },
+        {
+          "name": "Face-to-Face Discussions with Individuals and Within Teams",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Sitting",
+          "tier_label": "High"
+        },
+        {
+          "name": "Contact With Others",
+          "tier_label": "High"
+        },
+        {
+          "name": "Coordinate or Lead Others in Accomplishing Work Activities",
+          "tier_label": "High"
+        },
+        {
+          "name": "Work Outcomes and Results of Other Workers",
+          "tier_label": "High"
+        },
+        {
+          "name": "Telephone Conversations",
+          "tier_label": "High"
+        },
+        {
+          "name": "Freedom to Make Decisions",
+          "tier_label": "High"
+        }
+      ]
+    },
+    {
+      "soc_code": "15-1211.00",
+      "title": "Computer Systems Analysts",
+      "description": "Analyze science, engineering, business, and other data processing problems to develop and implement solutions to complex applications problems, system administration issues, or network concerns. Perform systems management and integration functions, improve existing computer systems, and review computer system capabilities, workflow, and schedule limitations. May analyze or recommend commercially available software.",
+      "skills": [
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "High"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "tier_label": "High"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "High"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "High"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "High"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "High"
+        },
+        {
+          "name": "Writing",
+          "tier_label": "High"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Evaluation",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Evaluation",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Deductive Reasoning",
+          "tier_label": "High"
+        },
+        {
+          "name": "Written Comprehension",
+          "tier_label": "High"
+        },
+        {
+          "name": "Oral Comprehension",
+          "tier_label": "High"
+        },
+        {
+          "name": "Oral Expression",
+          "tier_label": "High"
+        },
+        {
+          "name": "Inductive Reasoning",
+          "tier_label": "High"
+        },
+        {
+          "name": "Deductive Reasoning",
+          "tier_label": "High"
+        },
+        {
+          "name": "Problem Sensitivity",
+          "tier_label": "High"
+        },
+        {
+          "name": "Information Ordering",
+          "tier_label": "High"
+        },
+        {
+          "name": "Written Expression",
+          "tier_label": "High"
+        },
+        {
+          "name": "Oral Expression",
+          "tier_label": "High"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Computers and Electronics",
+          "tier_label": "High"
+        },
+        {
+          "name": "Computers and Electronics",
+          "tier_label": "High"
+        },
+        {
+          "name": "English Language",
+          "tier_label": "High"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Medicine and Dentistry",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Education and Training",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Administration and Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "English Language",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Troubleshoot program and system malfunctions to restore normal functioning.",
+        "Provide staff and users with assistance solving computer-related problems, such as malfunctions and program problems.",
+        "Test, maintain, and monitor computer programs and systems, including coordinating the installation of computer programs and systems.",
+        "Use the computer in the analysis and solution of business problems, such as development of integrated production and inventory control and cost analysis systems.",
+        "Coordinate and link the computer systems within an organization to increase compatibility so that information can be shared.",
+        "Use object-oriented programming languages, as well as client and server applications development processes and multimedia and Internet technology.",
+        "Analyze information processing or computation needs and plan and design computer systems, using techniques such as structured analysis, data modeling, and information engineering.",
+        "Consult with management to ensure agreement on system principles.",
+        "Specify inputs accessed by the system and plan the distribution and use of the results.",
+        "Expand or modify system to serve new purposes or improve work flow."
+      ],
+      "technology_skills": [
+        {
+          "category": "Word processing software",
+          "example": "3M Post-it App"
+        },
+        {
+          "category": "Access software",
+          "example": "Access management software"
+        },
+        {
+          "category": "Requirements analysis and system architecture software",
+          "example": "AcmeStudio"
+        },
+        {
+          "category": "Internet directory services software",
+          "example": "Active directory software"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Ada"
+        },
+        {
+          "category": "Document management software",
+          "example": "Adobe Acrobat"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Adobe ActionScript"
+        },
+        {
+          "category": "Web platform development software",
+          "example": "Adobe ColdFusion"
+        },
+        {
+          "category": "Web page creation and editing software",
+          "example": "Adobe Dreamweaver"
+        },
+        {
+          "category": "Web platform development software",
+          "example": "Adobe Flex"
+        },
+        {
+          "category": "Graphics or photo imaging software",
+          "example": "Adobe Illustrator"
+        },
+        {
+          "category": "Graphics or photo imaging software",
+          "example": "Adobe Photoshop"
+        },
+        {
+          "category": "Human resources software",
+          "example": "ADP Workforce Now"
+        },
+        {
+          "category": "Object or component oriented development software",
+          "example": "Advanced business application programming ABAP"
+        },
+        {
+          "category": "Web platform development software",
+          "example": "AJAX"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Amazon DynamoDB"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Elastic Compute Cloud EC2"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Redshift"
+        },
+        {
+          "category": "Storage networking software",
+          "example": "Amazon Simple Storage Service S3"
+        },
+        {
+          "category": "Cloud-based management software",
+          "example": "Amazon Web Services AWS CloudFormation"
+        }
+      ],
+      "education_requirements": {
+        "Job-Related Professional Certification": [],
+        "Job-related Apprenticeship": [],
+        "On-Site or In-Plant Training": [
+          {
+            "category": "None"
+          },
+          {
+            "category": "3 to 6 months"
+          },
+          {
+            "category": "6 months to 1 year"
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "6 months to 1 year"
+          },
+          {
+            "category": "1 to 3 months"
+          },
+          {
+            "category": "Up to 1 month"
+          },
+          {
+            "category": "3 to 6 months"
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "2 years to 4 years"
+          },
+          {
+            "category": "4 years to 6 years"
+          },
+          {
+            "category": "3 to 6 months"
+          },
+          {
+            "category": "1 year to 2 years"
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "Master's degree"
+          },
+          {
+            "category": "Associate's degree"
+          },
+          {
+            "category": "Bachelor's degree"
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Working with Computers",
+          "tier_label": "High"
+        },
+        {
+          "name": "Working with Computers",
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "tier_label": "High"
+        },
+        {
+          "name": "Communicating with Supervisors, Peers, or Subordinates",
+          "tier_label": "High"
+        },
+        {
+          "name": "Interpreting the Meaning of Information for Others",
+          "tier_label": "High"
+        },
+        {
+          "name": "Analyzing Data or Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Updating and Using Relevant Knowledge",
+          "tier_label": "High"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "E-Mail",
+          "tier_label": "High"
+        },
+        {
+          "name": "E-Mail",
+          "tier_label": "High"
+        },
+        {
+          "name": "Work With or Contribute to a Work Group or Team",
+          "tier_label": "High"
+        },
+        {
+          "name": "Telephone Conversations",
+          "tier_label": "High"
+        },
+        {
+          "name": "Telephone Conversations",
+          "tier_label": "High"
+        },
+        {
+          "name": "Indoors, Environmentally Controlled",
+          "tier_label": "High"
+        },
+        {
+          "name": "Indoors, Environmentally Controlled",
+          "tier_label": "High"
+        },
+        {
+          "name": "Determine Tasks, Priorities and Goals",
+          "tier_label": "High"
+        },
+        {
+          "name": "Importance of Being Exact or Accurate",
+          "tier_label": "High"
+        },
+        {
+          "name": "Contact With Others",
+          "tier_label": "High"
+        }
+      ]
+    },
+    {
+      "soc_code": "15-1211.01",
+      "title": "Health Informatics Specialists",
+      "description": "Apply knowledge of nursing and informatics to assist in the design, development, and ongoing modification of computerized health care systems. May educate staff and assist in problem solving to promote the implementation of the health care system.",
+      "skills": [
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "High"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "tier_label": "High"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "High"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "High"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "High"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "High"
+        },
+        {
+          "name": "Writing",
+          "tier_label": "High"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Evaluation",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Evaluation",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Deductive Reasoning",
+          "tier_label": "High"
+        },
+        {
+          "name": "Written Comprehension",
+          "tier_label": "High"
+        },
+        {
+          "name": "Oral Comprehension",
+          "tier_label": "High"
+        },
+        {
+          "name": "Oral Expression",
+          "tier_label": "High"
+        },
+        {
+          "name": "Inductive Reasoning",
+          "tier_label": "High"
+        },
+        {
+          "name": "Deductive Reasoning",
+          "tier_label": "High"
+        },
+        {
+          "name": "Problem Sensitivity",
+          "tier_label": "High"
+        },
+        {
+          "name": "Information Ordering",
+          "tier_label": "High"
+        },
+        {
+          "name": "Written Expression",
+          "tier_label": "High"
+        },
+        {
+          "name": "Oral Expression",
+          "tier_label": "High"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Computers and Electronics",
+          "tier_label": "High"
+        },
+        {
+          "name": "Computers and Electronics",
+          "tier_label": "High"
+        },
+        {
+          "name": "English Language",
+          "tier_label": "High"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Medicine and Dentistry",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Education and Training",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Administration and Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "English Language",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Troubleshoot program and system malfunctions to restore normal functioning.",
+        "Provide staff and users with assistance solving computer-related problems, such as malfunctions and program problems.",
+        "Test, maintain, and monitor computer programs and systems, including coordinating the installation of computer programs and systems.",
+        "Use the computer in the analysis and solution of business problems, such as development of integrated production and inventory control and cost analysis systems.",
+        "Coordinate and link the computer systems within an organization to increase compatibility so that information can be shared.",
+        "Use object-oriented programming languages, as well as client and server applications development processes and multimedia and Internet technology.",
+        "Analyze information processing or computation needs and plan and design computer systems, using techniques such as structured analysis, data modeling, and information engineering.",
+        "Consult with management to ensure agreement on system principles.",
+        "Specify inputs accessed by the system and plan the distribution and use of the results.",
+        "Expand or modify system to serve new purposes or improve work flow."
+      ],
+      "technology_skills": [
+        {
+          "category": "Word processing software",
+          "example": "3M Post-it App"
+        },
+        {
+          "category": "Access software",
+          "example": "Access management software"
+        },
+        {
+          "category": "Requirements analysis and system architecture software",
+          "example": "AcmeStudio"
+        },
+        {
+          "category": "Internet directory services software",
+          "example": "Active directory software"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Ada"
+        },
+        {
+          "category": "Document management software",
+          "example": "Adobe Acrobat"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Adobe ActionScript"
+        },
+        {
+          "category": "Web platform development software",
+          "example": "Adobe ColdFusion"
+        },
+        {
+          "category": "Web page creation and editing software",
+          "example": "Adobe Dreamweaver"
+        },
+        {
+          "category": "Web platform development software",
+          "example": "Adobe Flex"
+        },
+        {
+          "category": "Graphics or photo imaging software",
+          "example": "Adobe Illustrator"
+        },
+        {
+          "category": "Graphics or photo imaging software",
+          "example": "Adobe Photoshop"
+        },
+        {
+          "category": "Human resources software",
+          "example": "ADP Workforce Now"
+        },
+        {
+          "category": "Object or component oriented development software",
+          "example": "Advanced business application programming ABAP"
+        },
+        {
+          "category": "Web platform development software",
+          "example": "AJAX"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Amazon DynamoDB"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Elastic Compute Cloud EC2"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Redshift"
+        },
+        {
+          "category": "Storage networking software",
+          "example": "Amazon Simple Storage Service S3"
+        },
+        {
+          "category": "Cloud-based management software",
+          "example": "Amazon Web Services AWS CloudFormation"
+        }
+      ],
+      "education_requirements": {
+        "Job-Related Professional Certification": [],
+        "Job-related Apprenticeship": [],
+        "On-Site or In-Plant Training": [
+          {
+            "category": "None"
+          },
+          {
+            "category": "3 to 6 months"
+          },
+          {
+            "category": "6 months to 1 year"
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "6 months to 1 year"
+          },
+          {
+            "category": "1 to 3 months"
+          },
+          {
+            "category": "Up to 1 month"
+          },
+          {
+            "category": "3 to 6 months"
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "2 years to 4 years"
+          },
+          {
+            "category": "4 years to 6 years"
+          },
+          {
+            "category": "3 to 6 months"
+          },
+          {
+            "category": "1 year to 2 years"
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "Master's degree"
+          },
+          {
+            "category": "Associate's degree"
+          },
+          {
+            "category": "Bachelor's degree"
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Working with Computers",
+          "tier_label": "High"
+        },
+        {
+          "name": "Working with Computers",
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "tier_label": "High"
+        },
+        {
+          "name": "Communicating with Supervisors, Peers, or Subordinates",
+          "tier_label": "High"
+        },
+        {
+          "name": "Interpreting the Meaning of Information for Others",
+          "tier_label": "High"
+        },
+        {
+          "name": "Analyzing Data or Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Updating and Using Relevant Knowledge",
+          "tier_label": "High"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "E-Mail",
+          "tier_label": "High"
+        },
+        {
+          "name": "E-Mail",
+          "tier_label": "High"
+        },
+        {
+          "name": "Work With or Contribute to a Work Group or Team",
+          "tier_label": "High"
+        },
+        {
+          "name": "Telephone Conversations",
+          "tier_label": "High"
+        },
+        {
+          "name": "Telephone Conversations",
+          "tier_label": "High"
+        },
+        {
+          "name": "Indoors, Environmentally Controlled",
+          "tier_label": "High"
+        },
+        {
+          "name": "Indoors, Environmentally Controlled",
+          "tier_label": "High"
+        },
+        {
+          "name": "Determine Tasks, Priorities and Goals",
+          "tier_label": "High"
+        },
+        {
+          "name": "Importance of Being Exact or Accurate",
+          "tier_label": "High"
+        },
+        {
+          "name": "Contact With Others",
+          "tier_label": "High"
+        }
+      ]
+    },
+    {
+      "soc_code": "15-1212.00",
+      "title": "Information Security Analysts",
+      "description": "Plan, implement, upgrade, or monitor security measures for the protection of computer networks and information. Assess system vulnerabilities for security risks and propose and implement risk mitigation strategies. May ensure appropriate security controls are in place that will safeguard digital files and vital electronic infrastructure. May respond to computer security breaches and viruses.",
+      "skills": [
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "High"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Writing",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Learning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Time Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Evaluation",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Coordination",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Quality Control Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operations Monitoring",
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Oral Comprehension",
+          "tier_label": "High"
+        },
+        {
+          "name": "Problem Sensitivity",
+          "tier_label": "High"
+        },
+        {
+          "name": "Deductive Reasoning",
+          "tier_label": "High"
+        },
+        {
+          "name": "Inductive Reasoning",
+          "tier_label": "High"
+        },
+        {
+          "name": "Written Comprehension",
+          "tier_label": "High"
+        },
+        {
+          "name": "Written Expression",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Information Ordering",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Oral Expression",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Near Vision",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Category Flexibility",
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Computers and Electronics",
+          "tier_label": "High"
+        },
+        {
+          "name": "English Language",
+          "tier_label": "High"
+        },
+        {
+          "name": "Administration and Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Telecommunications",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Engineering and Technology",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Public Safety and Security",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Education and Training",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Communications and Media",
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Develop plans to safeguard computer files against accidental or unauthorized modification, destruction, or disclosure and to meet emergency data processing needs.",
+        "Monitor current reports of computer viruses to determine when to update virus protection systems.",
+        "Encrypt data transmissions and erect firewalls to conceal confidential information as it is being transmitted and to keep out tainted digital transfers.",
+        "Perform risk assessments and execute tests of data processing system to ensure functioning of data processing activities and security measures.",
+        "Modify computer security files to incorporate new software, correct errors, or change individual access status.",
+        "Review violations of computer security procedures and discuss procedures with violators to ensure violations are not repeated.",
+        "Document computer security and emergency measures policies, procedures, and tests.",
+        "Confer with users to discuss issues such as computer data access needs, security violations, and programming changes.",
+        "Monitor use of data files and regulate access to safeguard information in computer files.",
+        "Coordinate implementation of computer system plan with establishment personnel and outside vendors."
+      ],
+      "technology_skills": [
+        {
+          "category": "Word processing software",
+          "example": "3M Post-it App"
+        },
+        {
+          "category": "Access software",
+          "example": "Access management software"
+        },
+        {
+          "category": "Network monitoring software",
+          "example": "AccessData FTK"
+        },
+        {
+          "category": "Internet directory services software",
+          "example": "Active directory software"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Adobe ActionScript"
+        },
+        {
+          "category": "Object or component oriented development software",
+          "example": "Advanced business application programming ABAP"
+        },
+        {
+          "category": "Web platform development software",
+          "example": "AJAX"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Amazon DynamoDB"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Elastic Compute Cloud EC2"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Redshift"
+        },
+        {
+          "category": "Storage networking software",
+          "example": "Amazon Simple Storage Service S3"
+        },
+        {
+          "category": "Cloud-based management software",
+          "example": "Amazon Web Services AWS CloudFormation"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Web Services AWS software"
+        },
+        {
+          "category": "Expert system software",
+          "example": "Ansible software"
+        },
+        {
+          "category": "Transaction security and virus protection software",
+          "example": "Anti-phishing software"
+        },
+        {
+          "category": "Transaction security and virus protection software",
+          "example": "Anti-spyware software"
+        },
+        {
+          "category": "Transaction security and virus protection software",
+          "example": "Anti-Trojan software"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Apache Ant"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Apache Cassandra"
+        },
+        {
+          "category": "Object or component oriented development software",
+          "example": "Apache Groovy"
+        }
+      ],
+      "education_requirements": {
+        "On-Site or In-Plant Training": [
+          {
+            "category": "None"
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "6 months to 1 year"
+          },
+          {
+            "category": "1 to 3 months"
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "2 years to 4 years"
+          },
+          {
+            "category": "4 years to 6 years"
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "Bachelor's degree"
+          },
+          {
+            "category": "Post-baccalaureate certificate"
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Working with Computers",
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Identifying Objects, Actions, and Events",
+          "tier_label": "High"
+        },
+        {
+          "name": "Evaluating Information to Determine Compliance with Standards",
+          "tier_label": "High"
+        },
+        {
+          "name": "Processing Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Analyzing Data or Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Updating and Using Relevant Knowledge",
+          "tier_label": "High"
+        },
+        {
+          "name": "Documenting/Recording Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Communicating with Supervisors, Peers, or Subordinates",
+          "tier_label": "High"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "tier_label": "Moderate"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "E-Mail",
+          "tier_label": "High"
+        },
+        {
+          "name": "Indoors, Environmentally Controlled",
+          "tier_label": "High"
+        },
+        {
+          "name": "Telephone Conversations",
+          "tier_label": "High"
+        },
+        {
+          "name": "Face-to-Face Discussions with Individuals and Within Teams",
+          "tier_label": "High"
+        },
+        {
+          "name": "Contact With Others",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Sitting",
+          "tier_label": "High"
+        },
+        {
+          "name": "Work With or Contribute to a Work Group or Team",
+          "tier_label": "High"
+        },
+        {
+          "name": "Determine Tasks, Priorities and Goals",
+          "tier_label": "High"
+        },
+        {
+          "name": "Importance of Being Exact or Accurate",
+          "tier_label": "High"
+        },
+        {
+          "name": "Freedom to Make Decisions",
+          "tier_label": "High"
+        }
+      ]
+    },
+    {
+      "soc_code": "15-1221.00",
+      "title": "Computer and Information Research Scientists",
+      "description": "Conduct research into fundamental computer and information science as theorists, designers, or inventors. Develop solutions to problems in the field of computer hardware and software.",
+      "skills": [
+        {
+          "name": "Complex Problem Solving",
+          "tier_label": "High"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "High"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "tier_label": "High"
+        },
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Evaluation",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Programming",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Learning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Writing",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Time Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Technology Design",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operations Analysis",
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Deductive Reasoning",
+          "tier_label": "High"
+        },
+        {
+          "name": "Inductive Reasoning",
+          "tier_label": "High"
+        },
+        {
+          "name": "Oral Comprehension",
+          "tier_label": "High"
+        },
+        {
+          "name": "Oral Expression",
+          "tier_label": "High"
+        },
+        {
+          "name": "Fluency of Ideas",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Problem Sensitivity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Written Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Written Expression",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Information Ordering",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Category Flexibility",
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Computers and Electronics",
+          "tier_label": "High"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "High"
+        },
+        {
+          "name": "Engineering and Technology",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "English Language",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Administration and Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Design",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Telecommunications",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Physics",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Sales and Marketing",
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Analyze problems to develop solutions involving computer hardware and software.",
+        "Apply theoretical expertise and innovation to create or apply new technology, such as adapting principles for applying computers to new uses.",
+        "Assign or schedule tasks to meet work priorities and goals.",
+        "Meet with managers, vendors, and others to solicit cooperation and resolve problems.",
+        "Design computers and the software that runs them.",
+        "Conduct logical analyses of business, scientific, engineering, and other technical problems, formulating mathematical models of problems for solution by computers.",
+        "Evaluate project plans and proposals to assess feasibility issues.",
+        "Participate in multidisciplinary projects in areas such as virtual reality, human-computer interaction, or robotics.",
+        "Consult with users, management, vendors, and technicians to determine computing needs and system requirements.",
+        "Develop and interpret organizational goals, policies, and procedures."
+      ],
+      "technology_skills": [
+        {
+          "category": "Graphics or photo imaging software",
+          "example": "3D graphics software"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Ada"
+        },
+        {
+          "category": "Analytical or scientific software",
+          "example": "Advanced numerical software"
+        },
+        {
+          "category": "Analytical or scientific software",
+          "example": "Algorithmic software"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Amazon DynamoDB"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Elastic Compute Cloud EC2"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Redshift"
+        },
+        {
+          "category": "Cloud-based management software",
+          "example": "Amazon Web Services AWS CloudFormation"
+        },
+        {
+          "category": "Cloud-based management software",
+          "example": "Amazon Web Services AWS SageMaker"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Web Services AWS software"
+        },
+        {
+          "category": "Expert system software",
+          "example": "Ansible software"
+        },
+        {
+          "category": "Procedure management software",
+          "example": "Apache Airflow"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Apache Cassandra"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Apache Flume"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Apache Hadoop"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Apache Hive"
+        },
+        {
+          "category": "Portal server software",
+          "example": "Apache HTTP Server"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Apache Kafka"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Apache Pig"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Apache Solr"
+        }
+      ],
+      "education_requirements": {
+        "On-Site or In-Plant Training": [
+          {
+            "category": "Up to 1 month"
+          },
+          {
+            "category": "1 to 3 months"
+          },
+          {
+            "category": "6 months to 1 year"
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "6 months to 1 year"
+          },
+          {
+            "category": "3 to 6 months"
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "2 years to 4 years"
+          },
+          {
+            "category": "4 years to 6 years"
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "Bachelor's degree"
+          },
+          {
+            "category": "Doctoral degree"
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Working with Computers",
+          "tier_label": "High"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Updating and Using Relevant Knowledge",
+          "tier_label": "High"
+        },
+        {
+          "name": "Analyzing Data or Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Thinking Creatively",
+          "tier_label": "High"
+        },
+        {
+          "name": "Documenting/Recording Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Processing Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Identifying Objects, Actions, and Events",
+          "tier_label": "High"
+        },
+        {
+          "name": "Communicating with Supervisors, Peers, or Subordinates",
+          "tier_label": "High"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "E-Mail",
+          "tier_label": "High"
+        },
+        {
+          "name": "Indoors, Environmentally Controlled",
+          "tier_label": "High"
+        },
+        {
+          "name": "Face-to-Face Discussions with Individuals and Within Teams",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Sitting",
+          "tier_label": "High"
+        },
+        {
+          "name": "Contact With Others",
+          "tier_label": "High"
+        },
+        {
+          "name": "Work With or Contribute to a Work Group or Team",
+          "tier_label": "High"
+        },
+        {
+          "name": "Telephone Conversations",
+          "tier_label": "High"
+        },
+        {
+          "name": "Freedom to Make Decisions",
+          "tier_label": "High"
+        },
+        {
+          "name": "Determine Tasks, Priorities and Goals",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Importance of Being Exact or Accurate",
+          "tier_label": "Moderate"
+        }
+      ]
+    },
+    {
+      "soc_code": "15-1231.00",
+      "title": "Computer Network Support Specialists",
+      "description": "Analyze, test, troubleshoot, and evaluate existing network systems, such as local area networks (LAN), wide area networks (WAN), cloud networks, servers, and other data communications networks. Perform network maintenance to ensure networks operate correctly with minimal interruption.",
+      "skills": [
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Learning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Troubleshooting",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Evaluation",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Time Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Writing",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operations Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Social Perceptiveness",
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Oral Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Problem Sensitivity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Deductive Reasoning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Oral Expression",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Inductive Reasoning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Written Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Information Ordering",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speech Recognition",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Near Vision",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speech Clarity",
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Computers and Electronics",
+          "tier_label": "High"
+        },
+        {
+          "name": "Telecommunications",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Engineering and Technology",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "English Language",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Administration and Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Communications and Media",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Education and Training",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Administrative",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Design",
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Back up network data.",
+        "Configure security settings or access permissions for groups or individuals.",
+        "Analyze and report computer network security breaches or attempted breaches.",
+        "Identify the causes of networking problems, using diagnostic testing software and equipment.",
+        "Document network support activities.",
+        "Configure wide area network (WAN) or local area network (LAN) routers or related equipment.",
+        "Install network software, including security or firewall software.",
+        "Troubleshoot network or connectivity problems for users or user groups.",
+        "Provide telephone support related to networking or connectivity issues.",
+        "Evaluate local area network (LAN) or wide area network (WAN) performance data to ensure sufficient availability or speed, to identify network problems, or for disaster recovery purposes."
+      ],
+      "technology_skills": [
+        {
+          "category": "Document management software",
+          "example": "Adobe Acrobat"
+        },
+        {
+          "category": "Transaction security and virus protection software",
+          "example": "Anti-spyware software"
+        },
+        {
+          "category": "Transaction security and virus protection software",
+          "example": "Antivirus software"
+        },
+        {
+          "category": "Web platform development software",
+          "example": "Apache Tomcat"
+        },
+        {
+          "category": "Operating system software",
+          "example": "Apple macOS"
+        },
+        {
+          "category": "Configuration management software",
+          "example": "Application management software"
+        },
+        {
+          "category": "Network monitoring software",
+          "example": "Arping"
+        },
+        {
+          "category": "Configuration management software",
+          "example": "Automated installation software"
+        },
+        {
+          "category": "Network monitoring software",
+          "example": "B&W Port Scanner"
+        },
+        {
+          "category": "Operating system software",
+          "example": "Bash"
+        },
+        {
+          "category": "Project management software",
+          "example": "Bentley Systems ProjectWise"
+        },
+        {
+          "category": "Network monitoring software",
+          "example": "BitWizard B.V. mtr"
+        },
+        {
+          "category": "Operating system software",
+          "example": "BlackBerry Enterprise Server"
+        },
+        {
+          "category": "Enterprise application integration software",
+          "example": "BMC Software Control-M"
+        },
+        {
+          "category": "Helpdesk or call center software",
+          "example": "BMC Software Remedy IT Service Management Suite"
+        },
+        {
+          "category": "Switch or router software",
+          "example": "Border Gateway Protocol BGP"
+        },
+        {
+          "category": "Network monitoring software",
+          "example": "Cisco Systems Cisco NetFlow Collection Engine"
+        },
+        {
+          "category": "Network monitoring software",
+          "example": "Cisco Systems Cisco Traffic Analyzer"
+        },
+        {
+          "category": "Administration software",
+          "example": "Cisco Systems CiscoWorks"
+        },
+        {
+          "category": "Administration software",
+          "example": "Cisco Systems CiscoWorks LAN Management Solution"
+        }
+      ],
+      "education_requirements": {
+        "On-Site or In-Plant Training": [
+          {
+            "category": "6 months to 1 year"
+          },
+          {
+            "category": "3 to 6 months"
+          },
+          {
+            "category": "2 to 4 years"
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "6 months to 1 year"
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "4 years to 6 years"
+          },
+          {
+            "category": "1 year to 2 years"
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "Bachelor's degree"
+          },
+          {
+            "category": "Associate's degree"
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Working with Computers",
+          "tier_label": "High"
+        },
+        {
+          "name": "Updating and Using Relevant Knowledge",
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Communicating with Supervisors, Peers, or Subordinates",
+          "tier_label": "High"
+        },
+        {
+          "name": "Establishing and Maintaining Interpersonal Relationships",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Analyzing Data or Information",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Processing Information",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Organizing, Planning, and Prioritizing Work",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Evaluating Information to Determine Compliance with Standards",
+          "tier_label": "Moderate"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "Telephone Conversations",
+          "tier_label": "High"
+        },
+        {
+          "name": "E-Mail",
+          "tier_label": "High"
+        },
+        {
+          "name": "Indoors, Environmentally Controlled",
+          "tier_label": "High"
+        },
+        {
+          "name": "Face-to-Face Discussions with Individuals and Within Teams",
+          "tier_label": "High"
+        },
+        {
+          "name": "Contact With Others",
+          "tier_label": "High"
+        },
+        {
+          "name": "Work With or Contribute to a Work Group or Team",
+          "tier_label": "High"
+        },
+        {
+          "name": "Importance of Being Exact or Accurate",
+          "tier_label": "High"
+        },
+        {
+          "name": "Determine Tasks, Priorities and Goals",
+          "tier_label": "High"
+        },
+        {
+          "name": "Freedom to Make Decisions",
+          "tier_label": "High"
+        },
+        {
+          "name": "Time Pressure",
+          "tier_label": "Moderate"
+        }
+      ]
+    },
+    {
+      "soc_code": "15-1232.00",
+      "title": "Computer User Support Specialists",
+      "description": "Provide technical assistance to computer users. Answer questions or resolve computer problems for clients in person, via telephone, or electronically. May provide assistance concerning the use of computer hardware and software, including printing, installation, word processing, electronic mail, and operating systems.",
+      "skills": [
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "High"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "High"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "High"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Writing",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Learning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Learning Strategies",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Social Perceptiveness",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Service Orientation",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Time Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Troubleshooting",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operations Monitoring",
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Oral Comprehension",
+          "tier_label": "High"
+        },
+        {
+          "name": "Oral Expression",
+          "tier_label": "High"
+        },
+        {
+          "name": "Written Comprehension",
+          "tier_label": "High"
+        },
+        {
+          "name": "Written Expression",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Near Vision",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Information Ordering",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speech Recognition",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speech Clarity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Deductive Reasoning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Problem Sensitivity",
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Computers and Electronics",
+          "tier_label": "High"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "tier_label": "High"
+        },
+        {
+          "name": "Telecommunications",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "English Language",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Education and Training",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mechanical",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Engineering and Technology",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Administration and Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Administrative",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Communications and Media",
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Oversee the daily performance of computer systems.",
+        "Set up equipment for employee use, performing or ensuring proper installation of cables, operating systems, or appropriate software.",
+        "Read technical manuals, confer with users, or conduct computer diagnostics to investigate and resolve problems or to provide technical assistance and support.",
+        "Answer user inquiries regarding computer software or hardware operation to resolve problems.",
+        "Install and perform minor repairs to hardware, software, or peripheral equipment, following design or installation specifications.",
+        "Confer with staff, users, and management to establish requirements for new systems or modifications.",
+        "Enter commands and observe system functioning to verify correct operations and detect errors.",
+        "Maintain records of daily data communication transactions, problems and remedial actions taken, or installation activities.",
+        "Refer major hardware or software problems or defective products to vendors or technicians for service.",
+        "Prepare evaluations of software or hardware, and recommend improvements or upgrades."
+      ],
+      "technology_skills": [
+        {
+          "category": "Word processing software",
+          "example": "3M Post-it App"
+        },
+        {
+          "category": "Internet directory services software",
+          "example": "Active directory software"
+        },
+        {
+          "category": "Document management software",
+          "example": "Adobe Acrobat"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Adobe ActionScript"
+        },
+        {
+          "category": "Graphics or photo imaging software",
+          "example": "Adobe Creative Cloud software"
+        },
+        {
+          "category": "Desktop publishing software",
+          "example": "Adobe Distiller"
+        },
+        {
+          "category": "Web page creation and editing software",
+          "example": "Adobe Dreamweaver"
+        },
+        {
+          "category": "Graphics or photo imaging software",
+          "example": "Adobe Illustrator"
+        },
+        {
+          "category": "Desktop publishing software",
+          "example": "Adobe InDesign"
+        },
+        {
+          "category": "Graphics or photo imaging software",
+          "example": "Adobe Photoshop"
+        },
+        {
+          "category": "Object or component oriented development software",
+          "example": "Advanced business application programming ABAP"
+        },
+        {
+          "category": "Web platform development software",
+          "example": "AJAX"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Redshift"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Web Services AWS software"
+        },
+        {
+          "category": "Expert system software",
+          "example": "Ansible software"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Apache Ant"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Apache Cassandra"
+        },
+        {
+          "category": "Object or component oriented development software",
+          "example": "Apache Groovy"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Apache Hadoop"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Apache Hive"
+        }
+      ],
+      "education_requirements": {
+        "Job-Related Professional Certification": [],
+        "Job-related Apprenticeship": [],
+        "On-Site or In-Plant Training": [
+          {
+            "category": "1 to 3 months"
+          },
+          {
+            "category": "Up to 1 month"
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "1 to 3 months"
+          },
+          {
+            "category": "Up to 1 month"
+          },
+          {
+            "category": "6 months to 1 year"
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "2 years to 4 years"
+          },
+          {
+            "category": "6 months to 1 year"
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "Bachelor's degree"
+          },
+          {
+            "category": "Post-secondary certificate"
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Working with Computers",
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Communicating with Supervisors, Peers, or Subordinates",
+          "tier_label": "High"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "tier_label": "High"
+        },
+        {
+          "name": "Updating and Using Relevant Knowledge",
+          "tier_label": "High"
+        },
+        {
+          "name": "Processing Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Documenting/Recording Information",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Establishing and Maintaining Interpersonal Relationships",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Interpreting the Meaning of Information for Others",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Monitoring Processes, Materials, or Surroundings",
+          "tier_label": "Moderate"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "E-Mail",
+          "tier_label": "High"
+        },
+        {
+          "name": "Indoors, Environmentally Controlled",
+          "tier_label": "High"
+        },
+        {
+          "name": "Face-to-Face Discussions with Individuals and Within Teams",
+          "tier_label": "High"
+        },
+        {
+          "name": "Telephone Conversations",
+          "tier_label": "High"
+        },
+        {
+          "name": "Freedom to Make Decisions",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",
+          "tier_label": "High"
+        },
+        {
+          "name": "Determine Tasks, Priorities and Goals",
+          "tier_label": "High"
+        },
+        {
+          "name": "Contact With Others",
+          "tier_label": "High"
+        },
+        {
+          "name": "Coordinate or Lead Others in Accomplishing Work Activities",
+          "tier_label": "High"
+        },
+        {
+          "name": "Work Outcomes and Results of Other Workers",
+          "tier_label": "High"
+        }
+      ]
+    },
+    {
+      "soc_code": "15-1241.00",
+      "title": "Computer Network Architects",
+      "description": "Design and implement computer and information networks, such as local area networks (LAN), wide area networks (WAN), intranets, extranets, and other data communications networks. Perform network modeling, analysis, and planning, including analysis of capacity needs for network infrastructures. May also design network and computer security measures. May research and recommend network and data communications hardware and software.",
+      "skills": [
+        {
+          "name": "Critical Thinking",
+          "tier_label": "High"
+        },
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "High"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Evaluation",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Programming",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Writing",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Coordination",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Learning",
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Oral Comprehension",
+          "tier_label": "High"
+        },
+        {
+          "name": "Category Flexibility",
+          "tier_label": "High"
+        },
+        {
+          "name": "Written Expression",
+          "tier_label": "High"
+        },
+        {
+          "name": "Written Comprehension",
+          "tier_label": "High"
+        },
+        {
+          "name": "Problem Sensitivity",
+          "tier_label": "High"
+        },
+        {
+          "name": "Deductive Reasoning",
+          "tier_label": "High"
+        },
+        {
+          "name": "Inductive Reasoning",
+          "tier_label": "High"
+        },
+        {
+          "name": "Information Ordering",
+          "tier_label": "High"
+        },
+        {
+          "name": "Oral Expression",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Near Vision",
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Telecommunications",
+          "tier_label": "High"
+        },
+        {
+          "name": "Computers and Electronics",
+          "tier_label": "High"
+        },
+        {
+          "name": "Engineering and Technology",
+          "tier_label": "High"
+        },
+        {
+          "name": "Telecommunications",
+          "tier_label": "High"
+        },
+        {
+          "name": "Computers and Electronics",
+          "tier_label": "High"
+        },
+        {
+          "name": "Engineering and Technology",
+          "tier_label": "High"
+        },
+        {
+          "name": "English Language",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "English Language",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Develop disaster recovery plans.",
+        "Develop or recommend network security measures, such as firewalls, network security audits, or automated security probes.",
+        "Develop and implement solutions for network problems.",
+        "Maintain networks by performing activities such as file addition, deletion, or backup.",
+        "Coordinate network operations, maintenance, repairs, or upgrades.",
+        "Coordinate installation of new equipment.",
+        "Monitor and analyze network performance and reports on data input or output to detect problems, identify inefficient use of computer resources, or perform capacity planning.",
+        "Develop network-related documentation.",
+        "Develop and write procedures for installation, use, or troubleshooting of communications hardware or software.",
+        "Participate in network technology upgrade or expansion projects, including installation of hardware and software and integration testing."
+      ],
+      "technology_skills": [
+        {
+          "category": "Access software",
+          "example": "Access management software"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Adobe ActionScript"
+        },
+        {
+          "category": "Video creation and editing software",
+          "example": "Adobe After Effects"
+        },
+        {
+          "category": "Object or component oriented development software",
+          "example": "Advanced business application programming ABAP"
+        },
+        {
+          "category": "Network monitoring software",
+          "example": "AirMagnet Enterprise"
+        },
+        {
+          "category": "Web platform development software",
+          "example": "AJAX"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Amazon DynamoDB"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Elastic Compute Cloud EC2"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Redshift"
+        },
+        {
+          "category": "Storage networking software",
+          "example": "Amazon Simple Storage Service S3"
+        },
+        {
+          "category": "Cloud-based management software",
+          "example": "Amazon Web Services AWS CloudFormation"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Web Services AWS software"
+        },
+        {
+          "category": "Expert system software",
+          "example": "Ansible software"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Apache Ant"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Apache Cassandra"
+        },
+        {
+          "category": "Object or component oriented development software",
+          "example": "Apache Groovy"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Apache Hadoop"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Apache Hive"
+        },
+        {
+          "category": "Portal server software",
+          "example": "Apache HTTP Server"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Apache Kafka"
+        }
+      ],
+      "education_requirements": {
+        "Job-Related Professional Certification": [],
+        "Job-related Apprenticeship": [],
+        "On-Site or In-Plant Training": [
+          {
+            "category": "3 to 6 months"
+          },
+          {
+            "category": "6 months to 1 year"
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "6 months to 1 year"
+          },
+          {
+            "category": "1 to 3 months"
+          },
+          {
+            "category": "1 to 2 years"
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "2 years to 4 years"
+          },
+          {
+            "category": "4 years to 6 years"
+          },
+          {
+            "category": "1 year to 2 years"
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "Bachelor's degree"
+          },
+          {
+            "category": "Post-secondary certificate"
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Working with Computers",
+          "tier_label": "High"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "tier_label": "High"
+        },
+        {
+          "name": "Working with Computers",
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Communicating with Supervisors, Peers, or Subordinates",
+          "tier_label": "High"
+        },
+        {
+          "name": "Updating and Using Relevant Knowledge",
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Updating and Using Relevant Knowledge",
+          "tier_label": "High"
+        },
+        {
+          "name": "Processing Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Evaluating Information to Determine Compliance with Standards",
+          "tier_label": "High"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "E-Mail",
+          "tier_label": "High"
+        },
+        {
+          "name": "E-Mail",
+          "tier_label": "High"
+        },
+        {
+          "name": "Telephone Conversations",
+          "tier_label": "High"
+        },
+        {
+          "name": "Indoors, Environmentally Controlled",
+          "tier_label": "High"
+        },
+        {
+          "name": "Face-to-Face Discussions with Individuals and Within Teams",
+          "tier_label": "High"
+        },
+        {
+          "name": "Contact With Others",
+          "tier_label": "High"
+        },
+        {
+          "name": "Face-to-Face Discussions with Individuals and Within Teams",
+          "tier_label": "High"
+        },
+        {
+          "name": "Work With or Contribute to a Work Group or Team",
+          "tier_label": "High"
+        },
+        {
+          "name": "Telephone Conversations",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Sitting",
+          "tier_label": "High"
+        }
+      ]
+    },
+    {
+      "soc_code": "15-1241.01",
+      "title": "Telecommunications Engineering Specialists",
+      "description": "Design or configure wired, wireless, and satellite communications systems for voice, video, and data services. Supervise installation, service, and maintenance.",
+      "skills": [
+        {
+          "name": "Critical Thinking",
+          "tier_label": "High"
+        },
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "High"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Evaluation",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Programming",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Writing",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Coordination",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Learning",
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Oral Comprehension",
+          "tier_label": "High"
+        },
+        {
+          "name": "Category Flexibility",
+          "tier_label": "High"
+        },
+        {
+          "name": "Written Expression",
+          "tier_label": "High"
+        },
+        {
+          "name": "Written Comprehension",
+          "tier_label": "High"
+        },
+        {
+          "name": "Problem Sensitivity",
+          "tier_label": "High"
+        },
+        {
+          "name": "Deductive Reasoning",
+          "tier_label": "High"
+        },
+        {
+          "name": "Inductive Reasoning",
+          "tier_label": "High"
+        },
+        {
+          "name": "Information Ordering",
+          "tier_label": "High"
+        },
+        {
+          "name": "Oral Expression",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Near Vision",
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Telecommunications",
+          "tier_label": "High"
+        },
+        {
+          "name": "Computers and Electronics",
+          "tier_label": "High"
+        },
+        {
+          "name": "Engineering and Technology",
+          "tier_label": "High"
+        },
+        {
+          "name": "Telecommunications",
+          "tier_label": "High"
+        },
+        {
+          "name": "Computers and Electronics",
+          "tier_label": "High"
+        },
+        {
+          "name": "Engineering and Technology",
+          "tier_label": "High"
+        },
+        {
+          "name": "English Language",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "English Language",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Develop disaster recovery plans.",
+        "Develop or recommend network security measures, such as firewalls, network security audits, or automated security probes.",
+        "Develop and implement solutions for network problems.",
+        "Maintain networks by performing activities such as file addition, deletion, or backup.",
+        "Coordinate network operations, maintenance, repairs, or upgrades.",
+        "Coordinate installation of new equipment.",
+        "Monitor and analyze network performance and reports on data input or output to detect problems, identify inefficient use of computer resources, or perform capacity planning.",
+        "Develop network-related documentation.",
+        "Develop and write procedures for installation, use, or troubleshooting of communications hardware or software.",
+        "Participate in network technology upgrade or expansion projects, including installation of hardware and software and integration testing."
+      ],
+      "technology_skills": [
+        {
+          "category": "Access software",
+          "example": "Access management software"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Adobe ActionScript"
+        },
+        {
+          "category": "Video creation and editing software",
+          "example": "Adobe After Effects"
+        },
+        {
+          "category": "Object or component oriented development software",
+          "example": "Advanced business application programming ABAP"
+        },
+        {
+          "category": "Network monitoring software",
+          "example": "AirMagnet Enterprise"
+        },
+        {
+          "category": "Web platform development software",
+          "example": "AJAX"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Amazon DynamoDB"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Elastic Compute Cloud EC2"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Redshift"
+        },
+        {
+          "category": "Storage networking software",
+          "example": "Amazon Simple Storage Service S3"
+        },
+        {
+          "category": "Cloud-based management software",
+          "example": "Amazon Web Services AWS CloudFormation"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Web Services AWS software"
+        },
+        {
+          "category": "Expert system software",
+          "example": "Ansible software"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Apache Ant"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Apache Cassandra"
+        },
+        {
+          "category": "Object or component oriented development software",
+          "example": "Apache Groovy"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Apache Hadoop"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Apache Hive"
+        },
+        {
+          "category": "Portal server software",
+          "example": "Apache HTTP Server"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Apache Kafka"
+        }
+      ],
+      "education_requirements": {
+        "Job-Related Professional Certification": [],
+        "Job-related Apprenticeship": [],
+        "On-Site or In-Plant Training": [
+          {
+            "category": "3 to 6 months"
+          },
+          {
+            "category": "6 months to 1 year"
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "6 months to 1 year"
+          },
+          {
+            "category": "1 to 3 months"
+          },
+          {
+            "category": "1 to 2 years"
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "2 years to 4 years"
+          },
+          {
+            "category": "4 years to 6 years"
+          },
+          {
+            "category": "1 year to 2 years"
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "Bachelor's degree"
+          },
+          {
+            "category": "Post-secondary certificate"
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Working with Computers",
+          "tier_label": "High"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "tier_label": "High"
+        },
+        {
+          "name": "Working with Computers",
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Communicating with Supervisors, Peers, or Subordinates",
+          "tier_label": "High"
+        },
+        {
+          "name": "Updating and Using Relevant Knowledge",
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Updating and Using Relevant Knowledge",
+          "tier_label": "High"
+        },
+        {
+          "name": "Processing Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Evaluating Information to Determine Compliance with Standards",
+          "tier_label": "High"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "E-Mail",
+          "tier_label": "High"
+        },
+        {
+          "name": "E-Mail",
+          "tier_label": "High"
+        },
+        {
+          "name": "Telephone Conversations",
+          "tier_label": "High"
+        },
+        {
+          "name": "Indoors, Environmentally Controlled",
+          "tier_label": "High"
+        },
+        {
+          "name": "Face-to-Face Discussions with Individuals and Within Teams",
+          "tier_label": "High"
+        },
+        {
+          "name": "Contact With Others",
+          "tier_label": "High"
+        },
+        {
+          "name": "Face-to-Face Discussions with Individuals and Within Teams",
+          "tier_label": "High"
+        },
+        {
+          "name": "Work With or Contribute to a Work Group or Team",
+          "tier_label": "High"
+        },
+        {
+          "name": "Telephone Conversations",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Sitting",
+          "tier_label": "High"
+        }
+      ]
+    },
+    {
+      "soc_code": "15-1242.00",
+      "title": "Database Administrators",
+      "description": "Administer, test, and implement computer databases, applying knowledge of database management systems. Coordinate changes to computer databases. Identify, investigate, and resolve database performance issues, database capacity, and database scalability. May plan, coordinate, and implement security measures to safeguard computer databases.",
+      "skills": [
+        {
+          "name": "Complex Problem Solving",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Learning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Programming",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Writing",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Evaluation",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operations Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Coordination",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Deductive Reasoning",
+          "tier_label": "High"
+        },
+        {
+          "name": "Oral Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Problem Sensitivity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Inductive Reasoning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Information Ordering",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Written Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Near Vision",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Oral Expression",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Written Expression",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Category Flexibility",
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Computers and Electronics",
+          "tier_label": "High"
+        },
+        {
+          "name": "English Language",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Telecommunications",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Engineering and Technology",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Administration and Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Education and Training",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Design",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Economics and Accounting",
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Modify existing databases and database management systems or direct programmers and analysts to make changes.",
+        "Plan, coordinate, and implement security measures to safeguard information in computer files against accidental or unauthorized damage, modification or disclosure.",
+        "Plan and install upgrades of database management system software to enhance database performance.",
+        "Specify users and user access levels for each segment of database.",
+        "Test changes to database applications or systems.",
+        "Test programs or databases, correct errors, and make necessary modifications.",
+        "Train users and answer questions.",
+        "Provide technical support to junior staff or clients.",
+        "Approve, schedule, plan, and supervise the installation and testing of new products and improvements to computer systems, such as the installation of new databases.",
+        "Develop standards and guidelines for the use and acquisition of software and to protect vulnerable information."
+      ],
+      "technology_skills": [
+        {
+          "category": "Enterprise resource planning ERP software",
+          "example": "Ab Initio"
+        },
+        {
+          "category": "Access software",
+          "example": "Access management software"
+        },
+        {
+          "category": "Backup or archival software",
+          "example": "Acronis Recovery Expert"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "ADO.NET"
+        },
+        {
+          "category": "Web page creation and editing software",
+          "example": "Adobe Dreamweaver"
+        },
+        {
+          "category": "Object or component oriented development software",
+          "example": "Advanced business application programming ABAP"
+        },
+        {
+          "category": "Web platform development software",
+          "example": "AJAX"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Amazon Data Pipeline"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Amazon DynamoDB"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Elastic Compute Cloud EC2"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Redshift"
+        },
+        {
+          "category": "Storage networking software",
+          "example": "Amazon Simple Storage Service S3"
+        },
+        {
+          "category": "Cloud-based management software",
+          "example": "Amazon Web Services AWS CloudFormation"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Web Services AWS software"
+        },
+        {
+          "category": "Expert system software",
+          "example": "Ansible software"
+        },
+        {
+          "category": "Procedure management software",
+          "example": "Apache Airflow"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Apache Ant"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Apache Cassandra"
+        },
+        {
+          "category": "Object or component oriented development software",
+          "example": "Apache Groovy"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Apache Hadoop"
+        }
+      ],
+      "education_requirements": {
+        "Job-Related Professional Certification": [],
+        "Job-related Apprenticeship": [],
+        "On-Site or In-Plant Training": [
+          {
+            "category": "3 to 6 months"
+          },
+          {
+            "category": "None"
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "3 to 6 months"
+          },
+          {
+            "category": "Up to 1 month"
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "4 years to 6 years"
+          },
+          {
+            "category": "2 years to 4 years"
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "Bachelor's degree"
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Working with Computers",
+          "tier_label": "High"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Identifying Objects, Actions, and Events",
+          "tier_label": "High"
+        },
+        {
+          "name": "Analyzing Data or Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Processing Information",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Establishing and Maintaining Interpersonal Relationships",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Communicating with Supervisors, Peers, or Subordinates",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Evaluating Information to Determine Compliance with Standards",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Thinking Creatively",
+          "tier_label": "Moderate"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "E-Mail",
+          "tier_label": "High"
+        },
+        {
+          "name": "Indoors, Environmentally Controlled",
+          "tier_label": "High"
+        },
+        {
+          "name": "Work With or Contribute to a Work Group or Team",
+          "tier_label": "High"
+        },
+        {
+          "name": "Telephone Conversations",
+          "tier_label": "High"
+        },
+        {
+          "name": "Freedom to Make Decisions",
+          "tier_label": "High"
+        },
+        {
+          "name": "Importance of Being Exact or Accurate",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Sitting",
+          "tier_label": "High"
+        },
+        {
+          "name": "Determine Tasks, Priorities and Goals",
+          "tier_label": "High"
+        },
+        {
+          "name": "Contact With Others",
+          "tier_label": "High"
+        },
+        {
+          "name": "Frequency of Decision Making",
+          "tier_label": "Moderate"
+        }
+      ]
+    },
+    {
+      "soc_code": "15-1243.00",
+      "title": "Database Architects",
+      "description": "Design strategies for enterprise databases, data warehouse systems, and multidimensional networks. Set standards for database operations, programming, query processes, and security. Model, design, and construct large relational databases or data warehouses. Create and optimize data models for warehouse infrastructure and workflow. Integrate new systems with existing warehouse structure and refine system performance and functionality.",
+      "skills": [
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Programming",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Programming",
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Oral Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Information Ordering",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Written Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Written Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Deductive Reasoning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Information Ordering",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Inductive Reasoning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Deductive Reasoning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Oral Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Inductive Reasoning",
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Computers and Electronics",
+          "tier_label": "High"
+        },
+        {
+          "name": "Computers and Electronics",
+          "tier_label": "High"
+        },
+        {
+          "name": "Engineering and Technology",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Design",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "English Language",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "English Language",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Design",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Engineering and Technology",
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Develop and document database architectures.",
+        "Collaborate with system architects, software architects, design analysts, and others to understand business or industry requirements.",
+        "Develop database architectural strategies at the modeling, design and implementation stages to address business or industry requirements.",
+        "Design databases to support business applications, ensuring system scalability, security, performance, and reliability.",
+        "Develop data models for applications, metadata tables, views or related database structures.",
+        "Design database applications, such as interfaces, data transfer mechanisms, global temporary tables, data partitions, and function-based indexes to enable efficient access of the generic database structure.",
+        "Develop methods for integrating different products so they work properly together, such as customizing commercial databases to fit specific needs.",
+        "Create and enforce database development standards.",
+        "Document and communicate database schemas, using accepted notations.",
+        "Develop data model describing data elements and their use, following procedures and using pen, template or computer software."
+      ],
+      "technology_skills": [
+        {
+          "category": "Word processing software",
+          "example": "3M Post-it App"
+        },
+        {
+          "category": "Enterprise resource planning ERP software",
+          "example": "Ab Initio"
+        },
+        {
+          "category": "Access software",
+          "example": "Access management software"
+        },
+        {
+          "category": "Backup or archival software",
+          "example": "Acronis Recovery Expert"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Adeptia ETL Suite"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "ADO.NET"
+        },
+        {
+          "category": "Document management software",
+          "example": "Adobe Acrobat"
+        },
+        {
+          "category": "Web page creation and editing software",
+          "example": "Adobe Dreamweaver"
+        },
+        {
+          "category": "Object or component oriented development software",
+          "example": "Advanced business application programming ABAP"
+        },
+        {
+          "category": "Web platform development software",
+          "example": "AJAX"
+        },
+        {
+          "category": "Metadata management software",
+          "example": "Altova MapForce"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Amazon DynamoDB"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Elastic Compute Cloud EC2"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Amazon Kinesis"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Redshift"
+        },
+        {
+          "category": "Storage networking software",
+          "example": "Amazon Simple Storage Service S3"
+        },
+        {
+          "category": "Cloud-based management software",
+          "example": "Amazon Web Services AWS CloudFormation"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Web Services AWS software"
+        },
+        {
+          "category": "Expert system software",
+          "example": "Ansible software"
+        },
+        {
+          "category": "Procedure management software",
+          "example": "Apache Airflow"
+        }
+      ],
+      "education_requirements": {
+        "Job-Related Professional Certification": [],
+        "Job-related Apprenticeship": [],
+        "On-Site or In-Plant Training": [
+          {
+            "category": "None"
+          },
+          {
+            "category": "Up to 1 month"
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "Up to 1 month"
+          },
+          {
+            "category": "3 to 6 months"
+          },
+          {
+            "category": "1 to 3 months"
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "2 years to 4 years"
+          },
+          {
+            "category": "4 years to 6 years"
+          },
+          {
+            "category": "6 years to 8 years"
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "Bachelor's degree"
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Working with Computers",
+          "tier_label": "High"
+        },
+        {
+          "name": "Working with Computers",
+          "tier_label": "High"
+        },
+        {
+          "name": "Analyzing Data or Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Analyzing Data or Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Processing Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Processing Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "tier_label": "High"
+        },
+        {
+          "name": "Updating and Using Relevant Knowledge",
+          "tier_label": "High"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "E-Mail",
+          "tier_label": "High"
+        },
+        {
+          "name": "E-Mail",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Sitting",
+          "tier_label": "High"
+        },
+        {
+          "name": "Indoors, Environmentally Controlled",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Sitting",
+          "tier_label": "High"
+        },
+        {
+          "name": "Face-to-Face Discussions with Individuals and Within Teams",
+          "tier_label": "High"
+        },
+        {
+          "name": "Telephone Conversations",
+          "tier_label": "High"
+        },
+        {
+          "name": "Importance of Being Exact or Accurate",
+          "tier_label": "High"
+        },
+        {
+          "name": "Telephone Conversations",
+          "tier_label": "High"
+        },
+        {
+          "name": "Work With or Contribute to a Work Group or Team",
+          "tier_label": "High"
+        }
+      ]
+    },
+    {
+      "soc_code": "15-1243.01",
+      "title": "Data Warehousing Specialists",
+      "description": "Design, model, or implement corporate data warehousing activities. Program and configure warehouses of database information and provide support to warehouse users.",
+      "skills": [
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Programming",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Programming",
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Oral Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Information Ordering",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Written Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Written Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Deductive Reasoning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Information Ordering",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Inductive Reasoning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Deductive Reasoning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Oral Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Inductive Reasoning",
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Computers and Electronics",
+          "tier_label": "High"
+        },
+        {
+          "name": "Computers and Electronics",
+          "tier_label": "High"
+        },
+        {
+          "name": "Engineering and Technology",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Design",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "English Language",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "English Language",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Design",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Engineering and Technology",
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Develop and document database architectures.",
+        "Collaborate with system architects, software architects, design analysts, and others to understand business or industry requirements.",
+        "Develop database architectural strategies at the modeling, design and implementation stages to address business or industry requirements.",
+        "Design databases to support business applications, ensuring system scalability, security, performance, and reliability.",
+        "Develop data models for applications, metadata tables, views or related database structures.",
+        "Design database applications, such as interfaces, data transfer mechanisms, global temporary tables, data partitions, and function-based indexes to enable efficient access of the generic database structure.",
+        "Develop methods for integrating different products so they work properly together, such as customizing commercial databases to fit specific needs.",
+        "Create and enforce database development standards.",
+        "Document and communicate database schemas, using accepted notations.",
+        "Develop data model describing data elements and their use, following procedures and using pen, template or computer software."
+      ],
+      "technology_skills": [
+        {
+          "category": "Word processing software",
+          "example": "3M Post-it App"
+        },
+        {
+          "category": "Enterprise resource planning ERP software",
+          "example": "Ab Initio"
+        },
+        {
+          "category": "Access software",
+          "example": "Access management software"
+        },
+        {
+          "category": "Backup or archival software",
+          "example": "Acronis Recovery Expert"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Adeptia ETL Suite"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "ADO.NET"
+        },
+        {
+          "category": "Document management software",
+          "example": "Adobe Acrobat"
+        },
+        {
+          "category": "Web page creation and editing software",
+          "example": "Adobe Dreamweaver"
+        },
+        {
+          "category": "Object or component oriented development software",
+          "example": "Advanced business application programming ABAP"
+        },
+        {
+          "category": "Web platform development software",
+          "example": "AJAX"
+        },
+        {
+          "category": "Metadata management software",
+          "example": "Altova MapForce"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Amazon DynamoDB"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Elastic Compute Cloud EC2"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Amazon Kinesis"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Redshift"
+        },
+        {
+          "category": "Storage networking software",
+          "example": "Amazon Simple Storage Service S3"
+        },
+        {
+          "category": "Cloud-based management software",
+          "example": "Amazon Web Services AWS CloudFormation"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Web Services AWS software"
+        },
+        {
+          "category": "Expert system software",
+          "example": "Ansible software"
+        },
+        {
+          "category": "Procedure management software",
+          "example": "Apache Airflow"
+        }
+      ],
+      "education_requirements": {
+        "Job-Related Professional Certification": [],
+        "Job-related Apprenticeship": [],
+        "On-Site or In-Plant Training": [
+          {
+            "category": "None"
+          },
+          {
+            "category": "Up to 1 month"
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "Up to 1 month"
+          },
+          {
+            "category": "3 to 6 months"
+          },
+          {
+            "category": "1 to 3 months"
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "2 years to 4 years"
+          },
+          {
+            "category": "4 years to 6 years"
+          },
+          {
+            "category": "6 years to 8 years"
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "Bachelor's degree"
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Working with Computers",
+          "tier_label": "High"
+        },
+        {
+          "name": "Working with Computers",
+          "tier_label": "High"
+        },
+        {
+          "name": "Analyzing Data or Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Analyzing Data or Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Processing Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Processing Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "tier_label": "High"
+        },
+        {
+          "name": "Updating and Using Relevant Knowledge",
+          "tier_label": "High"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "E-Mail",
+          "tier_label": "High"
+        },
+        {
+          "name": "E-Mail",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Sitting",
+          "tier_label": "High"
+        },
+        {
+          "name": "Indoors, Environmentally Controlled",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Sitting",
+          "tier_label": "High"
+        },
+        {
+          "name": "Face-to-Face Discussions with Individuals and Within Teams",
+          "tier_label": "High"
+        },
+        {
+          "name": "Telephone Conversations",
+          "tier_label": "High"
+        },
+        {
+          "name": "Importance of Being Exact or Accurate",
+          "tier_label": "High"
+        },
+        {
+          "name": "Telephone Conversations",
+          "tier_label": "High"
+        },
+        {
+          "name": "Work With or Contribute to a Work Group or Team",
+          "tier_label": "High"
+        }
+      ]
+    },
+    {
+      "soc_code": "15-1244.00",
+      "title": "Network and Computer Systems Administrators",
+      "description": "Install, configure, and maintain an organization's local area network (LAN), wide area network (WAN), data communications network, operating systems, and physical and virtual servers. Perform system monitoring and verify the integrity and availability of hardware, network, and server resources and systems. Review system and application logs and verify completion of scheduled jobs, including system backups. Analyze network and server resource consumption and control user access. Install and upgrade software and maintain software licenses. May assist in network modeling, analysis, planning, and coordination between network and data communications hardware and software.",
+      "skills": [
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Evaluation",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Troubleshooting",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Programming",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operations Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Quality Control Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Time Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operations Analysis",
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Problem Sensitivity",
+          "tier_label": "High"
+        },
+        {
+          "name": "Information Ordering",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Written Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Oral Expression",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Deductive Reasoning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Inductive Reasoning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Near Vision",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Oral Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speech Recognition",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Written Expression",
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Computers and Electronics",
+          "tier_label": "High"
+        },
+        {
+          "name": "English Language",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Engineering and Technology",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Telecommunications",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Administrative",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Administration and Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Education and Training",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Design",
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Maintain and administer computer networks and related computing environments, including computer hardware, systems software, applications software, and all configurations.",
+        "Perform data backups and disaster recovery operations.",
+        "Diagnose, troubleshoot, and resolve hardware, software, or other network and system problems, and replace defective components when necessary.",
+        "Configure, monitor, and maintain email applications or virus protection software.",
+        "Operate master consoles to monitor the performance of computer systems and networks and to coordinate computer network access and use.",
+        "Monitor network performance to determine whether adjustments are needed and where changes will be needed in the future.",
+        "Plan, coordinate, and implement network security measures to protect data, software, and hardware.",
+        "Analyze equipment performance records to determine the need for repair or replacement.",
+        "Confer with network users about solutions to existing system problems.",
+        "Recommend changes to improve systems and network configurations, and determine hardware or software requirements related to such changes."
+      ],
+      "technology_skills": [
+        {
+          "category": "Access software",
+          "example": "Access management software"
+        },
+        {
+          "category": "Internet directory services software",
+          "example": "Active directory software"
+        },
+        {
+          "category": "Enterprise resource planning ERP software",
+          "example": "Adexa eGPS Suite"
+        },
+        {
+          "category": "Document management software",
+          "example": "Adobe Acrobat"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Adobe ActionScript"
+        },
+        {
+          "category": "Web page creation and editing software",
+          "example": "Adobe Dreamweaver"
+        },
+        {
+          "category": "Object or component oriented development software",
+          "example": "Advanced business application programming ABAP"
+        },
+        {
+          "category": "Web platform development software",
+          "example": "AJAX"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Amazon DynamoDB"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Elastic Compute Cloud EC2"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Redshift"
+        },
+        {
+          "category": "Storage networking software",
+          "example": "Amazon Simple Storage Service S3"
+        },
+        {
+          "category": "Cloud-based management software",
+          "example": "Amazon Web Services AWS CloudFormation"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Web Services AWS software"
+        },
+        {
+          "category": "Expert system software",
+          "example": "Ansible software"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Apache Ant"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Apache Cassandra"
+        },
+        {
+          "category": "Object or component oriented development software",
+          "example": "Apache Groovy"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Apache Hadoop"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Apache Hive"
+        }
+      ],
+      "education_requirements": {
+        "On-Site or In-Plant Training": [
+          {
+            "category": "Up to 1 month"
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "1 to 2 years"
+          },
+          {
+            "category": "6 months to 1 year"
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "6 years to 8 years"
+          },
+          {
+            "category": "4 years to 6 years"
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "Bachelor's degree"
+          },
+          {
+            "category": "Associate's degree"
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Working with Computers",
+          "tier_label": "High"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "tier_label": "High"
+        },
+        {
+          "name": "Updating and Using Relevant Knowledge",
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Organizing, Planning, and Prioritizing Work",
+          "tier_label": "High"
+        },
+        {
+          "name": "Identifying Objects, Actions, and Events",
+          "tier_label": "High"
+        },
+        {
+          "name": "Processing Information",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Repairing and Maintaining Electronic Equipment",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Communicating with Supervisors, Peers, or Subordinates",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Interpreting the Meaning of Information for Others",
+          "tier_label": "Moderate"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "Indoors, Environmentally Controlled",
+          "tier_label": "High"
+        },
+        {
+          "name": "E-Mail",
+          "tier_label": "High"
+        },
+        {
+          "name": "Telephone Conversations",
+          "tier_label": "High"
+        },
+        {
+          "name": "Face-to-Face Discussions with Individuals and Within Teams",
+          "tier_label": "High"
+        },
+        {
+          "name": "Contact With Others",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Sitting",
+          "tier_label": "High"
+        },
+        {
+          "name": "Work With or Contribute to a Work Group or Team",
+          "tier_label": "High"
+        },
+        {
+          "name": "Determine Tasks, Priorities and Goals",
+          "tier_label": "High"
+        },
+        {
+          "name": "Freedom to Make Decisions",
+          "tier_label": "High"
+        },
+        {
+          "name": "Importance of Being Exact or Accurate",
+          "tier_label": "High"
+        }
+      ]
+    },
+    {
+      "soc_code": "15-1251.00",
+      "title": "Computer Programmers",
+      "description": "Create, modify, and test the code and scripts that allow computer applications to run. Work from specifications drawn up by software and web developers or other individuals. May develop and write computer programs to store, locate, and retrieve specific documents, data, and information.",
+      "skills": [
+        {
+          "name": "Programming",
+          "tier_label": "High"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Quality Control Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Writing",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Time Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Evaluation",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operations Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Social Perceptiveness",
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Written Comprehension",
+          "tier_label": "High"
+        },
+        {
+          "name": "Oral Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Near Vision",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Problem Sensitivity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Deductive Reasoning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Inductive Reasoning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Information Ordering",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Oral Expression",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Written Expression",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speech Recognition",
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Computers and Electronics",
+          "tier_label": "High"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Engineering and Technology",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "English Language",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Administration and Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Design",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Education and Training",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Geography",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Administrative",
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Write, analyze, review, and rewrite programs, using workflow chart and diagram, and applying knowledge of computer capabilities, subject matter, and symbolic logic.",
+        "Correct errors by making appropriate changes and rechecking the program to ensure that the desired results are produced.",
+        "Perform or direct revision, repair, or expansion of existing programs to increase operating efficiency or adapt to new requirements.",
+        "Write, update, and maintain computer programs or software packages to handle specific jobs such as tracking inventory, storing or retrieving data, or controlling other equipment.",
+        "Consult with managerial, engineering, and technical personnel to clarify program intent, identify problems, and suggest changes.",
+        "Conduct trial runs of programs and software applications to be sure they will produce the desired information and that the instructions are correct.",
+        "Prepare detailed workflow charts and diagrams that describe input, output, and logical operation, and convert them into a series of instructions coded in a computer language.",
+        "Compile and write documentation of program development and subsequent revisions, inserting comments in the coded instructions so others can understand the program.",
+        "Consult with and assist computer operators or system analysts to define and resolve problems in running computer programs.",
+        "Perform systems analysis and programming tasks to maintain and control the use of computer systems software as a systems programmer."
+      ],
+      "technology_skills": [
+        {
+          "category": "Development environment software",
+          "example": "A programming language APL"
+        },
+        {
+          "category": "Development environment software",
+          "example": "ABC Compiler"
+        },
+        {
+          "category": "Object or component oriented development software",
+          "example": "ABC: the AspectBench Compiler for AspectJ"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Ada"
+        },
+        {
+          "category": "Document management software",
+          "example": "Adobe Acrobat"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Adobe ActionScript"
+        },
+        {
+          "category": "Web platform development software",
+          "example": "Adobe ColdFusion"
+        },
+        {
+          "category": "Web page creation and editing software",
+          "example": "Adobe Dreamweaver"
+        },
+        {
+          "category": "Web platform development software",
+          "example": "Adobe Flex"
+        },
+        {
+          "category": "Graphics or photo imaging software",
+          "example": "Adobe Illustrator"
+        },
+        {
+          "category": "Graphics or photo imaging software",
+          "example": "Adobe Photoshop"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Adobe PostScript"
+        },
+        {
+          "category": "Object or component oriented development software",
+          "example": "Advanced business application programming ABAP"
+        },
+        {
+          "category": "Web platform development software",
+          "example": "AJAX"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Algorithmic language ALGOL"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Amazon DynamoDB"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Elastic Compute Cloud EC2"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Amazon Kinesis"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Redshift"
+        },
+        {
+          "category": "Storage networking software",
+          "example": "Amazon Simple Storage Service S3"
+        }
+      ],
+      "education_requirements": {
+        "On-Site or In-Plant Training": [
+          {
+            "category": "None"
+          },
+          {
+            "category": "1 to 3 months"
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "6 months to 1 year"
+          },
+          {
+            "category": "3 to 6 months"
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "6 months to 1 year"
+          },
+          {
+            "category": "6 years to 8 years"
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "Bachelor's degree"
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Working with Computers",
+          "tier_label": "High"
+        },
+        {
+          "name": "Processing Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Analyzing Data or Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "tier_label": "High"
+        },
+        {
+          "name": "Thinking Creatively",
+          "tier_label": "High"
+        },
+        {
+          "name": "Identifying Objects, Actions, and Events",
+          "tier_label": "High"
+        },
+        {
+          "name": "Updating and Using Relevant Knowledge",
+          "tier_label": "High"
+        },
+        {
+          "name": "Communicating with Supervisors, Peers, or Subordinates",
+          "tier_label": "High"
+        },
+        {
+          "name": "Estimating the Quantifiable Characteristics of Products, Events, or Information",
+          "tier_label": "Moderate"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "E-Mail",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Sitting",
+          "tier_label": "High"
+        },
+        {
+          "name": "Face-to-Face Discussions with Individuals and Within Teams",
+          "tier_label": "High"
+        },
+        {
+          "name": "Indoors, Environmentally Controlled",
+          "tier_label": "High"
+        },
+        {
+          "name": "Importance of Being Exact or Accurate",
+          "tier_label": "High"
+        },
+        {
+          "name": "Work With or Contribute to a Work Group or Team",
+          "tier_label": "High"
+        },
+        {
+          "name": "Contact With Others",
+          "tier_label": "High"
+        },
+        {
+          "name": "Time Pressure",
+          "tier_label": "High"
+        },
+        {
+          "name": "Level of Competition",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Freedom to Make Decisions",
+          "tier_label": "Moderate"
+        }
+      ]
+    },
+    {
+      "soc_code": "15-1252.00",
+      "title": "Software Developers",
+      "description": "Research, design, and develop computer and network software or specialized utility programs. Analyze user needs and develop software solutions, applying principles and techniques of computer science, engineering, and mathematical analysis. Update software or enhance existing software capabilities. May work with computer hardware engineers to integrate hardware and software systems, and develop specifications and performance requirements. May maintain databases within an application area, working individually or coordinating database development as part of a team.",
+      "skills": [
+        {
+          "name": "Programming",
+          "tier_label": "High"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Learning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Evaluation",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Technology Design",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operations Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Writing",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Time Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Coordination",
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Oral Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Oral Expression",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Problem Sensitivity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Deductive Reasoning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Near Vision",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Written Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Information Ordering",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Written Expression",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Inductive Reasoning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Category Flexibility",
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Computers and Electronics",
+          "tier_label": "High"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "English Language",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Education and Training",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Engineering and Technology",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Design",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Telecommunications",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Public Safety and Security",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Production and Processing",
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Analyze user needs and software requirements to determine feasibility of design within time and cost constraints.",
+        "Develop or direct software system testing or validation procedures, programming, or documentation.",
+        "Confer with systems analysts, engineers, programmers and others to design systems and to obtain information on project limitations and capabilities, performance requirements and interfaces.",
+        "Modify existing software to correct errors, adapt it to new hardware, or upgrade interfaces and improve performance.",
+        "Prepare reports or correspondence concerning project specifications, activities, or status.",
+        "Analyze information to determine, recommend, and plan installation of a new system or modification of an existing system.",
+        "Store, retrieve, and manipulate data for analysis of system capabilities and requirements.",
+        "Design, develop and modify software systems, using scientific analysis and mathematical models to predict and measure outcomes and consequences of design.",
+        "Determine system performance standards.",
+        "Consult with customers or other departments on project status, proposals, or technical issues, such as software system design or maintenance."
+      ],
+      "technology_skills": [
+        {
+          "category": "Word processing software",
+          "example": "3M Post-it App"
+        },
+        {
+          "category": "Development environment software",
+          "example": "A programming language APL"
+        },
+        {
+          "category": "Development environment software",
+          "example": "ABC Compiler"
+        },
+        {
+          "category": "Object or component oriented development software",
+          "example": "ABC: the AspectBench Compiler for AspectJ"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Ada"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "ADO.NET"
+        },
+        {
+          "category": "Document management software",
+          "example": "Adobe Acrobat"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Adobe ActionScript"
+        },
+        {
+          "category": "Video creation and editing software",
+          "example": "Adobe After Effects"
+        },
+        {
+          "category": "Graphics or photo imaging software",
+          "example": "Adobe Creative Cloud software"
+        },
+        {
+          "category": "Web page creation and editing software",
+          "example": "Adobe Dreamweaver"
+        },
+        {
+          "category": "Web platform development software",
+          "example": "Adobe Flex"
+        },
+        {
+          "category": "Graphics or photo imaging software",
+          "example": "Adobe Illustrator"
+        },
+        {
+          "category": "Desktop publishing software",
+          "example": "Adobe InDesign"
+        },
+        {
+          "category": "Graphics or photo imaging software",
+          "example": "Adobe Photoshop"
+        },
+        {
+          "category": "Object or component oriented development software",
+          "example": "Advanced business application programming ABAP"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Airtable"
+        },
+        {
+          "category": "Web platform development software",
+          "example": "AJAX"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Algorithmic language ALGOL"
+        },
+        {
+          "category": "Web platform development software",
+          "example": "Allaire ColdFusion"
+        }
+      ],
+      "education_requirements": {
+        "Job-Related Professional Certification": [],
+        "Job-related Apprenticeship": [],
+        "On-Site or In-Plant Training": [
+          {
+            "category": "None"
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "3 to 6 months"
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "6 years to 8 years"
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "Bachelor's degree"
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Working with Computers",
+          "tier_label": "High"
+        },
+        {
+          "name": "Processing Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "tier_label": "High"
+        },
+        {
+          "name": "Thinking Creatively",
+          "tier_label": "High"
+        },
+        {
+          "name": "Communicating with Supervisors, Peers, or Subordinates",
+          "tier_label": "High"
+        },
+        {
+          "name": "Analyzing Data or Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Updating and Using Relevant Knowledge",
+          "tier_label": "High"
+        },
+        {
+          "name": "Organizing, Planning, and Prioritizing Work",
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Evaluating Information to Determine Compliance with Standards",
+          "tier_label": "Moderate"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "Spend Time Sitting",
+          "tier_label": "High"
+        },
+        {
+          "name": "Work With or Contribute to a Work Group or Team",
+          "tier_label": "High"
+        },
+        {
+          "name": "E-Mail",
+          "tier_label": "High"
+        },
+        {
+          "name": "Freedom to Make Decisions",
+          "tier_label": "High"
+        },
+        {
+          "name": "Importance of Being Exact or Accurate",
+          "tier_label": "High"
+        },
+        {
+          "name": "Determine Tasks, Priorities and Goals",
+          "tier_label": "High"
+        },
+        {
+          "name": "Contact With Others",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Coordinate or Lead Others in Accomplishing Work Activities",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Time Pressure",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Work Outcomes and Results of Other Workers",
+          "tier_label": "Moderate"
+        }
+      ]
+    },
+    {
+      "soc_code": "15-1253.00",
+      "title": "Software Quality Assurance Analysts and Testers",
+      "description": "Develop and execute software tests to identify software problems and their causes. Test system modifications to prepare for implementation. Document software and application defects using a bug tracking system and report defects to software or web developers. Create and maintain databases of known defects. May participate in software design reviews to provide input on functional requirements, operational characteristics, product designs, and schedules.",
+      "skills": [
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "High"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Writing",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Programming",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Quality Control Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Evaluation",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operations Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Learning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Coordination",
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Oral Comprehension",
+          "tier_label": "High"
+        },
+        {
+          "name": "Oral Expression",
+          "tier_label": "High"
+        },
+        {
+          "name": "Problem Sensitivity",
+          "tier_label": "High"
+        },
+        {
+          "name": "Deductive Reasoning",
+          "tier_label": "High"
+        },
+        {
+          "name": "Inductive Reasoning",
+          "tier_label": "High"
+        },
+        {
+          "name": "Written Comprehension",
+          "tier_label": "High"
+        },
+        {
+          "name": "Written Expression",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Information Ordering",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Near Vision",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speech Recognition",
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Computers and Electronics",
+          "tier_label": "High"
+        },
+        {
+          "name": "English Language",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Engineering and Technology",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Design",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Education and Training",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Administration and Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Administrative",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Telecommunications",
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Identify, analyze, and document problems with program function, output, online screen, or content.",
+        "Document software defects, using a bug tracking system, and report defects to software developers.",
+        "Develop testing programs that address areas such as database impacts, software scenarios, regression testing, negative testing, error or bug retests, or usability.",
+        "Design test plans, scenarios, scripts, or procedures.",
+        "Document test procedures to ensure replicability and compliance with standards.",
+        "Provide feedback and recommendations to developers on software usability and functionality.",
+        "Install, maintain, or use software testing programs.",
+        "Test system modifications to prepare for implementation.",
+        "Create or maintain databases of known test defects.",
+        "Develop or specify standards, methods, or procedures to determine product quality or release readiness."
+      ],
+      "technology_skills": [
+        {
+          "category": "Word processing software",
+          "example": "3M Post-it App"
+        },
+        {
+          "category": "Development environment software",
+          "example": "A programming language APL"
+        },
+        {
+          "category": "Development environment software",
+          "example": "ABC Compiler"
+        },
+        {
+          "category": "Object or component oriented development software",
+          "example": "ABC: the AspectBench Compiler for AspectJ"
+        },
+        {
+          "category": "Object or component oriented development software",
+          "example": "Acresso InstallAnywhere"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Ada"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "ADO.NET"
+        },
+        {
+          "category": "Document management software",
+          "example": "Adobe Acrobat"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Adobe ActionScript"
+        },
+        {
+          "category": "Video creation and editing software",
+          "example": "Adobe After Effects"
+        },
+        {
+          "category": "Graphics or photo imaging software",
+          "example": "Adobe Creative Cloud software"
+        },
+        {
+          "category": "Web page creation and editing software",
+          "example": "Adobe Dreamweaver"
+        },
+        {
+          "category": "Web platform development software",
+          "example": "Adobe Flex"
+        },
+        {
+          "category": "Graphics or photo imaging software",
+          "example": "Adobe Illustrator"
+        },
+        {
+          "category": "Desktop publishing software",
+          "example": "Adobe InDesign"
+        },
+        {
+          "category": "Graphics or photo imaging software",
+          "example": "Adobe Photoshop"
+        },
+        {
+          "category": "Object or component oriented development software",
+          "example": "Advanced business application programming ABAP"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Airtable"
+        },
+        {
+          "category": "Web platform development software",
+          "example": "AJAX"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Algorithmic language ALGOL"
+        }
+      ],
+      "education_requirements": {
+        "Job-Related Professional Certification": [],
+        "Job-related Apprenticeship": [],
+        "On-Site or In-Plant Training": [
+          {
+            "category": "None"
+          },
+          {
+            "category": "1 to 3 months"
+          },
+          {
+            "category": "3 to 6 months"
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "6 months to 1 year"
+          },
+          {
+            "category": "Up to 1 month"
+          },
+          {
+            "category": "3 to 6 months"
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "6 months to 1 year"
+          },
+          {
+            "category": "1 year to 2 years"
+          },
+          {
+            "category": "2 years to 4 years"
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "Bachelor's degree"
+          },
+          {
+            "category": "Associate's degree"
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Working with Computers",
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Communicating with Supervisors, Peers, or Subordinates",
+          "tier_label": "High"
+        },
+        {
+          "name": "Processing Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Updating and Using Relevant Knowledge",
+          "tier_label": "High"
+        },
+        {
+          "name": "Analyzing Data or Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Evaluating Information to Determine Compliance with Standards",
+          "tier_label": "High"
+        },
+        {
+          "name": "Identifying Objects, Actions, and Events",
+          "tier_label": "High"
+        },
+        {
+          "name": "Organizing, Planning, and Prioritizing Work",
+          "tier_label": "High"
+        },
+        {
+          "name": "Documenting/Recording Information",
+          "tier_label": "High"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "E-Mail",
+          "tier_label": "High"
+        },
+        {
+          "name": "Face-to-Face Discussions with Individuals and Within Teams",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Sitting",
+          "tier_label": "High"
+        },
+        {
+          "name": "Importance of Being Exact or Accurate",
+          "tier_label": "High"
+        },
+        {
+          "name": "Work With or Contribute to a Work Group or Team",
+          "tier_label": "High"
+        },
+        {
+          "name": "Freedom to Make Decisions",
+          "tier_label": "High"
+        },
+        {
+          "name": "Indoors, Environmentally Controlled",
+          "tier_label": "High"
+        },
+        {
+          "name": "Telephone Conversations",
+          "tier_label": "High"
+        },
+        {
+          "name": "Contact With Others",
+          "tier_label": "High"
+        },
+        {
+          "name": "Determine Tasks, Priorities and Goals",
+          "tier_label": "Moderate"
+        }
+      ]
+    },
+    {
+      "soc_code": "15-1254.00",
+      "title": "Web Developers",
+      "description": "Develop and implement websites, web applications, application databases, and interactive web interfaces. Evaluate code to ensure that it is properly structured, meets industry standards, and is compatible with browsers and devices. Optimize website performance, scalability, and server-side code and processes. May develop website infrastructure and integrate websites with other computer applications.",
+      "skills": [
+        {
+          "name": "Programming",
+          "tier_label": "High"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operations Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Learning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Writing",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Evaluation",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Coordination",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Time Management",
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Deductive Reasoning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Oral Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Near Vision",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Written Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Problem Sensitivity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Inductive Reasoning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Information Ordering",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speech Recognition",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speech Clarity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Oral Expression",
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Computers and Electronics",
+          "tier_label": "High"
+        },
+        {
+          "name": "English Language",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Communications and Media",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Design",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Engineering and Technology",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Telecommunications",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Administration and Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Administrative",
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Write supporting code for Web applications or Web sites.",
+        "Design, build, or maintain Web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.",
+        "Back up files from Web sites to local directories for instant recovery in case of problems.",
+        "Select programming languages, design tools, or applications.",
+        "Evaluate code to ensure that it is valid, is properly structured, meets industry standards, and is compatible with browsers, devices, or operating systems.",
+        "Develop databases that support Web applications and Web sites.",
+        "Perform Web site tests according to planned schedules, or after any Web site or product revision.",
+        "Perform or direct Web site updates.",
+        "Maintain understanding of current Web technologies or programming practices through continuing education, reading, or participation in professional conferences, workshops, or groups.",
+        "Analyze user needs to determine technical requirements."
+      ],
+      "technology_skills": [
+        {
+          "category": "Word processing software",
+          "example": "3M Post-it App"
+        },
+        {
+          "category": "Document management software",
+          "example": "Adobe Acrobat"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Adobe ActionScript"
+        },
+        {
+          "category": "Video creation and editing software",
+          "example": "Adobe After Effects"
+        },
+        {
+          "category": "Graphics or photo imaging software",
+          "example": "Adobe Creative Cloud software"
+        },
+        {
+          "category": "Web page creation and editing software",
+          "example": "Adobe Dreamweaver"
+        },
+        {
+          "category": "Web platform development software",
+          "example": "Adobe Flex"
+        },
+        {
+          "category": "Graphics or photo imaging software",
+          "example": "Adobe Illustrator"
+        },
+        {
+          "category": "Desktop publishing software",
+          "example": "Adobe InDesign"
+        },
+        {
+          "category": "Graphics or photo imaging software",
+          "example": "Adobe Photoshop"
+        },
+        {
+          "category": "Object or component oriented development software",
+          "example": "Advanced business application programming ABAP"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Airtable"
+        },
+        {
+          "category": "Web platform development software",
+          "example": "AJAX"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Amazon DynamoDB"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Elastic Compute Cloud EC2"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Amazon Kinesis"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Redshift"
+        },
+        {
+          "category": "Storage networking software",
+          "example": "Amazon Simple Storage Service S3"
+        },
+        {
+          "category": "Cloud-based management software",
+          "example": "Amazon Web Services AWS CloudFormation"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Web Services AWS software"
+        }
+      ],
+      "education_requirements": {
+        "Job-Related Professional Certification": [],
+        "Job-related Apprenticeship": [],
+        "On-Site or In-Plant Training": [
+          {
+            "category": "None"
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "Up to 1 month"
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "1 year to 2 years"
+          },
+          {
+            "category": "2 years to 4 years"
+          },
+          {
+            "category": "6 months to 1 year"
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "Bachelor's degree"
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Working with Computers",
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Thinking Creatively",
+          "tier_label": "High"
+        },
+        {
+          "name": "Updating and Using Relevant Knowledge",
+          "tier_label": "High"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "tier_label": "High"
+        },
+        {
+          "name": "Processing Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Organizing, Planning, and Prioritizing Work",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Communicating with Supervisors, Peers, or Subordinates",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Identifying Objects, Actions, and Events",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Analyzing Data or Information",
+          "tier_label": "Moderate"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "Spend Time Sitting",
+          "tier_label": "High"
+        },
+        {
+          "name": "E-Mail",
+          "tier_label": "High"
+        },
+        {
+          "name": "Freedom to Make Decisions",
+          "tier_label": "High"
+        },
+        {
+          "name": "Indoors, Environmentally Controlled",
+          "tier_label": "High"
+        },
+        {
+          "name": "Face-to-Face Discussions with Individuals and Within Teams",
+          "tier_label": "High"
+        },
+        {
+          "name": "Importance of Being Exact or Accurate",
+          "tier_label": "High"
+        },
+        {
+          "name": "Telephone Conversations",
+          "tier_label": "High"
+        },
+        {
+          "name": "Importance of Repeating Same Tasks",
+          "tier_label": "High"
+        },
+        {
+          "name": "Determine Tasks, Priorities and Goals",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Making Repetitive Motions",
+          "tier_label": "High"
+        }
+      ]
+    },
+    {
+      "soc_code": "15-1255.00",
+      "title": "Web and Digital Interface Designers",
+      "description": "Design digital user interfaces or websites. Develop and test layouts, interfaces, functionality, and navigation menus to ensure compatibility and usability across browsers or devices. May use web framework applications as well as client-side code and processes. May evaluate web design following web and accessibility standards, and may analyze web use metrics and optimize websites for marketability and search engine ranking. May design and test interfaces that facilitate the human-computer interaction and maximize the usability of digital devices, websites, and software with a focus on aesthetics and design. May create graphics used in websites and manage website content and links.",
+      "skills": [
+        {
+          "name": "Programming",
+          "tier_label": "High"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Learning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Time Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Writing",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Evaluation",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Coordination",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Technology Design",
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Fluency of Ideas",
+          "tier_label": "High"
+        },
+        {
+          "name": "Originality",
+          "tier_label": "High"
+        },
+        {
+          "name": "Near Vision",
+          "tier_label": "High"
+        },
+        {
+          "name": "Written Comprehension",
+          "tier_label": "High"
+        },
+        {
+          "name": "Oral Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Written Expression",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Information Ordering",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Oral Expression",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Problem Sensitivity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Deductive Reasoning",
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Design",
+          "tier_label": "High"
+        },
+        {
+          "name": "Computers and Electronics",
+          "tier_label": "High"
+        },
+        {
+          "name": "Communications and Media",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Psychology",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "English Language",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Engineering and Technology",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Sociology and Anthropology",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Fine Arts",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Education and Training",
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Collaborate with management or users to develop e-commerce strategies and to integrate these strategies with Web sites.",
+        "Collaborate with web development professionals, such as front-end or back-end developers, to complete the full scope of Web development projects.",
+        "Communicate with network personnel or Web site hosting agencies to address hardware or software issues affecting Web sites.",
+        "Conduct user research to determine design requirements and analyze user feedback to improve design quality.",
+        "Confer with management or development teams to prioritize needs, resolve conflicts, develop content criteria, or choose solutions.",
+        "Create searchable indices for Web page content.",
+        "Create Web models or prototypes that include physical, interface, logical, or data models.",
+        "Design, build, or maintain Web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.",
+        "Develop and document style guidelines for Web site content.",
+        "Develop new visual design concepts and modify concepts based on stakeholder feedback."
+      ],
+      "technology_skills": [
+        {
+          "category": "Word processing software",
+          "example": "3M Post-it App"
+        },
+        {
+          "category": "Document management software",
+          "example": "Adobe Acrobat"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Adobe ActionScript"
+        },
+        {
+          "category": "Video creation and editing software",
+          "example": "Adobe After Effects"
+        },
+        {
+          "category": "Graphics or photo imaging software",
+          "example": "Adobe Creative Cloud software"
+        },
+        {
+          "category": "Web page creation and editing software",
+          "example": "Adobe Dreamweaver"
+        },
+        {
+          "category": "Web platform development software",
+          "example": "Adobe Flex"
+        },
+        {
+          "category": "Graphics or photo imaging software",
+          "example": "Adobe Illustrator"
+        },
+        {
+          "category": "Desktop publishing software",
+          "example": "Adobe InDesign"
+        },
+        {
+          "category": "Graphics or photo imaging software",
+          "example": "Adobe Photoshop"
+        },
+        {
+          "category": "Graphics or photo imaging software",
+          "example": "Adobe XD"
+        },
+        {
+          "category": "Object or component oriented development software",
+          "example": "Advanced business application programming ABAP"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Airtable"
+        },
+        {
+          "category": "Web platform development software",
+          "example": "AJAX"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Amazon DynamoDB"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Elastic Compute Cloud EC2"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Amazon Kinesis"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Redshift"
+        },
+        {
+          "category": "Storage networking software",
+          "example": "Amazon Simple Storage Service S3"
+        },
+        {
+          "category": "Cloud-based management software",
+          "example": "Amazon Web Services AWS CloudFormation"
+        }
+      ],
+      "education_requirements": {
+        "Job-Related Professional Certification": [],
+        "Job-related Apprenticeship": [],
+        "On-Site or In-Plant Training": [
+          {
+            "category": "None"
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "1 to 3 months"
+          },
+          {
+            "category": "3 to 6 months"
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "2 years to 4 years"
+          },
+          {
+            "category": "1 year to 2 years"
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "Bachelor's degree"
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Thinking Creatively",
+          "tier_label": "High"
+        },
+        {
+          "name": "Working with Computers",
+          "tier_label": "High"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "tier_label": "High"
+        },
+        {
+          "name": "Communicating with Supervisors, Peers, or Subordinates",
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Processing Information",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Establishing and Maintaining Interpersonal Relationships",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Analyzing Data or Information",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Updating and Using Relevant Knowledge",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Identifying Objects, Actions, and Events",
+          "tier_label": "Moderate"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "E-Mail",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Sitting",
+          "tier_label": "High"
+        },
+        {
+          "name": "Work With or Contribute to a Work Group or Team",
+          "tier_label": "High"
+        },
+        {
+          "name": "Indoors, Environmentally Controlled",
+          "tier_label": "High"
+        },
+        {
+          "name": "Face-to-Face Discussions with Individuals and Within Teams",
+          "tier_label": "High"
+        },
+        {
+          "name": "Level of Competition",
+          "tier_label": "High"
+        },
+        {
+          "name": "Time Pressure",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Making Repetitive Motions",
+          "tier_label": "High"
+        },
+        {
+          "name": "Determine Tasks, Priorities and Goals",
+          "tier_label": "High"
+        },
+        {
+          "name": "Contact With Others",
+          "tier_label": "High"
+        }
+      ]
+    }
+  ]
+}
