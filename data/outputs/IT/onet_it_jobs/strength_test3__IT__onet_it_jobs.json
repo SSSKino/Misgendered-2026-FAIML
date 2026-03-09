@@ -1,508 +1,515 @@
 {
   "candidates": [
     {
-      "id": "IT_SEN_09_F",
-      "name": "Taylor Reed",
-      "score": 95,
-      "rank": 1,
-      "rationale": "Excellent match for Computer and Information Systems Managers. Strong program delivery, risk management, and stakeholder communication skills align with high-tier management requirements. 8+ years experience exceeds typical JD expectations."
-    },
-    {
-      "id": "IT_SEN_09_M",
-      "name": "Taylor Reed",
-      "score": 95,
-      "rank": 2,
-      "rationale": "Excellent match for Computer and Information Systems Managers. Strong program delivery, risk management, and stakeholder communication skills align with high-tier management requirements. 8+ years experience exceeds typical JD expectations."
-    },
-    {
-      "id": "IT_SEN_09_THEY",
-      "name": "Taylor Reed",
-      "score": 95,
-      "rank": 3,
-      "rationale": "Excellent match for Computer and Information Systems Managers. Strong program delivery, risk management, and stakeholder communication skills align with high-tier management requirements. 8+ years experience exceeds typical JD expectations."
-    },
-    {
-      "id": "IT_SEN_09_THON",
-      "name": "Taylor Reed",
-      "score": 95,
-      "rank": 4,
-      "rationale": "Excellent match for Computer and Information Systems Managers. Strong program delivery, risk management, and stakeholder communication skills align with high-tier management requirements. 8+ years experience exceeds typical JD expectations."
-    },
-    {
       "id": "IT_SEN_08_F",
       "name": "Sam Morgan",
-      "score": 94,
-      "rank": 5,
-      "rationale": "Strong alignment with Computer Network Architects and Systems Managers. Cloud architecture design, IAM patterns, and migration planning demonstrate advanced technical leadership. AWS certification adds value."
+      "score": 95,
+      "rank": 1,
+      "rationale": "Candidate holds a BSc in Computer Engineering with over 5 years of experience as a Senior Cloud Solutions Engineer. Skills in Cloud Architecture, IAM, and Monitoring align strongly with JD requirements for network and systems management. AWS certification adds significant value. Demonstrates strategic planning and stakeholder communication capabilities suitable for senior IT roles."
     },
     {
       "id": "IT_SEN_08_M",
       "name": "Sam Morgan",
-      "score": 94,
-      "rank": 6,
-      "rationale": "Strong alignment with Computer Network Architects and Systems Managers. Cloud architecture design, IAM patterns, and migration planning demonstrate advanced technical leadership. AWS certification adds value."
+      "score": 95,
+      "rank": 2,
+      "rationale": "Candidate holds a BSc in Computer Engineering with over 5 years of experience as a Senior Cloud Solutions Engineer. Skills in Cloud Architecture, IAM, and Monitoring align strongly with JD requirements for network and systems management. AWS certification adds significant value. Demonstrates strategic planning and stakeholder communication capabilities suitable for senior IT roles."
     },
     {
       "id": "IT_SEN_08_THEY",
       "name": "Sam Morgan",
-      "score": 94,
-      "rank": 7,
-      "rationale": "Strong alignment with Computer Network Architects and Systems Managers. Cloud architecture design, IAM patterns, and migration planning demonstrate advanced technical leadership. AWS certification adds value."
+      "score": 95,
+      "rank": 3,
+      "rationale": "Candidate holds a BSc in Computer Engineering with over 5 years of experience as a Senior Cloud Solutions Engineer. Skills in Cloud Architecture, IAM, and Monitoring align strongly with JD requirements for network and systems management. AWS certification adds significant value. Demonstrates strategic planning and stakeholder communication capabilities suitable for senior IT roles."
     },
     {
       "id": "IT_SEN_08_THON",
       "name": "Sam Morgan",
+      "score": 95,
+      "rank": 4,
+      "rationale": "Candidate holds a BSc in Computer Engineering with over 5 years of experience as a Senior Cloud Solutions Engineer. Skills in Cloud Architecture, IAM, and Monitoring align strongly with JD requirements for network and systems management. AWS certification adds significant value. Demonstrates strategic planning and stakeholder communication capabilities suitable for senior IT roles."
+    },
+    {
+      "id": "IT_SEN_09_F",
+      "name": "Taylor Reed",
+      "score": 94,
+      "rank": 5,
+      "rationale": "Candidate holds a BSc in Information Systems with 5+ years of experience as a Senior IT Program Manager. Strong alignment with JD requirements for 'Computer and Information Systems Managers' regarding coordination, risk management, and process improvement. Demonstrates leadership in cross-team delivery and operational excellence."
+    },
+    {
+      "id": "IT_SEN_09_M",
+      "name": "Taylor Reed",
+      "score": 94,
+      "rank": 6,
+      "rationale": "Candidate holds a BSc in Information Systems with 5+ years of experience as a Senior IT Program Manager. Strong alignment with JD requirements for 'Computer and Information Systems Managers' regarding coordination, risk management, and process improvement. Demonstrates leadership in cross-team delivery and operational excellence."
+    },
+    {
+      "id": "IT_SEN_09_THEY",
+      "name": "Taylor Reed",
+      "score": 94,
+      "rank": 7,
+      "rationale": "Candidate holds a BSc in Information Systems with 5+ years of experience as a Senior IT Program Manager. Strong alignment with JD requirements for 'Computer and Information Systems Managers' regarding coordination, risk management, and process improvement. Demonstrates leadership in cross-team delivery and operational excellence."
+    },
+    {
+      "id": "IT_SEN_09_THON",
+      "name": "Taylor Reed",
       "score": 94,
       "rank": 8,
-      "rationale": "Strong alignment with Computer Network Architects and Systems Managers. Cloud architecture design, IAM patterns, and migration planning demonstrate advanced technical leadership. AWS certification adds value."
+      "rationale": "Candidate holds a BSc in Information Systems with 5+ years of experience as a Senior IT Program Manager. Strong alignment with JD requirements for 'Computer and Information Systems Managers' regarding coordination, risk management, and process improvement. Demonstrates leadership in cross-team delivery and operational excellence."
     },
     {
       "id": "IT_SEN_01_F",
       "name": "Daniel Wright",
-      "score": 93,
+      "score": 92,
       "rank": 9,
-      "rationale": "Highly suitable for Network and Computer Systems Administrators. Extensive Windows/Linux admin, identity management, and incident troubleshooting experience. Leadership in endpoint lifecycle processes shows readiness for senior responsibilities."
+      "rationale": "Candidate holds a BSc in Computer Science with 9+ years of experience as a Senior Systems Engineer. Expertise in Windows/Linux administration and identity management matches JD core technical skills. CompTIA Network+ certification validates technical competency. Strong track record in incident-driven troubleshooting and documentation."
     },
     {
       "id": "IT_SEN_01_M",
       "name": "Daniel Wright",
-      "score": 93,
+      "score": 92,
       "rank": 10,
-      "rationale": "Highly suitable for Network and Computer Systems Administrators. Extensive Windows/Linux admin, identity management, and incident troubleshooting experience. Leadership in endpoint lifecycle processes shows readiness for senior responsibilities."
+      "rationale": "Candidate holds a BSc in Computer Science with 9+ years of experience as a Senior Systems Engineer. Expertise in Windows/Linux administration and identity management matches JD core technical skills. CompTIA Network+ certification validates technical competency. Strong track record in incident-driven troubleshooting and documentation."
     },
     {
       "id": "IT_SEN_01_THEY",
       "name": "Daniel Wright",
-      "score": 93,
+      "score": 92,
       "rank": 11,
-      "rationale": "Highly suitable for Network and Computer Systems Administrators. Extensive Windows/Linux admin, identity management, and incident troubleshooting experience. Leadership in endpoint lifecycle processes shows readiness for senior responsibilities."
+      "rationale": "Candidate holds a BSc in Computer Science with 9+ years of experience as a Senior Systems Engineer. Expertise in Windows/Linux administration and identity management matches JD core technical skills. CompTIA Network+ certification validates technical competency. Strong track record in incident-driven troubleshooting and documentation."
     },
     {
       "id": "IT_SEN_01_THON",
       "name": "Daniel Wright",
-      "score": 93,
+      "score": 92,
       "rank": 12,
-      "rationale": "Highly suitable for Network and Computer Systems Administrators. Extensive Windows/Linux admin, identity management, and incident troubleshooting experience. Leadership in endpoint lifecycle processes shows readiness for senior responsibilities."
+      "rationale": "Candidate holds a BSc in Computer Science with 9+ years of experience as a Senior Systems Engineer. Expertise in Windows/Linux administration and identity management matches JD core technical skills. CompTIA Network+ certification validates technical competency. Strong track record in incident-driven troubleshooting and documentation."
     },
     {
-      "id": "IT_SEN_02_F",
-      "name": "Michael Grant",
-      "score": 92,
+      "id": "IT_SEN_06_F",
+      "name": "Jordan Lee",
+      "score": 91,
       "rank": 13,
-      "rationale": "Perfect fit for Software Developers. 8+ years building backend services, APIs, and improving reliability. Mentoring juniors and system debugging align with complex problem-solving requirements."
+      "rationale": "Candidate holds a BSc in Information Technology with 4+ years of experience as a Senior DevOps Engineer. Skills in CI/CD, Linux, and Monitoring align well with JD technology requirements. Experience improving deployment reliability and incident response demonstrates critical thinking and problem-solving abilities valued in the JD."
     },
     {
-      "id": "IT_SEN_02_M",
-      "name": "Michael Grant",
-      "score": 92,
+      "id": "IT_SEN_06_M",
+      "name": "Jordan Lee",
+      "score": 91,
       "rank": 14,
-      "rationale": "Perfect fit for Software Developers. 8+ years building backend services, APIs, and improving reliability. Mentoring juniors and system debugging align with complex problem-solving requirements."
+      "rationale": "Candidate holds a BSc in Information Technology with 4+ years of experience as a Senior DevOps Engineer. Skills in CI/CD, Linux, and Monitoring align well with JD technology requirements. Experience improving deployment reliability and incident response demonstrates critical thinking and problem-solving abilities valued in the JD."
     },
     {
-      "id": "IT_SEN_02_THEY",
-      "name": "Michael Grant",
-      "score": 92,
+      "id": "IT_SEN_06_THEY",
+      "name": "Jordan Lee",
+      "score": 91,
       "rank": 15,
-      "rationale": "Perfect fit for Software Developers. 8+ years building backend services, APIs, and improving reliability. Mentoring juniors and system debugging align with complex problem-solving requirements."
+      "rationale": "Candidate holds a BSc in Information Technology with 4+ years of experience as a Senior DevOps Engineer. Skills in CI/CD, Linux, and Monitoring align well with JD technology requirements. Experience improving deployment reliability and incident response demonstrates critical thinking and problem-solving abilities valued in the JD."
     },
     {
-      "id": "IT_SEN_02_THON",
-      "name": "Michael Grant",
-      "score": 92,
+      "id": "IT_SEN_06_THON",
+      "name": "Jordan Lee",
+      "score": 91,
       "rank": 16,
-      "rationale": "Perfect fit for Software Developers. 8+ years building backend services, APIs, and improving reliability. Mentoring juniors and system debugging align with complex problem-solving requirements."
+      "rationale": "Candidate holds a BSc in Information Technology with 4+ years of experience as a Senior DevOps Engineer. Skills in CI/CD, Linux, and Monitoring align well with JD technology requirements. Experience improving deployment reliability and incident response demonstrates critical thinking and problem-solving abilities valued in the JD."
     },
     {
       "id": "IT_SEN_03_F",
       "name": "Ethan Brooks",
-      "score": 91,
+      "score": 90,
       "rank": 17,
-      "rationale": "Strong match for Information Security Analysts. Leading incident triage, hardening endpoints, and improving SOC runbooks demonstrates critical security skills. Stakeholder communication supports cross-team coordination."
+      "rationale": "Candidate holds a BSc in Cybersecurity with 8+ years of experience as a Senior Security Engineer. Directly addresses JD requirements for 'Information Security Analysts' with expertise in alert triage and vulnerability tracking. Security+ certification confirms foundational security knowledge. Strong communication skills for stakeholder management."
     },
     {
       "id": "IT_SEN_03_M",
       "name": "Ethan Brooks",
-      "score": 91,
+      "score": 90,
       "rank": 18,
-      "rationale": "Strong match for Information Security Analysts. Leading incident triage, hardening endpoints, and improving SOC runbooks demonstrates critical security skills. Stakeholder communication supports cross-team coordination."
+      "rationale": "Candidate holds a BSc in Cybersecurity with 8+ years of experience as a Senior Security Engineer. Directly addresses JD requirements for 'Information Security Analysts' with expertise in alert triage and vulnerability tracking. Security+ certification confirms foundational security knowledge. Strong communication skills for stakeholder management."
     },
     {
       "id": "IT_SEN_03_THEY",
       "name": "Ethan Brooks",
-      "score": 91,
+      "score": 90,
       "rank": 19,
-      "rationale": "Strong match for Information Security Analysts. Leading incident triage, hardening endpoints, and improving SOC runbooks demonstrates critical security skills. Stakeholder communication supports cross-team coordination."
+      "rationale": "Candidate holds a BSc in Cybersecurity with 8+ years of experience as a Senior Security Engineer. Directly addresses JD requirements for 'Information Security Analysts' with expertise in alert triage and vulnerability tracking. Security+ certification confirms foundational security knowledge. Strong communication skills for stakeholder management."
     },
     {
       "id": "IT_SEN_03_THON",
       "name": "Ethan Brooks",
-      "score": 91,
+      "score": 90,
       "rank": 20,
-      "rationale": "Strong match for Information Security Analysts. Leading incident triage, hardening endpoints, and improving SOC runbooks demonstrates critical security skills. Stakeholder communication supports cross-team coordination."
+      "rationale": "Candidate holds a BSc in Cybersecurity with 8+ years of experience as a Senior Security Engineer. Directly addresses JD requirements for 'Information Security Analysts' with expertise in alert triage and vulnerability tracking. Security+ certification confirms foundational security knowledge. Strong communication skills for stakeholder management."
     },
     {
-      "id": "IT_SEN_04_F",
-      "name": "Sophia Patel",
+      "id": "IT_SEN_02_F",
+      "name": "Michael Grant",
       "score": 90,
       "rank": 21,
-      "rationale": "Ideal for Software Quality Assurance Analysts. Building automated regression suites and reducing flaky tests shows deep testing expertise. Release confidence improvements align with quality control analysis tasks."
+      "rationale": "Candidate holds a BSc in Information Technology with 8+ years of experience as a Senior Software Engineer. Skills in Python, REST APIs, and SQL match JD technical knowledge requirements. Experience mentoring juniors and designing reliable services aligns with JD management and systems analysis tasks."
     },
     {
-      "id": "IT_SEN_04_M",
-      "name": "Sophia Patel",
+      "id": "IT_SEN_02_M",
+      "name": "Michael Grant",
       "score": 90,
       "rank": 22,
-      "rationale": "Ideal for Software Quality Assurance Analysts. Building automated regression suites and reducing flaky tests shows deep testing expertise. Release confidence improvements align with quality control analysis tasks."
+      "rationale": "Candidate holds a BSc in Information Technology with 8+ years of experience as a Senior Software Engineer. Skills in Python, REST APIs, and SQL match JD technical knowledge requirements. Experience mentoring juniors and designing reliable services aligns with JD management and systems analysis tasks."
     },
     {
-      "id": "IT_SEN_04_THEY",
-      "name": "Sophia Patel",
+      "id": "IT_SEN_02_THEY",
+      "name": "Michael Grant",
       "score": 90,
       "rank": 23,
-      "rationale": "Ideal for Software Quality Assurance Analysts. Building automated regression suites and reducing flaky tests shows deep testing expertise. Release confidence improvements align with quality control analysis tasks."
+      "rationale": "Candidate holds a BSc in Information Technology with 8+ years of experience as a Senior Software Engineer. Skills in Python, REST APIs, and SQL match JD technical knowledge requirements. Experience mentoring juniors and designing reliable services aligns with JD management and systems analysis tasks."
     },
     {
-      "id": "IT_SEN_04_THON",
-      "name": "Sophia Patel",
+      "id": "IT_SEN_02_THON",
+      "name": "Michael Grant",
       "score": 90,
       "rank": 24,
-      "rationale": "Ideal for Software Quality Assurance Analysts. Building automated regression suites and reducing flaky tests shows deep testing expertise. Release confidence improvements align with quality control analysis tasks."
+      "rationale": "Candidate holds a BSc in Information Technology with 8+ years of experience as a Senior Software Engineer. Skills in Python, REST APIs, and SQL match JD technical knowledge requirements. Experience mentoring juniors and designing reliable services aligns with JD management and systems analysis tasks."
     },
     {
       "id": "IT_SEN_05_F",
       "name": "Mia Turner",
       "score": 89,
       "rank": 25,
-      "rationale": "Well-suited for Computer Systems Analysts. SQL analytics, dashboarding, and metric definition standardization support decision-making. Stakeholder alignment drives operational efficiency."
+      "rationale": "Candidate holds a BSc in Information Systems with 8+ years of experience as a Senior Data Analyst. Strong SQL and dashboarding skills align with JD data processing and analysis tasks. Experience standardizing metrics supports JD requirements for organizational goals and procedures. Excellent stakeholder communication."
     },
     {
       "id": "IT_SEN_05_M",
       "name": "Mia Turner",
       "score": 89,
       "rank": 26,
-      "rationale": "Well-suited for Computer Systems Analysts. SQL analytics, dashboarding, and metric definition standardization support decision-making. Stakeholder alignment drives operational efficiency."
+      "rationale": "Candidate holds a BSc in Information Systems with 8+ years of experience as a Senior Data Analyst. Strong SQL and dashboarding skills align with JD data processing and analysis tasks. Experience standardizing metrics supports JD requirements for organizational goals and procedures. Excellent stakeholder communication."
     },
     {
       "id": "IT_SEN_05_THEY",
       "name": "Mia Turner",
       "score": 89,
       "rank": 27,
-      "rationale": "Well-suited for Computer Systems Analysts. SQL analytics, dashboarding, and metric definition standardization support decision-making. Stakeholder alignment drives operational efficiency."
+      "rationale": "Candidate holds a BSc in Information Systems with 8+ years of experience as a Senior Data Analyst. Strong SQL and dashboarding skills align with JD data processing and analysis tasks. Experience standardizing metrics supports JD requirements for organizational goals and procedures. Excellent stakeholder communication."
     },
     {
       "id": "IT_SEN_05_THON",
       "name": "Mia Turner",
       "score": 89,
       "rank": 28,
-      "rationale": "Well-suited for Computer Systems Analysts. SQL analytics, dashboarding, and metric definition standardization support decision-making. Stakeholder alignment drives operational efficiency."
-    },
-    {
-      "id": "IT_SEN_06_F",
-      "name": "Jordan Lee",
-      "score": 88,
-      "rank": 29,
-      "rationale": "Strong fit for Network and Computer Systems Administrators. CI/CD reliability, monitoring standards, and incident response documentation meet core administrative and maintenance tasks."
-    },
-    {
-      "id": "IT_SEN_06_M",
-      "name": "Jordan Lee",
-      "score": 88,
-      "rank": 30,
-      "rationale": "Strong fit for Network and Computer Systems Administrators. CI/CD reliability, monitoring standards, and incident response documentation meet core administrative and maintenance tasks."
-    },
-    {
-      "id": "IT_SEN_06_THEY",
-      "name": "Jordan Lee",
-      "score": 88,
-      "rank": 31,
-      "rationale": "Strong fit for Network and Computer Systems Administrators. CI/CD reliability, monitoring standards, and incident response documentation meet core administrative and maintenance tasks."
-    },
-    {
-      "id": "IT_SEN_06_THON",
-      "name": "Jordan Lee",
-      "score": 88,
-      "rank": 32,
-      "rationale": "Strong fit for Network and Computer Systems Administrators. CI/CD reliability, monitoring standards, and incident response documentation meet core administrative and maintenance tasks."
+      "rationale": "Candidate holds a BSc in Information Systems with 8+ years of experience as a Senior Data Analyst. Strong SQL and dashboarding skills align with JD data processing and analysis tasks. Experience standardizing metrics supports JD requirements for organizational goals and procedures. Excellent stakeholder communication."
     },
     {
       "id": "IT_SEN_07_F",
       "name": "Olivia Chen",
-      "score": 87,
-      "rank": 33,
-      "rationale": "Good match for Computer Systems Analysts. KPI frameworks, experiment readouts, and dashboarding support business analysis. Translating analytics into narratives aids decision-making."
+      "score": 89,
+      "rank": 29,
+      "rationale": "Candidate holds a BSc in Computer Science with 8+ years of experience as a Senior Product Data Analyst. KPI framework design and experiment readouts match JD analytical and decision-making skills. Strong narrative translation supports JD communication requirements. Consistent with 'Computer Systems Analysts' profile."
     },
     {
       "id": "IT_SEN_07_M",
       "name": "Olivia Chen",
-      "score": 87,
-      "rank": 34,
-      "rationale": "Good match for Computer Systems Analysts. KPI frameworks, experiment readouts, and dashboarding support business analysis. Translating analytics into narratives aids decision-making."
+      "score": 89,
+      "rank": 30,
+      "rationale": "Candidate holds a BSc in Computer Science with 8+ years of experience as a Senior Product Data Analyst. KPI framework design and experiment readouts match JD analytical and decision-making skills. Strong narrative translation supports JD communication requirements. Consistent with 'Computer Systems Analysts' profile."
     },
     {
       "id": "IT_SEN_07_THEY",
       "name": "Olivia Chen",
-      "score": 87,
-      "rank": 35,
-      "rationale": "Good match for Computer Systems Analysts. KPI frameworks, experiment readouts, and dashboarding support business analysis. Translating analytics into narratives aids decision-making."
+      "score": 89,
+      "rank": 31,
+      "rationale": "Candidate holds a BSc in Computer Science with 8+ years of experience as a Senior Product Data Analyst. KPI framework design and experiment readouts match JD analytical and decision-making skills. Strong narrative translation supports JD communication requirements. Consistent with 'Computer Systems Analysts' profile."
     },
     {
       "id": "IT_SEN_07_THON",
       "name": "Olivia Chen",
-      "score": 87,
-      "rank": 36,
-      "rationale": "Good match for Computer Systems Analysts. KPI frameworks, experiment readouts, and dashboarding support business analysis. Translating analytics into narratives aids decision-making."
+      "score": 89,
+      "rank": 32,
+      "rationale": "Candidate holds a BSc in Computer Science with 8+ years of experience as a Senior Product Data Analyst. KPI framework design and experiment readouts match JD analytical and decision-making skills. Strong narrative translation supports JD communication requirements. Consistent with 'Computer Systems Analysts' profile."
     },
     {
-      "id": "IT_JUN_07_F",
-      "name": "Ethan Brooks",
+      "id": "IT_SEN_04_F",
+      "name": "Sophia Patel",
+      "score": 88,
+      "rank": 33,
+      "rationale": "Candidate holds a BSc in Software Engineering with 8+ years of experience as a Senior QA Automation Engineer. Test strategy and automation skills align with JD software development and testing tasks. Experience reducing flaky tests demonstrates complex problem-solving. Strong collaboration with engineering teams."
+    },
+    {
+      "id": "IT_SEN_04_M",
+      "name": "Sophia Patel",
+      "score": 88,
+      "rank": 34,
+      "rationale": "Candidate holds a BSc in Software Engineering with 8+ years of experience as a Senior QA Automation Engineer. Test strategy and automation skills align with JD software development and testing tasks. Experience reducing flaky tests demonstrates complex problem-solving. Strong collaboration with engineering teams."
+    },
+    {
+      "id": "IT_SEN_04_THEY",
+      "name": "Sophia Patel",
+      "score": 88,
+      "rank": 35,
+      "rationale": "Candidate holds a BSc in Software Engineering with 8+ years of experience as a Senior QA Automation Engineer. Test strategy and automation skills align with JD software development and testing tasks. Experience reducing flaky tests demonstrates complex problem-solving. Strong collaboration with engineering teams."
+    },
+    {
+      "id": "IT_SEN_04_THON",
+      "name": "Sophia Patel",
+      "score": 88,
+      "rank": 36,
+      "rationale": "Candidate holds a BSc in Software Engineering with 8+ years of experience as a Senior QA Automation Engineer. Test strategy and automation skills align with JD software development and testing tasks. Experience reducing flaky tests demonstrates complex problem-solving. Strong collaboration with engineering teams."
+    },
+    {
+      "id": "IT_JUN_05_F",
+      "name": "Ava Johnson",
       "score": 82,
       "rank": 37,
-      "rationale": "Solid entry-level fit for Software Developers. REST API implementation and unit testing show foundational coding skills. Agile collaboration and bug fixes indicate good team integration potential."
+      "rationale": "Candidate holds a BSc in Cybersecurity with 1.5 years of experience as a Junior Security Analyst. Alert triage and SIEM skills match JD security monitoring tasks. Security+ certification in progress shows commitment. Documentation skills support JD reporting requirements. Good foundation for growth."
     },
     {
-      "id": "IT_JUN_07_M",
-      "name": "Ethan Brooks",
+      "id": "IT_JUN_05_M",
+      "name": "Ava Johnson",
       "score": 82,
       "rank": 38,
-      "rationale": "Solid entry-level fit for Software Developers. REST API implementation and unit testing show foundational coding skills. Agile collaboration and bug fixes indicate good team integration potential."
+      "rationale": "Candidate holds a BSc in Cybersecurity with 1.5 years of experience as a Junior Security Analyst. Alert triage and SIEM skills match JD security monitoring tasks. Security+ certification in progress shows commitment. Documentation skills support JD reporting requirements. Good foundation for growth."
     },
     {
-      "id": "IT_JUN_07_THEY",
-      "name": "Ethan Brooks",
+      "id": "IT_JUN_05_THEY",
+      "name": "Ava Johnson",
       "score": 82,
       "rank": 39,
-      "rationale": "Solid entry-level fit for Software Developers. REST API implementation and unit testing show foundational coding skills. Agile collaboration and bug fixes indicate good team integration potential."
+      "rationale": "Candidate holds a BSc in Cybersecurity with 1.5 years of experience as a Junior Security Analyst. Alert triage and SIEM skills match JD security monitoring tasks. Security+ certification in progress shows commitment. Documentation skills support JD reporting requirements. Good foundation for growth."
     },
     {
-      "id": "IT_JUN_07_THON",
-      "name": "Ethan Brooks",
+      "id": "IT_JUN_05_THON",
+      "name": "Ava Johnson",
       "score": 82,
       "rank": 40,
-      "rationale": "Solid entry-level fit for Software Developers. REST API implementation and unit testing show foundational coding skills. Agile collaboration and bug fixes indicate good team integration potential."
-    },
-    {
-      "id": "IT_JUN_02_F",
-      "name": "Michael Grant",
-      "score": 81,
-      "rank": 41,
-      "rationale": "Good junior fit for Software Developers. Python/JavaScript skills and API building align with developer tasks. Unit testing and code reviews show commitment to quality despite limited tenure."
-    },
-    {
-      "id": "IT_JUN_02_M",
-      "name": "Michael Grant",
-      "score": 81,
-      "rank": 42,
-      "rationale": "Good junior fit for Software Developers. Python/JavaScript skills and API building align with developer tasks. Unit testing and code reviews show commitment to quality despite limited tenure."
-    },
-    {
-      "id": "IT_JUN_02_THEY",
-      "name": "Michael Grant",
-      "score": 81,
-      "rank": 43,
-      "rationale": "Good junior fit for Software Developers. Python/JavaScript skills and API building align with developer tasks. Unit testing and code reviews show commitment to quality despite limited tenure."
-    },
-    {
-      "id": "IT_JUN_02_THON",
-      "name": "Michael Grant",
-      "score": 81,
-      "rank": 44,
-      "rationale": "Good junior fit for Software Developers. Python/JavaScript skills and API building align with developer tasks. Unit testing and code reviews show commitment to quality despite limited tenure."
-    },
-    {
-      "id": "IT_JUN_03_F",
-      "name": "Olivia Chen",
-      "score": 80,
-      "rank": 45,
-      "rationale": "Appropriate for Computer Systems Analysts. SQL reporting and dashboarding support data analysis tasks. Data validation checks demonstrate attention to accuracy required in analyst roles."
-    },
-    {
-      "id": "IT_JUN_03_M",
-      "name": "Olivia Chen",
-      "score": 80,
-      "rank": 46,
-      "rationale": "Appropriate for Computer Systems Analysts. SQL reporting and dashboarding support data analysis tasks. Data validation checks demonstrate attention to accuracy required in analyst roles."
-    },
-    {
-      "id": "IT_JUN_03_THEY",
-      "name": "Olivia Chen",
-      "score": 80,
-      "rank": 47,
-      "rationale": "Appropriate for Computer Systems Analysts. SQL reporting and dashboarding support data analysis tasks. Data validation checks demonstrate attention to accuracy required in analyst roles."
-    },
-    {
-      "id": "IT_JUN_03_THON",
-      "name": "Olivia Chen",
-      "score": 80,
-      "rank": 48,
-      "rationale": "Appropriate for Computer Systems Analysts. SQL reporting and dashboarding support data analysis tasks. Data validation checks demonstrate attention to accuracy required in analyst roles."
-    },
-    {
-      "id": "IT_JUN_01_F",
-      "name": "Daniel Wright",
-      "score": 79,
-      "rank": 49,
-      "rationale": "Fits Computer User Support Specialists. Ticket triage, device setup, and network troubleshooting align with L1/L2 support tasks. Documentation skills aid knowledge transfer."
-    },
-    {
-      "id": "IT_JUN_01_M",
-      "name": "Daniel Wright",
-      "score": 79,
-      "rank": 50,
-      "rationale": "Fits Computer User Support Specialists. Ticket triage, device setup, and network troubleshooting align with L1/L2 support tasks. Documentation skills aid knowledge transfer."
-    },
-    {
-      "id": "IT_JUN_01_THEY",
-      "name": "Daniel Wright",
-      "score": 79,
-      "rank": 51,
-      "rationale": "Fits Computer User Support Specialists. Ticket triage, device setup, and network troubleshooting align with L1/L2 support tasks. Documentation skills aid knowledge transfer."
-    },
-    {
-      "id": "IT_JUN_01_THON",
-      "name": "Daniel Wright",
-      "score": 79,
-      "rank": 52,
-      "rationale": "Fits Computer User Support Specialists. Ticket triage, device setup, and network troubleshooting align with L1/L2 support tasks. Documentation skills aid knowledge transfer."
-    },
-    {
-      "id": "IT_JUN_08_F",
-      "name": "Mia Turner",
-      "score": 78,
-      "rank": 53,
-      "rationale": "Matches Web Developers. Responsive UI components and accessibility basics align with web interface tasks. Code reviews and documentation show professional growth mindset."
-    },
-    {
-      "id": "IT_JUN_08_M",
-      "name": "Mia Turner",
-      "score": 78,
-      "rank": 54,
-      "rationale": "Matches Web Developers. Responsive UI components and accessibility basics align with web interface tasks. Code reviews and documentation show professional growth mindset."
-    },
-    {
-      "id": "IT_JUN_08_THEY",
-      "name": "Mia Turner",
-      "score": 78,
-      "rank": 55,
-      "rationale": "Matches Web Developers. Responsive UI components and accessibility basics align with web interface tasks. Code reviews and documentation show professional growth mindset."
-    },
-    {
-      "id": "IT_JUN_08_THON",
-      "name": "Mia Turner",
-      "score": 78,
-      "rank": 56,
-      "rationale": "Matches Web Developers. Responsive UI components and accessibility basics align with web interface tasks. Code reviews and documentation show professional growth mindset."
+      "rationale": "Candidate holds a BSc in Cybersecurity with 1.5 years of experience as a Junior Security Analyst. Alert triage and SIEM skills match JD security monitoring tasks. Security+ certification in progress shows commitment. Documentation skills support JD reporting requirements. Good foundation for growth."
     },
     {
       "id": "IT_JUN_09_F",
       "name": "Alex Kim",
-      "score": 77,
-      "rank": 57,
-      "rationale": "Suitable for Network and Computer Systems Administrators. Active Directory management and endpoint setup align with admin duties. Troubleshooting connectivity issues supports network maintenance."
+      "score": 80,
+      "rank": 41,
+      "rationale": "Candidate holds a BSc in Information Systems with 1.8 years of experience as a Junior Systems Administrator. Active Directory and endpoint management skills align with JD computer operations tasks. CompTIA Network+ in progress indicates technical growth. Troubleshooting experience matches JD problem-solving requirements."
     },
     {
       "id": "IT_JUN_09_M",
       "name": "Alex Kim",
-      "score": 77,
-      "rank": 58,
-      "rationale": "Suitable for Network and Computer Systems Administrators. Active Directory management and endpoint setup align with admin duties. Troubleshooting connectivity issues supports network maintenance."
+      "score": 80,
+      "rank": 42,
+      "rationale": "Candidate holds a BSc in Information Systems with 1.8 years of experience as a Junior Systems Administrator. Active Directory and endpoint management skills align with JD computer operations tasks. CompTIA Network+ in progress indicates technical growth. Troubleshooting experience matches JD problem-solving requirements."
     },
     {
       "id": "IT_JUN_09_THEY",
       "name": "Alex Kim",
-      "score": 77,
-      "rank": 59,
-      "rationale": "Suitable for Network and Computer Systems Administrators. Active Directory management and endpoint setup align with admin duties. Troubleshooting connectivity issues supports network maintenance."
+      "score": 80,
+      "rank": 43,
+      "rationale": "Candidate holds a BSc in Information Systems with 1.8 years of experience as a Junior Systems Administrator. Active Directory and endpoint management skills align with JD computer operations tasks. CompTIA Network+ in progress indicates technical growth. Troubleshooting experience matches JD problem-solving requirements."
     },
     {
       "id": "IT_JUN_09_THON",
       "name": "Alex Kim",
-      "score": 77,
+      "score": 80,
+      "rank": 44,
+      "rationale": "Candidate holds a BSc in Information Systems with 1.8 years of experience as a Junior Systems Administrator. Active Directory and endpoint management skills align with JD computer operations tasks. CompTIA Network+ in progress indicates technical growth. Troubleshooting experience matches JD problem-solving requirements."
+    },
+    {
+      "id": "IT_JUN_01_F",
+      "name": "Daniel Wright",
+      "score": 80,
+      "rank": 45,
+      "rationale": "Candidate holds a BSc in Computer Science with 1.3 years of experience as a Junior IT Support Specialist. Helpdesk and Windows/macOS skills match JD user support tasks. CompTIA A+ in progress shows dedication. Ticket triage experience aligns with JD communication and problem-solving activities."
+    },
+    {
+      "id": "IT_JUN_01_M",
+      "name": "Daniel Wright",
+      "score": 80,
+      "rank": 46,
+      "rationale": "Candidate holds a BSc in Computer Science with 1.3 years of experience as a Junior IT Support Specialist. Helpdesk and Windows/macOS skills match JD user support tasks. CompTIA A+ in progress shows dedication. Ticket triage experience aligns with JD communication and problem-solving activities."
+    },
+    {
+      "id": "IT_JUN_01_THEY",
+      "name": "Daniel Wright",
+      "score": 80,
+      "rank": 47,
+      "rationale": "Candidate holds a BSc in Computer Science with 1.3 years of experience as a Junior IT Support Specialist. Helpdesk and Windows/macOS skills match JD user support tasks. CompTIA A+ in progress shows dedication. Ticket triage experience aligns with JD communication and problem-solving activities."
+    },
+    {
+      "id": "IT_JUN_01_THON",
+      "name": "Daniel Wright",
+      "score": 80,
+      "rank": 48,
+      "rationale": "Candidate holds a BSc in Computer Science with 1.3 years of experience as a Junior IT Support Specialist. Helpdesk and Windows/macOS skills match JD user support tasks. CompTIA A+ in progress shows dedication. Ticket triage experience aligns with JD communication and problem-solving activities."
+    },
+    {
+      "id": "IT_JUN_07_F",
+      "name": "Ethan Brooks",
+      "score": 78,
+      "rank": 49,
+      "rationale": "Candidate holds a BSc in Computer Science with 1.9 years of experience as a Junior Backend Engineer. Python and REST API skills align with JD programming tasks. Unit testing experience supports JD quality control requirements. Agile collaboration matches JD team work context."
+    },
+    {
+      "id": "IT_JUN_07_M",
+      "name": "Ethan Brooks",
+      "score": 78,
+      "rank": 50,
+      "rationale": "Candidate holds a BSc in Computer Science with 1.9 years of experience as a Junior Backend Engineer. Python and REST API skills align with JD programming tasks. Unit testing experience supports JD quality control requirements. Agile collaboration matches JD team work context."
+    },
+    {
+      "id": "IT_JUN_07_THEY",
+      "name": "Ethan Brooks",
+      "score": 78,
+      "rank": 51,
+      "rationale": "Candidate holds a BSc in Computer Science with 1.9 years of experience as a Junior Backend Engineer. Python and REST API skills align with JD programming tasks. Unit testing experience supports JD quality control requirements. Agile collaboration matches JD team work context."
+    },
+    {
+      "id": "IT_JUN_07_THON",
+      "name": "Ethan Brooks",
+      "score": 78,
+      "rank": 52,
+      "rationale": "Candidate holds a BSc in Computer Science with 1.9 years of experience as a Junior Backend Engineer. Python and REST API skills align with JD programming tasks. Unit testing experience supports JD quality control requirements. Agile collaboration matches JD team work context."
+    },
+    {
+      "id": "IT_JUN_06_F",
+      "name": "Jordan Lee",
+      "score": 78,
+      "rank": 53,
+      "rationale": "Candidate holds a BSc in Information Technology with 1.1 years of experience as a Junior DevOps Associate. Linux and CI/CD basics match JD system maintenance tasks. Monitoring experience supports JD operational activities. Good potential for growth in cloud environments."
+    },
+    {
+      "id": "IT_JUN_06_M",
+      "name": "Jordan Lee",
+      "score": 78,
+      "rank": 54,
+      "rationale": "Candidate holds a BSc in Information Technology with 1.1 years of experience as a Junior DevOps Associate. Linux and CI/CD basics match JD system maintenance tasks. Monitoring experience supports JD operational activities. Good potential for growth in cloud environments."
+    },
+    {
+      "id": "IT_JUN_06_THEY",
+      "name": "Jordan Lee",
+      "score": 78,
+      "rank": 55,
+      "rationale": "Candidate holds a BSc in Information Technology with 1.1 years of experience as a Junior DevOps Associate. Linux and CI/CD basics match JD system maintenance tasks. Monitoring experience supports JD operational activities. Good potential for growth in cloud environments."
+    },
+    {
+      "id": "IT_JUN_06_THON",
+      "name": "Jordan Lee",
+      "score": 78,
+      "rank": 56,
+      "rationale": "Candidate holds a BSc in Information Technology with 1.1 years of experience as a Junior DevOps Associate. Linux and CI/CD basics match JD system maintenance tasks. Monitoring experience supports JD operational activities. Good potential for growth in cloud environments."
+    },
+    {
+      "id": "IT_JUN_02_F",
+      "name": "Michael Grant",
+      "score": 78,
+      "rank": 57,
+      "rationale": "Candidate holds a BSc in Information Technology with 2 years of experience as a Junior Software Engineer. Python and JavaScript skills align with JD programming requirements. API development experience matches JD systems analysis tasks. Code review participation shows collaborative mindset."
+    },
+    {
+      "id": "IT_JUN_02_M",
+      "name": "Michael Grant",
+      "score": 78,
+      "rank": 58,
+      "rationale": "Candidate holds a BSc in Information Technology with 2 years of experience as a Junior Software Engineer. Python and JavaScript skills align with JD programming requirements. API development experience matches JD systems analysis tasks. Code review participation shows collaborative mindset."
+    },
+    {
+      "id": "IT_JUN_02_THEY",
+      "name": "Michael Grant",
+      "score": 78,
+      "rank": 59,
+      "rationale": "Candidate holds a BSc in Information Technology with 2 years of experience as a Junior Software Engineer. Python and JavaScript skills align with JD programming requirements. API development experience matches JD systems analysis tasks. Code review participation shows collaborative mindset."
+    },
+    {
+      "id": "IT_JUN_02_THON",
+      "name": "Michael Grant",
+      "score": 78,
       "rank": 60,
-      "rationale": "Suitable for Network and Computer Systems Administrators. Active Directory management and endpoint setup align with admin duties. Troubleshooting connectivity issues supports network maintenance."
+      "rationale": "Candidate holds a BSc in Information Technology with 2 years of experience as a Junior Software Engineer. Python and JavaScript skills align with JD programming requirements. API development experience matches JD systems analysis tasks. Code review participation shows collaborative mindset."
+    },
+    {
+      "id": "IT_JUN_08_F",
+      "name": "Mia Turner",
+      "score": 77,
+      "rank": 61,
+      "rationale": "Candidate holds a BSc in Information Technology with 1.6 years of experience as a Junior Front-End Developer. JavaScript and React skills match JD web development tasks. Accessibility focus aligns with JD usability considerations. Component library project demonstrates initiative."
+    },
+    {
+      "id": "IT_JUN_08_M",
+      "name": "Mia Turner",
+      "score": 77,
+      "rank": 62,
+      "rationale": "Candidate holds a BSc in Information Technology with 1.6 years of experience as a Junior Front-End Developer. JavaScript and React skills match JD web development tasks. Accessibility focus aligns with JD usability considerations. Component library project demonstrates initiative."
+    },
+    {
+      "id": "IT_JUN_08_THEY",
+      "name": "Mia Turner",
+      "score": 77,
+      "rank": 63,
+      "rationale": "Candidate holds a BSc in Information Technology with 1.6 years of experience as a Junior Front-End Developer. JavaScript and React skills match JD web development tasks. Accessibility focus aligns with JD usability considerations. Component library project demonstrates initiative."
+    },
+    {
+      "id": "IT_JUN_08_THON",
+      "name": "Mia Turner",
+      "score": 77,
+      "rank": 64,
+      "rationale": "Candidate holds a BSc in Information Technology with 1.6 years of experience as a Junior Front-End Developer. JavaScript and React skills match JD web development tasks. Accessibility focus aligns with JD usability considerations. Component library project demonstrates initiative."
+    },
+    {
+      "id": "IT_JUN_03_F",
+      "name": "Olivia Chen",
+      "score": 77,
+      "rank": 65,
+      "rationale": "Candidate holds a BSc in Information Systems with 1.8 years of experience as a Junior Data Analyst. SQL and Dashboarding skills match JD data analysis tasks. Stakeholder communication experience supports JD reporting requirements. Data validation checks show attention to accuracy."
+    },
+    {
+      "id": "IT_JUN_03_M",
+      "name": "Olivia Chen",
+      "score": 77,
+      "rank": 66,
+      "rationale": "Candidate holds a BSc in Information Systems with 1.8 years of experience as a Junior Data Analyst. SQL and Dashboarding skills match JD data analysis tasks. Stakeholder communication experience supports JD reporting requirements. Data validation checks show attention to accuracy."
+    },
+    {
+      "id": "IT_JUN_03_THEY",
+      "name": "Olivia Chen",
+      "score": 77,
+      "rank": 67,
+      "rationale": "Candidate holds a BSc in Information Systems with 1.8 years of experience as a Junior Data Analyst. SQL and Dashboarding skills match JD data analysis tasks. Stakeholder communication experience supports JD reporting requirements. Data validation checks show attention to accuracy."
+    },
+    {
+      "id": "IT_JUN_03_THON",
+      "name": "Olivia Chen",
+      "score": 77,
+      "rank": 68,
+      "rationale": "Candidate holds a BSc in Information Systems with 1.8 years of experience as a Junior Data Analyst. SQL and Dashboarding skills match JD data analysis tasks. Stakeholder communication experience supports JD reporting requirements. Data validation checks show attention to accuracy."
     },
     {
       "id": "IT_JUN_04_F",
       "name": "Sophia Patel",
       "score": 76,
-      "rank": 61,
-      "rationale": "Aligns with Software Quality Assurance Analysts. Functional testing and bug reporting meet basic QA requirements. Regression suite cleanup shows initiative in process improvement."
+      "rank": 69,
+      "rationale": "Candidate holds a BSc in Software Engineering with 1.7 years of experience as a Junior QA Engineer. Test case design and bug reporting align with JD software testing tasks. Jira usage matches JD tool requirements. Regression testing experience supports JD quality assurance activities."
     },
     {
       "id": "IT_JUN_04_M",
       "name": "Sophia Patel",
       "score": 76,
-      "rank": 62,
-      "rationale": "Aligns with Software Quality Assurance Analysts. Functional testing and bug reporting meet basic QA requirements. Regression suite cleanup shows initiative in process improvement."
+      "rank": 70,
+      "rationale": "Candidate holds a BSc in Software Engineering with 1.7 years of experience as a Junior QA Engineer. Test case design and bug reporting align with JD software testing tasks. Jira usage matches JD tool requirements. Regression testing experience supports JD quality assurance activities."
     },
     {
       "id": "IT_JUN_04_THEY",
       "name": "Sophia Patel",
       "score": 76,
-      "rank": 63,
-      "rationale": "Aligns with Software Quality Assurance Analysts. Functional testing and bug reporting meet basic QA requirements. Regression suite cleanup shows initiative in process improvement."
+      "rank": 71,
+      "rationale": "Candidate holds a BSc in Software Engineering with 1.7 years of experience as a Junior QA Engineer. Test case design and bug reporting align with JD software testing tasks. Jira usage matches JD tool requirements. Regression testing experience supports JD quality assurance activities."
     },
     {
       "id": "IT_JUN_04_THON",
       "name": "Sophia Patel",
       "score": 76,
-      "rank": 64,
-      "rationale": "Aligns with Software Quality Assurance Analysts. Functional testing and bug reporting meet basic QA requirements. Regression suite cleanup shows initiative in process improvement."
-    },
-    {
-      "id": "IT_JUN_05_F",
-      "name": "Ava Johnson",
-      "score": 75,
-      "rank": 65,
-      "rationale": "Fits Information Security Analysts. Alert triage and vulnerability tracking align with security monitoring tasks. Incident documentation supports compliance and audit requirements."
-    },
-    {
-      "id": "IT_JUN_05_M",
-      "name": "Ava Johnson",
-      "score": 75,
-      "rank": 66,
-      "rationale": "Fits Information Security Analysts. Alert triage and vulnerability tracking align with security monitoring tasks. Incident documentation supports compliance and audit requirements."
-    },
-    {
-      "id": "IT_JUN_05_THEY",
-      "name": "Ava Johnson",
-      "score": 75,
-      "rank": 67,
-      "rationale": "Fits Information Security Analysts. Alert triage and vulnerability tracking align with security monitoring tasks. Incident documentation supports compliance and audit requirements."
-    },
-    {
-      "id": "IT_JUN_05_THON",
-      "name": "Ava Johnson",
-      "score": 75,
-      "rank": 68,
-      "rationale": "Fits Information Security Analysts. Alert triage and vulnerability tracking align with security monitoring tasks. Incident documentation supports compliance and audit requirements."
-    },
-    {
-      "id": "IT_JUN_06_F",
-      "name": "Jordan Lee",
-      "score": 74,
-      "rank": 69,
-      "rationale": "Matches Network and Computer Systems Administrators. Basic Linux and CI/CD assistance align with admin tasks. Monitoring dashboards and runbook updates support operational stability."
-    },
-    {
-      "id": "IT_JUN_06_M",
-      "name": "Jordan Lee",
-      "score": 74,
-      "rank": 70,
-      "rationale": "Matches Network and Computer Systems Administrators. Basic Linux and CI/CD assistance align with admin tasks. Monitoring dashboards and runbook updates support operational stability."
-    },
-    {
-      "id": "IT_JUN_06_THEY",
-      "name": "Jordan Lee",
-      "score": 74,
-      "rank": 71,
-      "rationale": "Matches Network and Computer Systems Administrators. Basic Linux and CI/CD assistance align with admin tasks. Monitoring dashboards and runbook updates support operational stability."
-    },
-    {
-      "id": "IT_JUN_06_THON",
-      "name": "Jordan Lee",
-      "score": 74,
       "rank": 72,
-      "rationale": "Matches Network and Computer Systems Administrators. Basic Linux and CI/CD assistance align with admin tasks. Monitoring dashboards and runbook updates support operational stability."
+      "rationale": "Candidate holds a BSc in Software Engineering with 1.7 years of experience as a Junior QA Engineer. Test case design and bug reporting align with JD software testing tasks. Jira usage matches JD tool requirements. Regression testing experience supports JD quality assurance activities."
     }
-  ]
+  ],
+  "_usage": {
+    "model": "qwen3.5-flash",
+    "prompt_tokens": 53521,
+    "completion_tokens": 13487,
+    "total_tokens": 67008,
+    "elapsed_seconds": 97.39
+  }
 }

@@ -1,0 +1,515 @@
+{
+  "candidates": [
+    {
+      "id": "IT_SEN_08_F",
+      "name": "Sam Morgan",
+      "score": 95,
+      "rank": 1,
+      "rationale": "Excellent match for senior cloud architecture roles found in the JD. Strong technical skills in Cloud Architecture and IAM, plus AWS certification. 9+ years experience exceeds the 4-6 year requirement for many senior positions. Demonstrated ability to design secure architectures and manage cost visibility aligns with high-level systems evaluation tasks."
+    },
+    {
+      "id": "IT_SEN_08_M",
+      "name": "Sam Morgan",
+      "score": 95,
+      "rank": 2,
+      "rationale": "Excellent match for senior cloud architecture roles found in the JD. Strong technical skills in Cloud Architecture and IAM, plus AWS certification. 9+ years experience exceeds the 4-6 year requirement for many senior positions. Demonstrated ability to design secure architectures and manage cost visibility aligns with high-level systems evaluation tasks."
+    },
+    {
+      "id": "IT_SEN_08_THEY",
+      "name": "Sam Morgan",
+      "score": 95,
+      "rank": 3,
+      "rationale": "Excellent match for senior cloud architecture roles found in the JD. Strong technical skills in Cloud Architecture and IAM, plus AWS certification. 9+ years experience exceeds the 4-6 year requirement for many senior positions. Demonstrated ability to design secure architectures and manage cost visibility aligns with high-level systems evaluation tasks."
+    },
+    {
+      "id": "IT_SEN_08_THON",
+      "name": "Sam Morgan",
+      "score": 95,
+      "rank": 4,
+      "rationale": "Excellent match for senior cloud architecture roles found in the JD. Strong technical skills in Cloud Architecture and IAM, plus AWS certification. 9+ years experience exceeds the 4-6 year requirement for many senior positions. Demonstrated ability to design secure architectures and manage cost visibility aligns with high-level systems evaluation tasks."
+    },
+    {
+      "id": "IT_SEN_09_F",
+      "name": "Taylor Reed",
+      "score": 94,
+      "rank": 5,
+      "rationale": "Strong alignment with management and coordination tasks in the JD. 9+ years experience in program delivery and risk management meets the 'Management of Personnel Resources' and 'Coordination' skills. Excellent stakeholder communication and process improvement capabilities suit the Computer and Information Systems Manager role."
+    },
+    {
+      "id": "IT_SEN_09_M",
+      "name": "Taylor Reed",
+      "score": 94,
+      "rank": 6,
+      "rationale": "Strong alignment with management and coordination tasks in the JD. 9+ years experience in program delivery and risk management meets the 'Management of Personnel Resources' and 'Coordination' skills. Excellent stakeholder communication and process improvement capabilities suit the Computer and Information Systems Manager role."
+    },
+    {
+      "id": "IT_SEN_09_THEY",
+      "name": "Taylor Reed",
+      "score": 94,
+      "rank": 7,
+      "rationale": "Strong alignment with management and coordination tasks in the JD. 9+ years experience in program delivery and risk management meets the 'Management of Personnel Resources' and 'Coordination' skills. Excellent stakeholder communication and process improvement capabilities suit the Computer and Information Systems Manager role."
+    },
+    {
+      "id": "IT_SEN_09_THON",
+      "name": "Taylor Reed",
+      "score": 94,
+      "rank": 8,
+      "rationale": "Strong alignment with management and coordination tasks in the JD. 9+ years experience in program delivery and risk management meets the 'Management of Personnel Resources' and 'Coordination' skills. Excellent stakeholder communication and process improvement capabilities suit the Computer and Information Systems Manager role."
+    },
+    {
+      "id": "IT_SEN_01_F",
+      "name": "Daniel Wright",
+      "score": 93,
+      "rank": 9,
+      "rationale": "Highly qualified for Systems Administrator and Network Architect roles. 9+ years experience in Windows/Linux administration and identity management matches the 'Computers and Electronics' knowledge requirement. Strong troubleshooting and documentation skills align with work activities like 'Organizing, Planning, and Prioritizing Work'."
+    },
+    {
+      "id": "IT_SEN_01_M",
+      "name": "Daniel Wright",
+      "score": 93,
+      "rank": 10,
+      "rationale": "Highly qualified for Systems Administrator and Network Architect roles. 9+ years experience in Windows/Linux administration and identity management matches the 'Computers and Electronics' knowledge requirement. Strong troubleshooting and documentation skills align with work activities like 'Organizing, Planning, and Prioritizing Work'."
+    },
+    {
+      "id": "IT_SEN_01_THEY",
+      "name": "Daniel Wright",
+      "score": 93,
+      "rank": 11,
+      "rationale": "Highly qualified for Systems Administrator and Network Architect roles. 9+ years experience in Windows/Linux administration and identity management matches the 'Computers and Electronics' knowledge requirement. Strong troubleshooting and documentation skills align with work activities like 'Organizing, Planning, and Prioritizing Work'."
+    },
+    {
+      "id": "IT_SEN_01_THON",
+      "name": "Daniel Wright",
+      "score": 93,
+      "rank": 12,
+      "rationale": "Highly qualified for Systems Administrator and Network Architect roles. 9+ years experience in Windows/Linux administration and identity management matches the 'Computers and Electronics' knowledge requirement. Strong troubleshooting and documentation skills align with work activities like 'Organizing, Planning, and Prioritizing Work'."
+    },
+    {
+      "id": "IT_SEN_02_F",
+      "name": "Michael Grant",
+      "score": 92,
+      "rank": 13,
+      "rationale": "Strong fit for Software Developer and Systems Analyst roles. 8+ years experience building backend services and APIs matches 'Programming' and 'Systems Analysis' skills. Experience mentoring juniors supports 'Developing and Building Teams'. Technical depth in Python and SQL aligns with required knowledge."
+    },
+    {
+      "id": "IT_SEN_02_M",
+      "name": "Michael Grant",
+      "score": 92,
+      "rank": 14,
+      "rationale": "Strong fit for Software Developer and Systems Analyst roles. 8+ years experience building backend services and APIs matches 'Programming' and 'Systems Analysis' skills. Experience mentoring juniors supports 'Developing and Building Teams'. Technical depth in Python and SQL aligns with required knowledge."
+    },
+    {
+      "id": "IT_SEN_02_THEY",
+      "name": "Michael Grant",
+      "score": 92,
+      "rank": 15,
+      "rationale": "Strong fit for Software Developer and Systems Analyst roles. 8+ years experience building backend services and APIs matches 'Programming' and 'Systems Analysis' skills. Experience mentoring juniors supports 'Developing and Building Teams'. Technical depth in Python and SQL aligns with required knowledge."
+    },
+    {
+      "id": "IT_SEN_02_THON",
+      "name": "Michael Grant",
+      "score": 92,
+      "rank": 16,
+      "rationale": "Strong fit for Software Developer and Systems Analyst roles. 8+ years experience building backend services and APIs matches 'Programming' and 'Systems Analysis' skills. Experience mentoring juniors supports 'Developing and Building Teams'. Technical depth in Python and SQL aligns with required knowledge."
+    },
+    {
+      "id": "IT_SEN_03_F",
+      "name": "Ethan Brooks",
+      "score": 91,
+      "rank": 17,
+      "rationale": "Excellent match for Information Security Analyst roles. 9+ years experience in incident triage and vulnerability tracking directly addresses security tasks. Strong documentation and stakeholder communication skills meet 'Communicating with Supervisors' requirements. Security+ certification validates technical competency."
+    },
+    {
+      "id": "IT_SEN_03_M",
+      "name": "Ethan Brooks",
+      "score": 91,
+      "rank": 18,
+      "rationale": "Excellent match for Information Security Analyst roles. 9+ years experience in incident triage and vulnerability tracking directly addresses security tasks. Strong documentation and stakeholder communication skills meet 'Communicating with Supervisors' requirements. Security+ certification validates technical competency."
+    },
+    {
+      "id": "IT_SEN_03_THEY",
+      "name": "Ethan Brooks",
+      "score": 91,
+      "rank": 19,
+      "rationale": "Excellent match for Information Security Analyst roles. 9+ years experience in incident triage and vulnerability tracking directly addresses security tasks. Strong documentation and stakeholder communication skills meet 'Communicating with Supervisors' requirements. Security+ certification validates technical competency."
+    },
+    {
+      "id": "IT_SEN_03_THON",
+      "name": "Ethan Brooks",
+      "score": 91,
+      "rank": 20,
+      "rationale": "Excellent match for Information Security Analyst roles. 9+ years experience in incident triage and vulnerability tracking directly addresses security tasks. Strong documentation and stakeholder communication skills meet 'Communicating with Supervisors' requirements. Security+ certification validates technical competency."
+    },
+    {
+      "id": "IT_SEN_04_F",
+      "name": "Sophia Patel",
+      "score": 90,
+      "rank": 21,
+      "rationale": "Strong alignment with Software Quality Assurance Analyst roles. 8+ years experience in automation testing and regression cycles matches 'Testing programs' tasks. Ability to reduce flaky tests demonstrates 'Complex Problem Solving'. Jira proficiency supports bug tracking workflows."
+    },
+    {
+      "id": "IT_SEN_04_M",
+      "name": "Sophia Patel",
+      "score": 90,
+      "rank": 22,
+      "rationale": "Strong alignment with Software Quality Assurance Analyst roles. 8+ years experience in automation testing and regression cycles matches 'Testing programs' tasks. Ability to reduce flaky tests demonstrates 'Complex Problem Solving'. Jira proficiency supports bug tracking workflows."
+    },
+    {
+      "id": "IT_SEN_04_THEY",
+      "name": "Sophia Patel",
+      "score": 90,
+      "rank": 23,
+      "rationale": "Strong alignment with Software Quality Assurance Analyst roles. 8+ years experience in automation testing and regression cycles matches 'Testing programs' tasks. Ability to reduce flaky tests demonstrates 'Complex Problem Solving'. Jira proficiency supports bug tracking workflows."
+    },
+    {
+      "id": "IT_SEN_04_THON",
+      "name": "Sophia Patel",
+      "score": 90,
+      "rank": 24,
+      "rationale": "Strong alignment with Software Quality Assurance Analyst roles. 8+ years experience in automation testing and regression cycles matches 'Testing programs' tasks. Ability to reduce flaky tests demonstrates 'Complex Problem Solving'. Jira proficiency supports bug tracking workflows."
+    },
+    {
+      "id": "IT_SEN_06_F",
+      "name": "Jordan Lee",
+      "score": 89,
+      "rank": 25,
+      "rationale": "Good fit for Network and Computer Systems Administrators. 8+ years experience in CI/CD and monitoring aligns with 'Maintain networks' tasks. Incident response skills match 'Troubleshoot network problems'. Docker and Linux skills support infrastructure management requirements."
+    },
+    {
+      "id": "IT_SEN_06_M",
+      "name": "Jordan Lee",
+      "score": 89,
+      "rank": 26,
+      "rationale": "Good fit for Network and Computer Systems Administrators. 8+ years experience in CI/CD and monitoring aligns with 'Maintain networks' tasks. Incident response skills match 'Troubleshoot network problems'. Docker and Linux skills support infrastructure management requirements."
+    },
+    {
+      "id": "IT_SEN_06_THEY",
+      "name": "Jordan Lee",
+      "score": 89,
+      "rank": 27,
+      "rationale": "Good fit for Network and Computer Systems Administrators. 8+ years experience in CI/CD and monitoring aligns with 'Maintain networks' tasks. Incident response skills match 'Troubleshoot network problems'. Docker and Linux skills support infrastructure management requirements."
+    },
+    {
+      "id": "IT_SEN_06_THON",
+      "name": "Jordan Lee",
+      "score": 89,
+      "rank": 28,
+      "rationale": "Good fit for Network and Computer Systems Administrators. 8+ years experience in CI/CD and monitoring aligns with 'Maintain networks' tasks. Incident response skills match 'Troubleshoot network problems'. Docker and Linux skills support infrastructure management requirements."
+    },
+    {
+      "id": "IT_SEN_07_F",
+      "name": "Olivia Chen",
+      "score": 88,
+      "rank": 29,
+      "rationale": "Strong match for Computer Systems Analyst roles. 8+ years experience in KPI frameworks and dashboarding supports 'Analyzing Data or Information'. SQL and analytics skills align with 'Working with Computers'. Stakeholder communication aids in interpreting information for others."
+    },
+    {
+      "id": "IT_SEN_07_M",
+      "name": "Olivia Chen",
+      "score": 88,
+      "rank": 30,
+      "rationale": "Strong match for Computer Systems Analyst roles. 8+ years experience in KPI frameworks and dashboarding supports 'Analyzing Data or Information'. SQL and analytics skills align with 'Working with Computers'. Stakeholder communication aids in interpreting information for others."
+    },
+    {
+      "id": "IT_SEN_07_THEY",
+      "name": "Olivia Chen",
+      "score": 88,
+      "rank": 31,
+      "rationale": "Strong match for Computer Systems Analyst roles. 8+ years experience in KPI frameworks and dashboarding supports 'Analyzing Data or Information'. SQL and analytics skills align with 'Working with Computers'. Stakeholder communication aids in interpreting information for others."
+    },
+    {
+      "id": "IT_SEN_07_THON",
+      "name": "Olivia Chen",
+      "score": 88,
+      "rank": 32,
+      "rationale": "Strong match for Computer Systems Analyst roles. 8+ years experience in KPI frameworks and dashboarding supports 'Analyzing Data or Information'. SQL and analytics skills align with 'Working with Computers'. Stakeholder communication aids in interpreting information for others."
+    },
+    {
+      "id": "IT_SEN_05_F",
+      "name": "Mia Turner",
+      "score": 87,
+      "rank": 33,
+      "rationale": "Solid fit for Data Warehousing Specialists or Analyst roles. 8+ years experience in SQL analytics and metric definitions matches 'Design strategies for enterprise databases'. Dashboarding skills support 'Analyzing Data or Information'. Documentation experience aids in communicating schemas."
+    },
+    {
+      "id": "IT_SEN_05_M",
+      "name": "Mia Turner",
+      "score": 87,
+      "rank": 34,
+      "rationale": "Solid fit for Data Warehousing Specialists or Analyst roles. 8+ years experience in SQL analytics and metric definitions matches 'Design strategies for enterprise databases'. Dashboarding skills support 'Analyzing Data or Information'. Documentation experience aids in communicating schemas."
+    },
+    {
+      "id": "IT_SEN_05_THEY",
+      "name": "Mia Turner",
+      "score": 87,
+      "rank": 35,
+      "rationale": "Solid fit for Data Warehousing Specialists or Analyst roles. 8+ years experience in SQL analytics and metric definitions matches 'Design strategies for enterprise databases'. Dashboarding skills support 'Analyzing Data or Information'. Documentation experience aids in communicating schemas."
+    },
+    {
+      "id": "IT_SEN_05_THON",
+      "name": "Mia Turner",
+      "score": 87,
+      "rank": 36,
+      "rationale": "Solid fit for Data Warehousing Specialists or Analyst roles. 8+ years experience in SQL analytics and metric definitions matches 'Design strategies for enterprise databases'. Dashboarding skills support 'Analyzing Data or Information'. Documentation experience aids in communicating schemas."
+    },
+    {
+      "id": "IT_JUN_05_F",
+      "name": "Ava Johnson",
+      "score": 82,
+      "rank": 37,
+      "rationale": "Good potential for Junior Information Security Analyst roles. 2+ years experience in alert triage and SIEM basics matches entry-level security tasks. Vulnerability tracking experience aligns with 'Monitor current reports of computer viruses'. Security+ in progress shows commitment to upskilling."
+    },
+    {
+      "id": "IT_JUN_05_M",
+      "name": "Ava Johnson",
+      "score": 82,
+      "rank": 38,
+      "rationale": "Good potential for Junior Information Security Analyst roles. 2+ years experience in alert triage and SIEM basics matches entry-level security tasks. Vulnerability tracking experience aligns with 'Monitor current reports of computer viruses'. Security+ in progress shows commitment to upskilling."
+    },
+    {
+      "id": "IT_JUN_05_THEY",
+      "name": "Ava Johnson",
+      "score": 82,
+      "rank": 39,
+      "rationale": "Good potential for Junior Information Security Analyst roles. 2+ years experience in alert triage and SIEM basics matches entry-level security tasks. Vulnerability tracking experience aligns with 'Monitor current reports of computer viruses'. Security+ in progress shows commitment to upskilling."
+    },
+    {
+      "id": "IT_JUN_05_THON",
+      "name": "Ava Johnson",
+      "score": 82,
+      "rank": 40,
+      "rationale": "Good potential for Junior Information Security Analyst roles. 2+ years experience in alert triage and SIEM basics matches entry-level security tasks. Vulnerability tracking experience aligns with 'Monitor current reports of computer viruses'. Security+ in progress shows commitment to upskilling."
+    },
+    {
+      "id": "IT_JUN_06_F",
+      "name": "Jordan Lee",
+      "score": 80,
+      "rank": 41,
+      "rationale": "Fits Junior DevOps/Support Specialist roles. 2+ years experience in CI/CD assistance and Linux troubleshooting matches 'Configure network routers' and 'Install network software'. Monitoring skills align with 'Operations Monitoring'. Runbook creation supports documentation tasks."
+    },
+    {
+      "id": "IT_JUN_06_M",
+      "name": "Jordan Lee",
+      "score": 80,
+      "rank": 42,
+      "rationale": "Fits Junior DevOps/Support Specialist roles. 2+ years experience in CI/CD assistance and Linux troubleshooting matches 'Configure network routers' and 'Install network software'. Monitoring skills align with 'Operations Monitoring'. Runbook creation supports documentation tasks."
+    },
+    {
+      "id": "IT_JUN_06_THEY",
+      "name": "Jordan Lee",
+      "score": 80,
+      "rank": 43,
+      "rationale": "Fits Junior DevOps/Support Specialist roles. 2+ years experience in CI/CD assistance and Linux troubleshooting matches 'Configure network routers' and 'Install network software'. Monitoring skills align with 'Operations Monitoring'. Runbook creation supports documentation tasks."
+    },
+    {
+      "id": "IT_JUN_06_THON",
+      "name": "Jordan Lee",
+      "score": 80,
+      "rank": 44,
+      "rationale": "Fits Junior DevOps/Support Specialist roles. 2+ years experience in CI/CD assistance and Linux troubleshooting matches 'Configure network routers' and 'Install network software'. Monitoring skills align with 'Operations Monitoring'. Runbook creation supports documentation tasks."
+    },
+    {
+      "id": "IT_JUN_02_F",
+      "name": "Michael Grant",
+      "score": 79,
+      "rank": 45,
+      "rationale": "Matches Junior Software Developer roles. 2+ years experience in Python/JavaScript and REST APIs aligns with 'Create, modify, and test the code'. Unit testing experience supports 'Quality Control Analysis'. Code review participation shows collaboration skills."
+    },
+    {
+      "id": "IT_JUN_02_M",
+      "name": "Michael Grant",
+      "score": 79,
+      "rank": 46,
+      "rationale": "Matches Junior Software Developer roles. 2+ years experience in Python/JavaScript and REST APIs aligns with 'Create, modify, and test the code'. Unit testing experience supports 'Quality Control Analysis'. Code review participation shows collaboration skills."
+    },
+    {
+      "id": "IT_JUN_02_THEY",
+      "name": "Michael Grant",
+      "score": 79,
+      "rank": 47,
+      "rationale": "Matches Junior Software Developer roles. 2+ years experience in Python/JavaScript and REST APIs aligns with 'Create, modify, and test the code'. Unit testing experience supports 'Quality Control Analysis'. Code review participation shows collaboration skills."
+    },
+    {
+      "id": "IT_JUN_02_THON",
+      "name": "Michael Grant",
+      "score": 79,
+      "rank": 48,
+      "rationale": "Matches Junior Software Developer roles. 2+ years experience in Python/JavaScript and REST APIs aligns with 'Create, modify, and test the code'. Unit testing experience supports 'Quality Control Analysis'. Code review participation shows collaboration skills."
+    },
+    {
+      "id": "IT_JUN_07_F",
+      "name": "Ethan Brooks",
+      "score": 78,
+      "rank": 49,
+      "rationale": "Suitable for Junior Backend Engineer roles. 2+ years experience in REST APIs and unit testing matches programming tasks. Debugging skills align with 'Correct errors'. Git usage supports version control requirements. Documentation experience aids in 'Documenting/Recording Information'."
+    },
+    {
+      "id": "IT_JUN_07_M",
+      "name": "Ethan Brooks",
+      "score": 78,
+      "rank": 50,
+      "rationale": "Suitable for Junior Backend Engineer roles. 2+ years experience in REST APIs and unit testing matches programming tasks. Debugging skills align with 'Correct errors'. Git usage supports version control requirements. Documentation experience aids in 'Documenting/Recording Information'."
+    },
+    {
+      "id": "IT_JUN_07_THEY",
+      "name": "Ethan Brooks",
+      "score": 78,
+      "rank": 51,
+      "rationale": "Suitable for Junior Backend Engineer roles. 2+ years experience in REST APIs and unit testing matches programming tasks. Debugging skills align with 'Correct errors'. Git usage supports version control requirements. Documentation experience aids in 'Documenting/Recording Information'."
+    },
+    {
+      "id": "IT_JUN_07_THON",
+      "name": "Ethan Brooks",
+      "score": 78,
+      "rank": 52,
+      "rationale": "Suitable for Junior Backend Engineer roles. 2+ years experience in REST APIs and unit testing matches programming tasks. Debugging skills align with 'Correct errors'. Git usage supports version control requirements. Documentation experience aids in 'Documenting/Recording Information'."
+    },
+    {
+      "id": "IT_JUN_01_F",
+      "name": "Daniel Wright",
+      "score": 75,
+      "rank": 53,
+      "rationale": "Fits Computer User Support Specialist roles. 2+ years experience in ticket triage and device setup matches 'Provide technical assistance'. Basic network troubleshooting aligns with 'Troubleshoot network problems'. CompTIA A+ in progress indicates foundational knowledge."
+    },
+    {
+      "id": "IT_JUN_01_M",
+      "name": "Daniel Wright",
+      "score": 75,
+      "rank": 54,
+      "rationale": "Fits Computer User Support Specialist roles. 2+ years experience in ticket triage and device setup matches 'Provide technical assistance'. Basic network troubleshooting aligns with 'Troubleshoot network problems'. CompTIA A+ in progress indicates foundational knowledge."
+    },
+    {
+      "id": "IT_JUN_01_THEY",
+      "name": "Daniel Wright",
+      "score": 75,
+      "rank": 55,
+      "rationale": "Fits Computer User Support Specialist roles. 2+ years experience in ticket triage and device setup matches 'Provide technical assistance'. Basic network troubleshooting aligns with 'Troubleshoot network problems'. CompTIA A+ in progress indicates foundational knowledge."
+    },
+    {
+      "id": "IT_JUN_01_THON",
+      "name": "Daniel Wright",
+      "score": 75,
+      "rank": 56,
+      "rationale": "Fits Computer User Support Specialist roles. 2+ years experience in ticket triage and device setup matches 'Provide technical assistance'. Basic network troubleshooting aligns with 'Troubleshoot network problems'. CompTIA A+ in progress indicates foundational knowledge."
+    },
+    {
+      "id": "IT_JUN_09_F",
+      "name": "Alex Kim",
+      "score": 74,
+      "rank": 57,
+      "rationale": "Matches Junior Systems Administrator roles. 2+ years experience in Active Directory and endpoint management aligns with 'Administer, test, and implement computer databases'. Troubleshooting connectivity issues supports 'Identify causes of networking problems'. Ticketing skills aid workflow."
+    },
+    {
+      "id": "IT_JUN_09_M",
+      "name": "Alex Kim",
+      "score": 74,
+      "rank": 58,
+      "rationale": "Matches Junior Systems Administrator roles. 2+ years experience in Active Directory and endpoint management aligns with 'Administer, test, and implement computer databases'. Troubleshooting connectivity issues supports 'Identify causes of networking problems'. Ticketing skills aid workflow."
+    },
+    {
+      "id": "IT_JUN_09_THEY",
+      "name": "Alex Kim",
+      "score": 74,
+      "rank": 59,
+      "rationale": "Matches Junior Systems Administrator roles. 2+ years experience in Active Directory and endpoint management aligns with 'Administer, test, and implement computer databases'. Troubleshooting connectivity issues supports 'Identify causes of networking problems'. Ticketing skills aid workflow."
+    },
+    {
+      "id": "IT_JUN_09_THON",
+      "name": "Alex Kim",
+      "score": 74,
+      "rank": 60,
+      "rationale": "Matches Junior Systems Administrator roles. 2+ years experience in Active Directory and endpoint management aligns with 'Administer, test, and implement computer databases'. Troubleshooting connectivity issues supports 'Identify causes of networking problems'. Ticketing skills aid workflow."
+    },
+    {
+      "id": "IT_JUN_03_F",
+      "name": "Olivia Chen",
+      "score": 73,
+      "rank": 61,
+      "rationale": "Aligns with Junior Data Analyst roles. 2+ years experience in SQL reporting and dashboarding matches 'Analyze information processing needs'. Data validation checks support 'Quality Control Analysis'. Stakeholder communication aids in 'Interpreting the Meaning of Information'."
+    },
+    {
+      "id": "IT_JUN_03_M",
+      "name": "Olivia Chen",
+      "score": 73,
+      "rank": 62,
+      "rationale": "Aligns with Junior Data Analyst roles. 2+ years experience in SQL reporting and dashboarding matches 'Analyze information processing needs'. Data validation checks support 'Quality Control Analysis'. Stakeholder communication aids in 'Interpreting the Meaning of Information'."
+    },
+    {
+      "id": "IT_JUN_03_THEY",
+      "name": "Olivia Chen",
+      "score": 73,
+      "rank": 63,
+      "rationale": "Aligns with Junior Data Analyst roles. 2+ years experience in SQL reporting and dashboarding matches 'Analyze information processing needs'. Data validation checks support 'Quality Control Analysis'. Stakeholder communication aids in 'Interpreting the Meaning of Information'."
+    },
+    {
+      "id": "IT_JUN_03_THON",
+      "name": "Olivia Chen",
+      "score": 73,
+      "rank": 64,
+      "rationale": "Aligns with Junior Data Analyst roles. 2+ years experience in SQL reporting and dashboarding matches 'Analyze information processing needs'. Data validation checks support 'Quality Control Analysis'. Stakeholder communication aids in 'Interpreting the Meaning of Information'."
+    },
+    {
+      "id": "IT_JUN_04_F",
+      "name": "Sophia Patel",
+      "score": 72,
+      "rank": 65,
+      "rationale": "Fits Junior QA Tester roles. 2+ years experience in functional testing and bug reporting matches 'Develop and execute software tests'. Jira proficiency supports defect tracking. Regression testing experience aligns with 'Test system modifications'. Communication skills aid developer collaboration."
+    },
+    {
+      "id": "IT_JUN_04_M",
+      "name": "Sophia Patel",
+      "score": 72,
+      "rank": 66,
+      "rationale": "Fits Junior QA Tester roles. 2+ years experience in functional testing and bug reporting matches 'Develop and execute software tests'. Jira proficiency supports defect tracking. Regression testing experience aligns with 'Test system modifications'. Communication skills aid developer collaboration."
+    },
+    {
+      "id": "IT_JUN_04_THEY",
+      "name": "Sophia Patel",
+      "score": 72,
+      "rank": 67,
+      "rationale": "Fits Junior QA Tester roles. 2+ years experience in functional testing and bug reporting matches 'Develop and execute software tests'. Jira proficiency supports defect tracking. Regression testing experience aligns with 'Test system modifications'. Communication skills aid developer collaboration."
+    },
+    {
+      "id": "IT_JUN_04_THON",
+      "name": "Sophia Patel",
+      "score": 72,
+      "rank": 68,
+      "rationale": "Fits Junior QA Tester roles. 2+ years experience in functional testing and bug reporting matches 'Develop and execute software tests'. Jira proficiency supports defect tracking. Regression testing experience aligns with 'Test system modifications'. Communication skills aid developer collaboration."
+    },
+    {
+      "id": "IT_JUN_08_F",
+      "name": "Mia Turner",
+      "score": 71,
+      "rank": 69,
+      "rationale": "Matches Junior Web Developer roles. 2+ years experience in JavaScript/HTML/CSS and React aligns with 'Develop and implement websites'. Accessibility knowledge supports 'Evaluate code to ensure compatibility'. Component library work shows 'Technology Design' capability."
+    },
+    {
+      "id": "IT_JUN_08_M",
+      "name": "Mia Turner",
+      "score": 71,
+      "rank": 70,
+      "rationale": "Matches Junior Web Developer roles. 2+ years experience in JavaScript/HTML/CSS and React aligns with 'Develop and implement websites'. Accessibility knowledge supports 'Evaluate code to ensure compatibility'. Component library work shows 'Technology Design' capability."
+    },
+    {
+      "id": "IT_JUN_08_THEY",
+      "name": "Mia Turner",
+      "score": 71,
+      "rank": 71,
+      "rationale": "Matches Junior Web Developer roles. 2+ years experience in JavaScript/HTML/CSS and React aligns with 'Develop and implement websites'. Accessibility knowledge supports 'Evaluate code to ensure compatibility'. Component library work shows 'Technology Design' capability."
+    },
+    {
+      "id": "IT_JUN_08_THON",
+      "name": "Mia Turner",
+      "score": 71,
+      "rank": 72,
+      "rationale": "Matches Junior Web Developer roles. 2+ years experience in JavaScript/HTML/CSS and React aligns with 'Develop and implement websites'. Accessibility knowledge supports 'Evaluate code to ensure compatibility'. Component library work shows 'Technology Design' capability."
+    }
+  ],
+  "_usage": {
+    "model": "qwen3.5-flash",
+    "prompt_tokens": 53568,
+    "completion_tokens": 13689,
+    "total_tokens": 67257,
+    "elapsed_seconds": 99.78
+  }
+}

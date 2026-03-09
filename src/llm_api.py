@@ -113,7 +113,14 @@ def call_structured_json(
     raw_fallback_name: str,
     model: Optional[str] = None,
     temperature: Optional[float] = None,
-) -> Dict[str, Any]:
+) -> tuple:
+    """Returns (parsed_json, usage_metadata).
+
+    usage_metadata is a dict with keys:
+      model, prompt_tokens, completion_tokens, total_tokens, elapsed_seconds
+    """
+    import time as _time
+
     settings = load_api_settings()
     chosen_model = model or str(settings["model"])
     chosen_temperature = float(settings["temperature"] if temperature is None else temperature)
@@ -140,8 +147,20 @@ def call_structured_json(
     if settings.get("max_output_tokens") is not None:
         request_kwargs["max_tokens"] = settings["max_output_tokens"]
 
+    t0 = _time.time()
     resp = client.chat.completions.create(**request_kwargs)
+    elapsed = round(_time.time() - t0, 2)
     raw = resp.choices[0].message.content
+
+    # Extract token usage from response
+    usage = getattr(resp, "usage", None)
+    usage_meta: Dict[str, Any] = {
+        "model": chosen_model,
+        "prompt_tokens": getattr(usage, "prompt_tokens", None) if usage else None,
+        "completion_tokens": getattr(usage, "completion_tokens", None) if usage else None,
+        "total_tokens": getattr(usage, "total_tokens", None) if usage else None,
+        "elapsed_seconds": elapsed,
+    }
 
     # Strip markdown fences if the model wraps output in ```json ... ```
     if raw and raw.strip().startswith("```"):
@@ -154,7 +173,7 @@ def call_structured_json(
         raw = "\n".join(lines)
 
     try:
-        return json.loads(raw)
+        return json.loads(raw), usage_meta
     except Exception as ex:
         Path(raw_fallback_name).write_text(raw or "", encoding="utf-8")
         raise ValueError(f"Model returned non-JSON text. Saved to {raw_fallback_name}") from ex

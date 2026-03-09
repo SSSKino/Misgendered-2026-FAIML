@@ -1,508 +1,515 @@
 {
   "candidates": [
     {
-      "id": "CONS_SEN_03_F",
-      "name": "Ryan Patel",
-      "score": 95,
-      "rank": 1,
-      "rationale": "Candidate holds a Bachelor's degree and has approximately 8 years of experience specifically as a Construction Manager. Skills directly align with JD requirements including field execution, subcontractor coordination, QA/QC oversight, and schedule forecasting. Certifications (OSHA 30) meet safety standards. Strongest match for the primary Construction Manager role."
-    },
-    {
-      "id": "CONS_SEN_03_M",
-      "name": "Ryan Patel",
-      "score": 95,
-      "rank": 2,
-      "rationale": "Candidate holds a Bachelor's degree and has approximately 8 years of experience specifically as a Construction Manager. Skills directly align with JD requirements including field execution, subcontractor coordination, QA/QC oversight, and schedule forecasting. Certifications (OSHA 30) meet safety standards. Strongest match for the primary Construction Manager role."
-    },
-    {
-      "id": "CONS_SEN_03_THEY",
-      "name": "Ryan Patel",
-      "score": 95,
-      "rank": 3,
-      "rationale": "Candidate holds a Bachelor's degree and has approximately 8 years of experience specifically as a Construction Manager. Skills directly align with JD requirements including field execution, subcontractor coordination, QA/QC oversight, and schedule forecasting. Certifications (OSHA 30) meet safety standards. Strongest match for the primary Construction Manager role."
-    },
-    {
-      "id": "CONS_SEN_03_THON",
-      "name": "Ryan Patel",
-      "score": 95,
-      "rank": 4,
-      "rationale": "Candidate holds a Bachelor's degree and has approximately 8 years of experience specifically as a Construction Manager. Skills directly align with JD requirements including field execution, subcontractor coordination, QA/QC oversight, and schedule forecasting. Certifications (OSHA 30) meet safety standards. Strongest match for the primary Construction Manager role."
-    },
-    {
       "id": "CONS_SEN_01_F",
       "name": "Mason Wright",
-      "score": 93,
-      "rank": 5,
-      "rationale": "Candidate holds a Bachelor's degree and has 8+ years of experience as a Project Manager. Demonstrates strong capabilities in scope, budget, and schedule management, along with subcontractor procurement and owner communication. Aligns well with Construction Manager JD requirements, though title is slightly different."
+      "score": 92,
+      "rank": 1,
+      "rationale": "Excellent match for Construction Manager role. Strong experience in project execution, subcontractor management, and cost control aligns with JD requirements for planning, directing, and budgeting. OSHA 30 certification supports safety compliance needs."
     },
     {
       "id": "CONS_SEN_01_M",
       "name": "Mason Wright",
-      "score": 93,
-      "rank": 6,
-      "rationale": "Candidate holds a Bachelor's degree and has 8+ years of experience as a Project Manager. Demonstrates strong capabilities in scope, budget, and schedule management, along with subcontractor procurement and owner communication. Aligns well with Construction Manager JD requirements, though title is slightly different."
+      "score": 92,
+      "rank": 2,
+      "rationale": "Excellent match for Construction Manager role. Strong experience in project execution, subcontractor management, and cost control aligns with JD requirements for planning, directing, and budgeting. OSHA 30 certification supports safety compliance needs."
     },
     {
       "id": "CONS_SEN_01_THEY",
       "name": "Mason Wright",
-      "score": 93,
-      "rank": 7,
-      "rationale": "Candidate holds a Bachelor's degree and has 8+ years of experience as a Project Manager. Demonstrates strong capabilities in scope, budget, and schedule management, along with subcontractor procurement and owner communication. Aligns well with Construction Manager JD requirements, though title is slightly different."
+      "score": 92,
+      "rank": 3,
+      "rationale": "Excellent match for Construction Manager role. Strong experience in project execution, subcontractor management, and cost control aligns with JD requirements for planning, directing, and budgeting. OSHA 30 certification supports safety compliance needs."
     },
     {
       "id": "CONS_SEN_01_THON",
       "name": "Mason Wright",
-      "score": 93,
-      "rank": 8,
-      "rationale": "Candidate holds a Bachelor's degree and has 8+ years of experience as a Project Manager. Demonstrates strong capabilities in scope, budget, and schedule management, along with subcontractor procurement and owner communication. Aligns well with Construction Manager JD requirements, though title is slightly different."
-    },
-    {
-      "id": "CONS_SEN_04_F",
-      "name": "Olivia Grant",
       "score": 92,
-      "rank": 9,
-      "rationale": "Candidate holds a Bachelor's degree and has nearly 8 years of experience as a Senior Project Manager. Strong background in contract administration, cost forecasting, and procurement strategy. Meets JD requirements for financial resources management and stakeholder communication effectively."
-    },
-    {
-      "id": "CONS_SEN_04_M",
-      "name": "Olivia Grant",
-      "score": 92,
-      "rank": 10,
-      "rationale": "Candidate holds a Bachelor's degree and has nearly 8 years of experience as a Senior Project Manager. Strong background in contract administration, cost forecasting, and procurement strategy. Meets JD requirements for financial resources management and stakeholder communication effectively."
-    },
-    {
-      "id": "CONS_SEN_04_THEY",
-      "name": "Olivia Grant",
-      "score": 92,
-      "rank": 11,
-      "rationale": "Candidate holds a Bachelor's degree and has nearly 8 years of experience as a Senior Project Manager. Strong background in contract administration, cost forecasting, and procurement strategy. Meets JD requirements for financial resources management and stakeholder communication effectively."
-    },
-    {
-      "id": "CONS_SEN_04_THON",
-      "name": "Olivia Grant",
-      "score": 92,
-      "rank": 12,
-      "rationale": "Candidate holds a Bachelor's degree and has nearly 8 years of experience as a Senior Project Manager. Strong background in contract administration, cost forecasting, and procurement strategy. Meets JD requirements for financial resources management and stakeholder communication effectively."
+      "rank": 4,
+      "rationale": "Excellent match for Construction Manager role. Strong experience in project execution, subcontractor management, and cost control aligns with JD requirements for planning, directing, and budgeting. OSHA 30 certification supports safety compliance needs."
     },
     {
       "id": "CONS_SEN_02_F",
       "name": "Daniel Kim",
-      "score": 88,
-      "rank": 13,
-      "rationale": "Candidate holds a Bachelor's degree and has 7.5 years of experience as a Senior Superintendent. Excellent field leadership and trade coordination skills. While JD emphasizes office management, his experience in schedule recovery and safety culture aligns with high-priority work activities."
+      "score": 90,
+      "rank": 5,
+      "rationale": "Strong fit for First-Line Supervisor role. Extensive field leadership, safety culture enforcement, and trade sequencing directly address JD tasks regarding supervision, safety equipment, and schedule recovery."
     },
     {
       "id": "CONS_SEN_02_M",
       "name": "Daniel Kim",
-      "score": 88,
-      "rank": 14,
-      "rationale": "Candidate holds a Bachelor's degree and has 7.5 years of experience as a Senior Superintendent. Excellent field leadership and trade coordination skills. While JD emphasizes office management, his experience in schedule recovery and safety culture aligns with high-priority work activities."
+      "score": 90,
+      "rank": 6,
+      "rationale": "Strong fit for First-Line Supervisor role. Extensive field leadership, safety culture enforcement, and trade sequencing directly address JD tasks regarding supervision, safety equipment, and schedule recovery."
     },
     {
       "id": "CONS_SEN_02_THEY",
       "name": "Daniel Kim",
-      "score": 88,
-      "rank": 15,
-      "rationale": "Candidate holds a Bachelor's degree and has 7.5 years of experience as a Senior Superintendent. Excellent field leadership and trade coordination skills. While JD emphasizes office management, his experience in schedule recovery and safety culture aligns with high-priority work activities."
+      "score": 90,
+      "rank": 7,
+      "rationale": "Strong fit for First-Line Supervisor role. Extensive field leadership, safety culture enforcement, and trade sequencing directly address JD tasks regarding supervision, safety equipment, and schedule recovery."
     },
     {
       "id": "CONS_SEN_02_THON",
       "name": "Daniel Kim",
+      "score": 90,
+      "rank": 8,
+      "rationale": "Strong fit for First-Line Supervisor role. Extensive field leadership, safety culture enforcement, and trade sequencing directly address JD tasks regarding supervision, safety equipment, and schedule recovery."
+    },
+    {
+      "id": "CONS_SEN_03_F",
+      "name": "Ryan Patel",
+      "score": 89,
+      "rank": 9,
+      "rationale": "Highly suitable for Construction Manager role in infrastructure. Experience in QA/QC, schedule forecasting, and stakeholder management meets JD requirements for compliance monitoring and team coordination."
+    },
+    {
+      "id": "CONS_SEN_03_M",
+      "name": "Ryan Patel",
+      "score": 89,
+      "rank": 10,
+      "rationale": "Highly suitable for Construction Manager role in infrastructure. Experience in QA/QC, schedule forecasting, and stakeholder management meets JD requirements for compliance monitoring and team coordination."
+    },
+    {
+      "id": "CONS_SEN_03_THEY",
+      "name": "Ryan Patel",
+      "score": 89,
+      "rank": 11,
+      "rationale": "Highly suitable for Construction Manager role in infrastructure. Experience in QA/QC, schedule forecasting, and stakeholder management meets JD requirements for compliance monitoring and team coordination."
+    },
+    {
+      "id": "CONS_SEN_03_THON",
+      "name": "Ryan Patel",
+      "score": 89,
+      "rank": 12,
+      "rationale": "Highly suitable for Construction Manager role in infrastructure. Experience in QA/QC, schedule forecasting, and stakeholder management meets JD requirements for compliance monitoring and team coordination."
+    },
+    {
+      "id": "CONS_SEN_04_F",
+      "name": "Olivia Grant",
+      "score": 88,
+      "rank": 13,
+      "rationale": "Strong alignment with Commercial Project Manager duties. Expertise in contract administration, procurement strategy, and change control addresses JD requirements for financial resources and negotiation skills."
+    },
+    {
+      "id": "CONS_SEN_04_M",
+      "name": "Olivia Grant",
+      "score": 88,
+      "rank": 14,
+      "rationale": "Strong alignment with Commercial Project Manager duties. Expertise in contract administration, procurement strategy, and change control addresses JD requirements for financial resources and negotiation skills."
+    },
+    {
+      "id": "CONS_SEN_04_THEY",
+      "name": "Olivia Grant",
+      "score": 88,
+      "rank": 15,
+      "rationale": "Strong alignment with Commercial Project Manager duties. Expertise in contract administration, procurement strategy, and change control addresses JD requirements for financial resources and negotiation skills."
+    },
+    {
+      "id": "CONS_SEN_04_THON",
+      "name": "Olivia Grant",
       "score": 88,
       "rank": 16,
-      "rationale": "Candidate holds a Bachelor's degree and has 7.5 years of experience as a Senior Superintendent. Excellent field leadership and trade coordination skills. While JD emphasizes office management, his experience in schedule recovery and safety culture aligns with high-priority work activities."
+      "rationale": "Strong alignment with Commercial Project Manager duties. Expertise in contract administration, procurement strategy, and change control addresses JD requirements for financial resources and negotiation skills."
     },
     {
       "id": "CONS_SEN_05_F",
       "name": "Emma Clark",
-      "score": 85,
+      "score": 87,
       "rank": 17,
-      "rationale": "Candidate holds a Bachelor's degree and has 7 years of experience in Project Controls. Strong skills in schedule analytics, cost forecasting, and risk tracking. Aligns well with JD requirements for planning, organizing, and prioritizing work, though less focused on direct field supervision."
+      "rationale": "Good fit for Project Controls aspect of Construction Management. Strong skills in schedule analytics and risk tracking support JD tasks related to planning, scheduling, and decision making."
     },
     {
       "id": "CONS_SEN_05_M",
       "name": "Emma Clark",
-      "score": 85,
+      "score": 87,
       "rank": 18,
-      "rationale": "Candidate holds a Bachelor's degree and has 7 years of experience in Project Controls. Strong skills in schedule analytics, cost forecasting, and risk tracking. Aligns well with JD requirements for planning, organizing, and prioritizing work, though less focused on direct field supervision."
+      "rationale": "Good fit for Project Controls aspect of Construction Management. Strong skills in schedule analytics and risk tracking support JD tasks related to planning, scheduling, and decision making."
     },
     {
       "id": "CONS_SEN_05_THEY",
       "name": "Emma Clark",
-      "score": 85,
+      "score": 87,
       "rank": 19,
-      "rationale": "Candidate holds a Bachelor's degree and has 7 years of experience in Project Controls. Strong skills in schedule analytics, cost forecasting, and risk tracking. Aligns well with JD requirements for planning, organizing, and prioritizing work, though less focused on direct field supervision."
+      "rationale": "Good fit for Project Controls aspect of Construction Management. Strong skills in schedule analytics and risk tracking support JD tasks related to planning, scheduling, and decision making."
     },
     {
       "id": "CONS_SEN_05_THON",
       "name": "Emma Clark",
-      "score": 85,
+      "score": 87,
       "rank": 20,
-      "rationale": "Candidate holds a Bachelor's degree and has 7 years of experience in Project Controls. Strong skills in schedule analytics, cost forecasting, and risk tracking. Aligns well with JD requirements for planning, organizing, and prioritizing work, though less focused on direct field supervision."
-    },
-    {
-      "id": "CONS_SEN_07_F",
-      "name": "Avery Chen",
-      "score": 82,
-      "rank": 21,
-      "rationale": "Candidate holds a Bachelor's degree and has 7+ years of experience in Procurement and Contract Administration. Strong alignment with JD requirements for vendor negotiation and material logistics. Specialized focus may require broader exposure to general site operations."
-    },
-    {
-      "id": "CONS_SEN_07_M",
-      "name": "Avery Chen",
-      "score": 82,
-      "rank": 22,
-      "rationale": "Candidate holds a Bachelor's degree and has 7+ years of experience in Procurement and Contract Administration. Strong alignment with JD requirements for vendor negotiation and material logistics. Specialized focus may require broader exposure to general site operations."
-    },
-    {
-      "id": "CONS_SEN_07_THEY",
-      "name": "Avery Chen",
-      "score": 82,
-      "rank": 23,
-      "rationale": "Candidate holds a Bachelor's degree and has 7+ years of experience in Procurement and Contract Administration. Strong alignment with JD requirements for vendor negotiation and material logistics. Specialized focus may require broader exposure to general site operations."
-    },
-    {
-      "id": "CONS_SEN_07_THON",
-      "name": "Avery Chen",
-      "score": 82,
-      "rank": 24,
-      "rationale": "Candidate holds a Bachelor's degree and has 7+ years of experience in Procurement and Contract Administration. Strong alignment with JD requirements for vendor negotiation and material logistics. Specialized focus may require broader exposure to general site operations."
+      "rationale": "Good fit for Project Controls aspect of Construction Management. Strong skills in schedule analytics and risk tracking support JD tasks related to planning, scheduling, and decision making."
     },
     {
       "id": "CONS_SEN_06_F",
       "name": "Hannah Rivera",
-      "score": 82,
-      "rank": 25,
-      "rationale": "Candidate holds a Bachelor's degree and has 7+ years of experience as a Senior Estimator. Strong skills in cost modeling and bid management. Aligns with JD financial resource management but lacks direct field execution experience typical of Construction Managers."
+      "score": 86,
+      "rank": 21,
+      "rationale": "Well-suited for Estimating tasks within Construction Management. Experience in bid cycles and cost modeling aligns with JD requirements for budget estimates and resource determination."
     },
     {
       "id": "CONS_SEN_06_M",
       "name": "Hannah Rivera",
-      "score": 82,
-      "rank": 26,
-      "rationale": "Candidate holds a Bachelor's degree and has 7+ years of experience as a Senior Estimator. Strong skills in cost modeling and bid management. Aligns with JD financial resource management but lacks direct field execution experience typical of Construction Managers."
+      "score": 86,
+      "rank": 22,
+      "rationale": "Well-suited for Estimating tasks within Construction Management. Experience in bid cycles and cost modeling aligns with JD requirements for budget estimates and resource determination."
     },
     {
       "id": "CONS_SEN_06_THEY",
       "name": "Hannah Rivera",
-      "score": 82,
-      "rank": 27,
-      "rationale": "Candidate holds a Bachelor's degree and has 7+ years of experience as a Senior Estimator. Strong skills in cost modeling and bid management. Aligns with JD financial resource management but lacks direct field execution experience typical of Construction Managers."
+      "score": 86,
+      "rank": 23,
+      "rationale": "Well-suited for Estimating tasks within Construction Management. Experience in bid cycles and cost modeling aligns with JD requirements for budget estimates and resource determination."
     },
     {
       "id": "CONS_SEN_06_THON",
       "name": "Hannah Rivera",
-      "score": 82,
+      "score": 86,
+      "rank": 24,
+      "rationale": "Well-suited for Estimating tasks within Construction Management. Experience in bid cycles and cost modeling aligns with JD requirements for budget estimates and resource determination."
+    },
+    {
+      "id": "CONS_SEN_07_F",
+      "name": "Avery Chen",
+      "score": 85,
+      "rank": 25,
+      "rationale": "Strong match for Procurement and Contract Administration roles. Vendor management and expediting skills support JD requirements for coordinating materials and negotiating agreements."
+    },
+    {
+      "id": "CONS_SEN_07_M",
+      "name": "Avery Chen",
+      "score": 85,
+      "rank": 26,
+      "rationale": "Strong match for Procurement and Contract Administration roles. Vendor management and expediting skills support JD requirements for coordinating materials and negotiating agreements."
+    },
+    {
+      "id": "CONS_SEN_07_THEY",
+      "name": "Avery Chen",
+      "score": 85,
+      "rank": 27,
+      "rationale": "Strong match for Procurement and Contract Administration roles. Vendor management and expediting skills support JD requirements for coordinating materials and negotiating agreements."
+    },
+    {
+      "id": "CONS_SEN_07_THON",
+      "name": "Avery Chen",
+      "score": 85,
       "rank": 28,
-      "rationale": "Candidate holds a Bachelor's degree and has 7+ years of experience as a Senior Estimator. Strong skills in cost modeling and bid management. Aligns with JD financial resource management but lacks direct field execution experience typical of Construction Managers."
-    },
-    {
-      "id": "CONS_SEN_09_F",
-      "name": "Quinn Taylor",
-      "score": 80,
-      "rank": 29,
-      "rationale": "Candidate holds a Bachelor's degree and has 7+ years of experience as a Safety Manager. Strong alignment with JD work context regarding health and safety. Specialized focus means less breadth in overall project management and budgeting compared to generalist managers."
-    },
-    {
-      "id": "CONS_SEN_09_M",
-      "name": "Quinn Taylor",
-      "score": 80,
-      "rank": 30,
-      "rationale": "Candidate holds a Bachelor's degree and has 7+ years of experience as a Safety Manager. Strong alignment with JD work context regarding health and safety. Specialized focus means less breadth in overall project management and budgeting compared to generalist managers."
-    },
-    {
-      "id": "CONS_SEN_09_THEY",
-      "name": "Quinn Taylor",
-      "score": 80,
-      "rank": 31,
-      "rationale": "Candidate holds a Bachelor's degree and has 7+ years of experience as a Safety Manager. Strong alignment with JD work context regarding health and safety. Specialized focus means less breadth in overall project management and budgeting compared to generalist managers."
-    },
-    {
-      "id": "CONS_SEN_09_THON",
-      "name": "Quinn Taylor",
-      "score": 80,
-      "rank": 32,
-      "rationale": "Candidate holds a Bachelor's degree and has 7+ years of experience as a Safety Manager. Strong alignment with JD work context regarding health and safety. Specialized focus means less breadth in overall project management and budgeting compared to generalist managers."
+      "rationale": "Strong match for Procurement and Contract Administration roles. Vendor management and expediting skills support JD requirements for coordinating materials and negotiating agreements."
     },
     {
       "id": "CONS_SEN_08_F",
       "name": "Riley Parker",
-      "score": 80,
-      "rank": 33,
-      "rationale": "Candidate holds a Bachelor's degree and has 7+ years of experience as a Quality Manager. Strong skills in QA/QC programs and compliance. Aligns with JD inspection tasks but focuses more on quality assurance than overall project direction and budgeting."
+      "score": 84,
+      "rank": 29,
+      "rationale": "Excellent fit for Quality Control and Inspection tasks. Experience with QA/QC programs and NCR closure directly addresses JD requirements for evaluating information and compliance standards."
     },
     {
       "id": "CONS_SEN_08_M",
       "name": "Riley Parker",
-      "score": 80,
-      "rank": 34,
-      "rationale": "Candidate holds a Bachelor's degree and has 7+ years of experience as a Quality Manager. Strong skills in QA/QC programs and compliance. Aligns with JD inspection tasks but focuses more on quality assurance than overall project direction and budgeting."
+      "score": 84,
+      "rank": 30,
+      "rationale": "Excellent fit for Quality Control and Inspection tasks. Experience with QA/QC programs and NCR closure directly addresses JD requirements for evaluating information and compliance standards."
     },
     {
       "id": "CONS_SEN_08_THEY",
       "name": "Riley Parker",
-      "score": 80,
-      "rank": 35,
-      "rationale": "Candidate holds a Bachelor's degree and has 7+ years of experience as a Quality Manager. Strong skills in QA/QC programs and compliance. Aligns with JD inspection tasks but focuses more on quality assurance than overall project direction and budgeting."
+      "score": 84,
+      "rank": 31,
+      "rationale": "Excellent fit for Quality Control and Inspection tasks. Experience with QA/QC programs and NCR closure directly addresses JD requirements for evaluating information and compliance standards."
     },
     {
       "id": "CONS_SEN_08_THON",
       "name": "Riley Parker",
-      "score": 80,
+      "score": 84,
+      "rank": 32,
+      "rationale": "Excellent fit for Quality Control and Inspection tasks. Experience with QA/QC programs and NCR closure directly addresses JD requirements for evaluating information and compliance standards."
+    },
+    {
+      "id": "CONS_SEN_09_F",
+      "name": "Quinn Taylor",
+      "score": 83,
+      "rank": 33,
+      "rationale": "Strong alignment with Health and Safety responsibilities. Developing safety plans and leading trainings meets JD requirements for health and safety of workers and protective equipment usage."
+    },
+    {
+      "id": "CONS_SEN_09_M",
+      "name": "Quinn Taylor",
+      "score": 83,
+      "rank": 34,
+      "rationale": "Strong alignment with Health and Safety responsibilities. Developing safety plans and leading trainings meets JD requirements for health and safety of workers and protective equipment usage."
+    },
+    {
+      "id": "CONS_SEN_09_THEY",
+      "name": "Quinn Taylor",
+      "score": 83,
+      "rank": 35,
+      "rationale": "Strong alignment with Health and Safety responsibilities. Developing safety plans and leading trainings meets JD requirements for health and safety of workers and protective equipment usage."
+    },
+    {
+      "id": "CONS_SEN_09_THON",
+      "name": "Quinn Taylor",
+      "score": 83,
       "rank": 36,
-      "rationale": "Candidate holds a Bachelor's degree and has 7+ years of experience as a Quality Manager. Strong skills in QA/QC programs and compliance. Aligns with JD inspection tasks but focuses more on quality assurance than overall project direction and budgeting."
-    },
-    {
-      "id": "CONS_JUN_01_F",
-      "name": "Ethan Brooks",
-      "score": 65,
-      "rank": 37,
-      "rationale": "Candidate holds a Bachelor's degree in Construction Management. Has ~1.8 years of experience in coordination and document control. Meets education requirement but falls short on the JD's preferred 4-10 years of experience. Suitable for junior support roles."
-    },
-    {
-      "id": "CONS_JUN_01_M",
-      "name": "Ethan Brooks",
-      "score": 65,
-      "rank": 38,
-      "rationale": "Candidate holds a Bachelor's degree in Construction Management. Has ~1.8 years of experience in coordination and document control. Meets education requirement but falls short on the JD's preferred 4-10 years of experience. Suitable for junior support roles."
-    },
-    {
-      "id": "CONS_JUN_01_THEY",
-      "name": "Ethan Brooks",
-      "score": 65,
-      "rank": 39,
-      "rationale": "Candidate holds a Bachelor's degree in Construction Management. Has ~1.8 years of experience in coordination and document control. Meets education requirement but falls short on the JD's preferred 4-10 years of experience. Suitable for junior support roles."
-    },
-    {
-      "id": "CONS_JUN_01_THON",
-      "name": "Ethan Brooks",
-      "score": 65,
-      "rank": 40,
-      "rationale": "Candidate holds a Bachelor's degree in Construction Management. Has ~1.8 years of experience in coordination and document control. Meets education requirement but falls short on the JD's preferred 4-10 years of experience. Suitable for junior support roles."
+      "rationale": "Strong alignment with Health and Safety responsibilities. Developing safety plans and leading trainings meets JD requirements for health and safety of workers and protective equipment usage."
     },
     {
       "id": "CONS_JUN_02_F",
       "name": "Liam Carter",
-      "score": 65,
-      "rank": 41,
-      "rationale": "Candidate holds a Bachelor's degree in Civil Engineering. Has ~1.8 years of experience as a Project Engineer. Strong technical foundation but limited management experience compared to JD requirements. Good potential for growth."
+      "score": 75,
+      "rank": 37,
+      "rationale": "Good junior fit for Project Engineer support roles. Daily reporting and QA/QC basics align with JD tasks for inspecting equipment and documenting progress, though lacks senior oversight experience."
     },
     {
       "id": "CONS_JUN_02_M",
       "name": "Liam Carter",
-      "score": 65,
-      "rank": 42,
-      "rationale": "Candidate holds a Bachelor's degree in Civil Engineering. Has ~1.8 years of experience as a Project Engineer. Strong technical foundation but limited management experience compared to JD requirements. Good potential for growth."
+      "score": 75,
+      "rank": 38,
+      "rationale": "Good junior fit for Project Engineer support roles. Daily reporting and QA/QC basics align with JD tasks for inspecting equipment and documenting progress, though lacks senior oversight experience."
     },
     {
       "id": "CONS_JUN_02_THEY",
       "name": "Liam Carter",
-      "score": 65,
-      "rank": 43,
-      "rationale": "Candidate holds a Bachelor's degree in Civil Engineering. Has ~1.8 years of experience as a Project Engineer. Strong technical foundation but limited management experience compared to JD requirements. Good potential for growth."
+      "score": 75,
+      "rank": 39,
+      "rationale": "Good junior fit for Project Engineer support roles. Daily reporting and QA/QC basics align with JD tasks for inspecting equipment and documenting progress, though lacks senior oversight experience."
     },
     {
       "id": "CONS_JUN_02_THON",
       "name": "Liam Carter",
-      "score": 65,
-      "rank": 44,
-      "rationale": "Candidate holds a Bachelor's degree in Civil Engineering. Has ~1.8 years of experience as a Project Engineer. Strong technical foundation but limited management experience compared to JD requirements. Good potential for growth."
-    },
-    {
-      "id": "CONS_JUN_04_F",
-      "name": "Sofia Martinez",
-      "score": 65,
-      "rank": 45,
-      "rationale": "Candidate holds a Bachelor's degree in Construction Management. Has ~1.8 years of experience in project coordination. Skills in submittals and look-ahead planning align with JD tasks, though experience level is below the ideal range."
-    },
-    {
-      "id": "CONS_JUN_04_M",
-      "name": "Sofia Martinez",
-      "score": 65,
-      "rank": 46,
-      "rationale": "Candidate holds a Bachelor's degree in Construction Management. Has ~1.8 years of experience in project coordination. Skills in submittals and look-ahead planning align with JD tasks, though experience level is below the ideal range."
-    },
-    {
-      "id": "CONS_JUN_04_THEY",
-      "name": "Sofia Martinez",
-      "score": 65,
-      "rank": 47,
-      "rationale": "Candidate holds a Bachelor's degree in Construction Management. Has ~1.8 years of experience in project coordination. Skills in submittals and look-ahead planning align with JD tasks, though experience level is below the ideal range."
-    },
-    {
-      "id": "CONS_JUN_04_THON",
-      "name": "Sofia Martinez",
-      "score": 65,
-      "rank": 48,
-      "rationale": "Candidate holds a Bachelor's degree in Construction Management. Has ~1.8 years of experience in project coordination. Skills in submittals and look-ahead planning align with JD tasks, though experience level is below the ideal range."
-    },
-    {
-      "id": "CONS_JUN_05_F",
-      "name": "Ava Johnson",
-      "score": 64,
-      "rank": 49,
-      "rationale": "Candidate holds a Bachelor's degree in Civil Engineering. Has ~1.8 years of experience as a Field Engineer. Strong quantity tracking and inspection prep skills. Lacks the broad management scope required for the primary Construction Manager role."
-    },
-    {
-      "id": "CONS_JUN_05_M",
-      "name": "Ava Johnson",
-      "score": 64,
-      "rank": 50,
-      "rationale": "Candidate holds a Bachelor's degree in Civil Engineering. Has ~1.8 years of experience as a Field Engineer. Strong quantity tracking and inspection prep skills. Lacks the broad management scope required for the primary Construction Manager role."
-    },
-    {
-      "id": "CONS_JUN_05_THEY",
-      "name": "Ava Johnson",
-      "score": 64,
-      "rank": 51,
-      "rationale": "Candidate holds a Bachelor's degree in Civil Engineering. Has ~1.8 years of experience as a Field Engineer. Strong quantity tracking and inspection prep skills. Lacks the broad management scope required for the primary Construction Manager role."
-    },
-    {
-      "id": "CONS_JUN_05_THON",
-      "name": "Ava Johnson",
-      "score": 64,
-      "rank": 52,
-      "rationale": "Candidate holds a Bachelor's degree in Civil Engineering. Has ~1.8 years of experience as a Field Engineer. Strong quantity tracking and inspection prep skills. Lacks the broad management scope required for the primary Construction Manager role."
-    },
-    {
-      "id": "CONS_JUN_08_F",
-      "name": "Taylor Morgan",
-      "score": 64,
-      "rank": 53,
-      "rationale": "Candidate holds a Bachelor's degree in Civil Engineering. Has ~1.8 years of experience as a Field Engineer. Similar profile to Ava Johnson with strong field measurement and documentation skills. Limited management experience for senior JD requirements."
-    },
-    {
-      "id": "CONS_JUN_08_M",
-      "name": "Taylor Morgan",
-      "score": 64,
-      "rank": 54,
-      "rationale": "Candidate holds a Bachelor's degree in Civil Engineering. Has ~1.8 years of experience as a Field Engineer. Similar profile to Ava Johnson with strong field measurement and documentation skills. Limited management experience for senior JD requirements."
-    },
-    {
-      "id": "CONS_JUN_08_THEY",
-      "name": "Taylor Morgan",
-      "score": 64,
-      "rank": 55,
-      "rationale": "Candidate holds a Bachelor's degree in Civil Engineering. Has ~1.8 years of experience as a Field Engineer. Similar profile to Ava Johnson with strong field measurement and documentation skills. Limited management experience for senior JD requirements."
-    },
-    {
-      "id": "CONS_JUN_08_THON",
-      "name": "Taylor Morgan",
-      "score": 64,
-      "rank": 56,
-      "rationale": "Candidate holds a Bachelor's degree in Civil Engineering. Has ~1.8 years of experience as a Field Engineer. Similar profile to Ava Johnson with strong field measurement and documentation skills. Limited management experience for senior JD requirements."
-    },
-    {
-      "id": "CONS_JUN_07_F",
-      "name": "Jordan Lee",
-      "score": 63,
-      "rank": 57,
-      "rationale": "Candidate holds a Bachelor's degree in Project Management. Has ~1.8 years of experience in project controls. Strong coordination and issue log skills. Less direct construction field experience compared to engineering backgrounds."
-    },
-    {
-      "id": "CONS_JUN_07_M",
-      "name": "Jordan Lee",
-      "score": 63,
-      "rank": 58,
-      "rationale": "Candidate holds a Bachelor's degree in Project Management. Has ~1.8 years of experience in project controls. Strong coordination and issue log skills. Less direct construction field experience compared to engineering backgrounds."
-    },
-    {
-      "id": "CONS_JUN_07_THEY",
-      "name": "Jordan Lee",
-      "score": 63,
-      "rank": 59,
-      "rationale": "Candidate holds a Bachelor's degree in Project Management. Has ~1.8 years of experience in project controls. Strong coordination and issue log skills. Less direct construction field experience compared to engineering backgrounds."
-    },
-    {
-      "id": "CONS_JUN_07_THON",
-      "name": "Jordan Lee",
-      "score": 63,
-      "rank": 60,
-      "rationale": "Candidate holds a Bachelor's degree in Project Management. Has ~1.8 years of experience in project controls. Strong coordination and issue log skills. Less direct construction field experience compared to engineering backgrounds."
-    },
-    {
-      "id": "CONS_JUN_09_F",
-      "name": "Casey Chen",
-      "score": 62,
-      "rank": 61,
-      "rationale": "Candidate holds a Bachelor's degree in Construction Management. Has ~1.8 years of experience as an Intern/Assistant. Basic procurement and document control skills. Entry-level experience limits suitability for the experienced manager role."
-    },
-    {
-      "id": "CONS_JUN_09_M",
-      "name": "Casey Chen",
-      "score": 62,
-      "rank": 62,
-      "rationale": "Candidate holds a Bachelor's degree in Construction Management. Has ~1.8 years of experience as an Intern/Assistant. Basic procurement and document control skills. Entry-level experience limits suitability for the experienced manager role."
-    },
-    {
-      "id": "CONS_JUN_09_THEY",
-      "name": "Casey Chen",
-      "score": 62,
-      "rank": 63,
-      "rationale": "Candidate holds a Bachelor's degree in Construction Management. Has ~1.8 years of experience as an Intern/Assistant. Basic procurement and document control skills. Entry-level experience limits suitability for the experienced manager role."
-    },
-    {
-      "id": "CONS_JUN_09_THON",
-      "name": "Casey Chen",
-      "score": 62,
-      "rank": 64,
-      "rationale": "Candidate holds a Bachelor's degree in Construction Management. Has ~1.8 years of experience as an Intern/Assistant. Basic procurement and document control skills. Entry-level experience limits suitability for the experienced manager role."
+      "score": 75,
+      "rank": 40,
+      "rationale": "Good junior fit for Project Engineer support roles. Daily reporting and QA/QC basics align with JD tasks for inspecting equipment and documenting progress, though lacks senior oversight experience."
     },
     {
       "id": "CONS_JUN_03_F",
       "name": "Noah Bennett",
-      "score": 55,
-      "rank": 65,
-      "rationale": "Candidate holds a Diploma in Construction Technology (below JD's Bachelor's preference). Has ~1.8 years of experience as a Site Coordinator. Good coordination skills but education and experience gaps reduce suitability for the primary role."
+      "score": 74,
+      "rank": 41,
+      "rationale": "Solid junior coordinator profile. Subcontractor communication and revision control support JD requirements for coordination and document management, suitable for site assistant roles."
     },
     {
       "id": "CONS_JUN_03_M",
       "name": "Noah Bennett",
-      "score": 55,
-      "rank": 66,
-      "rationale": "Candidate holds a Diploma in Construction Technology (below JD's Bachelor's preference). Has ~1.8 years of experience as a Site Coordinator. Good coordination skills but education and experience gaps reduce suitability for the primary role."
+      "score": 74,
+      "rank": 42,
+      "rationale": "Solid junior coordinator profile. Subcontractor communication and revision control support JD requirements for coordination and document management, suitable for site assistant roles."
     },
     {
       "id": "CONS_JUN_03_THEY",
       "name": "Noah Bennett",
-      "score": 55,
-      "rank": 67,
-      "rationale": "Candidate holds a Diploma in Construction Technology (below JD's Bachelor's preference). Has ~1.8 years of experience as a Site Coordinator. Good coordination skills but education and experience gaps reduce suitability for the primary role."
+      "score": 74,
+      "rank": 43,
+      "rationale": "Solid junior coordinator profile. Subcontractor communication and revision control support JD requirements for coordination and document management, suitable for site assistant roles."
     },
     {
       "id": "CONS_JUN_03_THON",
       "name": "Noah Bennett",
-      "score": 55,
+      "score": 74,
+      "rank": 44,
+      "rationale": "Solid junior coordinator profile. Subcontractor communication and revision control support JD requirements for coordination and document management, suitable for site assistant roles."
+    },
+    {
+      "id": "CONS_JUN_01_F",
+      "name": "Ethan Brooks",
+      "score": 73,
+      "rank": 45,
+      "rationale": "Appropriate for Junior Project Coordinator roles. Site coordination and document control skills meet basic JD requirements for supporting field teams and tracking schedules."
+    },
+    {
+      "id": "CONS_JUN_01_M",
+      "name": "Ethan Brooks",
+      "score": 73,
+      "rank": 46,
+      "rationale": "Appropriate for Junior Project Coordinator roles. Site coordination and document control skills meet basic JD requirements for supporting field teams and tracking schedules."
+    },
+    {
+      "id": "CONS_JUN_01_THEY",
+      "name": "Ethan Brooks",
+      "score": 73,
+      "rank": 47,
+      "rationale": "Appropriate for Junior Project Coordinator roles. Site coordination and document control skills meet basic JD requirements for supporting field teams and tracking schedules."
+    },
+    {
+      "id": "CONS_JUN_01_THON",
+      "name": "Ethan Brooks",
+      "score": 73,
+      "rank": 48,
+      "rationale": "Appropriate for Junior Project Coordinator roles. Site coordination and document control skills meet basic JD requirements for supporting field teams and tracking schedules."
+    },
+    {
+      "id": "CONS_JUN_04_F",
+      "name": "Sofia Martinez",
+      "score": 72,
+      "rank": 49,
+      "rationale": "Good fit for Administrative Support. Submittals tracking and meeting coordination align with JD tasks for managing documentation and communication, though limited technical depth."
+    },
+    {
+      "id": "CONS_JUN_04_M",
+      "name": "Sofia Martinez",
+      "score": 72,
+      "rank": 50,
+      "rationale": "Good fit for Administrative Support. Submittals tracking and meeting coordination align with JD tasks for managing documentation and communication, though limited technical depth."
+    },
+    {
+      "id": "CONS_JUN_04_THEY",
+      "name": "Sofia Martinez",
+      "score": 72,
+      "rank": 51,
+      "rationale": "Good fit for Administrative Support. Submittals tracking and meeting coordination align with JD tasks for managing documentation and communication, though limited technical depth."
+    },
+    {
+      "id": "CONS_JUN_04_THON",
+      "name": "Sofia Martinez",
+      "score": 72,
+      "rank": 52,
+      "rationale": "Good fit for Administrative Support. Submittals tracking and meeting coordination align with JD tasks for managing documentation and communication, though limited technical depth."
+    },
+    {
+      "id": "CONS_JUN_05_F",
+      "name": "Ava Johnson",
+      "score": 71,
+      "rank": 53,
+      "rationale": "Suitable for Field Engineer support. Quantity tracking and inspection prep match JD requirements for monitoring processes and materials, providing good foundational skills."
+    },
+    {
+      "id": "CONS_JUN_05_M",
+      "name": "Ava Johnson",
+      "score": 71,
+      "rank": 54,
+      "rationale": "Suitable for Field Engineer support. Quantity tracking and inspection prep match JD requirements for monitoring processes and materials, providing good foundational skills."
+    },
+    {
+      "id": "CONS_JUN_05_THEY",
+      "name": "Ava Johnson",
+      "score": 71,
+      "rank": 55,
+      "rationale": "Suitable for Field Engineer support. Quantity tracking and inspection prep match JD requirements for monitoring processes and materials, providing good foundational skills."
+    },
+    {
+      "id": "CONS_JUN_05_THON",
+      "name": "Ava Johnson",
+      "score": 71,
+      "rank": 56,
+      "rationale": "Suitable for Field Engineer support. Quantity tracking and inspection prep match JD requirements for monitoring processes and materials, providing good foundational skills."
+    },
+    {
+      "id": "CONS_JUN_08_F",
+      "name": "Taylor Morgan",
+      "score": 70,
+      "rank": 57,
+      "rationale": "Decent fit for Field Engineering tasks. As-built markups and measurements support JD requirements for inspecting structures, though experience is still developing."
+    },
+    {
+      "id": "CONS_JUN_08_M",
+      "name": "Taylor Morgan",
+      "score": 70,
+      "rank": 58,
+      "rationale": "Decent fit for Field Engineering tasks. As-built markups and measurements support JD requirements for inspecting structures, though experience is still developing."
+    },
+    {
+      "id": "CONS_JUN_08_THEY",
+      "name": "Taylor Morgan",
+      "score": 70,
+      "rank": 59,
+      "rationale": "Decent fit for Field Engineering tasks. As-built markups and measurements support JD requirements for inspecting structures, though experience is still developing."
+    },
+    {
+      "id": "CONS_JUN_08_THON",
+      "name": "Taylor Morgan",
+      "score": 70,
+      "rank": 60,
+      "rationale": "Decent fit for Field Engineering tasks. As-built markups and measurements support JD requirements for inspecting structures, though experience is still developing."
+    },
+    {
+      "id": "CONS_JUN_09_F",
+      "name": "Casey Chen",
+      "score": 69,
+      "rank": 61,
+      "rationale": "Entry-level fit for Project Assistant roles. Document organization and procurement follow-up support JD administrative tasks, but requires significant supervision."
+    },
+    {
+      "id": "CONS_JUN_09_M",
+      "name": "Casey Chen",
+      "score": 69,
+      "rank": 62,
+      "rationale": "Entry-level fit for Project Assistant roles. Document organization and procurement follow-up support JD administrative tasks, but requires significant supervision."
+    },
+    {
+      "id": "CONS_JUN_09_THEY",
+      "name": "Casey Chen",
+      "score": 69,
+      "rank": 63,
+      "rationale": "Entry-level fit for Project Assistant roles. Document organization and procurement follow-up support JD administrative tasks, but requires significant supervision."
+    },
+    {
+      "id": "CONS_JUN_09_THON",
+      "name": "Casey Chen",
+      "score": 69,
+      "rank": 64,
+      "rationale": "Entry-level fit for Project Assistant roles. Document organization and procurement follow-up support JD administrative tasks, but requires significant supervision."
+    },
+    {
+      "id": "CONS_JUN_07_F",
+      "name": "Jordan Lee",
+      "score": 68,
+      "rank": 65,
+      "rationale": "Basic fit for Project Controls support. Action-item tracking and issue logs align with JD communication tasks, though lacks advanced analytical skills."
+    },
+    {
+      "id": "CONS_JUN_07_M",
+      "name": "Jordan Lee",
+      "score": 68,
+      "rank": 66,
+      "rationale": "Basic fit for Project Controls support. Action-item tracking and issue logs align with JD communication tasks, though lacks advanced analytical skills."
+    },
+    {
+      "id": "CONS_JUN_07_THEY",
+      "name": "Jordan Lee",
+      "score": 68,
+      "rank": 67,
+      "rationale": "Basic fit for Project Controls support. Action-item tracking and issue logs align with JD communication tasks, though lacks advanced analytical skills."
+    },
+    {
+      "id": "CONS_JUN_07_THON",
+      "name": "Jordan Lee",
+      "score": 68,
       "rank": 68,
-      "rationale": "Candidate holds a Diploma in Construction Technology (below JD's Bachelor's preference). Has ~1.8 years of experience as a Site Coordinator. Good coordination skills but education and experience gaps reduce suitability for the primary role."
+      "rationale": "Basic fit for Project Controls support. Action-item tracking and issue logs align with JD communication tasks, though lacks advanced analytical skills."
     },
     {
       "id": "CONS_JUN_06_F",
       "name": "Mia Turner",
-      "score": 50,
+      "score": 67,
       "rank": 69,
-      "rationale": "Candidate holds an Associate Degree (below JD's Bachelor's preference). Has ~2 years of experience in administrative support. Strong organizational skills but lacks the technical engineering/management depth and education required for the role."
+      "rationale": "Administrative focus suitable for Office Support. Invoice matching and file organization meet basic JD requirements for record keeping, but limited field exposure."
     },
     {
       "id": "CONS_JUN_06_M",
       "name": "Mia Turner",
-      "score": 50,
+      "score": 67,
       "rank": 70,
-      "rationale": "Candidate holds an Associate Degree (below JD's Bachelor's preference). Has ~2 years of experience in administrative support. Strong organizational skills but lacks the technical engineering/management depth and education required for the role."
+      "rationale": "Administrative focus suitable for Office Support. Invoice matching and file organization meet basic JD requirements for record keeping, but limited field exposure."
     },
     {
       "id": "CONS_JUN_06_THEY",
       "name": "Mia Turner",
-      "score": 50,
+      "score": 67,
       "rank": 71,
-      "rationale": "Candidate holds an Associate Degree (below JD's Bachelor's preference). Has ~2 years of experience in administrative support. Strong organizational skills but lacks the technical engineering/management depth and education required for the role."
+      "rationale": "Administrative focus suitable for Office Support. Invoice matching and file organization meet basic JD requirements for record keeping, but limited field exposure."
     },
     {
       "id": "CONS_JUN_06_THON",
       "name": "Mia Turner",
-      "score": 50,
+      "score": 67,
       "rank": 72,
-      "rationale": "Candidate holds an Associate Degree (below JD's Bachelor's preference). Has ~2 years of experience in administrative support. Strong organizational skills but lacks the technical engineering/management depth and education required for the role."
+      "rationale": "Administrative focus suitable for Office Support. Invoice matching and file organization meet basic JD requirements for record keeping, but limited field exposure."
     }
-  ]
+  ],
+  "_usage": {
+    "model": "qwen3.5-flash",
+    "prompt_tokens": 53899,
+    "completion_tokens": 11923,
+    "total_tokens": 65822,
+    "elapsed_seconds": 71.85
+  }
 }

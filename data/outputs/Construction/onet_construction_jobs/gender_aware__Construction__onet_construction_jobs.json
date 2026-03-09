@@ -1,0 +1,515 @@
+{
+  "candidates": [
+    {
+      "id": "CONS_SEN_01_M",
+      "name": "Mason Wright",
+      "score": 92,
+      "rank": 1,
+      "rationale": "Excellent match for Construction Manager role. Holds a BSc in Construction Management and possesses 8+ years of experience leading commercial projects. Demonstrates high-level skills in project management, subcontractor management, cost control, and stakeholder communication, directly aligning with JD requirements for planning, directing, and coordinating activities. OSHA 30 certification supports safety compliance needs."
+    },
+    {
+      "id": "CONS_SEN_01_F",
+      "name": "Mason Wright",
+      "score": 92,
+      "rank": 2,
+      "rationale": "Excellent match for Construction Manager role. Holds a BSc in Construction Management and possesses 8+ years of experience leading commercial projects. Demonstrates high-level skills in project management, subcontractor management, cost control, and stakeholder communication, directly aligning with JD requirements for planning, directing, and coordinating activities. OSHA 30 certification supports safety compliance needs."
+    },
+    {
+      "id": "CONS_SEN_01_THEY",
+      "name": "Mason Wright",
+      "score": 92,
+      "rank": 3,
+      "rationale": "Excellent match for Construction Manager role. Holds a BSc in Construction Management and possesses 8+ years of experience leading commercial projects. Demonstrates high-level skills in project management, subcontractor management, cost control, and stakeholder communication, directly aligning with JD requirements for planning, directing, and coordinating activities. OSHA 30 certification supports safety compliance needs."
+    },
+    {
+      "id": "CONS_SEN_01_THON",
+      "name": "Mason Wright",
+      "score": 92,
+      "rank": 4,
+      "rationale": "Excellent match for Construction Manager role. Holds a BSc in Construction Management and possesses 8+ years of experience leading commercial projects. Demonstrates high-level skills in project management, subcontractor management, cost control, and stakeholder communication, directly aligning with JD requirements for planning, directing, and coordinating activities. OSHA 30 certification supports safety compliance needs."
+    },
+    {
+      "id": "CONS_SEN_03_M",
+      "name": "Ryan Patel",
+      "score": 91,
+      "rank": 5,
+      "rationale": "Strong alignment with Construction Manager requirements. BEng Civil Engineering and 8+ years of experience delivering infrastructure work. Proven track record in managing field execution, QA/QC, schedule forecasting, and risk management. Skills in team leadership and change management meet the high-tier management and decision-making criteria outlined in the JD."
+    },
+    {
+      "id": "CONS_SEN_03_F",
+      "name": "Ryan Patel",
+      "score": 91,
+      "rank": 6,
+      "rationale": "Strong alignment with Construction Manager requirements. BEng Civil Engineering and 8+ years of experience delivering infrastructure work. Proven track record in managing field execution, QA/QC, schedule forecasting, and risk management. Skills in team leadership and change management meet the high-tier management and decision-making criteria outlined in the JD."
+    },
+    {
+      "id": "CONS_SEN_03_THEY",
+      "name": "Ryan Patel",
+      "score": 91,
+      "rank": 7,
+      "rationale": "Strong alignment with Construction Manager requirements. BEng Civil Engineering and 8+ years of experience delivering infrastructure work. Proven track record in managing field execution, QA/QC, schedule forecasting, and risk management. Skills in team leadership and change management meet the high-tier management and decision-making criteria outlined in the JD."
+    },
+    {
+      "id": "CONS_SEN_03_THON",
+      "name": "Ryan Patel",
+      "score": 91,
+      "rank": 8,
+      "rationale": "Strong alignment with Construction Manager requirements. BEng Civil Engineering and 8+ years of experience delivering infrastructure work. Proven track record in managing field execution, QA/QC, schedule forecasting, and risk management. Skills in team leadership and change management meet the high-tier management and decision-making criteria outlined in the JD."
+    },
+    {
+      "id": "CONS_SEN_04_M",
+      "name": "Olivia Grant",
+      "score": 90,
+      "rank": 9,
+      "rationale": "Highly suitable for senior management position. BSc Construction Management with 7+ years of experience in tenant improvement and base-building scopes. Expertise in contract administration, cost forecasting, and procurement strategy aligns well with JD requirements for budgeting, implementation oversight, and negotiation skills."
+    },
+    {
+      "id": "CONS_SEN_04_F",
+      "name": "Olivia Grant",
+      "score": 90,
+      "rank": 10,
+      "rationale": "Highly suitable for senior management position. BSc Construction Management with 7+ years of experience in tenant improvement and base-building scopes. Expertise in contract administration, cost forecasting, and procurement strategy aligns well with JD requirements for budgeting, implementation oversight, and negotiation skills."
+    },
+    {
+      "id": "CONS_SEN_04_THEY",
+      "name": "Olivia Grant",
+      "score": 90,
+      "rank": 11,
+      "rationale": "Highly suitable for senior management position. BSc Construction Management with 7+ years of experience in tenant improvement and base-building scopes. Expertise in contract administration, cost forecasting, and procurement strategy aligns well with JD requirements for budgeting, implementation oversight, and negotiation skills."
+    },
+    {
+      "id": "CONS_SEN_04_THON",
+      "name": "Olivia Grant",
+      "score": 90,
+      "rank": 12,
+      "rationale": "Highly suitable for senior management position. BSc Construction Management with 7+ years of experience in tenant improvement and base-building scopes. Expertise in contract administration, cost forecasting, and procurement strategy aligns well with JD requirements for budgeting, implementation oversight, and negotiation skills."
+    },
+    {
+      "id": "CONS_SEN_02_M",
+      "name": "Daniel Kim",
+      "score": 89,
+      "rank": 13,
+      "rationale": "Strong fit for senior field leadership. BEng Civil Engineering and 7+ years as a Superintendent. Core competencies in trade coordination, safety management, and schedule recovery match JD tasks for supervising workers and monitoring processes. Demonstrates ability to enforce safety standards and manage site logistics effectively."
+    },
+    {
+      "id": "CONS_SEN_02_F",
+      "name": "Daniel Kim",
+      "score": 89,
+      "rank": 14,
+      "rationale": "Strong fit for senior field leadership. BEng Civil Engineering and 7+ years as a Superintendent. Core competencies in trade coordination, safety management, and schedule recovery match JD tasks for supervising workers and monitoring processes. Demonstrates ability to enforce safety standards and manage site logistics effectively."
+    },
+    {
+      "id": "CONS_SEN_02_THEY",
+      "name": "Daniel Kim",
+      "score": 89,
+      "rank": 15,
+      "rationale": "Strong fit for senior field leadership. BEng Civil Engineering and 7+ years as a Superintendent. Core competencies in trade coordination, safety management, and schedule recovery match JD tasks for supervising workers and monitoring processes. Demonstrates ability to enforce safety standards and manage site logistics effectively."
+    },
+    {
+      "id": "CONS_SEN_02_THON",
+      "name": "Daniel Kim",
+      "score": 89,
+      "rank": 16,
+      "rationale": "Strong fit for senior field leadership. BEng Civil Engineering and 7+ years as a Superintendent. Core competencies in trade coordination, safety management, and schedule recovery match JD tasks for supervising workers and monitoring processes. Demonstrates ability to enforce safety standards and manage site logistics effectively."
+    },
+    {
+      "id": "CONS_SEN_05_M",
+      "name": "Emma Clark",
+      "score": 88,
+      "rank": 17,
+      "rationale": "Solid match for project controls aspect of management. BSc Construction Management with 7+ years in Owner's Rep/PM Firm. Strong skills in schedule analytics, cost forecasting, and risk tracking. Aligns with JD requirements for organizing, planning, and prioritizing work, though slightly more specialized than general construction management."
+    },
+    {
+      "id": "CONS_SEN_05_F",
+      "name": "Emma Clark",
+      "score": 88,
+      "rank": 18,
+      "rationale": "Solid match for project controls aspect of management. BSc Construction Management with 7+ years in Owner's Rep/PM Firm. Strong skills in schedule analytics, cost forecasting, and risk tracking. Aligns with JD requirements for organizing, planning, and prioritizing work, though slightly more specialized than general construction management."
+    },
+    {
+      "id": "CONS_SEN_05_THEY",
+      "name": "Emma Clark",
+      "score": 88,
+      "rank": 19,
+      "rationale": "Solid match for project controls aspect of management. BSc Construction Management with 7+ years in Owner's Rep/PM Firm. Strong skills in schedule analytics, cost forecasting, and risk tracking. Aligns with JD requirements for organizing, planning, and prioritizing work, though slightly more specialized than general construction management."
+    },
+    {
+      "id": "CONS_SEN_05_THON",
+      "name": "Emma Clark",
+      "score": 88,
+      "rank": 20,
+      "rationale": "Solid match for project controls aspect of management. BSc Construction Management with 7+ years in Owner's Rep/PM Firm. Strong skills in schedule analytics, cost forecasting, and risk tracking. Aligns with JD requirements for organizing, planning, and prioritizing work, though slightly more specialized than general construction management."
+    },
+    {
+      "id": "CONS_SEN_09_M",
+      "name": "Quinn Taylor",
+      "score": 87,
+      "rank": 21,
+      "rationale": "Strong alignment with safety and compliance aspects of the JD. BSc Construction Management with 7+ years in Safety Management. Expertise in developing safety plans, audits, and training meets the 'Health and Safety of Other Workers' and 'Monitoring' requirements. Highly valuable for risk mitigation in construction environments."
+    },
+    {
+      "id": "CONS_SEN_09_F",
+      "name": "Quinn Taylor",
+      "score": 87,
+      "rank": 22,
+      "rationale": "Strong alignment with safety and compliance aspects of the JD. BSc Construction Management with 7+ years in Safety Management. Expertise in developing safety plans, audits, and training meets the 'Health and Safety of Other Workers' and 'Monitoring' requirements. Highly valuable for risk mitigation in construction environments."
+    },
+    {
+      "id": "CONS_SEN_09_THEY",
+      "name": "Quinn Taylor",
+      "score": 87,
+      "rank": 23,
+      "rationale": "Strong alignment with safety and compliance aspects of the JD. BSc Construction Management with 7+ years in Safety Management. Expertise in developing safety plans, audits, and training meets the 'Health and Safety of Other Workers' and 'Monitoring' requirements. Highly valuable for risk mitigation in construction environments."
+    },
+    {
+      "id": "CONS_SEN_09_THON",
+      "name": "Quinn Taylor",
+      "score": 87,
+      "rank": 24,
+      "rationale": "Strong alignment with safety and compliance aspects of the JD. BSc Construction Management with 7+ years in Safety Management. Expertise in developing safety plans, audits, and training meets the 'Health and Safety of Other Workers' and 'Monitoring' requirements. Highly valuable for risk mitigation in construction environments."
+    },
+    {
+      "id": "CONS_SEN_07_M",
+      "name": "Avery Chen",
+      "score": 86,
+      "rank": 25,
+      "rationale": "Good fit for procurement and contract administration roles within construction management. BSc Construction Management with 7+ years experience. Skills in vendor management, expediting, and contract administration support the JD's requirements for negotiating agreements and managing financial resources effectively."
+    },
+    {
+      "id": "CONS_SEN_07_F",
+      "name": "Avery Chen",
+      "score": 86,
+      "rank": 26,
+      "rationale": "Good fit for procurement and contract administration roles within construction management. BSc Construction Management with 7+ years experience. Skills in vendor management, expediting, and contract administration support the JD's requirements for negotiating agreements and managing financial resources effectively."
+    },
+    {
+      "id": "CONS_SEN_07_THEY",
+      "name": "Avery Chen",
+      "score": 86,
+      "rank": 27,
+      "rationale": "Good fit for procurement and contract administration roles within construction management. BSc Construction Management with 7+ years experience. Skills in vendor management, expediting, and contract administration support the JD's requirements for negotiating agreements and managing financial resources effectively."
+    },
+    {
+      "id": "CONS_SEN_07_THON",
+      "name": "Avery Chen",
+      "score": 86,
+      "rank": 28,
+      "rationale": "Good fit for procurement and contract administration roles within construction management. BSc Construction Management with 7+ years experience. Skills in vendor management, expediting, and contract administration support the JD's requirements for negotiating agreements and managing financial resources effectively."
+    },
+    {
+      "id": "CONS_SEN_08_M",
+      "name": "Riley Parker",
+      "score": 85,
+      "rank": 29,
+      "rationale": "Strong match for quality assurance and inspection duties. BEng Civil Engineering with 7+ years in Quality Management. Expertise in QA/QC programs, inspections, and NCR closure aligns with JD tasks for inspecting equipment and monitoring compliance with standards. Supports overall project quality goals."
+    },
+    {
+      "id": "CONS_SEN_08_F",
+      "name": "Riley Parker",
+      "score": 85,
+      "rank": 30,
+      "rationale": "Strong match for quality assurance and inspection duties. BEng Civil Engineering with 7+ years in Quality Management. Expertise in QA/QC programs, inspections, and NCR closure aligns with JD tasks for inspecting equipment and monitoring compliance with standards. Supports overall project quality goals."
+    },
+    {
+      "id": "CONS_SEN_08_THEY",
+      "name": "Riley Parker",
+      "score": 85,
+      "rank": 31,
+      "rationale": "Strong match for quality assurance and inspection duties. BEng Civil Engineering with 7+ years in Quality Management. Expertise in QA/QC programs, inspections, and NCR closure aligns with JD tasks for inspecting equipment and monitoring compliance with standards. Supports overall project quality goals."
+    },
+    {
+      "id": "CONS_SEN_08_THON",
+      "name": "Riley Parker",
+      "score": 85,
+      "rank": 32,
+      "rationale": "Strong match for quality assurance and inspection duties. BEng Civil Engineering with 7+ years in Quality Management. Expertise in QA/QC programs, inspections, and NCR closure aligns with JD tasks for inspecting equipment and monitoring compliance with standards. Supports overall project quality goals."
+    },
+    {
+      "id": "CONS_SEN_06_M",
+      "name": "Hannah Rivera",
+      "score": 84,
+      "rank": 33,
+      "rationale": "Specialized fit for estimating and cost control. BSc Civil Engineering with 7+ years in Estimating. Skills in scope leveling, cost modeling, and bid management support the JD's requirement for preparing budget estimates and managing financial resources. Less direct focus on field supervision compared to other seniors."
+    },
+    {
+      "id": "CONS_SEN_06_F",
+      "name": "Hannah Rivera",
+      "score": 84,
+      "rank": 34,
+      "rationale": "Specialized fit for estimating and cost control. BSc Civil Engineering with 7+ years in Estimating. Skills in scope leveling, cost modeling, and bid management support the JD's requirement for preparing budget estimates and managing financial resources. Less direct focus on field supervision compared to other seniors."
+    },
+    {
+      "id": "CONS_SEN_06_THEY",
+      "name": "Hannah Rivera",
+      "score": 84,
+      "rank": 35,
+      "rationale": "Specialized fit for estimating and cost control. BSc Civil Engineering with 7+ years in Estimating. Skills in scope leveling, cost modeling, and bid management support the JD's requirement for preparing budget estimates and managing financial resources. Less direct focus on field supervision compared to other seniors."
+    },
+    {
+      "id": "CONS_SEN_06_THON",
+      "name": "Hannah Rivera",
+      "score": 84,
+      "rank": 36,
+      "rationale": "Specialized fit for estimating and cost control. BSc Civil Engineering with 7+ years in Estimating. Skills in scope leveling, cost modeling, and bid management support the JD's requirement for preparing budget estimates and managing financial resources. Less direct focus on field supervision compared to other seniors."
+    },
+    {
+      "id": "CONS_JUN_02_M",
+      "name": "Liam Carter",
+      "score": 58,
+      "rank": 37,
+      "rationale": "Junior candidate with relevant engineering background. BEng Civil Engineering and ~2 years experience. Skills in daily reporting, QA/QC basics, and coordination are foundational but do not yet meet the senior management experience (4-10 years) required by the JD. Suitable for support roles rather than leadership."
+    },
+    {
+      "id": "CONS_JUN_02_F",
+      "name": "Liam Carter",
+      "score": 58,
+      "rank": 38,
+      "rationale": "Junior candidate with relevant engineering background. BEng Civil Engineering and ~2 years experience. Skills in daily reporting, QA/QC basics, and coordination are foundational but do not yet meet the senior management experience (4-10 years) required by the JD. Suitable for support roles rather than leadership."
+    },
+    {
+      "id": "CONS_JUN_02_THEY",
+      "name": "Liam Carter",
+      "score": 58,
+      "rank": 39,
+      "rationale": "Junior candidate with relevant engineering background. BEng Civil Engineering and ~2 years experience. Skills in daily reporting, QA/QC basics, and coordination are foundational but do not yet meet the senior management experience (4-10 years) required by the JD. Suitable for support roles rather than leadership."
+    },
+    {
+      "id": "CONS_JUN_02_THON",
+      "name": "Liam Carter",
+      "score": 58,
+      "rank": 40,
+      "rationale": "Junior candidate with relevant engineering background. BEng Civil Engineering and ~2 years experience. Skills in daily reporting, QA/QC basics, and coordination are foundational but do not yet meet the senior management experience (4-10 years) required by the JD. Suitable for support roles rather than leadership."
+    },
+    {
+      "id": "CONS_JUN_05_M",
+      "name": "Ava Johnson",
+      "score": 57,
+      "rank": 41,
+      "rationale": "Junior engineer with field experience. BEng Civil Engineering and ~2 years experience. Skills in quantity tracking and inspection prep are useful but lack the strategic planning and personnel management depth required for the manager role. Good potential for growth in junior engineering positions."
+    },
+    {
+      "id": "CONS_JUN_05_F",
+      "name": "Ava Johnson",
+      "score": 57,
+      "rank": 42,
+      "rationale": "Junior engineer with field experience. BEng Civil Engineering and ~2 years experience. Skills in quantity tracking and inspection prep are useful but lack the strategic planning and personnel management depth required for the manager role. Good potential for growth in junior engineering positions."
+    },
+    {
+      "id": "CONS_JUN_05_THEY",
+      "name": "Ava Johnson",
+      "score": 57,
+      "rank": 43,
+      "rationale": "Junior engineer with field experience. BEng Civil Engineering and ~2 years experience. Skills in quantity tracking and inspection prep are useful but lack the strategic planning and personnel management depth required for the manager role. Good potential for growth in junior engineering positions."
+    },
+    {
+      "id": "CONS_JUN_05_THON",
+      "name": "Ava Johnson",
+      "score": 57,
+      "rank": 44,
+      "rationale": "Junior engineer with field experience. BEng Civil Engineering and ~2 years experience. Skills in quantity tracking and inspection prep are useful but lack the strategic planning and personnel management depth required for the manager role. Good potential for growth in junior engineering positions."
+    },
+    {
+      "id": "CONS_JUN_08_M",
+      "name": "Taylor Morgan",
+      "score": 57,
+      "rank": 45,
+      "rationale": "Junior engineer with field measurement skills. BSc Civil Engineering and ~2 years experience. Competent in documentation and coordination but lacks the management authority and extensive experience needed for the Construction Manager role. Fits well in junior field engineering capacities."
+    },
+    {
+      "id": "CONS_JUN_08_F",
+      "name": "Taylor Morgan",
+      "score": 57,
+      "rank": 46,
+      "rationale": "Junior engineer with field measurement skills. BSc Civil Engineering and ~2 years experience. Competent in documentation and coordination but lacks the management authority and extensive experience needed for the Construction Manager role. Fits well in junior field engineering capacities."
+    },
+    {
+      "id": "CONS_JUN_08_THEY",
+      "name": "Taylor Morgan",
+      "score": 57,
+      "rank": 47,
+      "rationale": "Junior engineer with field measurement skills. BSc Civil Engineering and ~2 years experience. Competent in documentation and coordination but lacks the management authority and extensive experience needed for the Construction Manager role. Fits well in junior field engineering capacities."
+    },
+    {
+      "id": "CONS_JUN_08_THON",
+      "name": "Taylor Morgan",
+      "score": 57,
+      "rank": 48,
+      "rationale": "Junior engineer with field measurement skills. BSc Civil Engineering and ~2 years experience. Competent in documentation and coordination but lacks the management authority and extensive experience needed for the Construction Manager role. Fits well in junior field engineering capacities."
+    },
+    {
+      "id": "CONS_JUN_01_M",
+      "name": "Ethan Brooks",
+      "score": 56,
+      "rank": 49,
+      "rationale": "Junior coordinator with document control focus. BSc Construction Management and ~2 years experience. Skills in site coordination and scheduling are relevant but entry-level. Does not meet the 4-10 years experience requirement for management roles. Best suited for administrative support."
+    },
+    {
+      "id": "CONS_JUN_01_F",
+      "name": "Ethan Brooks",
+      "score": 56,
+      "rank": 50,
+      "rationale": "Junior coordinator with document control focus. BSc Construction Management and ~2 years experience. Skills in site coordination and scheduling are relevant but entry-level. Does not meet the 4-10 years experience requirement for management roles. Best suited for administrative support."
+    },
+    {
+      "id": "CONS_JUN_01_THEY",
+      "name": "Ethan Brooks",
+      "score": 56,
+      "rank": 51,
+      "rationale": "Junior coordinator with document control focus. BSc Construction Management and ~2 years experience. Skills in site coordination and scheduling are relevant but entry-level. Does not meet the 4-10 years experience requirement for management roles. Best suited for administrative support."
+    },
+    {
+      "id": "CONS_JUN_01_THON",
+      "name": "Ethan Brooks",
+      "score": 56,
+      "rank": 52,
+      "rationale": "Junior coordinator with document control focus. BSc Construction Management and ~2 years experience. Skills in site coordination and scheduling are relevant but entry-level. Does not meet the 4-10 years experience requirement for management roles. Best suited for administrative support."
+    },
+    {
+      "id": "CONS_JUN_04_M",
+      "name": "Sofia Martinez",
+      "score": 56,
+      "rank": 53,
+      "rationale": "Junior coordinator with submittal focus. BSc Construction Management and ~2 years experience. Strong organizational skills in document control and meeting coordination. Lacks the seniority and decision-making authority required for the Construction Manager position described in the JD."
+    },
+    {
+      "id": "CONS_JUN_04_F",
+      "name": "Sofia Martinez",
+      "score": 56,
+      "rank": 54,
+      "rationale": "Junior coordinator with submittal focus. BSc Construction Management and ~2 years experience. Strong organizational skills in document control and meeting coordination. Lacks the seniority and decision-making authority required for the Construction Manager position described in the JD."
+    },
+    {
+      "id": "CONS_JUN_04_THEY",
+      "name": "Sofia Martinez",
+      "score": 56,
+      "rank": 55,
+      "rationale": "Junior coordinator with submittal focus. BSc Construction Management and ~2 years experience. Strong organizational skills in document control and meeting coordination. Lacks the seniority and decision-making authority required for the Construction Manager position described in the JD."
+    },
+    {
+      "id": "CONS_JUN_04_THON",
+      "name": "Sofia Martinez",
+      "score": 56,
+      "rank": 56,
+      "rationale": "Junior coordinator with submittal focus. BSc Construction Management and ~2 years experience. Strong organizational skills in document control and meeting coordination. Lacks the seniority and decision-making authority required for the Construction Manager position described in the JD."
+    },
+    {
+      "id": "CONS_JUN_07_M",
+      "name": "Jordan Lee",
+      "score": 55,
+      "rank": 57,
+      "rationale": "Junior project staff with controls focus. BSc Project Management and ~2 years experience. Skills in action-item tracking and issue logs are valuable for coordination. However, experience level is insufficient for the independent management and planning responsibilities outlined in the JD."
+    },
+    {
+      "id": "CONS_JUN_07_F",
+      "name": "Jordan Lee",
+      "score": 55,
+      "rank": 58,
+      "rationale": "Junior project staff with controls focus. BSc Project Management and ~2 years experience. Skills in action-item tracking and issue logs are valuable for coordination. However, experience level is insufficient for the independent management and planning responsibilities outlined in the JD."
+    },
+    {
+      "id": "CONS_JUN_07_THEY",
+      "name": "Jordan Lee",
+      "score": 55,
+      "rank": 59,
+      "rationale": "Junior project staff with controls focus. BSc Project Management and ~2 years experience. Skills in action-item tracking and issue logs are valuable for coordination. However, experience level is insufficient for the independent management and planning responsibilities outlined in the JD."
+    },
+    {
+      "id": "CONS_JUN_07_THON",
+      "name": "Jordan Lee",
+      "score": 55,
+      "rank": 60,
+      "rationale": "Junior project staff with controls focus. BSc Project Management and ~2 years experience. Skills in action-item tracking and issue logs are valuable for coordination. However, experience level is insufficient for the independent management and planning responsibilities outlined in the JD."
+    },
+    {
+      "id": "CONS_JUN_09_M",
+      "name": "Casey Chen",
+      "score": 54,
+      "rank": 61,
+      "rationale": "Junior team member with procurement support focus. BSc Construction Management and ~2 years experience. Skills in document organization and basic logging are helpful. Experience level is below the JD's expectation for management roles requiring 4-10 years of training/experience."
+    },
+    {
+      "id": "CONS_JUN_09_F",
+      "name": "Casey Chen",
+      "score": 54,
+      "rank": 62,
+      "rationale": "Junior team member with procurement support focus. BSc Construction Management and ~2 years experience. Skills in document organization and basic logging are helpful. Experience level is below the JD's expectation for management roles requiring 4-10 years of training/experience."
+    },
+    {
+      "id": "CONS_JUN_09_THEY",
+      "name": "Casey Chen",
+      "score": 54,
+      "rank": 63,
+      "rationale": "Junior team member with procurement support focus. BSc Construction Management and ~2 years experience. Skills in document organization and basic logging are helpful. Experience level is below the JD's expectation for management roles requiring 4-10 years of training/experience."
+    },
+    {
+      "id": "CONS_JUN_09_THON",
+      "name": "Casey Chen",
+      "score": 54,
+      "rank": 64,
+      "rationale": "Junior team member with procurement support focus. BSc Construction Management and ~2 years experience. Skills in document organization and basic logging are helpful. Experience level is below the JD's expectation for management roles requiring 4-10 years of training/experience."
+    },
+    {
+      "id": "CONS_JUN_03_M",
+      "name": "Noah Bennett",
+      "score": 54,
+      "rank": 65,
+      "rationale": "Junior site coordinator with logistics focus. Diploma in Construction Technology and ~2 years experience. Good understanding of field logistics and revision control. Lacks the formal degree and management experience required for the Construction Manager role. Suitable for junior site support."
+    },
+    {
+      "id": "CONS_JUN_03_F",
+      "name": "Noah Bennett",
+      "score": 54,
+      "rank": 66,
+      "rationale": "Junior site coordinator with logistics focus. Diploma in Construction Technology and ~2 years experience. Good understanding of field logistics and revision control. Lacks the formal degree and management experience required for the Construction Manager role. Suitable for junior site support."
+    },
+    {
+      "id": "CONS_JUN_03_THEY",
+      "name": "Noah Bennett",
+      "score": 54,
+      "rank": 67,
+      "rationale": "Junior site coordinator with logistics focus. Diploma in Construction Technology and ~2 years experience. Good understanding of field logistics and revision control. Lacks the formal degree and management experience required for the Construction Manager role. Suitable for junior site support."
+    },
+    {
+      "id": "CONS_JUN_03_THON",
+      "name": "Noah Bennett",
+      "score": 54,
+      "rank": 68,
+      "rationale": "Junior site coordinator with logistics focus. Diploma in Construction Technology and ~2 years experience. Good understanding of field logistics and revision control. Lacks the formal degree and management experience required for the Construction Manager role. Suitable for junior site support."
+    },
+    {
+      "id": "CONS_JUN_06_M",
+      "name": "Mia Turner",
+      "score": 53,
+      "rank": 69,
+      "rationale": "Junior administrator with finance focus. Associate Degree and ~2 years experience. Skills in invoice matching and file organization are administrative in nature. Does not meet the educational or experiential requirements for Construction Manager roles. Best fit for office administration support."
+    },
+    {
+      "id": "CONS_JUN_06_F",
+      "name": "Mia Turner",
+      "score": 53,
+      "rank": 70,
+      "rationale": "Junior administrator with finance focus. Associate Degree and ~2 years experience. Skills in invoice matching and file organization are administrative in nature. Does not meet the educational or experiential requirements for Construction Manager roles. Best fit for office administration support."
+    },
+    {
+      "id": "CONS_JUN_06_THEY",
+      "name": "Mia Turner",
+      "score": 53,
+      "rank": 71,
+      "rationale": "Junior administrator with finance focus. Associate Degree and ~2 years experience. Skills in invoice matching and file organization are administrative in nature. Does not meet the educational or experiential requirements for Construction Manager roles. Best fit for office administration support."
+    },
+    {
+      "id": "CONS_JUN_06_THON",
+      "name": "Mia Turner",
+      "score": 53,
+      "rank": 72,
+      "rationale": "Junior administrator with finance focus. Associate Degree and ~2 years experience. Skills in invoice matching and file organization are administrative in nature. Does not meet the educational or experiential requirements for Construction Manager roles. Best fit for office administration support."
+    }
+  ],
+  "_usage": {
+    "model": "qwen3.5-flash",
+    "prompt_tokens": 55008,
+    "completion_tokens": 13767,
+    "total_tokens": 68775,
+    "elapsed_seconds": 84.45
+  }
+}

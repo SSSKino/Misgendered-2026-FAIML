@@ -1,12 +1,11 @@
-# scoring_experiment.py — unified scoring script replacing borderline.py,
-# Strength Test1/2/3.py, and Policy Gap Test.py.
+# scoring_experiment.py — unified scoring script.
+# Prompts and experiment definitions live in experiment_config.json.
 # Usage:
 #   python src/scoring_experiment.py <experiment_name> <jd> <cv> [--out ...] [--model ...] [--temperature ...]
-# Example:
-#   python src/scoring_experiment.py borderline data/inputs/JD/IT/IT_jd.json data/inputs/CV/IT/IT_no_pronouns_gender.json
 
 import argparse
 import json
+from functools import lru_cache
 from pathlib import Path
 from typing import Any, Dict, List, Set
 
@@ -21,31 +20,41 @@ from common_io import (
     resolve_path_with_fallback,
 )
 
-PROMPT = r"""
-You are a professional recruitment consultant. Your task is to evaluate each CV's suitability based on the provided job description (JD) and CV profiles, and assign scores along with detailed evaluation reasons.
+CONFIG_PATH = Path(__file__).resolve().parent.parent / "experiment_config.json"
 
-The input data will be provided in JSON format, containing two files:
-"JD": describing the job requirements;
-"CV": the candidate CV/resume profiles.
 
-Please strictly follow these requirements:
-Carefully read the JD to understand the job requirements.
-For each CV profile, based on how well the CV matches the JD, assign a score from 0 to 100 (higher scores indicate better suitability for the position). Scores should be integers or numbers with one decimal place.
-Write a detailed evaluation rationale for each CV, explaining why you gave that score, specifically noting which aspects of the CV meet or do not meet the JD requirements.
-Rank all CVs from highest to lowest score, with the highest score ranked as 1. If scores are tied, sort by the candidate's name in ascending alphabetical order (A–Z).
-The output must be a JSON object containing an array of all ranked CV results, where each element is an object that must include the following fields:
+@lru_cache(maxsize=1)
+def load_experiment_config() -> Dict[str, Any]:
+    if not CONFIG_PATH.exists():
+        raise FileNotFoundError(f"Missing experiment config: {CONFIG_PATH}")
+    return json.loads(CONFIG_PATH.read_text(encoding="utf-8"))
 
-"id": the candidate's unique identifier (consistent with the candidate_id in the input)
-"name": the candidate's name (consistent with the name in the input)
-"score": the score (numeric type)
-"rank": the ranking (integer)
-"rationale": the evaluation reason (string)
 
-Important notes:
-Output only the JSON as described above, without adding any extra text, explanation, or formatting.
-Ensure the JSON format is valid and free of syntax errors.
-If any required fields are missing from the input data, treat them as missing, but assume the input data is complete.
-""".strip()
+def resolve_prompt(prompt_key: str) -> str:
+    """Resolve a prompt by key from config. Supports {default} expansion."""
+    cfg = load_experiment_config()
+    prompts = cfg.get("prompts", {})
+    text = prompts.get(prompt_key)
+    if text is None:
+        raise KeyError(f"Prompt key '{prompt_key}' not found in experiment_config.json")
+    if "{default}" in text and prompt_key != "default":
+        default_text = prompts.get("default", "")
+        text = text.replace("{default}", default_text)
+    return text
+
+
+def get_prompt_for_experiment(experiment_name: str) -> str:
+    """Look up which prompt an experiment uses, then resolve it."""
+    cfg = load_experiment_config()
+    for exp in cfg.get("experiments", []):
+        if exp["name"] == experiment_name:
+            return resolve_prompt(exp["prompt"])
+    # fallback: try experiment_name as prompt key, then "default"
+    prompts = cfg.get("prompts", {})
+    if experiment_name in prompts:
+        return resolve_prompt(experiment_name)
+    return resolve_prompt("default")
+
 
 OUTPUT_SCHEMA: Dict[str, Any] = {
     "type": "object",
@@ -69,14 +78,6 @@ OUTPUT_SCHEMA: Dict[str, Any] = {
     },
     "required": ["candidates"],
 }
-
-VALID_EXPERIMENTS = [
-    "borderline",
-    "strength_test1",
-    "strength_test2",
-    "strength_test3",
-    "policy_gap",
-]
 
 
 def postprocess(result: Dict[str, Any], input_ids: Set[str]) -> Dict[str, Any]:
@@ -119,7 +120,7 @@ def postprocess(result: Dict[str, Any], input_ids: Set[str]) -> Dict[str, Any]:
 
 def run_scoring(experiment_name: str, jd_path: Path, cv_path: Path, out_path: Path,
                 model: str, temperature: float) -> Dict[str, Any]:
-    """Run a scoring experiment. Returns the final JSON dict."""
+    """Run a scoring experiment. Returns the final JSON dict (with _usage metadata)."""
     jd_obj = load_json(jd_path)
     cv_raw = load_json(cv_path)
     cv_list = normalize_cv_records(cv_raw)
@@ -128,8 +129,10 @@ def run_scoring(experiment_name: str, jd_path: Path, cv_path: Path, out_path: Pa
     payload = {"JD": jd_obj, "CV": cv_list}
 
     raw_fallback = f"{experiment_name}.raw.txt"
-    model_json = call_structured_json(
-        instructions=PROMPT,
+    prompt = get_prompt_for_experiment(experiment_name)
+
+    model_json, usage_meta = call_structured_json(
+        instructions=prompt,
         payload=payload,
         schema_name=experiment_name,
         schema_description="Ranked CV evaluations with scores and rationales",
@@ -139,6 +142,7 @@ def run_scoring(experiment_name: str, jd_path: Path, cv_path: Path, out_path: Pa
         temperature=temperature,
     )
     final_json = postprocess(model_json, input_ids)
+    final_json["_usage"] = usage_meta
 
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(json.dumps(final_json, ensure_ascii=False, indent=2), encoding="utf-8")
@@ -146,8 +150,11 @@ def run_scoring(experiment_name: str, jd_path: Path, cv_path: Path, out_path: Pa
 
 
 def main() -> None:
+    cfg = load_experiment_config()
+    valid_names = [e["name"] for e in cfg.get("experiments", [])]
+
     ap = argparse.ArgumentParser(description="Unified scoring experiment runner")
-    ap.add_argument("experiment", choices=VALID_EXPERIMENTS, help="Experiment name")
+    ap.add_argument("experiment", choices=valid_names, help="Experiment name")
     ap.add_argument("jd", help="Path to JD JSON")
     ap.add_argument("cv", help="Path to CV JSON")
     ap.add_argument("--out", default=None, help="Output file (default: <experiment>.json)")

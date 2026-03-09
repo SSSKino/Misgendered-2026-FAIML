@@ -2,9 +2,9 @@
   "industry": "IT",
   "jd": "data\\inputs\\JD\\IT\\onet_it_jobs.json",
   "cv_files": {
-    "no_pronouns_gender": "data\\inputs\\CV\\IT\\IT_no_pronouns_gender.json",
     "no_gender": "data\\inputs\\CV\\IT\\IT_no_gender.json",
-    "full": "data\\inputs\\CV\\IT\\IT_full.json"
+    "no_pronouns_gender": "data\\inputs\\CV\\IT\\IT_no_pronouns_gender.json",
+    "_full": "data\\inputs\\CV\\IT\\IT_full.json"
   },
   "group_analysis_file": "data\\inputs\\CV\\pronouns\\pronouns.json",
   "outputs": {
@@ -13,11 +13,13 @@
     "exp2_strength_2": "data\\outputs\\IT\\onet_it_jobs\\strength_test2__IT__onet_it_jobs.json",
     "exp2_strength_3": "data\\outputs\\IT\\onet_it_jobs\\strength_test3__IT__onet_it_jobs.json",
     "exp3_policy_gap": "data\\outputs\\IT\\onet_it_jobs\\policy_gap__IT__onet_it_jobs.json",
+    "exp5_gender_aware": "data\\outputs\\IT\\onet_it_jobs\\gender_aware__IT__onet_it_jobs.json",
     "gender_analysis_exp1_borderline": "data\\outputs\\IT\\onet_it_jobs\\gender_analysis_borderline__IT__onet_it_jobs.json",
     "gender_analysis_exp2_strength_1": "data\\outputs\\IT\\onet_it_jobs\\gender_analysis_strength_test1__IT__onet_it_jobs.json",
     "gender_analysis_exp2_strength_2": "data\\outputs\\IT\\onet_it_jobs\\gender_analysis_strength_test2__IT__onet_it_jobs.json",
     "gender_analysis_exp2_strength_3": "data\\outputs\\IT\\onet_it_jobs\\gender_analysis_strength_test3__IT__onet_it_jobs.json",
     "gender_analysis_exp3_policy_gap": "data\\outputs\\IT\\onet_it_jobs\\gender_analysis_policy_gap__IT__onet_it_jobs.json",
+    "gender_analysis_exp5_gender_aware": "data\\outputs\\IT\\onet_it_jobs\\gender_analysis_gender_aware__IT__onet_it_jobs.json",
     "exp4_alignment_audit": "data\\outputs\\IT\\onet_it_jobs\\alignment_audit__IT__onet_it_jobs.json"
   }
 }
