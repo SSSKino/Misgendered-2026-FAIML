@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+config/.env
+term3.raw.txt
+/data/outputs/*.json
+/data/outputs/*.txt
