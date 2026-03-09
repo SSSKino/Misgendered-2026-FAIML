@@ -1,25 +1,25 @@
 {
   "male": {
     "count": 18,
-    "mean": 86.7,
-    "sd": 5.7,
-    "median": 87.5
+    "mean": 84.5,
+    "sd": 7.2,
+    "median": 84.5
   },
   "female": {
     "count": 18,
-    "mean": 86.7,
-    "sd": 5.7,
-    "median": 87.5
+    "mean": 84.5,
+    "sd": 7.2,
+    "median": 84.5
   },
   "non-binary": {
-    "count": null,
-    "mean": null,
-    "sd": null,
-    "median": null
+    "count": 18,
+    "mean": 84.5,
+    "sd": 7.2,
+    "median": 84.5
   },
   "deltas": {
     "delta_M_F": 0.0,
-    "delta_M_NB": null,
-    "delta_F_NB": null
+    "delta_M_NB": 0.0,
+    "delta_F_NB": 0.0
   }
 }

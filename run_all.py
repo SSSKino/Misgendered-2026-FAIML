@@ -155,7 +155,9 @@ def main() -> None:
         raise SystemExit(f"No shared industry folders found between {JD_ROOT} and {CV_ROOT}.")
 
     gender_path = None
-    for candidate in [CV_ROOT / "gender" / "gender.json", CV_ROOT / "pronouns" / "pronouns.json"]:
+    # Prefer pronouns.json — it has all three groups (he/him, she/her, they/them)
+    # gender.json is missing non-binary (_THEY) entries
+    for candidate in [CV_ROOT / "pronouns" / "pronouns.json", CV_ROOT / "gender" / "gender.json"]:
         if candidate.exists():
             gender_path = candidate
             break

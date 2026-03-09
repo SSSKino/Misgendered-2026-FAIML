@@ -6,7 +6,7 @@
     "no_gender": "data\\inputs\\CV\\Construction\\Construction_no_gender.json",
     "full": "data\\inputs\\CV\\Construction\\Construction_full.json"
   },
-  "group_analysis_file": "data\\inputs\\CV\\gender\\gender.json",
+  "group_analysis_file": "data\\inputs\\CV\\pronouns\\pronouns.json",
   "outputs": {
     "exp1_borderline": "data\\outputs\\Construction\\onet_construction_jobs\\borderline__Construction__onet_construction_jobs.json",
     "exp2_strength_1": "data\\outputs\\Construction\\onet_construction_jobs\\strength_test1__Construction__onet_construction_jobs.json",

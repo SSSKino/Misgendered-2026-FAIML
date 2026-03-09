@@ -12,14 +12,14 @@
     "median": 79.5
   },
   "non-binary": {
-    "count": null,
-    "mean": null,
-    "sd": null,
-    "median": null
+    "count": 16,
+    "mean": 84.3,
+    "sd": 8.1,
+    "median": 79.5
   },
   "deltas": {
     "delta_M_F": 0.0,
-    "delta_M_NB": null,
-    "delta_F_NB": null
+    "delta_M_NB": 0.0,
+    "delta_F_NB": 0.0
   }
 }

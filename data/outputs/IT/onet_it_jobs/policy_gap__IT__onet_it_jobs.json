@@ -1,508 +1,508 @@
 {
   "candidates": [
     {
-      "id": "IT_SEN_01_F",
-      "name": "Daniel Wright",
-      "score": 95,
-      "rank": 1,
-      "rationale": "Candidate exceeds the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 9+ years. Strong match on education (BSc) and core skills (Windows Admin, Active Directory, Documentation). Demonstrates leadership in endpoint lifecycle and identity management, aligning with JD tasks for system maintenance and troubleshooting."
-    },
-    {
-      "id": "IT_SEN_01_M",
-      "name": "Daniel Wright",
-      "score": 95,
-      "rank": 2,
-      "rationale": "Candidate exceeds the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 9+ years. Strong match on education (BSc) and core skills (Windows Admin, Active Directory, Documentation). Demonstrates leadership in endpoint lifecycle and identity management, aligning with JD tasks for system maintenance and troubleshooting."
-    },
-    {
-      "id": "IT_SEN_01_THEY",
-      "name": "Daniel Wright",
-      "score": 95,
-      "rank": 3,
-      "rationale": "Candidate exceeds the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 9+ years. Strong match on education (BSc) and core skills (Windows Admin, Active Directory, Documentation). Demonstrates leadership in endpoint lifecycle and identity management, aligning with JD tasks for system maintenance and troubleshooting."
-    },
-    {
-      "id": "IT_SEN_01_THON",
-      "name": "Daniel Wright",
-      "score": 95,
-      "rank": 4,
-      "rationale": "Candidate exceeds the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 9+ years. Strong match on education (BSc) and core skills (Windows Admin, Active Directory, Documentation). Demonstrates leadership in endpoint lifecycle and identity management, aligning with JD tasks for system maintenance and troubleshooting."
-    },
-    {
-      "id": "IT_SEN_03_F",
-      "name": "Ethan Brooks",
-      "score": 95,
-      "rank": 5,
-      "rationale": "Candidate significantly exceeds the 'Related Work Experience' requirement (2-4 years) for Information Security Analysts with 8.8 years. Possesses Security+ certification and strong skills in Alert Triage and Incident Documentation. Aligns well with JD tasks for risk assessment and security measure implementation."
-    },
-    {
-      "id": "IT_SEN_03_M",
-      "name": "Ethan Brooks",
-      "score": 95,
-      "rank": 6,
-      "rationale": "Candidate significantly exceeds the 'Related Work Experience' requirement (2-4 years) for Information Security Analysts with 8.8 years. Possesses Security+ certification and strong skills in Alert Triage and Incident Documentation. Aligns well with JD tasks for risk assessment and security measure implementation."
-    },
-    {
-      "id": "IT_SEN_03_THEY",
-      "name": "Ethan Brooks",
-      "score": 95,
-      "rank": 7,
-      "rationale": "Candidate significantly exceeds the 'Related Work Experience' requirement (2-4 years) for Information Security Analysts with 8.8 years. Possesses Security+ certification and strong skills in Alert Triage and Incident Documentation. Aligns well with JD tasks for risk assessment and security measure implementation."
-    },
-    {
-      "id": "IT_SEN_03_THON",
-      "name": "Ethan Brooks",
-      "score": 95,
-      "rank": 8,
-      "rationale": "Candidate significantly exceeds the 'Related Work Experience' requirement (2-4 years) for Information Security Analysts with 8.8 years. Possesses Security+ certification and strong skills in Alert Triage and Incident Documentation. Aligns well with JD tasks for risk assessment and security measure implementation."
-    },
-    {
-      "id": "IT_SEN_06_F",
-      "name": "Jordan Lee",
-      "score": 95,
-      "rank": 9,
-      "rationale": "Candidate exceeds the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 8.5 years. Strong match on Linux, CI/CD, and Monitoring skills. Aligns with JD tasks for network monitoring, configuration, and incident response."
-    },
-    {
-      "id": "IT_SEN_06_M",
-      "name": "Jordan Lee",
-      "score": 95,
-      "rank": 10,
-      "rationale": "Candidate exceeds the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 8.5 years. Strong match on Linux, CI/CD, and Monitoring skills. Aligns with JD tasks for network monitoring, configuration, and incident response."
-    },
-    {
-      "id": "IT_SEN_06_THEY",
-      "name": "Jordan Lee",
-      "score": 95,
-      "rank": 11,
-      "rationale": "Candidate exceeds the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 8.5 years. Strong match on Linux, CI/CD, and Monitoring skills. Aligns with JD tasks for network monitoring, configuration, and incident response."
-    },
-    {
-      "id": "IT_SEN_06_THON",
-      "name": "Jordan Lee",
-      "score": 95,
-      "rank": 12,
-      "rationale": "Candidate exceeds the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 8.5 years. Strong match on Linux, CI/CD, and Monitoring skills. Aligns with JD tasks for network monitoring, configuration, and incident response."
-    },
-    {
-      "id": "IT_SEN_05_F",
-      "name": "Mia Turner",
-      "score": 95,
-      "rank": 13,
-      "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 8.2 years. Strong SQL and Dashboarding skills match JD knowledge requirements. Demonstrates ability to analyze data and support decision-making, aligning with JD work activities."
-    },
-    {
-      "id": "IT_SEN_05_M",
-      "name": "Mia Turner",
-      "score": 95,
-      "rank": 14,
-      "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 8.2 years. Strong SQL and Dashboarding skills match JD knowledge requirements. Demonstrates ability to analyze data and support decision-making, aligning with JD work activities."
-    },
-    {
-      "id": "IT_SEN_05_THEY",
-      "name": "Mia Turner",
-      "score": 95,
-      "rank": 15,
-      "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 8.2 years. Strong SQL and Dashboarding skills match JD knowledge requirements. Demonstrates ability to analyze data and support decision-making, aligning with JD work activities."
-    },
-    {
-      "id": "IT_SEN_05_THON",
-      "name": "Mia Turner",
-      "score": 95,
-      "rank": 16,
-      "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 8.2 years. Strong SQL and Dashboarding skills match JD knowledge requirements. Demonstrates ability to analyze data and support decision-making, aligning with JD work activities."
-    },
-    {
-      "id": "IT_SEN_02_F",
-      "name": "Michael Grant",
-      "score": 95,
-      "rank": 17,
-      "rationale": "Candidate meets the 'Related Work Experience' requirement (6-8 years) for Software Developers with 8.5 years. Strong match on Python, REST APIs, and Unit Testing skills. Aligns with JD tasks for software design, testing, and documentation."
-    },
-    {
-      "id": "IT_SEN_02_M",
-      "name": "Michael Grant",
-      "score": 95,
-      "rank": 18,
-      "rationale": "Candidate meets the 'Related Work Experience' requirement (6-8 years) for Software Developers with 8.5 years. Strong match on Python, REST APIs, and Unit Testing skills. Aligns with JD tasks for software design, testing, and documentation."
-    },
-    {
-      "id": "IT_SEN_02_THEY",
-      "name": "Michael Grant",
-      "score": 95,
-      "rank": 19,
-      "rationale": "Candidate meets the 'Related Work Experience' requirement (6-8 years) for Software Developers with 8.5 years. Strong match on Python, REST APIs, and Unit Testing skills. Aligns with JD tasks for software design, testing, and documentation."
-    },
-    {
-      "id": "IT_SEN_02_THON",
-      "name": "Michael Grant",
-      "score": 95,
-      "rank": 20,
-      "rationale": "Candidate meets the 'Related Work Experience' requirement (6-8 years) for Software Developers with 8.5 years. Strong match on Python, REST APIs, and Unit Testing skills. Aligns with JD tasks for software design, testing, and documentation."
-    },
-    {
-      "id": "IT_SEN_07_F",
-      "name": "Olivia Chen",
-      "score": 95,
-      "rank": 21,
-      "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 8.4 years. Strong SQL and Analytics skills match JD knowledge requirements. Demonstrates ability to define KPI frameworks and support stakeholder decision-making."
-    },
-    {
-      "id": "IT_SEN_07_M",
-      "name": "Olivia Chen",
-      "score": 95,
-      "rank": 22,
-      "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 8.4 years. Strong SQL and Analytics skills match JD knowledge requirements. Demonstrates ability to define KPI frameworks and support stakeholder decision-making."
-    },
-    {
-      "id": "IT_SEN_07_THEY",
-      "name": "Olivia Chen",
-      "score": 95,
-      "rank": 23,
-      "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 8.4 years. Strong SQL and Analytics skills match JD knowledge requirements. Demonstrates ability to define KPI frameworks and support stakeholder decision-making."
-    },
-    {
-      "id": "IT_SEN_07_THON",
-      "name": "Olivia Chen",
-      "score": 95,
-      "rank": 24,
-      "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 8.4 years. Strong SQL and Analytics skills match JD knowledge requirements. Demonstrates ability to define KPI frameworks and support stakeholder decision-making."
-    },
-    {
-      "id": "IT_SEN_08_F",
-      "name": "Sam Morgan",
-      "score": 95,
-      "rank": 25,
-      "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-6 years) for Computer Network Architects with 8.7 years. Strong Cloud Architecture and IAM skills align with JD technology skills. Demonstrates ability to design secure architectures and manage migrations."
-    },
-    {
-      "id": "IT_SEN_08_M",
-      "name": "Sam Morgan",
-      "score": 95,
-      "rank": 26,
-      "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-6 years) for Computer Network Architects with 8.7 years. Strong Cloud Architecture and IAM skills align with JD technology skills. Demonstrates ability to design secure architectures and manage migrations."
-    },
-    {
-      "id": "IT_SEN_08_THEY",
-      "name": "Sam Morgan",
-      "score": 95,
-      "rank": 27,
-      "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-6 years) for Computer Network Architects with 8.7 years. Strong Cloud Architecture and IAM skills align with JD technology skills. Demonstrates ability to design secure architectures and manage migrations."
-    },
-    {
-      "id": "IT_SEN_08_THON",
-      "name": "Sam Morgan",
-      "score": 95,
-      "rank": 28,
-      "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-6 years) for Computer Network Architects with 8.7 years. Strong Cloud Architecture and IAM skills align with JD technology skills. Demonstrates ability to design secure architectures and manage migrations."
-    },
-    {
-      "id": "IT_SEN_04_F",
-      "name": "Sophia Patel",
-      "score": 95,
-      "rank": 29,
-      "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Software Quality Assurance Analysts with 8.6 years. Strong Automation Testing and Jira skills match JD tasks. Demonstrates ability to build test suites and improve release confidence."
-    },
-    {
-      "id": "IT_SEN_04_M",
-      "name": "Sophia Patel",
-      "score": 95,
-      "rank": 30,
-      "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Software Quality Assurance Analysts with 8.6 years. Strong Automation Testing and Jira skills match JD tasks. Demonstrates ability to build test suites and improve release confidence."
-    },
-    {
-      "id": "IT_SEN_04_THEY",
-      "name": "Sophia Patel",
-      "score": 95,
-      "rank": 31,
-      "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Software Quality Assurance Analysts with 8.6 years. Strong Automation Testing and Jira skills match JD tasks. Demonstrates ability to build test suites and improve release confidence."
-    },
-    {
-      "id": "IT_SEN_04_THON",
-      "name": "Sophia Patel",
-      "score": 95,
-      "rank": 32,
-      "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Software Quality Assurance Analysts with 8.6 years. Strong Automation Testing and Jira skills match JD tasks. Demonstrates ability to build test suites and improve release confidence."
-    },
-    {
       "id": "IT_SEN_09_F",
       "name": "Taylor Reed",
       "score": 95,
-      "rank": 33,
-      "rationale": "Candidate meets the 'Related Work Experience' requirement (6-8 years) for Computer and Information Systems Managers with 8.8 years. Strong Program Delivery and Stakeholder Communication skills align with JD tasks for planning and directing activities."
+      "rank": 1,
+      "rationale": "Excellent match for 'Computer and Information Systems Managers' role. Demonstrates 9+ years experience, strong program delivery, risk management, and stakeholder communication skills aligned with JD's 'High' tier abilities like Decision Making and Coordination. Holds Bachelor's degree and meets education requirements."
     },
     {
       "id": "IT_SEN_09_M",
       "name": "Taylor Reed",
       "score": 95,
-      "rank": 34,
-      "rationale": "Candidate meets the 'Related Work Experience' requirement (6-8 years) for Computer and Information Systems Managers with 8.8 years. Strong Program Delivery and Stakeholder Communication skills align with JD tasks for planning and directing activities."
+      "rank": 2,
+      "rationale": "Excellent match for 'Computer and Information Systems Managers' role. Demonstrates 9+ years experience, strong program delivery, risk management, and stakeholder communication skills aligned with JD's 'High' tier abilities like Decision Making and Coordination. Holds Bachelor's degree and meets education requirements."
     },
     {
       "id": "IT_SEN_09_THEY",
       "name": "Taylor Reed",
       "score": 95,
-      "rank": 35,
-      "rationale": "Candidate meets the 'Related Work Experience' requirement (6-8 years) for Computer and Information Systems Managers with 8.8 years. Strong Program Delivery and Stakeholder Communication skills align with JD tasks for planning and directing activities."
+      "rank": 3,
+      "rationale": "Excellent match for 'Computer and Information Systems Managers' role. Demonstrates 9+ years experience, strong program delivery, risk management, and stakeholder communication skills aligned with JD's 'High' tier abilities like Decision Making and Coordination. Holds Bachelor's degree and meets education requirements."
     },
     {
       "id": "IT_SEN_09_THON",
       "name": "Taylor Reed",
       "score": 95,
+      "rank": 4,
+      "rationale": "Excellent match for 'Computer and Information Systems Managers' role. Demonstrates 9+ years experience, strong program delivery, risk management, and stakeholder communication skills aligned with JD's 'High' tier abilities like Decision Making and Coordination. Holds Bachelor's degree and meets education requirements."
+    },
+    {
+      "id": "IT_SEN_08_F",
+      "name": "Sam Morgan",
+      "score": 92,
+      "rank": 5,
+      "rationale": "Strong fit for 'Computer Network Architects' and 'Cloud Solutions'. 9+ years experience, AWS certification, and cloud architecture design skills match JD technology requirements. Demonstrates critical thinking and systems analysis abilities required for high-tier JD tasks."
+    },
+    {
+      "id": "IT_SEN_08_M",
+      "name": "Sam Morgan",
+      "score": 92,
+      "rank": 6,
+      "rationale": "Strong fit for 'Computer Network Architects' and 'Cloud Solutions'. 9+ years experience, AWS certification, and cloud architecture design skills match JD technology requirements. Demonstrates critical thinking and systems analysis abilities required for high-tier JD tasks."
+    },
+    {
+      "id": "IT_SEN_08_THEY",
+      "name": "Sam Morgan",
+      "score": 92,
+      "rank": 7,
+      "rationale": "Strong fit for 'Computer Network Architects' and 'Cloud Solutions'. 9+ years experience, AWS certification, and cloud architecture design skills match JD technology requirements. Demonstrates critical thinking and systems analysis abilities required for high-tier JD tasks."
+    },
+    {
+      "id": "IT_SEN_08_THON",
+      "name": "Sam Morgan",
+      "score": 92,
+      "rank": 8,
+      "rationale": "Strong fit for 'Computer Network Architects' and 'Cloud Solutions'. 9+ years experience, AWS certification, and cloud architecture design skills match JD technology requirements. Demonstrates critical thinking and systems analysis abilities required for high-tier JD tasks."
+    },
+    {
+      "id": "IT_SEN_03_F",
+      "name": "Ethan Brooks",
+      "score": 90,
+      "rank": 9,
+      "rationale": "Matches 'Information Security Analysts' and 'Software Developers'. Senior security engineer with incident triage and hardening experience. Meets JD requirements for problem sensitivity, deductive reasoning, and computers/electronics knowledge. Bachelor's degree present."
+    },
+    {
+      "id": "IT_SEN_03_M",
+      "name": "Ethan Brooks",
+      "score": 90,
+      "rank": 10,
+      "rationale": "Matches 'Information Security Analysts' and 'Software Developers'. Senior security engineer with incident triage and hardening experience. Meets JD requirements for problem sensitivity, deductive reasoning, and computers/electronics knowledge. Bachelor's degree present."
+    },
+    {
+      "id": "IT_SEN_03_THEY",
+      "name": "Ethan Brooks",
+      "score": 90,
+      "rank": 11,
+      "rationale": "Matches 'Information Security Analysts' and 'Software Developers'. Senior security engineer with incident triage and hardening experience. Meets JD requirements for problem sensitivity, deductive reasoning, and computers/electronics knowledge. Bachelor's degree present."
+    },
+    {
+      "id": "IT_SEN_03_THON",
+      "name": "Ethan Brooks",
+      "score": 90,
+      "rank": 12,
+      "rationale": "Matches 'Information Security Analysts' and 'Software Developers'. Senior security engineer with incident triage and hardening experience. Meets JD requirements for problem sensitivity, deductive reasoning, and computers/electronics knowledge. Bachelor's degree present."
+    },
+    {
+      "id": "IT_SEN_02_F",
+      "name": "Michael Grant",
+      "score": 90,
+      "rank": 13,
+      "rationale": "Matches 'Software Developers' and 'Computer Programmers'. 8+ years experience building backend services and APIs. Aligns with JD skills like programming, critical thinking, and complex problem solving. Education and experience exceed minimum requirements."
+    },
+    {
+      "id": "IT_SEN_02_M",
+      "name": "Michael Grant",
+      "score": 90,
+      "rank": 14,
+      "rationale": "Matches 'Software Developers' and 'Computer Programmers'. 8+ years experience building backend services and APIs. Aligns with JD skills like programming, critical thinking, and complex problem solving. Education and experience exceed minimum requirements."
+    },
+    {
+      "id": "IT_SEN_02_THEY",
+      "name": "Michael Grant",
+      "score": 90,
+      "rank": 15,
+      "rationale": "Matches 'Software Developers' and 'Computer Programmers'. 8+ years experience building backend services and APIs. Aligns with JD skills like programming, critical thinking, and complex problem solving. Education and experience exceed minimum requirements."
+    },
+    {
+      "id": "IT_SEN_02_THON",
+      "name": "Michael Grant",
+      "score": 90,
+      "rank": 16,
+      "rationale": "Matches 'Software Developers' and 'Computer Programmers'. 8+ years experience building backend services and APIs. Aligns with JD skills like programming, critical thinking, and complex problem solving. Education and experience exceed minimum requirements."
+    },
+    {
+      "id": "IT_SEN_06_F",
+      "name": "Jordan Lee",
+      "score": 88,
+      "rank": 17,
+      "rationale": "Fits 'Network and Computer Systems Administrators' and 'DevOps'. Strong CI/CD and monitoring skills match JD technology stack. Experience in incident response aligns with JD work activities like making decisions and solving problems. Bachelor's degree confirmed."
+    },
+    {
+      "id": "IT_SEN_06_M",
+      "name": "Jordan Lee",
+      "score": 88,
+      "rank": 18,
+      "rationale": "Fits 'Network and Computer Systems Administrators' and 'DevOps'. Strong CI/CD and monitoring skills match JD technology stack. Experience in incident response aligns with JD work activities like making decisions and solving problems. Bachelor's degree confirmed."
+    },
+    {
+      "id": "IT_SEN_06_THEY",
+      "name": "Jordan Lee",
+      "score": 88,
+      "rank": 19,
+      "rationale": "Fits 'Network and Computer Systems Administrators' and 'DevOps'. Strong CI/CD and monitoring skills match JD technology stack. Experience in incident response aligns with JD work activities like making decisions and solving problems. Bachelor's degree confirmed."
+    },
+    {
+      "id": "IT_SEN_06_THON",
+      "name": "Jordan Lee",
+      "score": 88,
+      "rank": 20,
+      "rationale": "Fits 'Network and Computer Systems Administrators' and 'DevOps'. Strong CI/CD and monitoring skills match JD technology stack. Experience in incident response aligns with JD work activities like making decisions and solving problems. Bachelor's degree confirmed."
+    },
+    {
+      "id": "IT_SEN_04_F",
+      "name": "Sophia Patel",
+      "score": 88,
+      "rank": 21,
+      "rationale": "Matches 'Software Quality Assurance Analysts and Testers'. Senior QA automation experience with test strategy and bug triage aligns with JD skills like quality control analysis and systems evaluation. Education and experience meet JD standards."
+    },
+    {
+      "id": "IT_SEN_04_M",
+      "name": "Sophia Patel",
+      "score": 88,
+      "rank": 22,
+      "rationale": "Matches 'Software Quality Assurance Analysts and Testers'. Senior QA automation experience with test strategy and bug triage aligns with JD skills like quality control analysis and systems evaluation. Education and experience meet JD standards."
+    },
+    {
+      "id": "IT_SEN_04_THEY",
+      "name": "Sophia Patel",
+      "score": 88,
+      "rank": 23,
+      "rationale": "Matches 'Software Quality Assurance Analysts and Testers'. Senior QA automation experience with test strategy and bug triage aligns with JD skills like quality control analysis and systems evaluation. Education and experience meet JD standards."
+    },
+    {
+      "id": "IT_SEN_04_THON",
+      "name": "Sophia Patel",
+      "score": 88,
+      "rank": 24,
+      "rationale": "Matches 'Software Quality Assurance Analysts and Testers'. Senior QA automation experience with test strategy and bug triage aligns with JD skills like quality control analysis and systems evaluation. Education and experience meet JD standards."
+    },
+    {
+      "id": "IT_SEN_05_F",
+      "name": "Mia Turner",
+      "score": 87,
+      "rank": 25,
+      "rationale": "Aligns with 'Database Administrators' and 'Computer Systems Analysts'. Senior data analyst with SQL analytics and dashboarding skills. Matches JD knowledge requirements for computers/electronics and administration. Strong communication skills noted."
+    },
+    {
+      "id": "IT_SEN_05_M",
+      "name": "Mia Turner",
+      "score": 87,
+      "rank": 26,
+      "rationale": "Aligns with 'Database Administrators' and 'Computer Systems Analysts'. Senior data analyst with SQL analytics and dashboarding skills. Matches JD knowledge requirements for computers/electronics and administration. Strong communication skills noted."
+    },
+    {
+      "id": "IT_SEN_05_THEY",
+      "name": "Mia Turner",
+      "score": 87,
+      "rank": 27,
+      "rationale": "Aligns with 'Database Administrators' and 'Computer Systems Analysts'. Senior data analyst with SQL analytics and dashboarding skills. Matches JD knowledge requirements for computers/electronics and administration. Strong communication skills noted."
+    },
+    {
+      "id": "IT_SEN_05_THON",
+      "name": "Mia Turner",
+      "score": 87,
+      "rank": 28,
+      "rationale": "Aligns with 'Database Administrators' and 'Computer Systems Analysts'. Senior data analyst with SQL analytics and dashboarding skills. Matches JD knowledge requirements for computers/electronics and administration. Strong communication skills noted."
+    },
+    {
+      "id": "IT_SEN_07_F",
+      "name": "Olivia Chen",
+      "score": 87,
+      "rank": 29,
+      "rationale": "Matches 'Database Administrators' and 'Computer Systems Analysts'. Senior product data analyst with KPI framework experience. Skills in SQL and analytics align with JD tasks for analyzing data and information. Education and experience are sufficient."
+    },
+    {
+      "id": "IT_SEN_07_M",
+      "name": "Olivia Chen",
+      "score": 87,
+      "rank": 30,
+      "rationale": "Matches 'Database Administrators' and 'Computer Systems Analysts'. Senior product data analyst with KPI framework experience. Skills in SQL and analytics align with JD tasks for analyzing data and information. Education and experience are sufficient."
+    },
+    {
+      "id": "IT_SEN_07_THEY",
+      "name": "Olivia Chen",
+      "score": 87,
+      "rank": 31,
+      "rationale": "Matches 'Database Administrators' and 'Computer Systems Analysts'. Senior product data analyst with KPI framework experience. Skills in SQL and analytics align with JD tasks for analyzing data and information. Education and experience are sufficient."
+    },
+    {
+      "id": "IT_SEN_07_THON",
+      "name": "Olivia Chen",
+      "score": 87,
+      "rank": 32,
+      "rationale": "Matches 'Database Administrators' and 'Computer Systems Analysts'. Senior product data analyst with KPI framework experience. Skills in SQL and analytics align with JD tasks for analyzing data and information. Education and experience are sufficient."
+    },
+    {
+      "id": "IT_SEN_01_F",
+      "name": "Daniel Wright",
+      "score": 85,
+      "rank": 33,
+      "rationale": "Fits 'Network and Computer Systems Administrators'. Senior systems engineer with endpoint lifecycle and identity management experience. Matches JD skills for active listening, reading comprehension, and computer operations. Bachelor's degree present."
+    },
+    {
+      "id": "IT_SEN_01_M",
+      "name": "Daniel Wright",
+      "score": 85,
+      "rank": 34,
+      "rationale": "Fits 'Network and Computer Systems Administrators'. Senior systems engineer with endpoint lifecycle and identity management experience. Matches JD skills for active listening, reading comprehension, and computer operations. Bachelor's degree present."
+    },
+    {
+      "id": "IT_SEN_01_THEY",
+      "name": "Daniel Wright",
+      "score": 85,
+      "rank": 35,
+      "rationale": "Fits 'Network and Computer Systems Administrators'. Senior systems engineer with endpoint lifecycle and identity management experience. Matches JD skills for active listening, reading comprehension, and computer operations. Bachelor's degree present."
+    },
+    {
+      "id": "IT_SEN_01_THON",
+      "name": "Daniel Wright",
+      "score": 85,
       "rank": 36,
-      "rationale": "Candidate meets the 'Related Work Experience' requirement (6-8 years) for Computer and Information Systems Managers with 8.8 years. Strong Program Delivery and Stakeholder Communication skills align with JD tasks for planning and directing activities."
-    },
-    {
-      "id": "IT_JUN_08_F",
-      "name": "Mia Turner",
-      "score": 90,
-      "rank": 37,
-      "rationale": "Candidate meets the 'Related Work Experience' requirement (1-2 years) for Web Developers with 2.4 years. Strong JavaScript and HTML/CSS skills match JD technology skills. Demonstrates ability to build responsive UI components, aligning with JD tasks."
-    },
-    {
-      "id": "IT_JUN_08_M",
-      "name": "Mia Turner",
-      "score": 90,
-      "rank": 38,
-      "rationale": "Candidate meets the 'Related Work Experience' requirement (1-2 years) for Web Developers with 2.4 years. Strong JavaScript and HTML/CSS skills match JD technology skills. Demonstrates ability to build responsive UI components, aligning with JD tasks."
-    },
-    {
-      "id": "IT_JUN_08_THEY",
-      "name": "Mia Turner",
-      "score": 90,
-      "rank": 39,
-      "rationale": "Candidate meets the 'Related Work Experience' requirement (1-2 years) for Web Developers with 2.4 years. Strong JavaScript and HTML/CSS skills match JD technology skills. Demonstrates ability to build responsive UI components, aligning with JD tasks."
-    },
-    {
-      "id": "IT_JUN_08_THON",
-      "name": "Mia Turner",
-      "score": 90,
-      "rank": 40,
-      "rationale": "Candidate meets the 'Related Work Experience' requirement (1-2 years) for Web Developers with 2.4 years. Strong JavaScript and HTML/CSS skills match JD technology skills. Demonstrates ability to build responsive UI components, aligning with JD tasks."
-    },
-    {
-      "id": "IT_JUN_05_F",
-      "name": "Ava Johnson",
-      "score": 85,
-      "rank": 41,
-      "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Information Security Analysts with 2.2 years. Basic SIEM and Alert Triage skills align with JD tasks. Security+ certification in progress supports JD knowledge requirements."
-    },
-    {
-      "id": "IT_JUN_05_M",
-      "name": "Ava Johnson",
-      "score": 85,
-      "rank": 42,
-      "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Information Security Analysts with 2.2 years. Basic SIEM and Alert Triage skills align with JD tasks. Security+ certification in progress supports JD knowledge requirements."
-    },
-    {
-      "id": "IT_JUN_05_THEY",
-      "name": "Ava Johnson",
-      "score": 85,
-      "rank": 43,
-      "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Information Security Analysts with 2.2 years. Basic SIEM and Alert Triage skills align with JD tasks. Security+ certification in progress supports JD knowledge requirements."
-    },
-    {
-      "id": "IT_JUN_05_THON",
-      "name": "Ava Johnson",
-      "score": 85,
-      "rank": 44,
-      "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Information Security Analysts with 2.2 years. Basic SIEM and Alert Triage skills align with JD tasks. Security+ certification in progress supports JD knowledge requirements."
-    },
-    {
-      "id": "IT_JUN_01_F",
-      "name": "Daniel Wright",
-      "score": 85,
-      "rank": 45,
-      "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Computer User Support Specialists with 2.1 years. Strong Helpdesk and Windows/macOS skills match JD tasks. Documentation skills align with JD work activities."
-    },
-    {
-      "id": "IT_JUN_01_M",
-      "name": "Daniel Wright",
-      "score": 85,
-      "rank": 46,
-      "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Computer User Support Specialists with 2.1 years. Strong Helpdesk and Windows/macOS skills match JD tasks. Documentation skills align with JD work activities."
-    },
-    {
-      "id": "IT_JUN_01_THEY",
-      "name": "Daniel Wright",
-      "score": 85,
-      "rank": 47,
-      "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Computer User Support Specialists with 2.1 years. Strong Helpdesk and Windows/macOS skills match JD tasks. Documentation skills align with JD work activities."
-    },
-    {
-      "id": "IT_JUN_01_THON",
-      "name": "Daniel Wright",
-      "score": 85,
-      "rank": 48,
-      "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Computer User Support Specialists with 2.1 years. Strong Helpdesk and Windows/macOS skills match JD tasks. Documentation skills align with JD work activities."
-    },
-    {
-      "id": "IT_JUN_03_F",
-      "name": "Olivia Chen",
-      "score": 85,
-      "rank": 49,
-      "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 2.4 years. Strong SQL and Dashboarding skills match JD knowledge requirements. Demonstrates ability to analyze data and support decision-making."
-    },
-    {
-      "id": "IT_JUN_03_M",
-      "name": "Olivia Chen",
-      "score": 85,
-      "rank": 50,
-      "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 2.4 years. Strong SQL and Dashboarding skills match JD knowledge requirements. Demonstrates ability to analyze data and support decision-making."
-    },
-    {
-      "id": "IT_JUN_03_THEY",
-      "name": "Olivia Chen",
-      "score": 85,
-      "rank": 51,
-      "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 2.4 years. Strong SQL and Dashboarding skills match JD knowledge requirements. Demonstrates ability to analyze data and support decision-making."
-    },
-    {
-      "id": "IT_JUN_03_THON",
-      "name": "Olivia Chen",
-      "score": 85,
-      "rank": 52,
-      "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 2.4 years. Strong SQL and Dashboarding skills match JD knowledge requirements. Demonstrates ability to analyze data and support decision-making."
-    },
-    {
-      "id": "IT_JUN_04_F",
-      "name": "Sophia Patel",
-      "score": 85,
-      "rank": 53,
-      "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Software Quality Assurance Analysts with 2.4 years. Strong Test Case Design and Jira skills match JD tasks. Demonstrates ability to execute tests and report defects."
-    },
-    {
-      "id": "IT_JUN_04_M",
-      "name": "Sophia Patel",
-      "score": 85,
-      "rank": 54,
-      "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Software Quality Assurance Analysts with 2.4 years. Strong Test Case Design and Jira skills match JD tasks. Demonstrates ability to execute tests and report defects."
-    },
-    {
-      "id": "IT_JUN_04_THEY",
-      "name": "Sophia Patel",
-      "score": 85,
-      "rank": 55,
-      "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Software Quality Assurance Analysts with 2.4 years. Strong Test Case Design and Jira skills match JD tasks. Demonstrates ability to execute tests and report defects."
-    },
-    {
-      "id": "IT_JUN_04_THON",
-      "name": "Sophia Patel",
-      "score": 85,
-      "rank": 56,
-      "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Software Quality Assurance Analysts with 2.4 years. Strong Test Case Design and Jira skills match JD tasks. Demonstrates ability to execute tests and report defects."
+      "rationale": "Fits 'Network and Computer Systems Administrators'. Senior systems engineer with endpoint lifecycle and identity management experience. Matches JD skills for active listening, reading comprehension, and computer operations. Bachelor's degree present."
     },
     {
       "id": "IT_JUN_07_F",
       "name": "Ethan Brooks",
-      "score": 75,
-      "rank": 57,
-      "rationale": "Candidate falls short of the 'Related Work Experience' requirement (6-8 years) for Software Developers with 2.6 years. Strong Python and REST API skills match JD tasks, but experience gap reduces suitability compared to seniors."
+      "score": 78,
+      "rank": 37,
+      "rationale": "Good fit for 'Software Developers'. Junior backend engineer with REST API and unit testing experience. Aligns with JD skills like programming and critical thinking. Education (BSc CS) meets requirement. Lacks senior-level system design experience."
     },
     {
       "id": "IT_JUN_07_M",
       "name": "Ethan Brooks",
-      "score": 75,
-      "rank": 58,
-      "rationale": "Candidate falls short of the 'Related Work Experience' requirement (6-8 years) for Software Developers with 2.6 years. Strong Python and REST API skills match JD tasks, but experience gap reduces suitability compared to seniors."
+      "score": 78,
+      "rank": 38,
+      "rationale": "Good fit for 'Software Developers'. Junior backend engineer with REST API and unit testing experience. Aligns with JD skills like programming and critical thinking. Education (BSc CS) meets requirement. Lacks senior-level system design experience."
     },
     {
       "id": "IT_JUN_07_THEY",
       "name": "Ethan Brooks",
-      "score": 75,
-      "rank": 59,
-      "rationale": "Candidate falls short of the 'Related Work Experience' requirement (6-8 years) for Software Developers with 2.6 years. Strong Python and REST API skills match JD tasks, but experience gap reduces suitability compared to seniors."
+      "score": 78,
+      "rank": 39,
+      "rationale": "Good fit for 'Software Developers'. Junior backend engineer with REST API and unit testing experience. Aligns with JD skills like programming and critical thinking. Education (BSc CS) meets requirement. Lacks senior-level system design experience."
     },
     {
       "id": "IT_JUN_07_THON",
       "name": "Ethan Brooks",
-      "score": 75,
-      "rank": 60,
-      "rationale": "Candidate falls short of the 'Related Work Experience' requirement (6-8 years) for Software Developers with 2.6 years. Strong Python and REST API skills match JD tasks, but experience gap reduces suitability compared to seniors."
-    },
-    {
-      "id": "IT_JUN_09_F",
-      "name": "Alex Kim",
-      "score": 70,
-      "rank": 61,
-      "rationale": "Candidate falls short of the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 2.7 years. Strong Active Directory and Windows Admin skills match JD tasks, but experience gap reduces suitability."
-    },
-    {
-      "id": "IT_JUN_09_M",
-      "name": "Alex Kim",
-      "score": 70,
-      "rank": 62,
-      "rationale": "Candidate falls short of the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 2.7 years. Strong Active Directory and Windows Admin skills match JD tasks, but experience gap reduces suitability."
-    },
-    {
-      "id": "IT_JUN_09_THEY",
-      "name": "Alex Kim",
-      "score": 70,
-      "rank": 63,
-      "rationale": "Candidate falls short of the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 2.7 years. Strong Active Directory and Windows Admin skills match JD tasks, but experience gap reduces suitability."
-    },
-    {
-      "id": "IT_JUN_09_THON",
-      "name": "Alex Kim",
-      "score": 70,
-      "rank": 64,
-      "rationale": "Candidate falls short of the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 2.7 years. Strong Active Directory and Windows Admin skills match JD tasks, but experience gap reduces suitability."
-    },
-    {
-      "id": "IT_JUN_06_F",
-      "name": "Jordan Lee",
-      "score": 70,
-      "rank": 65,
-      "rationale": "Candidate falls short of the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 1.8 years. Strong Linux and CI/CD skills match JD tasks, but experience gap reduces suitability."
-    },
-    {
-      "id": "IT_JUN_06_M",
-      "name": "Jordan Lee",
-      "score": 70,
-      "rank": 66,
-      "rationale": "Candidate falls short of the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 1.8 years. Strong Linux and CI/CD skills match JD tasks, but experience gap reduces suitability."
-    },
-    {
-      "id": "IT_JUN_06_THEY",
-      "name": "Jordan Lee",
-      "score": 70,
-      "rank": 67,
-      "rationale": "Candidate falls short of the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 1.8 years. Strong Linux and CI/CD skills match JD tasks, but experience gap reduces suitability."
-    },
-    {
-      "id": "IT_JUN_06_THON",
-      "name": "Jordan Lee",
-      "score": 70,
-      "rank": 68,
-      "rationale": "Candidate falls short of the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 1.8 years. Strong Linux and CI/CD skills match JD tasks, but experience gap reduces suitability."
+      "score": 78,
+      "rank": 40,
+      "rationale": "Good fit for 'Software Developers'. Junior backend engineer with REST API and unit testing experience. Aligns with JD skills like programming and critical thinking. Education (BSc CS) meets requirement. Lacks senior-level system design experience."
     },
     {
       "id": "IT_JUN_02_F",
       "name": "Michael Grant",
-      "score": 70,
-      "rank": 69,
-      "rationale": "Candidate falls short of the 'Related Work Experience' requirement (6-8 years) for Software Developers with 2.7 years. Strong Python and API skills match JD tasks, but significant experience gap reduces suitability."
+      "score": 78,
+      "rank": 41,
+      "rationale": "Matches 'Software Developers'. Junior software engineer with Python/JavaScript and API experience. Skills align with JD technology requirements. Education (BSc IT) meets baseline. Limited experience compared to senior counterparts."
     },
     {
       "id": "IT_JUN_02_M",
       "name": "Michael Grant",
-      "score": 70,
-      "rank": 70,
-      "rationale": "Candidate falls short of the 'Related Work Experience' requirement (6-8 years) for Software Developers with 2.7 years. Strong Python and API skills match JD tasks, but significant experience gap reduces suitability."
+      "score": 78,
+      "rank": 42,
+      "rationale": "Matches 'Software Developers'. Junior software engineer with Python/JavaScript and API experience. Skills align with JD technology requirements. Education (BSc IT) meets baseline. Limited experience compared to senior counterparts."
     },
     {
       "id": "IT_JUN_02_THEY",
       "name": "Michael Grant",
-      "score": 70,
-      "rank": 71,
-      "rationale": "Candidate falls short of the 'Related Work Experience' requirement (6-8 years) for Software Developers with 2.7 years. Strong Python and API skills match JD tasks, but significant experience gap reduces suitability."
+      "score": 78,
+      "rank": 43,
+      "rationale": "Matches 'Software Developers'. Junior software engineer with Python/JavaScript and API experience. Skills align with JD technology requirements. Education (BSc IT) meets baseline. Limited experience compared to senior counterparts."
     },
     {
       "id": "IT_JUN_02_THON",
       "name": "Michael Grant",
-      "score": 70,
+      "score": 78,
+      "rank": 44,
+      "rationale": "Matches 'Software Developers'. Junior software engineer with Python/JavaScript and API experience. Skills align with JD technology requirements. Education (BSc IT) meets baseline. Limited experience compared to senior counterparts."
+    },
+    {
+      "id": "IT_JUN_05_F",
+      "name": "Ava Johnson",
+      "score": 77,
+      "rank": 45,
+      "rationale": "Fits 'Information Security Analysts'. Junior cybersecurity analyst with SIEM and alert triage experience. Matches JD skills for problem sensitivity and deductive reasoning. Education (BSc Cybersecurity) is relevant. Some certifications in progress."
+    },
+    {
+      "id": "IT_JUN_05_M",
+      "name": "Ava Johnson",
+      "score": 77,
+      "rank": 46,
+      "rationale": "Fits 'Information Security Analysts'. Junior cybersecurity analyst with SIEM and alert triage experience. Matches JD skills for problem sensitivity and deductive reasoning. Education (BSc Cybersecurity) is relevant. Some certifications in progress."
+    },
+    {
+      "id": "IT_JUN_05_THEY",
+      "name": "Ava Johnson",
+      "score": 77,
+      "rank": 47,
+      "rationale": "Fits 'Information Security Analysts'. Junior cybersecurity analyst with SIEM and alert triage experience. Matches JD skills for problem sensitivity and deductive reasoning. Education (BSc Cybersecurity) is relevant. Some certifications in progress."
+    },
+    {
+      "id": "IT_JUN_05_THON",
+      "name": "Ava Johnson",
+      "score": 77,
+      "rank": 48,
+      "rationale": "Fits 'Information Security Analysts'. Junior cybersecurity analyst with SIEM and alert triage experience. Matches JD skills for problem sensitivity and deductive reasoning. Education (BSc Cybersecurity) is relevant. Some certifications in progress."
+    },
+    {
+      "id": "IT_JUN_08_F",
+      "name": "Mia Turner",
+      "score": 76,
+      "rank": 49,
+      "rationale": "Matches 'Web Developers'. Junior front-end developer with UI component and accessibility experience. Skills in JavaScript and HTML/CSS align with JD technology skills. Education (BSc IT) meets baseline. Focus on implementation over architecture."
+    },
+    {
+      "id": "IT_JUN_08_M",
+      "name": "Mia Turner",
+      "score": 76,
+      "rank": 50,
+      "rationale": "Matches 'Web Developers'. Junior front-end developer with UI component and accessibility experience. Skills in JavaScript and HTML/CSS align with JD technology skills. Education (BSc IT) meets baseline. Focus on implementation over architecture."
+    },
+    {
+      "id": "IT_JUN_08_THEY",
+      "name": "Mia Turner",
+      "score": 76,
+      "rank": 51,
+      "rationale": "Matches 'Web Developers'. Junior front-end developer with UI component and accessibility experience. Skills in JavaScript and HTML/CSS align with JD technology skills. Education (BSc IT) meets baseline. Focus on implementation over architecture."
+    },
+    {
+      "id": "IT_JUN_08_THON",
+      "name": "Mia Turner",
+      "score": 76,
+      "rank": 52,
+      "rationale": "Matches 'Web Developers'. Junior front-end developer with UI component and accessibility experience. Skills in JavaScript and HTML/CSS align with JD technology skills. Education (BSc IT) meets baseline. Focus on implementation over architecture."
+    },
+    {
+      "id": "IT_JUN_03_F",
+      "name": "Olivia Chen",
+      "score": 76,
+      "rank": 53,
+      "rationale": "Aligns with 'Database Administrators'. Junior data analyst with SQL reporting and dashboarding skills. Matches JD knowledge for computers/electronics and mathematics. Education (BSc IS) meets requirement. Less strategic impact than senior peers."
+    },
+    {
+      "id": "IT_JUN_03_M",
+      "name": "Olivia Chen",
+      "score": 76,
+      "rank": 54,
+      "rationale": "Aligns with 'Database Administrators'. Junior data analyst with SQL reporting and dashboarding skills. Matches JD knowledge for computers/electronics and mathematics. Education (BSc IS) meets requirement. Less strategic impact than senior peers."
+    },
+    {
+      "id": "IT_JUN_03_THEY",
+      "name": "Olivia Chen",
+      "score": 76,
+      "rank": 55,
+      "rationale": "Aligns with 'Database Administrators'. Junior data analyst with SQL reporting and dashboarding skills. Matches JD knowledge for computers/electronics and mathematics. Education (BSc IS) meets requirement. Less strategic impact than senior peers."
+    },
+    {
+      "id": "IT_JUN_03_THON",
+      "name": "Olivia Chen",
+      "score": 76,
+      "rank": 56,
+      "rationale": "Aligns with 'Database Administrators'. Junior data analyst with SQL reporting and dashboarding skills. Matches JD knowledge for computers/electronics and mathematics. Education (BSc IS) meets requirement. Less strategic impact than senior peers."
+    },
+    {
+      "id": "IT_JUN_09_F",
+      "name": "Alex Kim",
+      "score": 75,
+      "rank": 57,
+      "rationale": "Fits 'Network and Computer Systems Administrators'. Junior sysadmin with Active Directory and endpoint management experience. Matches JD skills for troubleshooting and documentation. Education (BSc IS) meets requirement. Certifications in progress."
+    },
+    {
+      "id": "IT_JUN_09_M",
+      "name": "Alex Kim",
+      "score": 75,
+      "rank": 58,
+      "rationale": "Fits 'Network and Computer Systems Administrators'. Junior sysadmin with Active Directory and endpoint management experience. Matches JD skills for troubleshooting and documentation. Education (BSc IS) meets requirement. Certifications in progress."
+    },
+    {
+      "id": "IT_JUN_09_THEY",
+      "name": "Alex Kim",
+      "score": 75,
+      "rank": 59,
+      "rationale": "Fits 'Network and Computer Systems Administrators'. Junior sysadmin with Active Directory and endpoint management experience. Matches JD skills for troubleshooting and documentation. Education (BSc IS) meets requirement. Certifications in progress."
+    },
+    {
+      "id": "IT_JUN_09_THON",
+      "name": "Alex Kim",
+      "score": 75,
+      "rank": 60,
+      "rationale": "Fits 'Network and Computer Systems Administrators'. Junior sysadmin with Active Directory and endpoint management experience. Matches JD skills for troubleshooting and documentation. Education (BSc IS) meets requirement. Certifications in progress."
+    },
+    {
+      "id": "IT_JUN_01_F",
+      "name": "Daniel Wright",
+      "score": 75,
+      "rank": 61,
+      "rationale": "Matches 'Computer User Support Specialists'. Junior IT support specialist with ticket triage and device setup experience. Aligns with JD skills for active listening and reading comprehension. Education (BSc CS) meets requirement. Entry-level experience."
+    },
+    {
+      "id": "IT_JUN_01_M",
+      "name": "Daniel Wright",
+      "score": 75,
+      "rank": 62,
+      "rationale": "Matches 'Computer User Support Specialists'. Junior IT support specialist with ticket triage and device setup experience. Aligns with JD skills for active listening and reading comprehension. Education (BSc CS) meets requirement. Entry-level experience."
+    },
+    {
+      "id": "IT_JUN_01_THEY",
+      "name": "Daniel Wright",
+      "score": 75,
+      "rank": 63,
+      "rationale": "Matches 'Computer User Support Specialists'. Junior IT support specialist with ticket triage and device setup experience. Aligns with JD skills for active listening and reading comprehension. Education (BSc CS) meets requirement. Entry-level experience."
+    },
+    {
+      "id": "IT_JUN_01_THON",
+      "name": "Daniel Wright",
+      "score": 75,
+      "rank": 64,
+      "rationale": "Matches 'Computer User Support Specialists'. Junior IT support specialist with ticket triage and device setup experience. Aligns with JD skills for active listening and reading comprehension. Education (BSc CS) meets requirement. Entry-level experience."
+    },
+    {
+      "id": "IT_JUN_06_F",
+      "name": "Jordan Lee",
+      "score": 75,
+      "rank": 65,
+      "rationale": "Fits 'Network and Computer Systems Administrators'. Junior DevOps/cloud support with CI/CD and Linux troubleshooting. Matches JD technology skills for development environments and monitoring. Education (BSc IT) meets requirement. Supervised experience noted."
+    },
+    {
+      "id": "IT_JUN_06_M",
+      "name": "Jordan Lee",
+      "score": 75,
+      "rank": 66,
+      "rationale": "Fits 'Network and Computer Systems Administrators'. Junior DevOps/cloud support with CI/CD and Linux troubleshooting. Matches JD technology skills for development environments and monitoring. Education (BSc IT) meets requirement. Supervised experience noted."
+    },
+    {
+      "id": "IT_JUN_06_THEY",
+      "name": "Jordan Lee",
+      "score": 75,
+      "rank": 67,
+      "rationale": "Fits 'Network and Computer Systems Administrators'. Junior DevOps/cloud support with CI/CD and Linux troubleshooting. Matches JD technology skills for development environments and monitoring. Education (BSc IT) meets requirement. Supervised experience noted."
+    },
+    {
+      "id": "IT_JUN_06_THON",
+      "name": "Jordan Lee",
+      "score": 75,
+      "rank": 68,
+      "rationale": "Fits 'Network and Computer Systems Administrators'. Junior DevOps/cloud support with CI/CD and Linux troubleshooting. Matches JD technology skills for development environments and monitoring. Education (BSc IT) meets requirement. Supervised experience noted."
+    },
+    {
+      "id": "IT_JUN_04_F",
+      "name": "Sophia Patel",
+      "score": 74,
+      "rank": 69,
+      "rationale": "Matches 'Software Quality Assurance Analysts and Testers'. Junior QA engineer with functional and regression testing experience. Aligns with JD skills for quality control analysis and systems evaluation. Education (BSc SE) meets requirement. Early career stage."
+    },
+    {
+      "id": "IT_JUN_04_M",
+      "name": "Sophia Patel",
+      "score": 74,
+      "rank": 70,
+      "rationale": "Matches 'Software Quality Assurance Analysts and Testers'. Junior QA engineer with functional and regression testing experience. Aligns with JD skills for quality control analysis and systems evaluation. Education (BSc SE) meets requirement. Early career stage."
+    },
+    {
+      "id": "IT_JUN_04_THEY",
+      "name": "Sophia Patel",
+      "score": 74,
+      "rank": 71,
+      "rationale": "Matches 'Software Quality Assurance Analysts and Testers'. Junior QA engineer with functional and regression testing experience. Aligns with JD skills for quality control analysis and systems evaluation. Education (BSc SE) meets requirement. Early career stage."
+    },
+    {
+      "id": "IT_JUN_04_THON",
+      "name": "Sophia Patel",
+      "score": 74,
       "rank": 72,
-      "rationale": "Candidate falls short of the 'Related Work Experience' requirement (6-8 years) for Software Developers with 2.7 years. Strong Python and API skills match JD tasks, but significant experience gap reduces suitability."
+      "rationale": "Matches 'Software Quality Assurance Analysts and Testers'. Junior QA engineer with functional and regression testing experience. Aligns with JD skills for quality control analysis and systems evaluation. Education (BSc SE) meets requirement. Early career stage."
     }
   ]
 }
