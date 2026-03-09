@@ -1,0 +1,508 @@
+{
+  "candidates": [
+    {
+      "id": "IT_SEN_09_F",
+      "name": "Taylor Reed",
+      "score": 95,
+      "rank": 1,
+      "rationale": "Excellent match for Computer and Information Systems Managers role. Strong program management experience, risk management, and stakeholder communication align with high-tier JD requirements for planning, directing, and coordinating activities."
+    },
+    {
+      "id": "IT_SEN_09_M",
+      "name": "Taylor Reed",
+      "score": 95,
+      "rank": 2,
+      "rationale": "Excellent match for Computer and Information Systems Managers role. Strong program management experience, risk management, and stakeholder communication align with high-tier JD requirements for planning, directing, and coordinating activities."
+    },
+    {
+      "id": "IT_SEN_09_THEY",
+      "name": "Taylor Reed",
+      "score": 95,
+      "rank": 3,
+      "rationale": "Excellent match for Computer and Information Systems Managers role. Strong program management experience, risk management, and stakeholder communication align with high-tier JD requirements for planning, directing, and coordinating activities."
+    },
+    {
+      "id": "IT_SEN_09_THON",
+      "name": "Taylor Reed",
+      "score": 95,
+      "rank": 4,
+      "rationale": "Excellent match for Computer and Information Systems Managers role. Strong program management experience, risk management, and stakeholder communication align with high-tier JD requirements for planning, directing, and coordinating activities."
+    },
+    {
+      "id": "IT_SEN_08_F",
+      "name": "Sam Morgan",
+      "score": 94,
+      "rank": 5,
+      "rationale": "Strong alignment with Network and Computer Systems Administrators and Architects. Cloud architecture design, IAM patterns, and cost visibility meet technical and management knowledge requirements."
+    },
+    {
+      "id": "IT_SEN_08_M",
+      "name": "Sam Morgan",
+      "score": 94,
+      "rank": 6,
+      "rationale": "Strong alignment with Network and Computer Systems Administrators and Architects. Cloud architecture design, IAM patterns, and cost visibility meet technical and management knowledge requirements."
+    },
+    {
+      "id": "IT_SEN_08_THEY",
+      "name": "Sam Morgan",
+      "score": 94,
+      "rank": 7,
+      "rationale": "Strong alignment with Network and Computer Systems Administrators and Architects. Cloud architecture design, IAM patterns, and cost visibility meet technical and management knowledge requirements."
+    },
+    {
+      "id": "IT_SEN_08_THON",
+      "name": "Sam Morgan",
+      "score": 94,
+      "rank": 8,
+      "rationale": "Strong alignment with Network and Computer Systems Administrators and Architects. Cloud architecture design, IAM patterns, and cost visibility meet technical and management knowledge requirements."
+    },
+    {
+      "id": "IT_SEN_02_F",
+      "name": "Michael Grant",
+      "score": 93,
+      "rank": 9,
+      "rationale": "Highly suitable for Software Developers role. 8+ years experience building backend services and APIs matches JD requirements for research, design, and development of computer software."
+    },
+    {
+      "id": "IT_SEN_02_M",
+      "name": "Michael Grant",
+      "score": 93,
+      "rank": 10,
+      "rationale": "Highly suitable for Software Developers role. 8+ years experience building backend services and APIs matches JD requirements for research, design, and development of computer software."
+    },
+    {
+      "id": "IT_SEN_02_THEY",
+      "name": "Michael Grant",
+      "score": 93,
+      "rank": 11,
+      "rationale": "Highly suitable for Software Developers role. 8+ years experience building backend services and APIs matches JD requirements for research, design, and development of computer software."
+    },
+    {
+      "id": "IT_SEN_02_THON",
+      "name": "Michael Grant",
+      "score": 93,
+      "rank": 12,
+      "rationale": "Highly suitable for Software Developers role. 8+ years experience building backend services and APIs matches JD requirements for research, design, and development of computer software."
+    },
+    {
+      "id": "IT_SEN_03_F",
+      "name": "Ethan Brooks",
+      "score": 92,
+      "rank": 13,
+      "rationale": "Strong fit for Information Security Analysts. Leading incident triage, hardening endpoints, and improving SOC runbooks aligns with security measures and risk mitigation strategies."
+    },
+    {
+      "id": "IT_SEN_03_M",
+      "name": "Ethan Brooks",
+      "score": 92,
+      "rank": 14,
+      "rationale": "Strong fit for Information Security Analysts. Leading incident triage, hardening endpoints, and improving SOC runbooks aligns with security measures and risk mitigation strategies."
+    },
+    {
+      "id": "IT_SEN_03_THEY",
+      "name": "Ethan Brooks",
+      "score": 92,
+      "rank": 15,
+      "rationale": "Strong fit for Information Security Analysts. Leading incident triage, hardening endpoints, and improving SOC runbooks aligns with security measures and risk mitigation strategies."
+    },
+    {
+      "id": "IT_SEN_03_THON",
+      "name": "Ethan Brooks",
+      "score": 92,
+      "rank": 16,
+      "rationale": "Strong fit for Information Security Analysts. Leading incident triage, hardening endpoints, and improving SOC runbooks aligns with security measures and risk mitigation strategies."
+    },
+    {
+      "id": "IT_SEN_06_F",
+      "name": "Jordan Lee",
+      "score": 91,
+      "rank": 17,
+      "rationale": "Well-suited for Network and Computer Systems Administrators. Improving CI/CD reliability and monitoring standards meets requirements for maintaining networks and verifying integrity."
+    },
+    {
+      "id": "IT_SEN_06_M",
+      "name": "Jordan Lee",
+      "score": 91,
+      "rank": 18,
+      "rationale": "Well-suited for Network and Computer Systems Administrators. Improving CI/CD reliability and monitoring standards meets requirements for maintaining networks and verifying integrity."
+    },
+    {
+      "id": "IT_SEN_06_THEY",
+      "name": "Jordan Lee",
+      "score": 91,
+      "rank": 19,
+      "rationale": "Well-suited for Network and Computer Systems Administrators. Improving CI/CD reliability and monitoring standards meets requirements for maintaining networks and verifying integrity."
+    },
+    {
+      "id": "IT_SEN_06_THON",
+      "name": "Jordan Lee",
+      "score": 91,
+      "rank": 20,
+      "rationale": "Well-suited for Network and Computer Systems Administrators. Improving CI/CD reliability and monitoring standards meets requirements for maintaining networks and verifying integrity."
+    },
+    {
+      "id": "IT_SEN_04_F",
+      "name": "Sophia Patel",
+      "score": 90,
+      "rank": 21,
+      "rationale": "Excellent match for Software Quality Assurance Analysts and Testers. Building reliable test suites and reducing regression time aligns with developing and executing software tests."
+    },
+    {
+      "id": "IT_SEN_04_M",
+      "name": "Sophia Patel",
+      "score": 90,
+      "rank": 22,
+      "rationale": "Excellent match for Software Quality Assurance Analysts and Testers. Building reliable test suites and reducing regression time aligns with developing and executing software tests."
+    },
+    {
+      "id": "IT_SEN_04_THEY",
+      "name": "Sophia Patel",
+      "score": 90,
+      "rank": 23,
+      "rationale": "Excellent match for Software Quality Assurance Analysts and Testers. Building reliable test suites and reducing regression time aligns with developing and executing software tests."
+    },
+    {
+      "id": "IT_SEN_04_THON",
+      "name": "Sophia Patel",
+      "score": 90,
+      "rank": 24,
+      "rationale": "Excellent match for Software Quality Assurance Analysts and Testers. Building reliable test suites and reducing regression time aligns with developing and executing software tests."
+    },
+    {
+      "id": "IT_SEN_05_F",
+      "name": "Mia Turner",
+      "score": 89,
+      "rank": 25,
+      "rationale": "Strong fit for Computer Systems Analysts. SQL analytics and dashboarding support operational decision-making, meeting requirements for analyzing data and information."
+    },
+    {
+      "id": "IT_SEN_05_M",
+      "name": "Mia Turner",
+      "score": 89,
+      "rank": 26,
+      "rationale": "Strong fit for Computer Systems Analysts. SQL analytics and dashboarding support operational decision-making, meeting requirements for analyzing data and information."
+    },
+    {
+      "id": "IT_SEN_05_THEY",
+      "name": "Mia Turner",
+      "score": 89,
+      "rank": 27,
+      "rationale": "Strong fit for Computer Systems Analysts. SQL analytics and dashboarding support operational decision-making, meeting requirements for analyzing data and information."
+    },
+    {
+      "id": "IT_SEN_05_THON",
+      "name": "Mia Turner",
+      "score": 89,
+      "rank": 28,
+      "rationale": "Strong fit for Computer Systems Analysts. SQL analytics and dashboarding support operational decision-making, meeting requirements for analyzing data and information."
+    },
+    {
+      "id": "IT_SEN_07_F",
+      "name": "Olivia Chen",
+      "score": 88,
+      "rank": 29,
+      "rationale": "Good match for Computer Systems Analysts. Shaping KPI frameworks and translating analytics into narratives aligns with interpreting meaning of information and communicating with peers."
+    },
+    {
+      "id": "IT_SEN_07_M",
+      "name": "Olivia Chen",
+      "score": 88,
+      "rank": 30,
+      "rationale": "Good match for Computer Systems Analysts. Shaping KPI frameworks and translating analytics into narratives aligns with interpreting meaning of information and communicating with peers."
+    },
+    {
+      "id": "IT_SEN_07_THEY",
+      "name": "Olivia Chen",
+      "score": 88,
+      "rank": 31,
+      "rationale": "Good match for Computer Systems Analysts. Shaping KPI frameworks and translating analytics into narratives aligns with interpreting meaning of information and communicating with peers."
+    },
+    {
+      "id": "IT_SEN_07_THON",
+      "name": "Olivia Chen",
+      "score": 88,
+      "rank": 32,
+      "rationale": "Good match for Computer Systems Analysts. Shaping KPI frameworks and translating analytics into narratives aligns with interpreting meaning of information and communicating with peers."
+    },
+    {
+      "id": "IT_SEN_01_F",
+      "name": "Daniel Wright",
+      "score": 87,
+      "rank": 33,
+      "rationale": "Solid match for Network and Computer Systems Administrators. Windows/Linux administration and identity management meet requirements for installing and configuring network environments."
+    },
+    {
+      "id": "IT_SEN_01_M",
+      "name": "Daniel Wright",
+      "score": 87,
+      "rank": 34,
+      "rationale": "Solid match for Network and Computer Systems Administrators. Windows/Linux administration and identity management meet requirements for installing and configuring network environments."
+    },
+    {
+      "id": "IT_SEN_01_THEY",
+      "name": "Daniel Wright",
+      "score": 87,
+      "rank": 35,
+      "rationale": "Solid match for Network and Computer Systems Administrators. Windows/Linux administration and identity management meet requirements for installing and configuring network environments."
+    },
+    {
+      "id": "IT_SEN_01_THON",
+      "name": "Daniel Wright",
+      "score": 87,
+      "rank": 36,
+      "rationale": "Solid match for Network and Computer Systems Administrators. Windows/Linux administration and identity management meet requirements for installing and configuring network environments."
+    },
+    {
+      "id": "IT_JUN_02_F",
+      "name": "Michael Grant",
+      "score": 83,
+      "rank": 37,
+      "rationale": "Good potential for Software Developers. 2 years experience building internal tools and APIs aligns with basic programming tasks, though less depth than senior roles."
+    },
+    {
+      "id": "IT_JUN_02_M",
+      "name": "Michael Grant",
+      "score": 83,
+      "rank": 38,
+      "rationale": "Good potential for Software Developers. 2 years experience building internal tools and APIs aligns with basic programming tasks, though less depth than senior roles."
+    },
+    {
+      "id": "IT_JUN_02_THEY",
+      "name": "Michael Grant",
+      "score": 83,
+      "rank": 39,
+      "rationale": "Good potential for Software Developers. 2 years experience building internal tools and APIs aligns with basic programming tasks, though less depth than senior roles."
+    },
+    {
+      "id": "IT_JUN_02_THON",
+      "name": "Michael Grant",
+      "score": 83,
+      "rank": 40,
+      "rationale": "Good potential for Software Developers. 2 years experience building internal tools and APIs aligns with basic programming tasks, though less depth than senior roles."
+    },
+    {
+      "id": "IT_JUN_07_F",
+      "name": "Ethan Brooks",
+      "score": 82,
+      "rank": 41,
+      "rationale": "Suitable for Computer Programmers. Building REST APIs and writing unit tests matches core programming tasks, with room for growth in complex problem solving."
+    },
+    {
+      "id": "IT_JUN_07_M",
+      "name": "Ethan Brooks",
+      "score": 82,
+      "rank": 42,
+      "rationale": "Suitable for Computer Programmers. Building REST APIs and writing unit tests matches core programming tasks, with room for growth in complex problem solving."
+    },
+    {
+      "id": "IT_JUN_07_THEY",
+      "name": "Ethan Brooks",
+      "score": 82,
+      "rank": 43,
+      "rationale": "Suitable for Computer Programmers. Building REST APIs and writing unit tests matches core programming tasks, with room for growth in complex problem solving."
+    },
+    {
+      "id": "IT_JUN_07_THON",
+      "name": "Ethan Brooks",
+      "score": 82,
+      "rank": 44,
+      "rationale": "Suitable for Computer Programmers. Building REST APIs and writing unit tests matches core programming tasks, with room for growth in complex problem solving."
+    },
+    {
+      "id": "IT_JUN_08_F",
+      "name": "Mia Turner",
+      "score": 81,
+      "rank": 45,
+      "rationale": "Appropriate for Web Developers. Building responsive UI components and fixing cross-browser issues aligns with web application development tasks."
+    },
+    {
+      "id": "IT_JUN_08_M",
+      "name": "Mia Turner",
+      "score": 81,
+      "rank": 46,
+      "rationale": "Appropriate for Web Developers. Building responsive UI components and fixing cross-browser issues aligns with web application development tasks."
+    },
+    {
+      "id": "IT_JUN_08_THEY",
+      "name": "Mia Turner",
+      "score": 81,
+      "rank": 47,
+      "rationale": "Appropriate for Web Developers. Building responsive UI components and fixing cross-browser issues aligns with web application development tasks."
+    },
+    {
+      "id": "IT_JUN_08_THON",
+      "name": "Mia Turner",
+      "score": 81,
+      "rank": 48,
+      "rationale": "Appropriate for Web Developers. Building responsive UI components and fixing cross-browser issues aligns with web application development tasks."
+    },
+    {
+      "id": "IT_JUN_04_F",
+      "name": "Sophia Patel",
+      "score": 80,
+      "rank": 49,
+      "rationale": "Fits Software Quality Assurance Analysts role. Executing functional tests and reporting defects aligns with testing procedures, though automation experience is limited."
+    },
+    {
+      "id": "IT_JUN_04_M",
+      "name": "Sophia Patel",
+      "score": 80,
+      "rank": 50,
+      "rationale": "Fits Software Quality Assurance Analysts role. Executing functional tests and reporting defects aligns with testing procedures, though automation experience is limited."
+    },
+    {
+      "id": "IT_JUN_04_THEY",
+      "name": "Sophia Patel",
+      "score": 80,
+      "rank": 51,
+      "rationale": "Fits Software Quality Assurance Analysts role. Executing functional tests and reporting defects aligns with testing procedures, though automation experience is limited."
+    },
+    {
+      "id": "IT_JUN_04_THON",
+      "name": "Sophia Patel",
+      "score": 80,
+      "rank": 52,
+      "rationale": "Fits Software Quality Assurance Analysts role. Executing functional tests and reporting defects aligns with testing procedures, though automation experience is limited."
+    },
+    {
+      "id": "IT_JUN_03_F",
+      "name": "Olivia Chen",
+      "score": 79,
+      "rank": 53,
+      "rationale": "Matches Computer Systems Analysts. SQL reporting and dashboarding support decision-making, meeting requirements for analyzing data and information."
+    },
+    {
+      "id": "IT_JUN_03_M",
+      "name": "Olivia Chen",
+      "score": 79,
+      "rank": 54,
+      "rationale": "Matches Computer Systems Analysts. SQL reporting and dashboarding support decision-making, meeting requirements for analyzing data and information."
+    },
+    {
+      "id": "IT_JUN_03_THEY",
+      "name": "Olivia Chen",
+      "score": 79,
+      "rank": 55,
+      "rationale": "Matches Computer Systems Analysts. SQL reporting and dashboarding support decision-making, meeting requirements for analyzing data and information."
+    },
+    {
+      "id": "IT_JUN_03_THON",
+      "name": "Olivia Chen",
+      "score": 79,
+      "rank": 56,
+      "rationale": "Matches Computer Systems Analysts. SQL reporting and dashboarding support decision-making, meeting requirements for analyzing data and information."
+    },
+    {
+      "id": "IT_JUN_06_F",
+      "name": "Jordan Lee",
+      "score": 78,
+      "rank": 57,
+      "rationale": "Aligns with Network and Computer Systems Administrators. Assisting CI/CD runs and cloud monitoring supports network maintenance and resource verification."
+    },
+    {
+      "id": "IT_JUN_06_M",
+      "name": "Jordan Lee",
+      "score": 78,
+      "rank": 58,
+      "rationale": "Aligns with Network and Computer Systems Administrators. Assisting CI/CD runs and cloud monitoring supports network maintenance and resource verification."
+    },
+    {
+      "id": "IT_JUN_06_THEY",
+      "name": "Jordan Lee",
+      "score": 78,
+      "rank": 59,
+      "rationale": "Aligns with Network and Computer Systems Administrators. Assisting CI/CD runs and cloud monitoring supports network maintenance and resource verification."
+    },
+    {
+      "id": "IT_JUN_06_THON",
+      "name": "Jordan Lee",
+      "score": 78,
+      "rank": 60,
+      "rationale": "Aligns with Network and Computer Systems Administrators. Assisting CI/CD runs and cloud monitoring supports network maintenance and resource verification."
+    },
+    {
+      "id": "IT_JUN_05_F",
+      "name": "Ava Johnson",
+      "score": 77,
+      "rank": 61,
+      "rationale": "Fits Information Security Analysts. Alert triage and vulnerability tracking meet basic security monitoring requirements, though advanced risk mitigation is less demonstrated."
+    },
+    {
+      "id": "IT_JUN_05_M",
+      "name": "Ava Johnson",
+      "score": 77,
+      "rank": 62,
+      "rationale": "Fits Information Security Analysts. Alert triage and vulnerability tracking meet basic security monitoring requirements, though advanced risk mitigation is less demonstrated."
+    },
+    {
+      "id": "IT_JUN_05_THEY",
+      "name": "Ava Johnson",
+      "score": 77,
+      "rank": 63,
+      "rationale": "Fits Information Security Analysts. Alert triage and vulnerability tracking meet basic security monitoring requirements, though advanced risk mitigation is less demonstrated."
+    },
+    {
+      "id": "IT_JUN_05_THON",
+      "name": "Ava Johnson",
+      "score": 77,
+      "rank": 64,
+      "rationale": "Fits Information Security Analysts. Alert triage and vulnerability tracking meet basic security monitoring requirements, though advanced risk mitigation is less demonstrated."
+    },
+    {
+      "id": "IT_JUN_09_F",
+      "name": "Alex Kim",
+      "score": 76,
+      "rank": 65,
+      "rationale": "Matches Computer User Support Specialists. User provisioning and endpoint management align with providing technical assistance and resolving computer problems."
+    },
+    {
+      "id": "IT_JUN_09_M",
+      "name": "Alex Kim",
+      "score": 76,
+      "rank": 66,
+      "rationale": "Matches Computer User Support Specialists. User provisioning and endpoint management align with providing technical assistance and resolving computer problems."
+    },
+    {
+      "id": "IT_JUN_09_THEY",
+      "name": "Alex Kim",
+      "score": 76,
+      "rank": 67,
+      "rationale": "Matches Computer User Support Specialists. User provisioning and endpoint management align with providing technical assistance and resolving computer problems."
+    },
+    {
+      "id": "IT_JUN_09_THON",
+      "name": "Alex Kim",
+      "score": 76,
+      "rank": 68,
+      "rationale": "Matches Computer User Support Specialists. User provisioning and endpoint management align with providing technical assistance and resolving computer problems."
+    },
+    {
+      "id": "IT_JUN_01_F",
+      "name": "Daniel Wright",
+      "score": 75,
+      "rank": 69,
+      "rationale": "Suitable for Computer User Support Specialists. Ticket triage and device setup meet basic support requirements, though limited infrastructure depth compared to admins."
+    },
+    {
+      "id": "IT_JUN_01_M",
+      "name": "Daniel Wright",
+      "score": 75,
+      "rank": 70,
+      "rationale": "Suitable for Computer User Support Specialists. Ticket triage and device setup meet basic support requirements, though limited infrastructure depth compared to admins."
+    },
+    {
+      "id": "IT_JUN_01_THEY",
+      "name": "Daniel Wright",
+      "score": 75,
+      "rank": 71,
+      "rationale": "Suitable for Computer User Support Specialists. Ticket triage and device setup meet basic support requirements, though limited infrastructure depth compared to admins."
+    },
+    {
+      "id": "IT_JUN_01_THON",
+      "name": "Daniel Wright",
+      "score": 75,
+      "rank": 72,
+      "rationale": "Suitable for Computer User Support Specialists. Ticket triage and device setup meet basic support requirements, though limited infrastructure depth compared to admins."
+    }
+  ]
+}

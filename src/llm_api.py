@@ -119,26 +119,40 @@ def call_structured_json(
     chosen_temperature = float(settings["temperature"] if temperature is None else temperature)
 
     client = build_client()
+
+    # Build the user message: instructions + JSON schema hint + payload
+    schema_hint = json.dumps(output_schema, ensure_ascii=False, indent=2)
+    user_content = (
+        f"{instructions}\n\n"
+        f"Your output MUST be a single valid JSON object conforming to this schema:\n"
+        f"```json\n{schema_hint}\n```\n\n"
+        f"Input data:\n{json.dumps(payload, ensure_ascii=False)}"
+    )
+
     request_kwargs: Dict[str, Any] = {
         "model": chosen_model,
-        "instructions": instructions,
-        "input": json.dumps(payload, ensure_ascii=False),
-        "text": {
-            "format": {
-                "type": "json_schema",
-                "name": schema_name,
-                "description": schema_description,
-                "schema": output_schema,
-                "strict": True,
-            }
-        },
+        "messages": [
+            {"role": "system", "content": "You are a helpful assistant. Always respond with valid JSON only, no markdown fences, no extra text."},
+            {"role": "user", "content": user_content},
+        ],
         "temperature": chosen_temperature,
     }
     if settings.get("max_output_tokens") is not None:
-        request_kwargs["max_output_tokens"] = settings["max_output_tokens"]
+        request_kwargs["max_tokens"] = settings["max_output_tokens"]
 
-    resp = client.responses.create(**request_kwargs)
-    raw = resp.output_text
+    resp = client.chat.completions.create(**request_kwargs)
+    raw = resp.choices[0].message.content
+
+    # Strip markdown fences if the model wraps output in ```json ... ```
+    if raw and raw.strip().startswith("```"):
+        lines = raw.strip().split("\n")
+        # remove first and last fence lines
+        if lines[0].strip().startswith("```"):
+            lines = lines[1:]
+        if lines and lines[-1].strip() == "```":
+            lines = lines[:-1]
+        raw = "\n".join(lines)
+
     try:
         return json.loads(raw)
     except Exception as ex:

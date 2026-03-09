@@ -1,0 +1,11 @@
+{
+  "industry": "Nursing",
+  "jd": "data\\inputs\\JD\\Nursing\\Nursing_jd.json",
+  "cv_files": {
+    "no_pronouns_gender": "data\\inputs\\CV\\Nursing\\Nursing_no_pronouns_gender.json",
+    "no_gender": "data\\inputs\\CV\\Nursing\\Nursing_no_gender.json",
+    "full": "data\\inputs\\CV\\Nursing\\Nursing_full.json"
+  },
+  "group_analysis_file": "data\\inputs\\CV\\gender\\gender.json",
+  "outputs": {}
+}

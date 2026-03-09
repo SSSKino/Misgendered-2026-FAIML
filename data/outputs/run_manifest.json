@@ -1,0 +1,82 @@
+{
+  "jd_root": "data\\inputs\\JD",
+  "cv_root": "data\\inputs\\CV",
+  "outputs_root": "data\\outputs",
+  "shared_industries": [
+    "Construction",
+    "IT",
+    "Nursing"
+  ],
+  "group_analysis_file": "data\\inputs\\CV\\gender\\gender.json",
+  "runs": [
+    {
+      "industry": "Construction",
+      "jd": "data\\inputs\\JD\\Construction\\onet_construction_jobs.json",
+      "cv_files": {
+        "no_pronouns_gender": "data\\inputs\\CV\\Construction\\Construction_no_pronouns_gender.json",
+        "no_gender": "data\\inputs\\CV\\Construction\\Construction_no_gender.json",
+        "full": "data\\inputs\\CV\\Construction\\Construction_full.json"
+      },
+      "group_analysis_file": "data\\inputs\\CV\\gender\\gender.json",
+      "outputs": {
+        "exp1_borderline": "data\\outputs\\Construction\\onet_construction_jobs\\borderline__Construction__onet_construction_jobs.json",
+        "exp2_strength_1": "data\\outputs\\Construction\\onet_construction_jobs\\strength_test1__Construction__onet_construction_jobs.json",
+        "exp2_strength_2": "data\\outputs\\Construction\\onet_construction_jobs\\strength_test2__Construction__onet_construction_jobs.json",
+        "exp2_strength_3": "data\\outputs\\Construction\\onet_construction_jobs\\strength_test3__Construction__onet_construction_jobs.json",
+        "exp3_policy_gap": "data\\outputs\\Construction\\onet_construction_jobs\\policy_gap__Construction__onet_construction_jobs.json",
+        "gender_analysis_exp1_borderline": "data\\outputs\\Construction\\onet_construction_jobs\\gender_analysis_borderline__Construction__onet_construction_jobs.json",
+        "gender_analysis_exp2_strength_1": "data\\outputs\\Construction\\onet_construction_jobs\\gender_analysis_strength_test1__Construction__onet_construction_jobs.json",
+        "gender_analysis_exp2_strength_2": "data\\outputs\\Construction\\onet_construction_jobs\\gender_analysis_strength_test2__Construction__onet_construction_jobs.json",
+        "gender_analysis_exp2_strength_3": "data\\outputs\\Construction\\onet_construction_jobs\\gender_analysis_strength_test3__Construction__onet_construction_jobs.json",
+        "gender_analysis_exp3_policy_gap": "data\\outputs\\Construction\\onet_construction_jobs\\gender_analysis_policy_gap__Construction__onet_construction_jobs.json",
+        "exp4_alignment_audit": "data\\outputs\\Construction\\onet_construction_jobs\\alignment_audit__Construction__onet_construction_jobs.json"
+      }
+    },
+    {
+      "industry": "IT",
+      "jd": "data\\inputs\\JD\\IT\\onet_it_jobs.json",
+      "cv_files": {
+        "no_pronouns_gender": "data\\inputs\\CV\\IT\\IT_no_pronouns_gender.json",
+        "no_gender": "data\\inputs\\CV\\IT\\IT_no_gender.json",
+        "full": "data\\inputs\\CV\\IT\\IT_full.json"
+      },
+      "group_analysis_file": "data\\inputs\\CV\\gender\\gender.json",
+      "outputs": {
+        "exp1_borderline": "data\\outputs\\IT\\onet_it_jobs\\borderline__IT__onet_it_jobs.json",
+        "exp2_strength_1": "data\\outputs\\IT\\onet_it_jobs\\strength_test1__IT__onet_it_jobs.json",
+        "exp2_strength_2": "data\\outputs\\IT\\onet_it_jobs\\strength_test2__IT__onet_it_jobs.json",
+        "exp2_strength_3": "data\\outputs\\IT\\onet_it_jobs\\strength_test3__IT__onet_it_jobs.json",
+        "exp3_policy_gap": "data\\outputs\\IT\\onet_it_jobs\\policy_gap__IT__onet_it_jobs.json",
+        "gender_analysis_exp1_borderline": "data\\outputs\\IT\\onet_it_jobs\\gender_analysis_borderline__IT__onet_it_jobs.json",
+        "gender_analysis_exp2_strength_1": "data\\outputs\\IT\\onet_it_jobs\\gender_analysis_strength_test1__IT__onet_it_jobs.json",
+        "gender_analysis_exp2_strength_2": "data\\outputs\\IT\\onet_it_jobs\\gender_analysis_strength_test2__IT__onet_it_jobs.json",
+        "gender_analysis_exp2_strength_3": "data\\outputs\\IT\\onet_it_jobs\\gender_analysis_strength_test3__IT__onet_it_jobs.json",
+        "gender_analysis_exp3_policy_gap": "data\\outputs\\IT\\onet_it_jobs\\gender_analysis_policy_gap__IT__onet_it_jobs.json",
+        "exp4_alignment_audit": "data\\outputs\\IT\\onet_it_jobs\\alignment_audit__IT__onet_it_jobs.json"
+      }
+    },
+    {
+      "industry": "Nursing",
+      "jd": "data\\inputs\\JD\\Nursing\\onet_nursing_jobs.json",
+      "cv_files": {
+        "no_pronouns_gender": "data\\inputs\\CV\\Nursing\\Nursing_no_pronouns_gender.json",
+        "no_gender": "data\\inputs\\CV\\Nursing\\Nursing_no_gender.json",
+        "full": "data\\inputs\\CV\\Nursing\\Nursing_full.json"
+      },
+      "group_analysis_file": "data\\inputs\\CV\\gender\\gender.json",
+      "outputs": {
+        "exp1_borderline": "data\\outputs\\Nursing\\onet_nursing_jobs\\borderline__Nursing__onet_nursing_jobs.json",
+        "exp2_strength_1": "data\\outputs\\Nursing\\onet_nursing_jobs\\strength_test1__Nursing__onet_nursing_jobs.json",
+        "exp2_strength_2": "data\\outputs\\Nursing\\onet_nursing_jobs\\strength_test2__Nursing__onet_nursing_jobs.json",
+        "exp2_strength_3": "data\\outputs\\Nursing\\onet_nursing_jobs\\strength_test3__Nursing__onet_nursing_jobs.json",
+        "exp3_policy_gap": "data\\outputs\\Nursing\\onet_nursing_jobs\\policy_gap__Nursing__onet_nursing_jobs.json",
+        "gender_analysis_exp1_borderline": "data\\outputs\\Nursing\\onet_nursing_jobs\\gender_analysis_borderline__Nursing__onet_nursing_jobs.json",
+        "gender_analysis_exp2_strength_1": "data\\outputs\\Nursing\\onet_nursing_jobs\\gender_analysis_strength_test1__Nursing__onet_nursing_jobs.json",
+        "gender_analysis_exp2_strength_2": "data\\outputs\\Nursing\\onet_nursing_jobs\\gender_analysis_strength_test2__Nursing__onet_nursing_jobs.json",
+        "gender_analysis_exp2_strength_3": "data\\outputs\\Nursing\\onet_nursing_jobs\\gender_analysis_strength_test3__Nursing__onet_nursing_jobs.json",
+        "gender_analysis_exp3_policy_gap": "data\\outputs\\Nursing\\onet_nursing_jobs\\gender_analysis_policy_gap__Nursing__onet_nursing_jobs.json",
+        "exp4_alignment_audit": "data\\outputs\\Nursing\\onet_nursing_jobs\\alignment_audit__Nursing__onet_nursing_jobs.json"
+      }
+    }
+  ]
+}

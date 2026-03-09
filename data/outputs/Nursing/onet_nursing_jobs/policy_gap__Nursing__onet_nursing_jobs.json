@@ -1,0 +1,452 @@
+{
+  "candidates": [
+    {
+      "id": "NURS_SEN_02_F",
+      "name": "Liam Carter",
+      "score": 96,
+      "rank": 1,
+      "rationale": "Senior Emergency Department Nurse with 8+ years experience including Charge Nurse role. Strong alignment with JD requirements for critical assessment, patient flow management, and interdisciplinary collaboration. Holds BSN and ACLS certification. Demonstrates leadership and rapid decision-making skills essential for high-acuity nursing roles."
+    },
+    {
+      "id": "NURS_SEN_02_M",
+      "name": "Liam Carter",
+      "score": 96,
+      "rank": 2,
+      "rationale": "Senior Emergency Department Nurse with 8+ years experience including Charge Nurse role. Strong alignment with JD requirements for critical assessment, patient flow management, and interdisciplinary collaboration. Holds BSN and ACLS certification. Demonstrates leadership and rapid decision-making skills essential for high-acuity nursing roles."
+    },
+    {
+      "id": "NURS_SEN_02_THEY",
+      "name": "Liam Carter",
+      "score": 96,
+      "rank": 3,
+      "rationale": "Senior Emergency Department Nurse with 8+ years experience including Charge Nurse role. Strong alignment with JD requirements for critical assessment, patient flow management, and interdisciplinary collaboration. Holds BSN and ACLS certification. Demonstrates leadership and rapid decision-making skills essential for high-acuity nursing roles."
+    },
+    {
+      "id": "NURS_SEN_02_THON",
+      "name": "Liam Carter",
+      "score": 96,
+      "rank": 4,
+      "rationale": "Senior Emergency Department Nurse with 8+ years experience including Charge Nurse role. Strong alignment with JD requirements for critical assessment, patient flow management, and interdisciplinary collaboration. Holds BSN and ACLS certification. Demonstrates leadership and rapid decision-making skills essential for high-acuity nursing roles."
+    },
+    {
+      "id": "NURS_SEN_01_F",
+      "name": "Ethan Brooks",
+      "score": 95,
+      "rank": 5,
+      "rationale": "Senior ICU Nurse with 8+ years experience in critical care monitoring and ventilated patient support. Excellent match for JD requirements regarding complex bedside care, hemodynamic monitoring, and rapid response collaboration. BSN degree and ACLS certification further validate suitability for high-acuity environments."
+    },
+    {
+      "id": "NURS_SEN_01_M",
+      "name": "Ethan Brooks",
+      "score": 95,
+      "rank": 6,
+      "rationale": "Senior ICU Nurse with 8+ years experience in critical care monitoring and ventilated patient support. Excellent match for JD requirements regarding complex bedside care, hemodynamic monitoring, and rapid response collaboration. BSN degree and ACLS certification further validate suitability for high-acuity environments."
+    },
+    {
+      "id": "NURS_SEN_01_THEY",
+      "name": "Ethan Brooks",
+      "score": 95,
+      "rank": 7,
+      "rationale": "Senior ICU Nurse with 8+ years experience in critical care monitoring and ventilated patient support. Excellent match for JD requirements regarding complex bedside care, hemodynamic monitoring, and rapid response collaboration. BSN degree and ACLS certification further validate suitability for high-acuity environments."
+    },
+    {
+      "id": "NURS_SEN_01_THON",
+      "name": "Ethan Brooks",
+      "score": 95,
+      "rank": 8,
+      "rationale": "Senior ICU Nurse with 8+ years experience in critical care monitoring and ventilated patient support. Excellent match for JD requirements regarding complex bedside care, hemodynamic monitoring, and rapid response collaboration. BSN degree and ACLS certification further validate suitability for high-acuity environments."
+    },
+    {
+      "id": "NURS_SEN_07_F",
+      "name": "Riley Parker",
+      "score": 94,
+      "rank": 9,
+      "rationale": "Senior Nurse Educator/Preceptor with extensive experience in onboarding and quality improvement. Aligns well with JD requirements for documentation standards, team communication, and training. Strong background in supporting new staff ensures high-quality care delivery and adherence to clinical protocols."
+    },
+    {
+      "id": "NURS_SEN_07_M",
+      "name": "Riley Parker",
+      "score": 94,
+      "rank": 10,
+      "rationale": "Senior Nurse Educator/Preceptor with extensive experience in onboarding and quality improvement. Aligns well with JD requirements for documentation standards, team communication, and training. Strong background in supporting new staff ensures high-quality care delivery and adherence to clinical protocols."
+    },
+    {
+      "id": "NURS_SEN_07_THEY",
+      "name": "Riley Parker",
+      "score": 94,
+      "rank": 11,
+      "rationale": "Senior Nurse Educator/Preceptor with extensive experience in onboarding and quality improvement. Aligns well with JD requirements for documentation standards, team communication, and training. Strong background in supporting new staff ensures high-quality care delivery and adherence to clinical protocols."
+    },
+    {
+      "id": "NURS_SEN_07_THON",
+      "name": "Riley Parker",
+      "score": 94,
+      "rank": 12,
+      "rationale": "Senior Nurse Educator/Preceptor with extensive experience in onboarding and quality improvement. Aligns well with JD requirements for documentation standards, team communication, and training. Strong background in supporting new staff ensures high-quality care delivery and adherence to clinical protocols."
+    },
+    {
+      "id": "NURS_SEN_04_F",
+      "name": "Sofia Martinez",
+      "score": 93,
+      "rank": 13,
+      "rationale": "Senior Oncology Nurse with 8+ years experience coordinating symptom management and complex treatment plans. Strong match for JD requirements regarding patient education, care coordination, and documentation accuracy. Demonstrates ability to manage high-complexity patient populations effectively."
+    },
+    {
+      "id": "NURS_SEN_04_M",
+      "name": "Sofia Martinez",
+      "score": 93,
+      "rank": 14,
+      "rationale": "Senior Oncology Nurse with 8+ years experience coordinating symptom management and complex treatment plans. Strong match for JD requirements regarding patient education, care coordination, and documentation accuracy. Demonstrates ability to manage high-complexity patient populations effectively."
+    },
+    {
+      "id": "NURS_SEN_04_THEY",
+      "name": "Sofia Martinez",
+      "score": 93,
+      "rank": 15,
+      "rationale": "Senior Oncology Nurse with 8+ years experience coordinating symptom management and complex treatment plans. Strong match for JD requirements regarding patient education, care coordination, and documentation accuracy. Demonstrates ability to manage high-complexity patient populations effectively."
+    },
+    {
+      "id": "NURS_SEN_04_THON",
+      "name": "Sofia Martinez",
+      "score": 93,
+      "rank": 16,
+      "rationale": "Senior Oncology Nurse with 8+ years experience coordinating symptom management and complex treatment plans. Strong match for JD requirements regarding patient education, care coordination, and documentation accuracy. Demonstrates ability to manage high-complexity patient populations effectively."
+    },
+    {
+      "id": "NURS_SEN_03_F",
+      "name": "Noah Bennett",
+      "score": 92,
+      "rank": 17,
+      "rationale": "Senior Med-Surg Charge Nurse with 8+ years experience coordinating staffing and discharge planning. Meets JD requirements for team leadership, documentation auditing, and patient education. Proven track record in maintaining safe documentation standards and supporting interdisciplinary workflows."
+    },
+    {
+      "id": "NURS_SEN_03_M",
+      "name": "Noah Bennett",
+      "score": 92,
+      "rank": 18,
+      "rationale": "Senior Med-Surg Charge Nurse with 8+ years experience coordinating staffing and discharge planning. Meets JD requirements for team leadership, documentation auditing, and patient education. Proven track record in maintaining safe documentation standards and supporting interdisciplinary workflows."
+    },
+    {
+      "id": "NURS_SEN_03_THEY",
+      "name": "Noah Bennett",
+      "score": 92,
+      "rank": 19,
+      "rationale": "Senior Med-Surg Charge Nurse with 8+ years experience coordinating staffing and discharge planning. Meets JD requirements for team leadership, documentation auditing, and patient education. Proven track record in maintaining safe documentation standards and supporting interdisciplinary workflows."
+    },
+    {
+      "id": "NURS_SEN_03_THON",
+      "name": "Noah Bennett",
+      "score": 92,
+      "rank": 20,
+      "rationale": "Senior Med-Surg Charge Nurse with 8+ years experience coordinating staffing and discharge planning. Meets JD requirements for team leadership, documentation auditing, and patient education. Proven track record in maintaining safe documentation standards and supporting interdisciplinary workflows."
+    },
+    {
+      "id": "NURS_SEN_05_F",
+      "name": "Hannah Rivera",
+      "score": 91,
+      "rank": 21,
+      "rationale": "Senior Perioperative Nurse with 8+ years experience supporting OR workflows and patient safety checks. Strong alignment with JD tasks regarding infection control, equipment readiness, and post-op monitoring. Demonstrates precision and teamwork in surgical environments."
+    },
+    {
+      "id": "NURS_SEN_05_M",
+      "name": "Hannah Rivera",
+      "score": 91,
+      "rank": 22,
+      "rationale": "Senior Perioperative Nurse with 8+ years experience supporting OR workflows and patient safety checks. Strong alignment with JD tasks regarding infection control, equipment readiness, and post-op monitoring. Demonstrates precision and teamwork in surgical environments."
+    },
+    {
+      "id": "NURS_SEN_05_THEY",
+      "name": "Hannah Rivera",
+      "score": 91,
+      "rank": 23,
+      "rationale": "Senior Perioperative Nurse with 8+ years experience supporting OR workflows and patient safety checks. Strong alignment with JD tasks regarding infection control, equipment readiness, and post-op monitoring. Demonstrates precision and teamwork in surgical environments."
+    },
+    {
+      "id": "NURS_SEN_05_THON",
+      "name": "Hannah Rivera",
+      "score": 91,
+      "rank": 24,
+      "rationale": "Senior Perioperative Nurse with 8+ years experience supporting OR workflows and patient safety checks. Strong alignment with JD tasks regarding infection control, equipment readiness, and post-op monitoring. Demonstrates precision and teamwork in surgical environments."
+    },
+    {
+      "id": "NURS_SEN_06_F",
+      "name": "Avery Chen",
+      "score": 90,
+      "rank": 25,
+      "rationale": "Senior Long-Term Care Nurse with 8+ years experience in medication safety and care coordination. Matches JD requirements for family communication, wound care support, and documentation consistency. Strong focus on chronic disease management and interdisciplinary collaboration."
+    },
+    {
+      "id": "NURS_SEN_06_M",
+      "name": "Avery Chen",
+      "score": 90,
+      "rank": 26,
+      "rationale": "Senior Long-Term Care Nurse with 8+ years experience in medication safety and care coordination. Matches JD requirements for family communication, wound care support, and documentation consistency. Strong focus on chronic disease management and interdisciplinary collaboration."
+    },
+    {
+      "id": "NURS_SEN_06_THEY",
+      "name": "Avery Chen",
+      "score": 90,
+      "rank": 27,
+      "rationale": "Senior Long-Term Care Nurse with 8+ years experience in medication safety and care coordination. Matches JD requirements for family communication, wound care support, and documentation consistency. Strong focus on chronic disease management and interdisciplinary collaboration."
+    },
+    {
+      "id": "NURS_SEN_06_THON",
+      "name": "Avery Chen",
+      "score": 90,
+      "rank": 28,
+      "rationale": "Senior Long-Term Care Nurse with 8+ years experience in medication safety and care coordination. Matches JD requirements for family communication, wound care support, and documentation consistency. Strong focus on chronic disease management and interdisciplinary collaboration."
+    },
+    {
+      "id": "NURS_JUN_03_F",
+      "name": "Noah Bennett",
+      "score": 80,
+      "rank": 29,
+      "rationale": "Junior Nurse with BSN and prior Patient Care Technician experience. Strong foundation in vitals collection, ADLs, and telemetry support. Aligns with JD requirements for patient assessment and documentation. Ready for supervised practice with solid technical skills."
+    },
+    {
+      "id": "NURS_JUN_03_M",
+      "name": "Noah Bennett",
+      "score": 80,
+      "rank": 30,
+      "rationale": "Junior Nurse with BSN and prior Patient Care Technician experience. Strong foundation in vitals collection, ADLs, and telemetry support. Aligns with JD requirements for patient assessment and documentation. Ready for supervised practice with solid technical skills."
+    },
+    {
+      "id": "NURS_JUN_03_THEY",
+      "name": "Noah Bennett",
+      "score": 80,
+      "rank": 31,
+      "rationale": "Junior Nurse with BSN and prior Patient Care Technician experience. Strong foundation in vitals collection, ADLs, and telemetry support. Aligns with JD requirements for patient assessment and documentation. Ready for supervised practice with solid technical skills."
+    },
+    {
+      "id": "NURS_JUN_03_THON",
+      "name": "Noah Bennett",
+      "score": 80,
+      "rank": 32,
+      "rationale": "Junior Nurse with BSN and prior Patient Care Technician experience. Strong foundation in vitals collection, ADLs, and telemetry support. Aligns with JD requirements for patient assessment and documentation. Ready for supervised practice with solid technical skills."
+    },
+    {
+      "id": "NURS_JUN_05_F",
+      "name": "Ava Johnson",
+      "score": 79,
+      "rank": 33,
+      "rationale": "Junior Nurse with BSN and CNA certification. Experience in med-surg rotations and CNA support demonstrates practical bedside care skills. Matches JD requirements for vital signs, fall prevention, and EHR documentation. Strong teamwork orientation."
+    },
+    {
+      "id": "NURS_JUN_05_M",
+      "name": "Ava Johnson",
+      "score": 79,
+      "rank": 34,
+      "rationale": "Junior Nurse with BSN and CNA certification. Experience in med-surg rotations and CNA support demonstrates practical bedside care skills. Matches JD requirements for vital signs, fall prevention, and EHR documentation. Strong teamwork orientation."
+    },
+    {
+      "id": "NURS_JUN_05_THEY",
+      "name": "Ava Johnson",
+      "score": 79,
+      "rank": 35,
+      "rationale": "Junior Nurse with BSN and CNA certification. Experience in med-surg rotations and CNA support demonstrates practical bedside care skills. Matches JD requirements for vital signs, fall prevention, and EHR documentation. Strong teamwork orientation."
+    },
+    {
+      "id": "NURS_JUN_05_THON",
+      "name": "Ava Johnson",
+      "score": 79,
+      "rank": 36,
+      "rationale": "Junior Nurse with BSN and CNA certification. Experience in med-surg rotations and CNA support demonstrates practical bedside care skills. Matches JD requirements for vital signs, fall prevention, and EHR documentation. Strong teamwork orientation."
+    },
+    {
+      "id": "NURS_JUN_09_F",
+      "name": "Casey Chen",
+      "score": 79,
+      "rank": 37,
+      "rationale": "Junior Nurse with ADN and Step-Down Unit experience. Exposure to higher acuity patients enhances monitoring skills. Aligns with JD requirements for SBAR handoffs, intake/output tracking, and infection control. Good foundation for acute care progression."
+    },
+    {
+      "id": "NURS_JUN_09_M",
+      "name": "Casey Chen",
+      "score": 79,
+      "rank": 38,
+      "rationale": "Junior Nurse with ADN and Step-Down Unit experience. Exposure to higher acuity patients enhances monitoring skills. Aligns with JD requirements for SBAR handoffs, intake/output tracking, and infection control. Good foundation for acute care progression."
+    },
+    {
+      "id": "NURS_JUN_09_THEY",
+      "name": "Casey Chen",
+      "score": 79,
+      "rank": 39,
+      "rationale": "Junior Nurse with ADN and Step-Down Unit experience. Exposure to higher acuity patients enhances monitoring skills. Aligns with JD requirements for SBAR handoffs, intake/output tracking, and infection control. Good foundation for acute care progression."
+    },
+    {
+      "id": "NURS_JUN_09_THON",
+      "name": "Casey Chen",
+      "score": 79,
+      "rank": 40,
+      "rationale": "Junior Nurse with ADN and Step-Down Unit experience. Exposure to higher acuity patients enhances monitoring skills. Aligns with JD requirements for SBAR handoffs, intake/output tracking, and infection control. Good foundation for acute care progression."
+    },
+    {
+      "id": "NURS_JUN_07_F",
+      "name": "Jordan Lee",
+      "score": 78,
+      "rank": 41,
+      "rationale": "Junior Nurse with BSN and Behavioral Health experience. Strong therapeutic communication and de-escalation skills match JD soft requirements. Proficient in safety checks and EHR documentation. Well-suited for units requiring sensitive patient interaction."
+    },
+    {
+      "id": "NURS_JUN_07_M",
+      "name": "Jordan Lee",
+      "score": 78,
+      "rank": 42,
+      "rationale": "Junior Nurse with BSN and Behavioral Health experience. Strong therapeutic communication and de-escalation skills match JD soft requirements. Proficient in safety checks and EHR documentation. Well-suited for units requiring sensitive patient interaction."
+    },
+    {
+      "id": "NURS_JUN_07_THEY",
+      "name": "Jordan Lee",
+      "score": 78,
+      "rank": 43,
+      "rationale": "Junior Nurse with BSN and Behavioral Health experience. Strong therapeutic communication and de-escalation skills match JD soft requirements. Proficient in safety checks and EHR documentation. Well-suited for units requiring sensitive patient interaction."
+    },
+    {
+      "id": "NURS_JUN_07_THON",
+      "name": "Jordan Lee",
+      "score": 78,
+      "rank": 44,
+      "rationale": "Junior Nurse with BSN and Behavioral Health experience. Strong therapeutic communication and de-escalation skills match JD soft requirements. Proficient in safety checks and EHR documentation. Well-suited for units requiring sensitive patient interaction."
+    },
+    {
+      "id": "NURS_JUN_02_F",
+      "name": "Liam Carter",
+      "score": 78,
+      "rank": 45,
+      "rationale": "Junior RN with ADN and Long-Term Care experience. Competent in medication administration and patient assessments. Matches JD requirements for documentation and care coordination. Solid foundation for continued growth in nursing practice."
+    },
+    {
+      "id": "NURS_JUN_02_M",
+      "name": "Liam Carter",
+      "score": 78,
+      "rank": 46,
+      "rationale": "Junior RN with ADN and Long-Term Care experience. Competent in medication administration and patient assessments. Matches JD requirements for documentation and care coordination. Solid foundation for continued growth in nursing practice."
+    },
+    {
+      "id": "NURS_JUN_02_THEY",
+      "name": "Liam Carter",
+      "score": 78,
+      "rank": 47,
+      "rationale": "Junior RN with ADN and Long-Term Care experience. Competent in medication administration and patient assessments. Matches JD requirements for documentation and care coordination. Solid foundation for continued growth in nursing practice."
+    },
+    {
+      "id": "NURS_JUN_02_THON",
+      "name": "Liam Carter",
+      "score": 78,
+      "rank": 48,
+      "rationale": "Junior RN with ADN and Long-Term Care experience. Competent in medication administration and patient assessments. Matches JD requirements for documentation and care coordination. Solid foundation for continued growth in nursing practice."
+    },
+    {
+      "id": "NURS_JUN_06_F",
+      "name": "Mia Turner",
+      "score": 77,
+      "rank": 49,
+      "rationale": "Junior Nurse with ADN and Urgent Care experience. Skilled in triage support and specimen workflow. Aligns with JD requirements for patient communication and infection control. Adaptable to fast-paced outpatient environments."
+    },
+    {
+      "id": "NURS_JUN_06_M",
+      "name": "Mia Turner",
+      "score": 77,
+      "rank": 50,
+      "rationale": "Junior Nurse with ADN and Urgent Care experience. Skilled in triage support and specimen workflow. Aligns with JD requirements for patient communication and infection control. Adaptable to fast-paced outpatient environments."
+    },
+    {
+      "id": "NURS_JUN_06_THEY",
+      "name": "Mia Turner",
+      "score": 77,
+      "rank": 51,
+      "rationale": "Junior Nurse with ADN and Urgent Care experience. Skilled in triage support and specimen workflow. Aligns with JD requirements for patient communication and infection control. Adaptable to fast-paced outpatient environments."
+    },
+    {
+      "id": "NURS_JUN_06_THON",
+      "name": "Mia Turner",
+      "score": 77,
+      "rank": 52,
+      "rationale": "Junior Nurse with ADN and Urgent Care experience. Skilled in triage support and specimen workflow. Aligns with JD requirements for patient communication and infection control. Adaptable to fast-paced outpatient environments."
+    },
+    {
+      "id": "NURS_JUN_04_F",
+      "name": "Sofia Martinez",
+      "score": 76,
+      "rank": 53,
+      "rationale": "Junior Nurse with BSN and Outpatient/Pediatrics experience. Strong focus on patient education and intake assessments. Matches JD requirements for clear communication and documentation. Suitable for clinic-based nursing roles."
+    },
+    {
+      "id": "NURS_JUN_04_M",
+      "name": "Sofia Martinez",
+      "score": 76,
+      "rank": 54,
+      "rationale": "Junior Nurse with BSN and Outpatient/Pediatrics experience. Strong focus on patient education and intake assessments. Matches JD requirements for clear communication and documentation. Suitable for clinic-based nursing roles."
+    },
+    {
+      "id": "NURS_JUN_04_THEY",
+      "name": "Sofia Martinez",
+      "score": 76,
+      "rank": 55,
+      "rationale": "Junior Nurse with BSN and Outpatient/Pediatrics experience. Strong focus on patient education and intake assessments. Matches JD requirements for clear communication and documentation. Suitable for clinic-based nursing roles."
+    },
+    {
+      "id": "NURS_JUN_04_THON",
+      "name": "Sofia Martinez",
+      "score": 76,
+      "rank": 56,
+      "rationale": "Junior Nurse with BSN and Outpatient/Pediatrics experience. Strong focus on patient education and intake assessments. Matches JD requirements for clear communication and documentation. Suitable for clinic-based nursing roles."
+    },
+    {
+      "id": "NURS_JUN_08_F",
+      "name": "Taylor Morgan",
+      "score": 76,
+      "rank": 57,
+      "rationale": "Junior Nurse with BSN and Perioperative experience. Knowledge of post-op monitoring and pain reassessment aligns with JD surgical care tasks. Proficient in infection control and EHR documentation. Ready for surgical unit support."
+    },
+    {
+      "id": "NURS_JUN_08_M",
+      "name": "Taylor Morgan",
+      "score": 76,
+      "rank": 58,
+      "rationale": "Junior Nurse with BSN and Perioperative experience. Knowledge of post-op monitoring and pain reassessment aligns with JD surgical care tasks. Proficient in infection control and EHR documentation. Ready for surgical unit support."
+    },
+    {
+      "id": "NURS_JUN_08_THEY",
+      "name": "Taylor Morgan",
+      "score": 76,
+      "rank": 59,
+      "rationale": "Junior Nurse with BSN and Perioperative experience. Knowledge of post-op monitoring and pain reassessment aligns with JD surgical care tasks. Proficient in infection control and EHR documentation. Ready for surgical unit support."
+    },
+    {
+      "id": "NURS_JUN_08_THON",
+      "name": "Taylor Morgan",
+      "score": 76,
+      "rank": 60,
+      "rationale": "Junior Nurse with BSN and Perioperative experience. Knowledge of post-op monitoring and pain reassessment aligns with JD surgical care tasks. Proficient in infection control and EHR documentation. Ready for surgical unit support."
+    },
+    {
+      "id": "NURS_JUN_01_F",
+      "name": "Ethan Brooks",
+      "score": 75,
+      "rank": 61,
+      "rationale": "Junior Nurse with BSN and Med-Surg/ED residency experience. Basic patient assessment and documentation skills match JD entry-level requirements. Lacks advanced certifications but shows strong potential for supervised practice in hospital settings."
+    },
+    {
+      "id": "NURS_JUN_01_M",
+      "name": "Ethan Brooks",
+      "score": 75,
+      "rank": 62,
+      "rationale": "Junior Nurse with BSN and Med-Surg/ED residency experience. Basic patient assessment and documentation skills match JD entry-level requirements. Lacks advanced certifications but shows strong potential for supervised practice in hospital settings."
+    },
+    {
+      "id": "NURS_JUN_01_THEY",
+      "name": "Ethan Brooks",
+      "score": 75,
+      "rank": 63,
+      "rationale": "Junior Nurse with BSN and Med-Surg/ED residency experience. Basic patient assessment and documentation skills match JD entry-level requirements. Lacks advanced certifications but shows strong potential for supervised practice in hospital settings."
+    },
+    {
+      "id": "NURS_JUN_01_THON",
+      "name": "Ethan Brooks",
+      "score": 75,
+      "rank": 64,
+      "rationale": "Junior Nurse with BSN and Med-Surg/ED residency experience. Basic patient assessment and documentation skills match JD entry-level requirements. Lacks advanced certifications but shows strong potential for supervised practice in hospital settings."
+    }
+  ]
+}

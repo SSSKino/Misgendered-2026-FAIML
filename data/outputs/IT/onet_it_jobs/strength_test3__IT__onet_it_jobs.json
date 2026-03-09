@@ -1,0 +1,508 @@
+{
+  "candidates": [
+    {
+      "id": "IT_SEN_01_F",
+      "name": "Daniel Wright",
+      "score": 95,
+      "rank": 1,
+      "rationale": "Excellent match for IT Systems Administrator/Manager roles in JD. Holds Bachelor's degree, 9+ years experience, and CompTIA Network+ certification. Strong alignment with 'Computer and Information Systems Managers' and 'Network and Computer Systems Administrators' tasks including troubleshooting, identity management, and documentation."
+    },
+    {
+      "id": "IT_SEN_01_M",
+      "name": "Daniel Wright",
+      "score": 95,
+      "rank": 2,
+      "rationale": "Excellent match for IT Systems Administrator/Manager roles in JD. Holds Bachelor's degree, 9+ years experience, and CompTIA Network+ certification. Strong alignment with 'Computer and Information Systems Managers' and 'Network and Computer Systems Administrators' tasks including troubleshooting, identity management, and documentation."
+    },
+    {
+      "id": "IT_SEN_01_THEY",
+      "name": "Daniel Wright",
+      "score": 95,
+      "rank": 3,
+      "rationale": "Excellent match for IT Systems Administrator/Manager roles in JD. Holds Bachelor's degree, 9+ years experience, and CompTIA Network+ certification. Strong alignment with 'Computer and Information Systems Managers' and 'Network and Computer Systems Administrators' tasks including troubleshooting, identity management, and documentation."
+    },
+    {
+      "id": "IT_SEN_01_THON",
+      "name": "Daniel Wright",
+      "score": 95,
+      "rank": 4,
+      "rationale": "Excellent match for IT Systems Administrator/Manager roles in JD. Holds Bachelor's degree, 9+ years experience, and CompTIA Network+ certification. Strong alignment with 'Computer and Information Systems Managers' and 'Network and Computer Systems Administrators' tasks including troubleshooting, identity management, and documentation."
+    },
+    {
+      "id": "IT_SEN_03_F",
+      "name": "Ethan Brooks",
+      "score": 95,
+      "rank": 5,
+      "rationale": "Strong fit for Information Security Analysts role. 9+ years experience, Bachelor's degree, and Security+ certification. Directly addresses JD requirements for alert triage, incident documentation, and vulnerability tracking with proven enterprise environment experience."
+    },
+    {
+      "id": "IT_SEN_03_M",
+      "name": "Ethan Brooks",
+      "score": 95,
+      "rank": 6,
+      "rationale": "Strong fit for Information Security Analysts role. 9+ years experience, Bachelor's degree, and Security+ certification. Directly addresses JD requirements for alert triage, incident documentation, and vulnerability tracking with proven enterprise environment experience."
+    },
+    {
+      "id": "IT_SEN_03_THEY",
+      "name": "Ethan Brooks",
+      "score": 95,
+      "rank": 7,
+      "rationale": "Strong fit for Information Security Analysts role. 9+ years experience, Bachelor's degree, and Security+ certification. Directly addresses JD requirements for alert triage, incident documentation, and vulnerability tracking with proven enterprise environment experience."
+    },
+    {
+      "id": "IT_SEN_03_THON",
+      "name": "Ethan Brooks",
+      "score": 95,
+      "rank": 8,
+      "rationale": "Strong fit for Information Security Analysts role. 9+ years experience, Bachelor's degree, and Security+ certification. Directly addresses JD requirements for alert triage, incident documentation, and vulnerability tracking with proven enterprise environment experience."
+    },
+    {
+      "id": "IT_SEN_08_F",
+      "name": "Sam Morgan",
+      "score": 95,
+      "rank": 9,
+      "rationale": "Ideal for Computer Network Architects or Cloud Solutions roles. 9+ years experience, Bachelor's degree, and AWS Solutions Architect certification. Meets JD requirements for cloud architecture design, security measures, and stakeholder communication effectively."
+    },
+    {
+      "id": "IT_SEN_08_M",
+      "name": "Sam Morgan",
+      "score": 95,
+      "rank": 10,
+      "rationale": "Ideal for Computer Network Architects or Cloud Solutions roles. 9+ years experience, Bachelor's degree, and AWS Solutions Architect certification. Meets JD requirements for cloud architecture design, security measures, and stakeholder communication effectively."
+    },
+    {
+      "id": "IT_SEN_08_THEY",
+      "name": "Sam Morgan",
+      "score": 95,
+      "rank": 11,
+      "rationale": "Ideal for Computer Network Architects or Cloud Solutions roles. 9+ years experience, Bachelor's degree, and AWS Solutions Architect certification. Meets JD requirements for cloud architecture design, security measures, and stakeholder communication effectively."
+    },
+    {
+      "id": "IT_SEN_08_THON",
+      "name": "Sam Morgan",
+      "score": 95,
+      "rank": 12,
+      "rationale": "Ideal for Computer Network Architects or Cloud Solutions roles. 9+ years experience, Bachelor's degree, and AWS Solutions Architect certification. Meets JD requirements for cloud architecture design, security measures, and stakeholder communication effectively."
+    },
+    {
+      "id": "IT_SEN_06_F",
+      "name": "Jordan Lee",
+      "score": 90,
+      "rank": 13,
+      "rationale": "Good match for Network and Computer Systems Administrators. 8+ years experience, Bachelor's degree. Strong CI/CD and monitoring skills align with JD tasks for system maintenance and performance analysis. Lacks specific certifications but experience compensates."
+    },
+    {
+      "id": "IT_SEN_06_M",
+      "name": "Jordan Lee",
+      "score": 90,
+      "rank": 14,
+      "rationale": "Good match for Network and Computer Systems Administrators. 8+ years experience, Bachelor's degree. Strong CI/CD and monitoring skills align with JD tasks for system maintenance and performance analysis. Lacks specific certifications but experience compensates."
+    },
+    {
+      "id": "IT_SEN_06_THEY",
+      "name": "Jordan Lee",
+      "score": 90,
+      "rank": 15,
+      "rationale": "Good match for Network and Computer Systems Administrators. 8+ years experience, Bachelor's degree. Strong CI/CD and monitoring skills align with JD tasks for system maintenance and performance analysis. Lacks specific certifications but experience compensates."
+    },
+    {
+      "id": "IT_SEN_06_THON",
+      "name": "Jordan Lee",
+      "score": 90,
+      "rank": 16,
+      "rationale": "Good match for Network and Computer Systems Administrators. 8+ years experience, Bachelor's degree. Strong CI/CD and monitoring skills align with JD tasks for system maintenance and performance analysis. Lacks specific certifications but experience compensates."
+    },
+    {
+      "id": "IT_SEN_05_F",
+      "name": "Mia Turner",
+      "score": 90,
+      "rank": 17,
+      "rationale": "Solid match for Database Administrators or Data Warehousing Specialists. 8+ years experience, Bachelor's degree. Strong SQL and dashboarding skills align with JD data analysis tasks. Good stakeholder communication meets management requirements."
+    },
+    {
+      "id": "IT_SEN_05_M",
+      "name": "Mia Turner",
+      "score": 90,
+      "rank": 18,
+      "rationale": "Solid match for Database Administrators or Data Warehousing Specialists. 8+ years experience, Bachelor's degree. Strong SQL and dashboarding skills align with JD data analysis tasks. Good stakeholder communication meets management requirements."
+    },
+    {
+      "id": "IT_SEN_05_THEY",
+      "name": "Mia Turner",
+      "score": 90,
+      "rank": 19,
+      "rationale": "Solid match for Database Administrators or Data Warehousing Specialists. 8+ years experience, Bachelor's degree. Strong SQL and dashboarding skills align with JD data analysis tasks. Good stakeholder communication meets management requirements."
+    },
+    {
+      "id": "IT_SEN_05_THON",
+      "name": "Mia Turner",
+      "score": 90,
+      "rank": 20,
+      "rationale": "Solid match for Database Administrators or Data Warehousing Specialists. 8+ years experience, Bachelor's degree. Strong SQL and dashboarding skills align with JD data analysis tasks. Good stakeholder communication meets management requirements."
+    },
+    {
+      "id": "IT_SEN_02_F",
+      "name": "Michael Grant",
+      "score": 90,
+      "rank": 21,
+      "rationale": "Strong fit for Software Developers role. 8+ years experience, Bachelor's degree. Proficient in Python and REST APIs, meeting JD technical skills. Demonstrates problem-solving and critical thinking abilities required for complex development tasks."
+    },
+    {
+      "id": "IT_SEN_02_M",
+      "name": "Michael Grant",
+      "score": 90,
+      "rank": 22,
+      "rationale": "Strong fit for Software Developers role. 8+ years experience, Bachelor's degree. Proficient in Python and REST APIs, meeting JD technical skills. Demonstrates problem-solving and critical thinking abilities required for complex development tasks."
+    },
+    {
+      "id": "IT_SEN_02_THEY",
+      "name": "Michael Grant",
+      "score": 90,
+      "rank": 23,
+      "rationale": "Strong fit for Software Developers role. 8+ years experience, Bachelor's degree. Proficient in Python and REST APIs, meeting JD technical skills. Demonstrates problem-solving and critical thinking abilities required for complex development tasks."
+    },
+    {
+      "id": "IT_SEN_02_THON",
+      "name": "Michael Grant",
+      "score": 90,
+      "rank": 24,
+      "rationale": "Strong fit for Software Developers role. 8+ years experience, Bachelor's degree. Proficient in Python and REST APIs, meeting JD technical skills. Demonstrates problem-solving and critical thinking abilities required for complex development tasks."
+    },
+    {
+      "id": "IT_SEN_07_F",
+      "name": "Olivia Chen",
+      "score": 90,
+      "rank": 25,
+      "rationale": "Excellent fit for Computer Systems Analysts. 8+ years experience, Bachelor's degree. Expertise in KPI frameworks and analytics directly supports JD tasks for analyzing data and developing strategies. Strong communication skills aid in consulting with management."
+    },
+    {
+      "id": "IT_SEN_07_M",
+      "name": "Olivia Chen",
+      "score": 90,
+      "rank": 26,
+      "rationale": "Excellent fit for Computer Systems Analysts. 8+ years experience, Bachelor's degree. Expertise in KPI frameworks and analytics directly supports JD tasks for analyzing data and developing strategies. Strong communication skills aid in consulting with management."
+    },
+    {
+      "id": "IT_SEN_07_THEY",
+      "name": "Olivia Chen",
+      "score": 90,
+      "rank": 27,
+      "rationale": "Excellent fit for Computer Systems Analysts. 8+ years experience, Bachelor's degree. Expertise in KPI frameworks and analytics directly supports JD tasks for analyzing data and developing strategies. Strong communication skills aid in consulting with management."
+    },
+    {
+      "id": "IT_SEN_07_THON",
+      "name": "Olivia Chen",
+      "score": 90,
+      "rank": 28,
+      "rationale": "Excellent fit for Computer Systems Analysts. 8+ years experience, Bachelor's degree. Expertise in KPI frameworks and analytics directly supports JD tasks for analyzing data and developing strategies. Strong communication skills aid in consulting with management."
+    },
+    {
+      "id": "IT_SEN_04_F",
+      "name": "Sophia Patel",
+      "score": 90,
+      "rank": 29,
+      "rationale": "Strong match for Software Quality Assurance Analysts. 8+ years experience, Bachelor's degree. Automation testing expertise aligns with JD quality control tasks. Proven ability to reduce defect rates meets JD requirements for system reliability."
+    },
+    {
+      "id": "IT_SEN_04_M",
+      "name": "Sophia Patel",
+      "score": 90,
+      "rank": 30,
+      "rationale": "Strong match for Software Quality Assurance Analysts. 8+ years experience, Bachelor's degree. Automation testing expertise aligns with JD quality control tasks. Proven ability to reduce defect rates meets JD requirements for system reliability."
+    },
+    {
+      "id": "IT_SEN_04_THEY",
+      "name": "Sophia Patel",
+      "score": 90,
+      "rank": 31,
+      "rationale": "Strong match for Software Quality Assurance Analysts. 8+ years experience, Bachelor's degree. Automation testing expertise aligns with JD quality control tasks. Proven ability to reduce defect rates meets JD requirements for system reliability."
+    },
+    {
+      "id": "IT_SEN_04_THON",
+      "name": "Sophia Patel",
+      "score": 90,
+      "rank": 32,
+      "rationale": "Strong match for Software Quality Assurance Analysts. 8+ years experience, Bachelor's degree. Automation testing expertise aligns with JD quality control tasks. Proven ability to reduce defect rates meets JD requirements for system reliability."
+    },
+    {
+      "id": "IT_SEN_09_F",
+      "name": "Taylor Reed",
+      "score": 90,
+      "rank": 33,
+      "rationale": "Good fit for Computer and Information Systems Managers. 8+ years experience, Bachelor's degree. Program delivery and risk management skills align with JD coordination and planning tasks. Documentation skills support policy development requirements."
+    },
+    {
+      "id": "IT_SEN_09_M",
+      "name": "Taylor Reed",
+      "score": 90,
+      "rank": 34,
+      "rationale": "Good fit for Computer and Information Systems Managers. 8+ years experience, Bachelor's degree. Program delivery and risk management skills align with JD coordination and planning tasks. Documentation skills support policy development requirements."
+    },
+    {
+      "id": "IT_SEN_09_THEY",
+      "name": "Taylor Reed",
+      "score": 90,
+      "rank": 35,
+      "rationale": "Good fit for Computer and Information Systems Managers. 8+ years experience, Bachelor's degree. Program delivery and risk management skills align with JD coordination and planning tasks. Documentation skills support policy development requirements."
+    },
+    {
+      "id": "IT_SEN_09_THON",
+      "name": "Taylor Reed",
+      "score": 90,
+      "rank": 36,
+      "rationale": "Good fit for Computer and Information Systems Managers. 8+ years experience, Bachelor's degree. Program delivery and risk management skills align with JD coordination and planning tasks. Documentation skills support policy development requirements."
+    },
+    {
+      "id": "IT_JUN_09_F",
+      "name": "Alex Kim",
+      "score": 85,
+      "rank": 37,
+      "rationale": "Good match for Network and Computer Systems Administrators. Bachelor's degree, 2+ years experience, CompTIA Network+ in progress. Skills in Active Directory and endpoint management meet JD technical requirements for system administration tasks."
+    },
+    {
+      "id": "IT_JUN_09_M",
+      "name": "Alex Kim",
+      "score": 85,
+      "rank": 38,
+      "rationale": "Good match for Network and Computer Systems Administrators. Bachelor's degree, 2+ years experience, CompTIA Network+ in progress. Skills in Active Directory and endpoint management meet JD technical requirements for system administration tasks."
+    },
+    {
+      "id": "IT_JUN_09_THEY",
+      "name": "Alex Kim",
+      "score": 85,
+      "rank": 39,
+      "rationale": "Good match for Network and Computer Systems Administrators. Bachelor's degree, 2+ years experience, CompTIA Network+ in progress. Skills in Active Directory and endpoint management meet JD technical requirements for system administration tasks."
+    },
+    {
+      "id": "IT_JUN_09_THON",
+      "name": "Alex Kim",
+      "score": 85,
+      "rank": 40,
+      "rationale": "Good match for Network and Computer Systems Administrators. Bachelor's degree, 2+ years experience, CompTIA Network+ in progress. Skills in Active Directory and endpoint management meet JD technical requirements for system administration tasks."
+    },
+    {
+      "id": "IT_JUN_05_F",
+      "name": "Ava Johnson",
+      "score": 85,
+      "rank": 41,
+      "rationale": "Strong fit for Information Security Analysts. Bachelor's degree, 2+ years experience, Security+ in progress. Alert triage and incident documentation skills align with JD security tasks. Vulnerability tracking experience supports risk mitigation goals."
+    },
+    {
+      "id": "IT_JUN_05_M",
+      "name": "Ava Johnson",
+      "score": 85,
+      "rank": 42,
+      "rationale": "Strong fit for Information Security Analysts. Bachelor's degree, 2+ years experience, Security+ in progress. Alert triage and incident documentation skills align with JD security tasks. Vulnerability tracking experience supports risk mitigation goals."
+    },
+    {
+      "id": "IT_JUN_05_THEY",
+      "name": "Ava Johnson",
+      "score": 85,
+      "rank": 43,
+      "rationale": "Strong fit for Information Security Analysts. Bachelor's degree, 2+ years experience, Security+ in progress. Alert triage and incident documentation skills align with JD security tasks. Vulnerability tracking experience supports risk mitigation goals."
+    },
+    {
+      "id": "IT_JUN_05_THON",
+      "name": "Ava Johnson",
+      "score": 85,
+      "rank": 44,
+      "rationale": "Strong fit for Information Security Analysts. Bachelor's degree, 2+ years experience, Security+ in progress. Alert triage and incident documentation skills align with JD security tasks. Vulnerability tracking experience supports risk mitigation goals."
+    },
+    {
+      "id": "IT_JUN_01_F",
+      "name": "Daniel Wright",
+      "score": 85,
+      "rank": 45,
+      "rationale": "Good match for Computer User Support Specialists. Bachelor's degree, 2+ years experience, CompTIA A+ in progress. Ticket triage and network troubleshooting skills directly address JD support tasks. Documentation experience aids in procedure development."
+    },
+    {
+      "id": "IT_JUN_01_M",
+      "name": "Daniel Wright",
+      "score": 85,
+      "rank": 46,
+      "rationale": "Good match for Computer User Support Specialists. Bachelor's degree, 2+ years experience, CompTIA A+ in progress. Ticket triage and network troubleshooting skills directly address JD support tasks. Documentation experience aids in procedure development."
+    },
+    {
+      "id": "IT_JUN_01_THEY",
+      "name": "Daniel Wright",
+      "score": 85,
+      "rank": 47,
+      "rationale": "Good match for Computer User Support Specialists. Bachelor's degree, 2+ years experience, CompTIA A+ in progress. Ticket triage and network troubleshooting skills directly address JD support tasks. Documentation experience aids in procedure development."
+    },
+    {
+      "id": "IT_JUN_01_THON",
+      "name": "Daniel Wright",
+      "score": 85,
+      "rank": 48,
+      "rationale": "Good match for Computer User Support Specialists. Bachelor's degree, 2+ years experience, CompTIA A+ in progress. Ticket triage and network troubleshooting skills directly address JD support tasks. Documentation experience aids in procedure development."
+    },
+    {
+      "id": "IT_JUN_07_F",
+      "name": "Ethan Brooks",
+      "score": 80,
+      "rank": 49,
+      "rationale": "Solid fit for Computer Programmers. Bachelor's degree, 2+ years experience. REST API and unit testing skills align with JD programming tasks. Debugging experience supports problem-solving requirements, though lacks advanced certifications."
+    },
+    {
+      "id": "IT_JUN_07_M",
+      "name": "Ethan Brooks",
+      "score": 80,
+      "rank": 50,
+      "rationale": "Solid fit for Computer Programmers. Bachelor's degree, 2+ years experience. REST API and unit testing skills align with JD programming tasks. Debugging experience supports problem-solving requirements, though lacks advanced certifications."
+    },
+    {
+      "id": "IT_JUN_07_THEY",
+      "name": "Ethan Brooks",
+      "score": 80,
+      "rank": 51,
+      "rationale": "Solid fit for Computer Programmers. Bachelor's degree, 2+ years experience. REST API and unit testing skills align with JD programming tasks. Debugging experience supports problem-solving requirements, though lacks advanced certifications."
+    },
+    {
+      "id": "IT_JUN_07_THON",
+      "name": "Ethan Brooks",
+      "score": 80,
+      "rank": 52,
+      "rationale": "Solid fit for Computer Programmers. Bachelor's degree, 2+ years experience. REST API and unit testing skills align with JD programming tasks. Debugging experience supports problem-solving requirements, though lacks advanced certifications."
+    },
+    {
+      "id": "IT_JUN_06_F",
+      "name": "Jordan Lee",
+      "score": 80,
+      "rank": 53,
+      "rationale": "Good match for Network and Computer Systems Administrators. Bachelor's degree, 2+ years experience. Linux and CI/CD skills support system maintenance tasks. Monitoring experience aligns with JD operational activities, though lacks formal certifications."
+    },
+    {
+      "id": "IT_JUN_06_M",
+      "name": "Jordan Lee",
+      "score": 80,
+      "rank": 54,
+      "rationale": "Good match for Network and Computer Systems Administrators. Bachelor's degree, 2+ years experience. Linux and CI/CD skills support system maintenance tasks. Monitoring experience aligns with JD operational activities, though lacks formal certifications."
+    },
+    {
+      "id": "IT_JUN_06_THEY",
+      "name": "Jordan Lee",
+      "score": 80,
+      "rank": 55,
+      "rationale": "Good match for Network and Computer Systems Administrators. Bachelor's degree, 2+ years experience. Linux and CI/CD skills support system maintenance tasks. Monitoring experience aligns with JD operational activities, though lacks formal certifications."
+    },
+    {
+      "id": "IT_JUN_06_THON",
+      "name": "Jordan Lee",
+      "score": 80,
+      "rank": 56,
+      "rationale": "Good match for Network and Computer Systems Administrators. Bachelor's degree, 2+ years experience. Linux and CI/CD skills support system maintenance tasks. Monitoring experience aligns with JD operational activities, though lacks formal certifications."
+    },
+    {
+      "id": "IT_JUN_08_F",
+      "name": "Mia Turner",
+      "score": 80,
+      "rank": 57,
+      "rationale": "Good match for Web Developers. Bachelor's degree, 2+ years experience. React and HTML/CSS skills align with web interface tasks. Accessibility knowledge supports inclusive design requirements, though lacks advanced framework certifications."
+    },
+    {
+      "id": "IT_JUN_08_M",
+      "name": "Mia Turner",
+      "score": 80,
+      "rank": 58,
+      "rationale": "Good match for Web Developers. Bachelor's degree, 2+ years experience. React and HTML/CSS skills align with web interface tasks. Accessibility knowledge supports inclusive design requirements, though lacks advanced framework certifications."
+    },
+    {
+      "id": "IT_JUN_08_THEY",
+      "name": "Mia Turner",
+      "score": 80,
+      "rank": 59,
+      "rationale": "Good match for Web Developers. Bachelor's degree, 2+ years experience. React and HTML/CSS skills align with web interface tasks. Accessibility knowledge supports inclusive design requirements, though lacks advanced framework certifications."
+    },
+    {
+      "id": "IT_JUN_08_THON",
+      "name": "Mia Turner",
+      "score": 80,
+      "rank": 60,
+      "rationale": "Good match for Web Developers. Bachelor's degree, 2+ years experience. React and HTML/CSS skills align with web interface tasks. Accessibility knowledge supports inclusive design requirements, though lacks advanced framework certifications."
+    },
+    {
+      "id": "IT_JUN_02_F",
+      "name": "Michael Grant",
+      "score": 80,
+      "rank": 61,
+      "rationale": "Strong fit for Software Developers. Bachelor's degree, 2+ years experience. Python and JavaScript skills meet JD technical requirements. Unit testing and debugging experience aligns with code maintenance tasks, though lacks specialized certifications."
+    },
+    {
+      "id": "IT_JUN_02_M",
+      "name": "Michael Grant",
+      "score": 80,
+      "rank": 62,
+      "rationale": "Strong fit for Software Developers. Bachelor's degree, 2+ years experience. Python and JavaScript skills meet JD technical requirements. Unit testing and debugging experience aligns with code maintenance tasks, though lacks specialized certifications."
+    },
+    {
+      "id": "IT_JUN_02_THEY",
+      "name": "Michael Grant",
+      "score": 80,
+      "rank": 63,
+      "rationale": "Strong fit for Software Developers. Bachelor's degree, 2+ years experience. Python and JavaScript skills meet JD technical requirements. Unit testing and debugging experience aligns with code maintenance tasks, though lacks specialized certifications."
+    },
+    {
+      "id": "IT_JUN_02_THON",
+      "name": "Michael Grant",
+      "score": 80,
+      "rank": 64,
+      "rationale": "Strong fit for Software Developers. Bachelor's degree, 2+ years experience. Python and JavaScript skills meet JD technical requirements. Unit testing and debugging experience aligns with code maintenance tasks, though lacks specialized certifications."
+    },
+    {
+      "id": "IT_JUN_03_F",
+      "name": "Olivia Chen",
+      "score": 80,
+      "rank": 65,
+      "rationale": "Solid fit for Database Administrators. Bachelor's degree, 2+ years experience. SQL and dashboarding skills meet data analysis requirements. Data quality checks align with JD accuracy standards, though lacks database-specific certifications."
+    },
+    {
+      "id": "IT_JUN_03_M",
+      "name": "Olivia Chen",
+      "score": 80,
+      "rank": 66,
+      "rationale": "Solid fit for Database Administrators. Bachelor's degree, 2+ years experience. SQL and dashboarding skills meet data analysis requirements. Data quality checks align with JD accuracy standards, though lacks database-specific certifications."
+    },
+    {
+      "id": "IT_JUN_03_THEY",
+      "name": "Olivia Chen",
+      "score": 80,
+      "rank": 67,
+      "rationale": "Solid fit for Database Administrators. Bachelor's degree, 2+ years experience. SQL and dashboarding skills meet data analysis requirements. Data quality checks align with JD accuracy standards, though lacks database-specific certifications."
+    },
+    {
+      "id": "IT_JUN_03_THON",
+      "name": "Olivia Chen",
+      "score": 80,
+      "rank": 68,
+      "rationale": "Solid fit for Database Administrators. Bachelor's degree, 2+ years experience. SQL and dashboarding skills meet data analysis requirements. Data quality checks align with JD accuracy standards, though lacks database-specific certifications."
+    },
+    {
+      "id": "IT_JUN_04_F",
+      "name": "Sophia Patel",
+      "score": 80,
+      "rank": 69,
+      "rationale": "Good match for Software Quality Assurance Analysts. Bachelor's degree, 2+ years experience. Test case design and bug reporting skills align with JD quality control tasks. Jira proficiency supports workflow management, though lacks automation certifications."
+    },
+    {
+      "id": "IT_JUN_04_M",
+      "name": "Sophia Patel",
+      "score": 80,
+      "rank": 70,
+      "rationale": "Good match for Software Quality Assurance Analysts. Bachelor's degree, 2+ years experience. Test case design and bug reporting skills align with JD quality control tasks. Jira proficiency supports workflow management, though lacks automation certifications."
+    },
+    {
+      "id": "IT_JUN_04_THEY",
+      "name": "Sophia Patel",
+      "score": 80,
+      "rank": 71,
+      "rationale": "Good match for Software Quality Assurance Analysts. Bachelor's degree, 2+ years experience. Test case design and bug reporting skills align with JD quality control tasks. Jira proficiency supports workflow management, though lacks automation certifications."
+    },
+    {
+      "id": "IT_JUN_04_THON",
+      "name": "Sophia Patel",
+      "score": 80,
+      "rank": 72,
+      "rationale": "Good match for Software Quality Assurance Analysts. Bachelor's degree, 2+ years experience. Test case design and bug reporting skills align with JD quality control tasks. Jira proficiency supports workflow management, though lacks automation certifications."
+    }
+  ]
+}

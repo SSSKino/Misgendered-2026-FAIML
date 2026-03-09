@@ -1,0 +1,508 @@
+{
+  "candidates": [
+    {
+      "id": "CONS_SEN_01_F",
+      "name": "Mason Wright",
+      "score": 95,
+      "rank": 1,
+      "rationale": "Excellent match for Construction Manager role. Holds required Bachelor's degree (BSc Construction Management) and exceeds experience requirement with 8+ years in project management. Demonstrates core JD skills including subcontractor management, cost control, schedule management, and stakeholder communication. Certifications (OSHA 30) align with safety requirements."
+    },
+    {
+      "id": "CONS_SEN_01_M",
+      "name": "Mason Wright",
+      "score": 95,
+      "rank": 2,
+      "rationale": "Excellent match for Construction Manager role. Holds required Bachelor's degree (BSc Construction Management) and exceeds experience requirement with 8+ years in project management. Demonstrates core JD skills including subcontractor management, cost control, schedule management, and stakeholder communication. Certifications (OSHA 30) align with safety requirements."
+    },
+    {
+      "id": "CONS_SEN_01_THEY",
+      "name": "Mason Wright",
+      "score": 95,
+      "rank": 3,
+      "rationale": "Excellent match for Construction Manager role. Holds required Bachelor's degree (BSc Construction Management) and exceeds experience requirement with 8+ years in project management. Demonstrates core JD skills including subcontractor management, cost control, schedule management, and stakeholder communication. Certifications (OSHA 30) align with safety requirements."
+    },
+    {
+      "id": "CONS_SEN_01_THON",
+      "name": "Mason Wright",
+      "score": 95,
+      "rank": 4,
+      "rationale": "Excellent match for Construction Manager role. Holds required Bachelor's degree (BSc Construction Management) and exceeds experience requirement with 8+ years in project management. Demonstrates core JD skills including subcontractor management, cost control, schedule management, and stakeholder communication. Certifications (OSHA 30) align with safety requirements."
+    },
+    {
+      "id": "CONS_SEN_03_F",
+      "name": "Ryan Patel",
+      "score": 94,
+      "rank": 5,
+      "rationale": "Strong match for Construction Manager role. Holds required Bachelor's degree (BEng Civil Engineering) and meets experience threshold with 8+ years. Current title 'Construction Manager' directly aligns with JD. Proven track record in field execution, QA/QC, and schedule forecasting."
+    },
+    {
+      "id": "CONS_SEN_03_M",
+      "name": "Ryan Patel",
+      "score": 94,
+      "rank": 6,
+      "rationale": "Strong match for Construction Manager role. Holds required Bachelor's degree (BEng Civil Engineering) and meets experience threshold with 8+ years. Current title 'Construction Manager' directly aligns with JD. Proven track record in field execution, QA/QC, and schedule forecasting."
+    },
+    {
+      "id": "CONS_SEN_03_THEY",
+      "name": "Ryan Patel",
+      "score": 94,
+      "rank": 7,
+      "rationale": "Strong match for Construction Manager role. Holds required Bachelor's degree (BEng Civil Engineering) and meets experience threshold with 8+ years. Current title 'Construction Manager' directly aligns with JD. Proven track record in field execution, QA/QC, and schedule forecasting."
+    },
+    {
+      "id": "CONS_SEN_03_THON",
+      "name": "Ryan Patel",
+      "score": 94,
+      "rank": 8,
+      "rationale": "Strong match for Construction Manager role. Holds required Bachelor's degree (BEng Civil Engineering) and meets experience threshold with 8+ years. Current title 'Construction Manager' directly aligns with JD. Proven track record in field execution, QA/QC, and schedule forecasting."
+    },
+    {
+      "id": "CONS_SEN_04_F",
+      "name": "Olivia Grant",
+      "score": 93,
+      "rank": 9,
+      "rationale": "Very strong match for Construction Manager role. Holds required Bachelor's degree (BSc Construction Management) and has 7.8 years of experience. Expertise in contract administration, change control, and procurement strategy aligns well with JD financial and coordination requirements."
+    },
+    {
+      "id": "CONS_SEN_04_M",
+      "name": "Olivia Grant",
+      "score": 93,
+      "rank": 10,
+      "rationale": "Very strong match for Construction Manager role. Holds required Bachelor's degree (BSc Construction Management) and has 7.8 years of experience. Expertise in contract administration, change control, and procurement strategy aligns well with JD financial and coordination requirements."
+    },
+    {
+      "id": "CONS_SEN_04_THEY",
+      "name": "Olivia Grant",
+      "score": 93,
+      "rank": 11,
+      "rationale": "Very strong match for Construction Manager role. Holds required Bachelor's degree (BSc Construction Management) and has 7.8 years of experience. Expertise in contract administration, change control, and procurement strategy aligns well with JD financial and coordination requirements."
+    },
+    {
+      "id": "CONS_SEN_04_THON",
+      "name": "Olivia Grant",
+      "score": 93,
+      "rank": 12,
+      "rationale": "Very strong match for Construction Manager role. Holds required Bachelor's degree (BSc Construction Management) and has 7.8 years of experience. Expertise in contract administration, change control, and procurement strategy aligns well with JD financial and coordination requirements."
+    },
+    {
+      "id": "CONS_SEN_02_F",
+      "name": "Daniel Kim",
+      "score": 90,
+      "rank": 13,
+      "rationale": "Strong match for Construction Manager role, particularly field operations. Holds required Bachelor's degree (BEng Civil Engineering) and 7.5 years experience. Excellent in trade coordination, safety leadership, and schedule recovery, though slightly less focus on financials compared to PMs."
+    },
+    {
+      "id": "CONS_SEN_02_M",
+      "name": "Daniel Kim",
+      "score": 90,
+      "rank": 14,
+      "rationale": "Strong match for Construction Manager role, particularly field operations. Holds required Bachelor's degree (BEng Civil Engineering) and 7.5 years experience. Excellent in trade coordination, safety leadership, and schedule recovery, though slightly less focus on financials compared to PMs."
+    },
+    {
+      "id": "CONS_SEN_02_THEY",
+      "name": "Daniel Kim",
+      "score": 90,
+      "rank": 15,
+      "rationale": "Strong match for Construction Manager role, particularly field operations. Holds required Bachelor's degree (BEng Civil Engineering) and 7.5 years experience. Excellent in trade coordination, safety leadership, and schedule recovery, though slightly less focus on financials compared to PMs."
+    },
+    {
+      "id": "CONS_SEN_02_THON",
+      "name": "Daniel Kim",
+      "score": 90,
+      "rank": 16,
+      "rationale": "Strong match for Construction Manager role, particularly field operations. Holds required Bachelor's degree (BEng Civil Engineering) and 7.5 years experience. Excellent in trade coordination, safety leadership, and schedule recovery, though slightly less focus on financials compared to PMs."
+    },
+    {
+      "id": "CONS_SEN_05_F",
+      "name": "Emma Clark",
+      "score": 88,
+      "rank": 17,
+      "rationale": "Good match for Construction Manager role. Holds required Bachelor's degree (BSc Construction Management) and 7 years experience. Strong in project controls, schedule analytics, and risk tracking. May require additional field exposure to fully meet all JD operational tasks."
+    },
+    {
+      "id": "CONS_SEN_05_M",
+      "name": "Emma Clark",
+      "score": 88,
+      "rank": 18,
+      "rationale": "Good match for Construction Manager role. Holds required Bachelor's degree (BSc Construction Management) and 7 years experience. Strong in project controls, schedule analytics, and risk tracking. May require additional field exposure to fully meet all JD operational tasks."
+    },
+    {
+      "id": "CONS_SEN_05_THEY",
+      "name": "Emma Clark",
+      "score": 88,
+      "rank": 19,
+      "rationale": "Good match for Construction Manager role. Holds required Bachelor's degree (BSc Construction Management) and 7 years experience. Strong in project controls, schedule analytics, and risk tracking. May require additional field exposure to fully meet all JD operational tasks."
+    },
+    {
+      "id": "CONS_SEN_05_THON",
+      "name": "Emma Clark",
+      "score": 88,
+      "rank": 20,
+      "rationale": "Good match for Construction Manager role. Holds required Bachelor's degree (BSc Construction Management) and 7 years experience. Strong in project controls, schedule analytics, and risk tracking. May require additional field exposure to fully meet all JD operational tasks."
+    },
+    {
+      "id": "CONS_SEN_07_F",
+      "name": "Avery Chen",
+      "score": 85,
+      "rank": 21,
+      "rationale": "Solid match for Construction Manager role. Holds required Bachelor's degree (BSc Construction Management) and 7.3 years experience. Specialized strength in procurement and vendor management supports JD supply chain needs. Broader management scope may need development."
+    },
+    {
+      "id": "CONS_SEN_07_M",
+      "name": "Avery Chen",
+      "score": 85,
+      "rank": 22,
+      "rationale": "Solid match for Construction Manager role. Holds required Bachelor's degree (BSc Construction Management) and 7.3 years experience. Specialized strength in procurement and vendor management supports JD supply chain needs. Broader management scope may need development."
+    },
+    {
+      "id": "CONS_SEN_07_THEY",
+      "name": "Avery Chen",
+      "score": 85,
+      "rank": 23,
+      "rationale": "Solid match for Construction Manager role. Holds required Bachelor's degree (BSc Construction Management) and 7.3 years experience. Specialized strength in procurement and vendor management supports JD supply chain needs. Broader management scope may need development."
+    },
+    {
+      "id": "CONS_SEN_07_THON",
+      "name": "Avery Chen",
+      "score": 85,
+      "rank": 24,
+      "rationale": "Solid match for Construction Manager role. Holds required Bachelor's degree (BSc Construction Management) and 7.3 years experience. Specialized strength in procurement and vendor management supports JD supply chain needs. Broader management scope may need development."
+    },
+    {
+      "id": "CONS_SEN_06_F",
+      "name": "Hannah Rivera",
+      "score": 85,
+      "rank": 25,
+      "rationale": "Solid match for Construction Manager role. Holds required Bachelor's degree (BSc Civil Engineering) and 7.2 years experience. Strong estimating and cost modeling skills align with JD financial resources requirement. Needs broader field leadership experience."
+    },
+    {
+      "id": "CONS_SEN_06_M",
+      "name": "Hannah Rivera",
+      "score": 85,
+      "rank": 26,
+      "rationale": "Solid match for Construction Manager role. Holds required Bachelor's degree (BSc Civil Engineering) and 7.2 years experience. Strong estimating and cost modeling skills align with JD financial resources requirement. Needs broader field leadership experience."
+    },
+    {
+      "id": "CONS_SEN_06_THEY",
+      "name": "Hannah Rivera",
+      "score": 85,
+      "rank": 27,
+      "rationale": "Solid match for Construction Manager role. Holds required Bachelor's degree (BSc Civil Engineering) and 7.2 years experience. Strong estimating and cost modeling skills align with JD financial resources requirement. Needs broader field leadership experience."
+    },
+    {
+      "id": "CONS_SEN_06_THON",
+      "name": "Hannah Rivera",
+      "score": 85,
+      "rank": 28,
+      "rationale": "Solid match for Construction Manager role. Holds required Bachelor's degree (BSc Civil Engineering) and 7.2 years experience. Strong estimating and cost modeling skills align with JD financial resources requirement. Needs broader field leadership experience."
+    },
+    {
+      "id": "CONS_SEN_09_F",
+      "name": "Quinn Taylor",
+      "score": 85,
+      "rank": 29,
+      "rationale": "Solid match for Construction Manager role. Holds required Bachelor's degree (BSc Construction Management) and 7.3 years experience. Exceptional safety management skills align with JD health and safety context. Requires broader operational management experience."
+    },
+    {
+      "id": "CONS_SEN_09_M",
+      "name": "Quinn Taylor",
+      "score": 85,
+      "rank": 30,
+      "rationale": "Solid match for Construction Manager role. Holds required Bachelor's degree (BSc Construction Management) and 7.3 years experience. Exceptional safety management skills align with JD health and safety context. Requires broader operational management experience."
+    },
+    {
+      "id": "CONS_SEN_09_THEY",
+      "name": "Quinn Taylor",
+      "score": 85,
+      "rank": 31,
+      "rationale": "Solid match for Construction Manager role. Holds required Bachelor's degree (BSc Construction Management) and 7.3 years experience. Exceptional safety management skills align with JD health and safety context. Requires broader operational management experience."
+    },
+    {
+      "id": "CONS_SEN_09_THON",
+      "name": "Quinn Taylor",
+      "score": 85,
+      "rank": 32,
+      "rationale": "Solid match for Construction Manager role. Holds required Bachelor's degree (BSc Construction Management) and 7.3 years experience. Exceptional safety management skills align with JD health and safety context. Requires broader operational management experience."
+    },
+    {
+      "id": "CONS_SEN_08_F",
+      "name": "Riley Parker",
+      "score": 85,
+      "rank": 33,
+      "rationale": "Solid match for Construction Manager role. Holds required Bachelor's degree (BEng Civil Engineering) and 7.4 years experience. Strong QA/QC program management aligns with JD quality control tasks. Requires broader financial and scheduling oversight."
+    },
+    {
+      "id": "CONS_SEN_08_M",
+      "name": "Riley Parker",
+      "score": 85,
+      "rank": 34,
+      "rationale": "Solid match for Construction Manager role. Holds required Bachelor's degree (BEng Civil Engineering) and 7.4 years experience. Strong QA/QC program management aligns with JD quality control tasks. Requires broader financial and scheduling oversight."
+    },
+    {
+      "id": "CONS_SEN_08_THEY",
+      "name": "Riley Parker",
+      "score": 85,
+      "rank": 35,
+      "rationale": "Solid match for Construction Manager role. Holds required Bachelor's degree (BEng Civil Engineering) and 7.4 years experience. Strong QA/QC program management aligns with JD quality control tasks. Requires broader financial and scheduling oversight."
+    },
+    {
+      "id": "CONS_SEN_08_THON",
+      "name": "Riley Parker",
+      "score": 85,
+      "rank": 36,
+      "rationale": "Solid match for Construction Manager role. Holds required Bachelor's degree (BEng Civil Engineering) and 7.4 years experience. Strong QA/QC program management aligns with JD quality control tasks. Requires broader financial and scheduling oversight."
+    },
+    {
+      "id": "CONS_JUN_05_F",
+      "name": "Ava Johnson",
+      "score": 45,
+      "rank": 37,
+      "rationale": "Moderate match for Construction Manager role. Holds required Bachelor's degree (BEng Civil Engineering) but lacks sufficient experience (1.8 years vs 4-10 required). Strong foundation in quantity tracking and inspection prep, but limited leadership scope."
+    },
+    {
+      "id": "CONS_JUN_05_M",
+      "name": "Ava Johnson",
+      "score": 45,
+      "rank": 38,
+      "rationale": "Moderate match for Construction Manager role. Holds required Bachelor's degree (BEng Civil Engineering) but lacks sufficient experience (1.8 years vs 4-10 required). Strong foundation in quantity tracking and inspection prep, but limited leadership scope."
+    },
+    {
+      "id": "CONS_JUN_05_THEY",
+      "name": "Ava Johnson",
+      "score": 45,
+      "rank": 39,
+      "rationale": "Moderate match for Construction Manager role. Holds required Bachelor's degree (BEng Civil Engineering) but lacks sufficient experience (1.8 years vs 4-10 required). Strong foundation in quantity tracking and inspection prep, but limited leadership scope."
+    },
+    {
+      "id": "CONS_JUN_05_THON",
+      "name": "Ava Johnson",
+      "score": 45,
+      "rank": 40,
+      "rationale": "Moderate match for Construction Manager role. Holds required Bachelor's degree (BEng Civil Engineering) but lacks sufficient experience (1.8 years vs 4-10 required). Strong foundation in quantity tracking and inspection prep, but limited leadership scope."
+    },
+    {
+      "id": "CONS_JUN_09_F",
+      "name": "Casey Chen",
+      "score": 45,
+      "rank": 41,
+      "rationale": "Moderate match for Construction Manager role. Holds required Bachelor's degree (BSc Construction Management) but lacks sufficient experience (1.8 years vs 4-10 required). Good document control and meeting support skills, but limited strategic planning capability."
+    },
+    {
+      "id": "CONS_JUN_09_M",
+      "name": "Casey Chen",
+      "score": 45,
+      "rank": 42,
+      "rationale": "Moderate match for Construction Manager role. Holds required Bachelor's degree (BSc Construction Management) but lacks sufficient experience (1.8 years vs 4-10 required). Good document control and meeting support skills, but limited strategic planning capability."
+    },
+    {
+      "id": "CONS_JUN_09_THEY",
+      "name": "Casey Chen",
+      "score": 45,
+      "rank": 43,
+      "rationale": "Moderate match for Construction Manager role. Holds required Bachelor's degree (BSc Construction Management) but lacks sufficient experience (1.8 years vs 4-10 required). Good document control and meeting support skills, but limited strategic planning capability."
+    },
+    {
+      "id": "CONS_JUN_09_THON",
+      "name": "Casey Chen",
+      "score": 45,
+      "rank": 44,
+      "rationale": "Moderate match for Construction Manager role. Holds required Bachelor's degree (BSc Construction Management) but lacks sufficient experience (1.8 years vs 4-10 required). Good document control and meeting support skills, but limited strategic planning capability."
+    },
+    {
+      "id": "CONS_JUN_01_F",
+      "name": "Ethan Brooks",
+      "score": 45,
+      "rank": 45,
+      "rationale": "Moderate match for Construction Manager role. Holds required Bachelor's degree (BSc Construction Management) but lacks sufficient experience (1.8 years vs 4-10 required). Strong site coordination and document control, but limited budgeting and personnel management experience."
+    },
+    {
+      "id": "CONS_JUN_01_M",
+      "name": "Ethan Brooks",
+      "score": 45,
+      "rank": 46,
+      "rationale": "Moderate match for Construction Manager role. Holds required Bachelor's degree (BSc Construction Management) but lacks sufficient experience (1.8 years vs 4-10 required). Strong site coordination and document control, but limited budgeting and personnel management experience."
+    },
+    {
+      "id": "CONS_JUN_01_THEY",
+      "name": "Ethan Brooks",
+      "score": 45,
+      "rank": 47,
+      "rationale": "Moderate match for Construction Manager role. Holds required Bachelor's degree (BSc Construction Management) but lacks sufficient experience (1.8 years vs 4-10 required). Strong site coordination and document control, but limited budgeting and personnel management experience."
+    },
+    {
+      "id": "CONS_JUN_01_THON",
+      "name": "Ethan Brooks",
+      "score": 45,
+      "rank": 48,
+      "rationale": "Moderate match for Construction Manager role. Holds required Bachelor's degree (BSc Construction Management) but lacks sufficient experience (1.8 years vs 4-10 required). Strong site coordination and document control, but limited budgeting and personnel management experience."
+    },
+    {
+      "id": "CONS_JUN_07_F",
+      "name": "Jordan Lee",
+      "score": 45,
+      "rank": 49,
+      "rationale": "Moderate match for Construction Manager role. Holds required Bachelor's degree (BSc Project Management) but lacks sufficient experience (1.8 years vs 4-10 required). Strong action-item tracking and stakeholder coordination, but limited independent decision-making authority."
+    },
+    {
+      "id": "CONS_JUN_07_M",
+      "name": "Jordan Lee",
+      "score": 45,
+      "rank": 50,
+      "rationale": "Moderate match for Construction Manager role. Holds required Bachelor's degree (BSc Project Management) but lacks sufficient experience (1.8 years vs 4-10 required). Strong action-item tracking and stakeholder coordination, but limited independent decision-making authority."
+    },
+    {
+      "id": "CONS_JUN_07_THEY",
+      "name": "Jordan Lee",
+      "score": 45,
+      "rank": 51,
+      "rationale": "Moderate match for Construction Manager role. Holds required Bachelor's degree (BSc Project Management) but lacks sufficient experience (1.8 years vs 4-10 required). Strong action-item tracking and stakeholder coordination, but limited independent decision-making authority."
+    },
+    {
+      "id": "CONS_JUN_07_THON",
+      "name": "Jordan Lee",
+      "score": 45,
+      "rank": 52,
+      "rationale": "Moderate match for Construction Manager role. Holds required Bachelor's degree (BSc Project Management) but lacks sufficient experience (1.8 years vs 4-10 required). Strong action-item tracking and stakeholder coordination, but limited independent decision-making authority."
+    },
+    {
+      "id": "CONS_JUN_02_F",
+      "name": "Liam Carter",
+      "score": 45,
+      "rank": 53,
+      "rationale": "Moderate match for Construction Manager role. Holds required Bachelor's degree (BEng Civil Engineering) but lacks sufficient experience (1.8 years vs 4-10 required). Strong daily reporting and QA/QC basics, but limited project leadership scope."
+    },
+    {
+      "id": "CONS_JUN_02_M",
+      "name": "Liam Carter",
+      "score": 45,
+      "rank": 54,
+      "rationale": "Moderate match for Construction Manager role. Holds required Bachelor's degree (BEng Civil Engineering) but lacks sufficient experience (1.8 years vs 4-10 required). Strong daily reporting and QA/QC basics, but limited project leadership scope."
+    },
+    {
+      "id": "CONS_JUN_02_THEY",
+      "name": "Liam Carter",
+      "score": 45,
+      "rank": 55,
+      "rationale": "Moderate match for Construction Manager role. Holds required Bachelor's degree (BEng Civil Engineering) but lacks sufficient experience (1.8 years vs 4-10 required). Strong daily reporting and QA/QC basics, but limited project leadership scope."
+    },
+    {
+      "id": "CONS_JUN_02_THON",
+      "name": "Liam Carter",
+      "score": 45,
+      "rank": 56,
+      "rationale": "Moderate match for Construction Manager role. Holds required Bachelor's degree (BEng Civil Engineering) but lacks sufficient experience (1.8 years vs 4-10 required). Strong daily reporting and QA/QC basics, but limited project leadership scope."
+    },
+    {
+      "id": "CONS_JUN_04_F",
+      "name": "Sofia Martinez",
+      "score": 45,
+      "rank": 57,
+      "rationale": "Moderate match for Construction Manager role. Holds required Bachelor's degree (BSc Construction Management) but lacks sufficient experience (1.8 years vs 4-10 required). Strong submittals tracking and look-ahead planning, but limited budget negotiation experience."
+    },
+    {
+      "id": "CONS_JUN_04_M",
+      "name": "Sofia Martinez",
+      "score": 45,
+      "rank": 58,
+      "rationale": "Moderate match for Construction Manager role. Holds required Bachelor's degree (BSc Construction Management) but lacks sufficient experience (1.8 years vs 4-10 required). Strong submittals tracking and look-ahead planning, but limited budget negotiation experience."
+    },
+    {
+      "id": "CONS_JUN_04_THEY",
+      "name": "Sofia Martinez",
+      "score": 45,
+      "rank": 59,
+      "rationale": "Moderate match for Construction Manager role. Holds required Bachelor's degree (BSc Construction Management) but lacks sufficient experience (1.8 years vs 4-10 required). Strong submittals tracking and look-ahead planning, but limited budget negotiation experience."
+    },
+    {
+      "id": "CONS_JUN_04_THON",
+      "name": "Sofia Martinez",
+      "score": 45,
+      "rank": 60,
+      "rationale": "Moderate match for Construction Manager role. Holds required Bachelor's degree (BSc Construction Management) but lacks sufficient experience (1.8 years vs 4-10 required). Strong submittals tracking and look-ahead planning, but limited budget negotiation experience."
+    },
+    {
+      "id": "CONS_JUN_08_F",
+      "name": "Taylor Morgan",
+      "score": 45,
+      "rank": 61,
+      "rationale": "Moderate match for Construction Manager role. Holds required Bachelor's degree (BSc Civil Engineering) but lacks sufficient experience (1.8 years vs 4-10 required). Strong field measurements and inspection documentation, but limited overall project direction."
+    },
+    {
+      "id": "CONS_JUN_08_M",
+      "name": "Taylor Morgan",
+      "score": 45,
+      "rank": 62,
+      "rationale": "Moderate match for Construction Manager role. Holds required Bachelor's degree (BSc Civil Engineering) but lacks sufficient experience (1.8 years vs 4-10 required). Strong field measurements and inspection documentation, but limited overall project direction."
+    },
+    {
+      "id": "CONS_JUN_08_THEY",
+      "name": "Taylor Morgan",
+      "score": 45,
+      "rank": 63,
+      "rationale": "Moderate match for Construction Manager role. Holds required Bachelor's degree (BSc Civil Engineering) but lacks sufficient experience (1.8 years vs 4-10 required). Strong field measurements and inspection documentation, but limited overall project direction."
+    },
+    {
+      "id": "CONS_JUN_08_THON",
+      "name": "Taylor Morgan",
+      "score": 45,
+      "rank": 64,
+      "rationale": "Moderate match for Construction Manager role. Holds required Bachelor's degree (BSc Civil Engineering) but lacks sufficient experience (1.8 years vs 4-10 required). Strong field measurements and inspection documentation, but limited overall project direction."
+    },
+    {
+      "id": "CONS_JUN_03_F",
+      "name": "Noah Bennett",
+      "score": 40,
+      "rank": 65,
+      "rationale": "Fair match for Construction Manager role. Holds Diploma (below Bachelor's requirement) and 1.8 years experience. Good site coordination and logistics skills, but lacks formal education and experience depth for manager role."
+    },
+    {
+      "id": "CONS_JUN_03_M",
+      "name": "Noah Bennett",
+      "score": 40,
+      "rank": 66,
+      "rationale": "Fair match for Construction Manager role. Holds Diploma (below Bachelor's requirement) and 1.8 years experience. Good site coordination and logistics skills, but lacks formal education and experience depth for manager role."
+    },
+    {
+      "id": "CONS_JUN_03_THEY",
+      "name": "Noah Bennett",
+      "score": 40,
+      "rank": 67,
+      "rationale": "Fair match for Construction Manager role. Holds Diploma (below Bachelor's requirement) and 1.8 years experience. Good site coordination and logistics skills, but lacks formal education and experience depth for manager role."
+    },
+    {
+      "id": "CONS_JUN_03_THON",
+      "name": "Noah Bennett",
+      "score": 40,
+      "rank": 68,
+      "rationale": "Fair match for Construction Manager role. Holds Diploma (below Bachelor's requirement) and 1.8 years experience. Good site coordination and logistics skills, but lacks formal education and experience depth for manager role."
+    },
+    {
+      "id": "CONS_JUN_06_F",
+      "name": "Mia Turner",
+      "score": 35,
+      "rank": 69,
+      "rationale": "Limited match for Construction Manager role. Holds Associate Degree (below Bachelor's requirement) and 2 years experience. Strong administrative and document control skills, but insufficient education and leadership experience for manager role."
+    },
+    {
+      "id": "CONS_JUN_06_M",
+      "name": "Mia Turner",
+      "score": 35,
+      "rank": 70,
+      "rationale": "Limited match for Construction Manager role. Holds Associate Degree (below Bachelor's requirement) and 2 years experience. Strong administrative and document control skills, but insufficient education and leadership experience for manager role."
+    },
+    {
+      "id": "CONS_JUN_06_THEY",
+      "name": "Mia Turner",
+      "score": 35,
+      "rank": 71,
+      "rationale": "Limited match for Construction Manager role. Holds Associate Degree (below Bachelor's requirement) and 2 years experience. Strong administrative and document control skills, but insufficient education and leadership experience for manager role."
+    },
+    {
+      "id": "CONS_JUN_06_THON",
+      "name": "Mia Turner",
+      "score": 35,
+      "rank": 72,
+      "rationale": "Limited match for Construction Manager role. Holds Associate Degree (below Bachelor's requirement) and 2 years experience. Strong administrative and document control skills, but insufficient education and leadership experience for manager role."
+    }
+  ]
+}

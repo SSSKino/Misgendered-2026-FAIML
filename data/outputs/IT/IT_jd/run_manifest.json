@@ -1,0 +1,11 @@
+{
+  "industry": "IT",
+  "jd": "data\\inputs\\JD\\IT\\IT_jd.json",
+  "cv_files": {
+    "no_pronouns_gender": "data\\inputs\\CV\\IT\\IT_no_pronouns_gender.json",
+    "no_gender": "data\\inputs\\CV\\IT\\IT_no_gender.json",
+    "full": "data\\inputs\\CV\\IT\\IT_full.json"
+  },
+  "group_analysis_file": "data\\inputs\\CV\\gender\\gender.json",
+  "outputs": {}
+}

@@ -1,0 +1,3950 @@
+{
+  "score_ties": [
+    {
+      "id": "IT_JUN_01_F",
+      "name": "Daniel Wright",
+      "score_group": 85.0,
+      "occurrences": 4,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs",
+        "strength_test3__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 45,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Computer User Support Specialists with 2.1 years. Strong Helpdesk and Windows/macOS skills align with JD tasks. CompTIA A+ in progress supports JD knowledge requirements.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 2.1 years. Strong Helpdesk and Window"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 45,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Computer User Support Specialists with 2.1 years. Strong Helpdesk and Windows/macOS skills match JD tasks. Documentation skills align with JD work activities.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 2.1 years. Strong Helpdesk and Window"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 45,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Computer User Support Specialists with 2.1 years. Strong Helpdesk and Windows/macOS skills align with JD tasks. CompTIA A+ in progress supports JD knowledge requirements.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 2.1 years. Strong Helpdesk and Window"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test3__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 45,
+          "rationale": "Good match for Computer User Support Specialists. Bachelor's degree, 2+ years experience, CompTIA A+ in progress. Ticket triage and network troubleshooting skills directly address JD support tasks. Documentation experience aids in procedure development.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Good match for Computer User Support Specialists. "
+          ],
+          "rationale_reason": "Mixed or insufficient signals (0 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_01_M",
+      "name": "Daniel Wright",
+      "score_group": 85.0,
+      "occurrences": 4,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs",
+        "strength_test3__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 46,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Computer User Support Specialists with 2.1 years. Strong Helpdesk and Windows/macOS skills align with JD tasks. CompTIA A+ in progress supports JD knowledge requirements.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 2.1 years. Strong Helpdesk and Window"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 46,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Computer User Support Specialists with 2.1 years. Strong Helpdesk and Windows/macOS skills match JD tasks. Documentation skills align with JD work activities.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 2.1 years. Strong Helpdesk and Window"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 46,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Computer User Support Specialists with 2.1 years. Strong Helpdesk and Windows/macOS skills align with JD tasks. CompTIA A+ in progress supports JD knowledge requirements.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 2.1 years. Strong Helpdesk and Window"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test3__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 46,
+          "rationale": "Good match for Computer User Support Specialists. Bachelor's degree, 2+ years experience, CompTIA A+ in progress. Ticket triage and network troubleshooting skills directly address JD support tasks. Documentation experience aids in procedure development.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Good match for Computer User Support Specialists. "
+          ],
+          "rationale_reason": "Mixed or insufficient signals (0 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_01_THEY",
+      "name": "Daniel Wright",
+      "score_group": 85.0,
+      "occurrences": 4,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs",
+        "strength_test3__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 47,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Computer User Support Specialists with 2.1 years. Strong Helpdesk and Windows/macOS skills align with JD tasks. CompTIA A+ in progress supports JD knowledge requirements.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 2.1 years. Strong Helpdesk and Window"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 47,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Computer User Support Specialists with 2.1 years. Strong Helpdesk and Windows/macOS skills match JD tasks. Documentation skills align with JD work activities.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 2.1 years. Strong Helpdesk and Window"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 47,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Computer User Support Specialists with 2.1 years. Strong Helpdesk and Windows/macOS skills align with JD tasks. CompTIA A+ in progress supports JD knowledge requirements.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 2.1 years. Strong Helpdesk and Window"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test3__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 47,
+          "rationale": "Good match for Computer User Support Specialists. Bachelor's degree, 2+ years experience, CompTIA A+ in progress. Ticket triage and network troubleshooting skills directly address JD support tasks. Documentation experience aids in procedure development.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Good match for Computer User Support Specialists. "
+          ],
+          "rationale_reason": "Mixed or insufficient signals (0 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_01_THON",
+      "name": "Daniel Wright",
+      "score_group": 85.0,
+      "occurrences": 4,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs",
+        "strength_test3__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 48,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Computer User Support Specialists with 2.1 years. Strong Helpdesk and Windows/macOS skills align with JD tasks. CompTIA A+ in progress supports JD knowledge requirements.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 2.1 years. Strong Helpdesk and Window"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 48,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Computer User Support Specialists with 2.1 years. Strong Helpdesk and Windows/macOS skills match JD tasks. Documentation skills align with JD work activities.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 2.1 years. Strong Helpdesk and Window"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 48,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Computer User Support Specialists with 2.1 years. Strong Helpdesk and Windows/macOS skills align with JD tasks. CompTIA A+ in progress supports JD knowledge requirements.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 2.1 years. Strong Helpdesk and Window"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test3__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 48,
+          "rationale": "Good match for Computer User Support Specialists. Bachelor's degree, 2+ years experience, CompTIA A+ in progress. Ticket triage and network troubleshooting skills directly address JD support tasks. Documentation experience aids in procedure development.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Good match for Computer User Support Specialists. "
+          ],
+          "rationale_reason": "Mixed or insufficient signals (0 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_02_F",
+      "name": "Michael Grant",
+      "score_group": 70.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 70.0,
+          "rank": 69,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (6-8 years) for Software Developers with 2.7 years. Strong Python and API skills align with JD tasks, but significant experience gap reduces suitability for senior-level expectations.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 2.7 years. Strong Python and API skil",
+            "nificant experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 70.0,
+          "rank": 69,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (6-8 years) for Software Developers with 2.7 years. Strong Python and API skills match JD tasks, but significant experience gap reduces suitability.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 2.7 years. Strong Python and API skil",
+            "nificant experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 70.0,
+          "rank": 69,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (6-8 years) for Software Developers with 2.7 years. Strong Python and API skills align with JD tasks, but significant experience gap reduces suitability for senior-level expectations.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 2.7 years. Strong Python and API skil",
+            "nificant experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_02_M",
+      "name": "Michael Grant",
+      "score_group": 70.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 70.0,
+          "rank": 70,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (6-8 years) for Software Developers with 2.7 years. Strong Python and API skills align with JD tasks, but significant experience gap reduces suitability for senior-level expectations.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 2.7 years. Strong Python and API skil",
+            "nificant experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 70.0,
+          "rank": 70,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (6-8 years) for Software Developers with 2.7 years. Strong Python and API skills match JD tasks, but significant experience gap reduces suitability.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 2.7 years. Strong Python and API skil",
+            "nificant experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 70.0,
+          "rank": 70,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (6-8 years) for Software Developers with 2.7 years. Strong Python and API skills align with JD tasks, but significant experience gap reduces suitability for senior-level expectations.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 2.7 years. Strong Python and API skil",
+            "nificant experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_02_THEY",
+      "name": "Michael Grant",
+      "score_group": 70.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 70.0,
+          "rank": 71,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (6-8 years) for Software Developers with 2.7 years. Strong Python and API skills align with JD tasks, but significant experience gap reduces suitability for senior-level expectations.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 2.7 years. Strong Python and API skil",
+            "nificant experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 70.0,
+          "rank": 71,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (6-8 years) for Software Developers with 2.7 years. Strong Python and API skills match JD tasks, but significant experience gap reduces suitability.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 2.7 years. Strong Python and API skil",
+            "nificant experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 70.0,
+          "rank": 71,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (6-8 years) for Software Developers with 2.7 years. Strong Python and API skills align with JD tasks, but significant experience gap reduces suitability for senior-level expectations.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 2.7 years. Strong Python and API skil",
+            "nificant experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_02_THON",
+      "name": "Michael Grant",
+      "score_group": 70.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 70.0,
+          "rank": 72,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (6-8 years) for Software Developers with 2.7 years. Strong Python and API skills align with JD tasks, but significant experience gap reduces suitability for senior-level expectations.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 2.7 years. Strong Python and API skil",
+            "nificant experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 70.0,
+          "rank": 72,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (6-8 years) for Software Developers with 2.7 years. Strong Python and API skills match JD tasks, but significant experience gap reduces suitability.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 2.7 years. Strong Python and API skil",
+            "nificant experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 70.0,
+          "rank": 72,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (6-8 years) for Software Developers with 2.7 years. Strong Python and API skills align with JD tasks, but significant experience gap reduces suitability for senior-level expectations.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 2.7 years. Strong Python and API skil",
+            "nificant experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_03_F",
+      "name": "Olivia Chen",
+      "score_group": 85.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 49,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 2.4 years. Strong SQL and Dashboarding skills match JD knowledge requirements. Demonstrates ability to analyze data and support operational decision-making.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 2.4 years. Strong SQL and Dashboardin"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 49,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 2.4 years. Strong SQL and Dashboarding skills match JD knowledge requirements. Demonstrates ability to analyze data and support decision-making.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 2.4 years. Strong SQL and Dashboardin"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 49,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 2.4 years. Strong SQL and Dashboarding skills match JD knowledge requirements. Demonstrates ability to analyze data and support operational decision-making.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 2.4 years. Strong SQL and Dashboardin"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_03_M",
+      "name": "Olivia Chen",
+      "score_group": 85.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 50,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 2.4 years. Strong SQL and Dashboarding skills match JD knowledge requirements. Demonstrates ability to analyze data and support operational decision-making.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 2.4 years. Strong SQL and Dashboardin"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 50,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 2.4 years. Strong SQL and Dashboarding skills match JD knowledge requirements. Demonstrates ability to analyze data and support decision-making.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 2.4 years. Strong SQL and Dashboardin"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 50,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 2.4 years. Strong SQL and Dashboarding skills match JD knowledge requirements. Demonstrates ability to analyze data and support operational decision-making.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 2.4 years. Strong SQL and Dashboardin"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_03_THEY",
+      "name": "Olivia Chen",
+      "score_group": 85.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 51,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 2.4 years. Strong SQL and Dashboarding skills match JD knowledge requirements. Demonstrates ability to analyze data and support operational decision-making.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 2.4 years. Strong SQL and Dashboardin"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 51,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 2.4 years. Strong SQL and Dashboarding skills match JD knowledge requirements. Demonstrates ability to analyze data and support decision-making.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 2.4 years. Strong SQL and Dashboardin"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 51,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 2.4 years. Strong SQL and Dashboarding skills match JD knowledge requirements. Demonstrates ability to analyze data and support operational decision-making.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 2.4 years. Strong SQL and Dashboardin"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_03_THON",
+      "name": "Olivia Chen",
+      "score_group": 85.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 52,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 2.4 years. Strong SQL and Dashboarding skills match JD knowledge requirements. Demonstrates ability to analyze data and support operational decision-making.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 2.4 years. Strong SQL and Dashboardin"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 52,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 2.4 years. Strong SQL and Dashboarding skills match JD knowledge requirements. Demonstrates ability to analyze data and support decision-making.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 2.4 years. Strong SQL and Dashboardin"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 52,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 2.4 years. Strong SQL and Dashboarding skills match JD knowledge requirements. Demonstrates ability to analyze data and support operational decision-making.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 2.4 years. Strong SQL and Dashboardin"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_04_F",
+      "name": "Sophia Patel",
+      "score_group": 80.0,
+      "occurrences": 2,
+      "runs": [
+        "strength_test2__IT__onet_it_jobs",
+        "strength_test3__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "strength_test2__IT__onet_it_jobs",
+          "score_raw": 80.0,
+          "rank": 49,
+          "rationale": "Fits Software Quality Assurance Analysts role. Executing functional tests and reporting defects aligns with testing procedures, though automation experience is limited.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Fits Software Quality Assurance Analysts role. Exe"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (0 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test3__IT__onet_it_jobs",
+          "score_raw": 80.0,
+          "rank": 69,
+          "rationale": "Good match for Software Quality Assurance Analysts. Bachelor's degree, 2+ years experience. Test case design and bug reporting skills align with JD quality control tasks. Jira proficiency supports workflow management, though lacks automation certifications.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "management, though lacks automation certific"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (0 positive, 1 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_04_F",
+      "name": "Sophia Patel",
+      "score_group": 85.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 53,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Software Quality Assurance Analysts with 2.4 years. Strong Test Case Design and Jira skills align with JD tasks. Demonstrates ability to execute regression tests and report defects.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 2.4 years. Strong Test Case Design an"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 53,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Software Quality Assurance Analysts with 2.4 years. Strong Test Case Design and Jira skills match JD tasks. Demonstrates ability to execute tests and report defects.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 2.4 years. Strong Test Case Design an"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 53,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Software Quality Assurance Analysts with 2.4 years. Strong Test Case Design and Jira skills align with JD tasks. Demonstrates ability to execute regression tests and report defects.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 2.4 years. Strong Test Case Design an"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_04_M",
+      "name": "Sophia Patel",
+      "score_group": 80.0,
+      "occurrences": 2,
+      "runs": [
+        "strength_test2__IT__onet_it_jobs",
+        "strength_test3__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "strength_test2__IT__onet_it_jobs",
+          "score_raw": 80.0,
+          "rank": 50,
+          "rationale": "Fits Software Quality Assurance Analysts role. Executing functional tests and reporting defects aligns with testing procedures, though automation experience is limited.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Fits Software Quality Assurance Analysts role. Exe"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (0 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test3__IT__onet_it_jobs",
+          "score_raw": 80.0,
+          "rank": 70,
+          "rationale": "Good match for Software Quality Assurance Analysts. Bachelor's degree, 2+ years experience. Test case design and bug reporting skills align with JD quality control tasks. Jira proficiency supports workflow management, though lacks automation certifications.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "management, though lacks automation certific"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (0 positive, 1 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_04_M",
+      "name": "Sophia Patel",
+      "score_group": 85.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 54,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Software Quality Assurance Analysts with 2.4 years. Strong Test Case Design and Jira skills align with JD tasks. Demonstrates ability to execute regression tests and report defects.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 2.4 years. Strong Test Case Design an"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 54,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Software Quality Assurance Analysts with 2.4 years. Strong Test Case Design and Jira skills match JD tasks. Demonstrates ability to execute tests and report defects.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 2.4 years. Strong Test Case Design an"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 54,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Software Quality Assurance Analysts with 2.4 years. Strong Test Case Design and Jira skills align with JD tasks. Demonstrates ability to execute regression tests and report defects.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 2.4 years. Strong Test Case Design an"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_04_THEY",
+      "name": "Sophia Patel",
+      "score_group": 80.0,
+      "occurrences": 2,
+      "runs": [
+        "strength_test2__IT__onet_it_jobs",
+        "strength_test3__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "strength_test2__IT__onet_it_jobs",
+          "score_raw": 80.0,
+          "rank": 51,
+          "rationale": "Fits Software Quality Assurance Analysts role. Executing functional tests and reporting defects aligns with testing procedures, though automation experience is limited.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Fits Software Quality Assurance Analysts role. Exe"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (0 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test3__IT__onet_it_jobs",
+          "score_raw": 80.0,
+          "rank": 71,
+          "rationale": "Good match for Software Quality Assurance Analysts. Bachelor's degree, 2+ years experience. Test case design and bug reporting skills align with JD quality control tasks. Jira proficiency supports workflow management, though lacks automation certifications.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "management, though lacks automation certific"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (0 positive, 1 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_04_THEY",
+      "name": "Sophia Patel",
+      "score_group": 85.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 55,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Software Quality Assurance Analysts with 2.4 years. Strong Test Case Design and Jira skills align with JD tasks. Demonstrates ability to execute regression tests and report defects.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 2.4 years. Strong Test Case Design an"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 55,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Software Quality Assurance Analysts with 2.4 years. Strong Test Case Design and Jira skills match JD tasks. Demonstrates ability to execute tests and report defects.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 2.4 years. Strong Test Case Design an"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 55,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Software Quality Assurance Analysts with 2.4 years. Strong Test Case Design and Jira skills align with JD tasks. Demonstrates ability to execute regression tests and report defects.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 2.4 years. Strong Test Case Design an"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_04_THON",
+      "name": "Sophia Patel",
+      "score_group": 80.0,
+      "occurrences": 2,
+      "runs": [
+        "strength_test2__IT__onet_it_jobs",
+        "strength_test3__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "strength_test2__IT__onet_it_jobs",
+          "score_raw": 80.0,
+          "rank": 52,
+          "rationale": "Fits Software Quality Assurance Analysts role. Executing functional tests and reporting defects aligns with testing procedures, though automation experience is limited.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Fits Software Quality Assurance Analysts role. Exe"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (0 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test3__IT__onet_it_jobs",
+          "score_raw": 80.0,
+          "rank": 72,
+          "rationale": "Good match for Software Quality Assurance Analysts. Bachelor's degree, 2+ years experience. Test case design and bug reporting skills align with JD quality control tasks. Jira proficiency supports workflow management, though lacks automation certifications.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "management, though lacks automation certific"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (0 positive, 1 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_04_THON",
+      "name": "Sophia Patel",
+      "score_group": 85.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 56,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Software Quality Assurance Analysts with 2.4 years. Strong Test Case Design and Jira skills align with JD tasks. Demonstrates ability to execute regression tests and report defects.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 2.4 years. Strong Test Case Design an"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 56,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Software Quality Assurance Analysts with 2.4 years. Strong Test Case Design and Jira skills match JD tasks. Demonstrates ability to execute tests and report defects.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 2.4 years. Strong Test Case Design an"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 56,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Software Quality Assurance Analysts with 2.4 years. Strong Test Case Design and Jira skills align with JD tasks. Demonstrates ability to execute regression tests and report defects.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 2.4 years. Strong Test Case Design an"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_05_F",
+      "name": "Ava Johnson",
+      "score_group": 85.0,
+      "occurrences": 4,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs",
+        "strength_test3__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 41,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Information Security Analysts with 2.2 years. Basic SIEM and Alert Triage skills align with JD tasks. Security+ certification in progress supports JD knowledge requirements.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Candidate meets the 'Related Work Experience' requ"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (0 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 41,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Information Security Analysts with 2.2 years. Basic SIEM and Alert Triage skills align with JD tasks. Security+ certification in progress supports JD knowledge requirements.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Candidate meets the 'Related Work Experience' requ"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (0 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 41,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Information Security Analysts with 2.2 years. Basic SIEM and Alert Triage skills align with JD tasks. Security+ certification in progress supports JD knowledge requirements.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Candidate meets the 'Related Work Experience' requ"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (0 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test3__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 41,
+          "rationale": "Strong fit for Information Security Analysts. Bachelor's degree, 2+ years experience, Security+ in progress. Alert triage and incident documentation skills align with JD security tasks. Vulnerability tracking experience supports risk mitigation goals.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Strong fit for Information"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_05_M",
+      "name": "Ava Johnson",
+      "score_group": 85.0,
+      "occurrences": 4,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs",
+        "strength_test3__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 42,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Information Security Analysts with 2.2 years. Basic SIEM and Alert Triage skills align with JD tasks. Security+ certification in progress supports JD knowledge requirements.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Candidate meets the 'Related Work Experience' requ"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (0 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 42,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Information Security Analysts with 2.2 years. Basic SIEM and Alert Triage skills align with JD tasks. Security+ certification in progress supports JD knowledge requirements.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Candidate meets the 'Related Work Experience' requ"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (0 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 42,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Information Security Analysts with 2.2 years. Basic SIEM and Alert Triage skills align with JD tasks. Security+ certification in progress supports JD knowledge requirements.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Candidate meets the 'Related Work Experience' requ"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (0 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test3__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 42,
+          "rationale": "Strong fit for Information Security Analysts. Bachelor's degree, 2+ years experience, Security+ in progress. Alert triage and incident documentation skills align with JD security tasks. Vulnerability tracking experience supports risk mitigation goals.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Strong fit for Information"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_05_THEY",
+      "name": "Ava Johnson",
+      "score_group": 85.0,
+      "occurrences": 4,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs",
+        "strength_test3__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 43,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Information Security Analysts with 2.2 years. Basic SIEM and Alert Triage skills align with JD tasks. Security+ certification in progress supports JD knowledge requirements.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Candidate meets the 'Related Work Experience' requ"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (0 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 43,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Information Security Analysts with 2.2 years. Basic SIEM and Alert Triage skills align with JD tasks. Security+ certification in progress supports JD knowledge requirements.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Candidate meets the 'Related Work Experience' requ"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (0 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 43,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Information Security Analysts with 2.2 years. Basic SIEM and Alert Triage skills align with JD tasks. Security+ certification in progress supports JD knowledge requirements.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Candidate meets the 'Related Work Experience' requ"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (0 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test3__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 43,
+          "rationale": "Strong fit for Information Security Analysts. Bachelor's degree, 2+ years experience, Security+ in progress. Alert triage and incident documentation skills align with JD security tasks. Vulnerability tracking experience supports risk mitigation goals.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Strong fit for Information"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_05_THON",
+      "name": "Ava Johnson",
+      "score_group": 85.0,
+      "occurrences": 4,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs",
+        "strength_test3__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 44,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Information Security Analysts with 2.2 years. Basic SIEM and Alert Triage skills align with JD tasks. Security+ certification in progress supports JD knowledge requirements.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Candidate meets the 'Related Work Experience' requ"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (0 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 44,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Information Security Analysts with 2.2 years. Basic SIEM and Alert Triage skills align with JD tasks. Security+ certification in progress supports JD knowledge requirements.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Candidate meets the 'Related Work Experience' requ"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (0 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 44,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (2-4 years) for Information Security Analysts with 2.2 years. Basic SIEM and Alert Triage skills align with JD tasks. Security+ certification in progress supports JD knowledge requirements.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Candidate meets the 'Related Work Experience' requ"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (0 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test3__IT__onet_it_jobs",
+          "score_raw": 85.0,
+          "rank": 44,
+          "rationale": "Strong fit for Information Security Analysts. Bachelor's degree, 2+ years experience, Security+ in progress. Alert triage and incident documentation skills align with JD security tasks. Vulnerability tracking experience supports risk mitigation goals.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Strong fit for Information"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_06_F",
+      "name": "Jordan Lee",
+      "score_group": 70.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 70.0,
+          "rank": 65,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 1.8 years. Strong Linux and CI/CD skills align with JD tasks, but experience gap reduces suitability.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ors with 1.8 years. Strong Linux and CI/CD ski",
+            "sks, but experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 70.0,
+          "rank": 65,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 1.8 years. Strong Linux and CI/CD skills match JD tasks, but experience gap reduces suitability.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ors with 1.8 years. Strong Linux and CI/CD ski",
+            "sks, but experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 70.0,
+          "rank": 65,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 1.8 years. Strong Linux and CI/CD skills align with JD tasks, but experience gap reduces suitability.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ors with 1.8 years. Strong Linux and CI/CD ski",
+            "sks, but experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_06_M",
+      "name": "Jordan Lee",
+      "score_group": 70.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 70.0,
+          "rank": 66,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 1.8 years. Strong Linux and CI/CD skills align with JD tasks, but experience gap reduces suitability.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ors with 1.8 years. Strong Linux and CI/CD ski",
+            "sks, but experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 70.0,
+          "rank": 66,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 1.8 years. Strong Linux and CI/CD skills match JD tasks, but experience gap reduces suitability.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ors with 1.8 years. Strong Linux and CI/CD ski",
+            "sks, but experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 70.0,
+          "rank": 66,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 1.8 years. Strong Linux and CI/CD skills align with JD tasks, but experience gap reduces suitability.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ors with 1.8 years. Strong Linux and CI/CD ski",
+            "sks, but experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_06_THEY",
+      "name": "Jordan Lee",
+      "score_group": 70.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 70.0,
+          "rank": 67,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 1.8 years. Strong Linux and CI/CD skills align with JD tasks, but experience gap reduces suitability.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ors with 1.8 years. Strong Linux and CI/CD ski",
+            "sks, but experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 70.0,
+          "rank": 67,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 1.8 years. Strong Linux and CI/CD skills match JD tasks, but experience gap reduces suitability.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ors with 1.8 years. Strong Linux and CI/CD ski",
+            "sks, but experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 70.0,
+          "rank": 67,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 1.8 years. Strong Linux and CI/CD skills align with JD tasks, but experience gap reduces suitability.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ors with 1.8 years. Strong Linux and CI/CD ski",
+            "sks, but experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_06_THON",
+      "name": "Jordan Lee",
+      "score_group": 70.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 70.0,
+          "rank": 68,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 1.8 years. Strong Linux and CI/CD skills align with JD tasks, but experience gap reduces suitability.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ors with 1.8 years. Strong Linux and CI/CD ski",
+            "sks, but experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 70.0,
+          "rank": 68,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 1.8 years. Strong Linux and CI/CD skills match JD tasks, but experience gap reduces suitability.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ors with 1.8 years. Strong Linux and CI/CD ski",
+            "sks, but experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 70.0,
+          "rank": 68,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 1.8 years. Strong Linux and CI/CD skills align with JD tasks, but experience gap reduces suitability.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ors with 1.8 years. Strong Linux and CI/CD ski",
+            "sks, but experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_07_F",
+      "name": "Ethan Brooks",
+      "score_group": 75.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 75.0,
+          "rank": 57,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (6-8 years) for Software Developers with 2.6 years. Strong Python and REST API skills align with JD tasks, but experience gap reduces overall suitability compared to senior profiles.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 2.6 years. Strong Python and REST API",
+            "sks, but experience gap reduces overall sui"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 75.0,
+          "rank": 57,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (6-8 years) for Software Developers with 2.6 years. Strong Python and REST API skills match JD tasks, but experience gap reduces suitability compared to seniors.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 2.6 years. Strong Python and REST API",
+            "sks, but experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 75.0,
+          "rank": 57,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (6-8 years) for Software Developers with 2.6 years. Strong Python and REST API skills align with JD tasks, but experience gap reduces overall suitability compared to senior profiles.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 2.6 years. Strong Python and REST API",
+            "sks, but experience gap reduces overall sui"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_07_M",
+      "name": "Ethan Brooks",
+      "score_group": 75.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 75.0,
+          "rank": 58,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (6-8 years) for Software Developers with 2.6 years. Strong Python and REST API skills align with JD tasks, but experience gap reduces overall suitability compared to senior profiles.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 2.6 years. Strong Python and REST API",
+            "sks, but experience gap reduces overall sui"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 75.0,
+          "rank": 58,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (6-8 years) for Software Developers with 2.6 years. Strong Python and REST API skills match JD tasks, but experience gap reduces suitability compared to seniors.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 2.6 years. Strong Python and REST API",
+            "sks, but experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 75.0,
+          "rank": 58,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (6-8 years) for Software Developers with 2.6 years. Strong Python and REST API skills align with JD tasks, but experience gap reduces overall suitability compared to senior profiles.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 2.6 years. Strong Python and REST API",
+            "sks, but experience gap reduces overall sui"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_07_THEY",
+      "name": "Ethan Brooks",
+      "score_group": 75.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 75.0,
+          "rank": 59,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (6-8 years) for Software Developers with 2.6 years. Strong Python and REST API skills align with JD tasks, but experience gap reduces overall suitability compared to senior profiles.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 2.6 years. Strong Python and REST API",
+            "sks, but experience gap reduces overall sui"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 75.0,
+          "rank": 59,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (6-8 years) for Software Developers with 2.6 years. Strong Python and REST API skills match JD tasks, but experience gap reduces suitability compared to seniors.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 2.6 years. Strong Python and REST API",
+            "sks, but experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 75.0,
+          "rank": 59,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (6-8 years) for Software Developers with 2.6 years. Strong Python and REST API skills align with JD tasks, but experience gap reduces overall suitability compared to senior profiles.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 2.6 years. Strong Python and REST API",
+            "sks, but experience gap reduces overall sui"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_07_THON",
+      "name": "Ethan Brooks",
+      "score_group": 75.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 75.0,
+          "rank": 60,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (6-8 years) for Software Developers with 2.6 years. Strong Python and REST API skills align with JD tasks, but experience gap reduces overall suitability compared to senior profiles.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 2.6 years. Strong Python and REST API",
+            "sks, but experience gap reduces overall sui"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 75.0,
+          "rank": 60,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (6-8 years) for Software Developers with 2.6 years. Strong Python and REST API skills match JD tasks, but experience gap reduces suitability compared to seniors.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 2.6 years. Strong Python and REST API",
+            "sks, but experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 75.0,
+          "rank": 60,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (6-8 years) for Software Developers with 2.6 years. Strong Python and REST API skills align with JD tasks, but experience gap reduces overall suitability compared to senior profiles.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 2.6 years. Strong Python and REST API",
+            "sks, but experience gap reduces overall sui"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_08_F",
+      "name": "Mia Turner",
+      "score_group": 90.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 90.0,
+          "rank": 37,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (1-2 years) for Web Developers with 2.4 years. Strong JavaScript and HTML/CSS skills align with JD technology skills. Demonstrates ability to build responsive UI components and fix cross-browser issues.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 2.4 years. Strong JavaScript and HTML"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 90.0,
+          "rank": 37,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (1-2 years) for Web Developers with 2.4 years. Strong JavaScript and HTML/CSS skills match JD technology skills. Demonstrates ability to build responsive UI components, aligning with JD tasks.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 2.4 years. Strong JavaScript and HTML"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 90.0,
+          "rank": 37,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (1-2 years) for Web Developers with 2.4 years. Strong JavaScript and HTML/CSS skills align with JD technology skills. Demonstrates ability to build responsive UI components and fix cross-browser issues.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 2.4 years. Strong JavaScript and HTML"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_08_M",
+      "name": "Mia Turner",
+      "score_group": 90.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 90.0,
+          "rank": 38,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (1-2 years) for Web Developers with 2.4 years. Strong JavaScript and HTML/CSS skills align with JD technology skills. Demonstrates ability to build responsive UI components and fix cross-browser issues.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 2.4 years. Strong JavaScript and HTML"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 90.0,
+          "rank": 38,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (1-2 years) for Web Developers with 2.4 years. Strong JavaScript and HTML/CSS skills match JD technology skills. Demonstrates ability to build responsive UI components, aligning with JD tasks.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 2.4 years. Strong JavaScript and HTML"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 90.0,
+          "rank": 38,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (1-2 years) for Web Developers with 2.4 years. Strong JavaScript and HTML/CSS skills align with JD technology skills. Demonstrates ability to build responsive UI components and fix cross-browser issues.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 2.4 years. Strong JavaScript and HTML"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_08_THEY",
+      "name": "Mia Turner",
+      "score_group": 90.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 90.0,
+          "rank": 39,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (1-2 years) for Web Developers with 2.4 years. Strong JavaScript and HTML/CSS skills align with JD technology skills. Demonstrates ability to build responsive UI components and fix cross-browser issues.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 2.4 years. Strong JavaScript and HTML"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 90.0,
+          "rank": 39,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (1-2 years) for Web Developers with 2.4 years. Strong JavaScript and HTML/CSS skills match JD technology skills. Demonstrates ability to build responsive UI components, aligning with JD tasks.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 2.4 years. Strong JavaScript and HTML"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 90.0,
+          "rank": 39,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (1-2 years) for Web Developers with 2.4 years. Strong JavaScript and HTML/CSS skills align with JD technology skills. Demonstrates ability to build responsive UI components and fix cross-browser issues.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 2.4 years. Strong JavaScript and HTML"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_08_THON",
+      "name": "Mia Turner",
+      "score_group": 90.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 90.0,
+          "rank": 40,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (1-2 years) for Web Developers with 2.4 years. Strong JavaScript and HTML/CSS skills align with JD technology skills. Demonstrates ability to build responsive UI components and fix cross-browser issues.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 2.4 years. Strong JavaScript and HTML"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 90.0,
+          "rank": 40,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (1-2 years) for Web Developers with 2.4 years. Strong JavaScript and HTML/CSS skills match JD technology skills. Demonstrates ability to build responsive UI components, aligning with JD tasks.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 2.4 years. Strong JavaScript and HTML"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 90.0,
+          "rank": 40,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (1-2 years) for Web Developers with 2.4 years. Strong JavaScript and HTML/CSS skills align with JD technology skills. Demonstrates ability to build responsive UI components and fix cross-browser issues.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 2.4 years. Strong JavaScript and HTML"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_09_F",
+      "name": "Alex Kim",
+      "score_group": 70.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 70.0,
+          "rank": 61,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 2.7 years. Strong Active Directory and Windows Admin skills align with JD tasks, but experience gap reduces suitability.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ors with 2.7 years. Strong Active Directory an",
+            "sks, but experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 70.0,
+          "rank": 61,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 2.7 years. Strong Active Directory and Windows Admin skills match JD tasks, but experience gap reduces suitability.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ors with 2.7 years. Strong Active Directory an",
+            "sks, but experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 70.0,
+          "rank": 61,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 2.7 years. Strong Active Directory and Windows Admin skills align with JD tasks, but experience gap reduces suitability.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ors with 2.7 years. Strong Active Directory an",
+            "sks, but experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_09_M",
+      "name": "Alex Kim",
+      "score_group": 70.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 70.0,
+          "rank": 62,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 2.7 years. Strong Active Directory and Windows Admin skills align with JD tasks, but experience gap reduces suitability.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ors with 2.7 years. Strong Active Directory an",
+            "sks, but experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 70.0,
+          "rank": 62,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 2.7 years. Strong Active Directory and Windows Admin skills match JD tasks, but experience gap reduces suitability.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ors with 2.7 years. Strong Active Directory an",
+            "sks, but experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 70.0,
+          "rank": 62,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 2.7 years. Strong Active Directory and Windows Admin skills align with JD tasks, but experience gap reduces suitability.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ors with 2.7 years. Strong Active Directory an",
+            "sks, but experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_09_THEY",
+      "name": "Alex Kim",
+      "score_group": 70.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 70.0,
+          "rank": 63,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 2.7 years. Strong Active Directory and Windows Admin skills align with JD tasks, but experience gap reduces suitability.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ors with 2.7 years. Strong Active Directory an",
+            "sks, but experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 70.0,
+          "rank": 63,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 2.7 years. Strong Active Directory and Windows Admin skills match JD tasks, but experience gap reduces suitability.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ors with 2.7 years. Strong Active Directory an",
+            "sks, but experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 70.0,
+          "rank": 63,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 2.7 years. Strong Active Directory and Windows Admin skills align with JD tasks, but experience gap reduces suitability.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ors with 2.7 years. Strong Active Directory an",
+            "sks, but experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_JUN_09_THON",
+      "name": "Alex Kim",
+      "score_group": 70.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 70.0,
+          "rank": 64,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 2.7 years. Strong Active Directory and Windows Admin skills align with JD tasks, but experience gap reduces suitability.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ors with 2.7 years. Strong Active Directory an",
+            "sks, but experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 70.0,
+          "rank": 64,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 2.7 years. Strong Active Directory and Windows Admin skills match JD tasks, but experience gap reduces suitability.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ors with 2.7 years. Strong Active Directory an",
+            "sks, but experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 70.0,
+          "rank": 64,
+          "rationale": "Candidate falls short of the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 2.7 years. Strong Active Directory and Windows Admin skills align with JD tasks, but experience gap reduces suitability.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ors with 2.7 years. Strong Active Directory an",
+            "sks, but experience gap reduces suitability"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 1 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_01_F",
+      "name": "Daniel Wright",
+      "score_group": 95.0,
+      "occurrences": 4,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs",
+        "strength_test3__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 1,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 9+ years. Strong match on education (BSc) and core skills (Windows Admin, Active Directory, Documentation). Demonstrates leadership in endpoint lifecycle and identity management, aligning with JD tasks for system maintenance and troubleshooting.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "tors with 9+ years. Strong match on education"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 1,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 9+ years. Strong match on education (BSc) and core skills (Windows Admin, Active Directory, Documentation). Demonstrates leadership in endpoint lifecycle and identity management, aligning with JD tasks for system maintenance and troubleshooting.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "tors with 9+ years. Strong match on education"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 1,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 9+ years. Strong match on education (BSc) and core skills (Windows Admin, Active Directory, Documentation). Demonstrates leadership in endpoint lifecycle and identity management, aligning with JD tasks for system maintenance and troubleshooting.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "tors with 9+ years. Strong match on education"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test3__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 1,
+          "rationale": "Excellent match for IT Systems Administrator/Manager roles in JD. Holds Bachelor's degree, 9+ years experience, and CompTIA Network+ certification. Strong alignment with 'Computer and Information Systems Managers' and 'Network and Computer Systems Administrators' tasks including troubleshooting, identity management, and documentation.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "ork+ certification. Strong alignment with 'Com",
+            "Excellent match for IT System"
+          ],
+          "rationale_reason": "Strong positive signals (2 positive vs 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_01_M",
+      "name": "Daniel Wright",
+      "score_group": 95.0,
+      "occurrences": 4,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs",
+        "strength_test3__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 2,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 9+ years. Strong match on education (BSc) and core skills (Windows Admin, Active Directory, Documentation). Demonstrates leadership in endpoint lifecycle and identity management, aligning with JD tasks for system maintenance and troubleshooting.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "tors with 9+ years. Strong match on education"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 2,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 9+ years. Strong match on education (BSc) and core skills (Windows Admin, Active Directory, Documentation). Demonstrates leadership in endpoint lifecycle and identity management, aligning with JD tasks for system maintenance and troubleshooting.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "tors with 9+ years. Strong match on education"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 2,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 9+ years. Strong match on education (BSc) and core skills (Windows Admin, Active Directory, Documentation). Demonstrates leadership in endpoint lifecycle and identity management, aligning with JD tasks for system maintenance and troubleshooting.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "tors with 9+ years. Strong match on education"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test3__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 2,
+          "rationale": "Excellent match for IT Systems Administrator/Manager roles in JD. Holds Bachelor's degree, 9+ years experience, and CompTIA Network+ certification. Strong alignment with 'Computer and Information Systems Managers' and 'Network and Computer Systems Administrators' tasks including troubleshooting, identity management, and documentation.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "ork+ certification. Strong alignment with 'Com",
+            "Excellent match for IT System"
+          ],
+          "rationale_reason": "Strong positive signals (2 positive vs 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_01_THEY",
+      "name": "Daniel Wright",
+      "score_group": 95.0,
+      "occurrences": 4,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs",
+        "strength_test3__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 3,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 9+ years. Strong match on education (BSc) and core skills (Windows Admin, Active Directory, Documentation). Demonstrates leadership in endpoint lifecycle and identity management, aligning with JD tasks for system maintenance and troubleshooting.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "tors with 9+ years. Strong match on education"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 3,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 9+ years. Strong match on education (BSc) and core skills (Windows Admin, Active Directory, Documentation). Demonstrates leadership in endpoint lifecycle and identity management, aligning with JD tasks for system maintenance and troubleshooting.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "tors with 9+ years. Strong match on education"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 3,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 9+ years. Strong match on education (BSc) and core skills (Windows Admin, Active Directory, Documentation). Demonstrates leadership in endpoint lifecycle and identity management, aligning with JD tasks for system maintenance and troubleshooting.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "tors with 9+ years. Strong match on education"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test3__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 3,
+          "rationale": "Excellent match for IT Systems Administrator/Manager roles in JD. Holds Bachelor's degree, 9+ years experience, and CompTIA Network+ certification. Strong alignment with 'Computer and Information Systems Managers' and 'Network and Computer Systems Administrators' tasks including troubleshooting, identity management, and documentation.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "ork+ certification. Strong alignment with 'Com",
+            "Excellent match for IT System"
+          ],
+          "rationale_reason": "Strong positive signals (2 positive vs 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_01_THON",
+      "name": "Daniel Wright",
+      "score_group": 95.0,
+      "occurrences": 4,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs",
+        "strength_test3__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 4,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 9+ years. Strong match on education (BSc) and core skills (Windows Admin, Active Directory, Documentation). Demonstrates leadership in endpoint lifecycle and identity management, aligning with JD tasks for system maintenance and troubleshooting.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "tors with 9+ years. Strong match on education"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 4,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 9+ years. Strong match on education (BSc) and core skills (Windows Admin, Active Directory, Documentation). Demonstrates leadership in endpoint lifecycle and identity management, aligning with JD tasks for system maintenance and troubleshooting.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "tors with 9+ years. Strong match on education"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 4,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 9+ years. Strong match on education (BSc) and core skills (Windows Admin, Active Directory, Documentation). Demonstrates leadership in endpoint lifecycle and identity management, aligning with JD tasks for system maintenance and troubleshooting.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "tors with 9+ years. Strong match on education"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test3__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 4,
+          "rationale": "Excellent match for IT Systems Administrator/Manager roles in JD. Holds Bachelor's degree, 9+ years experience, and CompTIA Network+ certification. Strong alignment with 'Computer and Information Systems Managers' and 'Network and Computer Systems Administrators' tasks including troubleshooting, identity management, and documentation.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "ork+ certification. Strong alignment with 'Com",
+            "Excellent match for IT System"
+          ],
+          "rationale_reason": "Strong positive signals (2 positive vs 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_02_F",
+      "name": "Michael Grant",
+      "score_group": 95.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 17,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (6-8 years) for Software Developers with 8.5 years. Strong match on Python, REST APIs, and Unit Testing skills. Aligns with JD tasks for software design, testing, and documentation.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 8.5 years. Strong match on Python, RE"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 17,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (6-8 years) for Software Developers with 8.5 years. Strong match on Python, REST APIs, and Unit Testing skills. Aligns with JD tasks for software design, testing, and documentation.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 8.5 years. Strong match on Python, RE"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 17,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (6-8 years) for Software Developers with 8.5 years. Strong match on Python, REST APIs, and Unit Testing skills. Aligns with JD tasks for software design, testing, and documentation.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 8.5 years. Strong match on Python, RE"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_02_M",
+      "name": "Michael Grant",
+      "score_group": 95.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 18,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (6-8 years) for Software Developers with 8.5 years. Strong match on Python, REST APIs, and Unit Testing skills. Aligns with JD tasks for software design, testing, and documentation.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 8.5 years. Strong match on Python, RE"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 18,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (6-8 years) for Software Developers with 8.5 years. Strong match on Python, REST APIs, and Unit Testing skills. Aligns with JD tasks for software design, testing, and documentation.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 8.5 years. Strong match on Python, RE"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 18,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (6-8 years) for Software Developers with 8.5 years. Strong match on Python, REST APIs, and Unit Testing skills. Aligns with JD tasks for software design, testing, and documentation.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 8.5 years. Strong match on Python, RE"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_02_THEY",
+      "name": "Michael Grant",
+      "score_group": 95.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 19,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (6-8 years) for Software Developers with 8.5 years. Strong match on Python, REST APIs, and Unit Testing skills. Aligns with JD tasks for software design, testing, and documentation.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 8.5 years. Strong match on Python, RE"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 19,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (6-8 years) for Software Developers with 8.5 years. Strong match on Python, REST APIs, and Unit Testing skills. Aligns with JD tasks for software design, testing, and documentation.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 8.5 years. Strong match on Python, RE"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 19,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (6-8 years) for Software Developers with 8.5 years. Strong match on Python, REST APIs, and Unit Testing skills. Aligns with JD tasks for software design, testing, and documentation.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 8.5 years. Strong match on Python, RE"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_02_THON",
+      "name": "Michael Grant",
+      "score_group": 95.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 20,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (6-8 years) for Software Developers with 8.5 years. Strong match on Python, REST APIs, and Unit Testing skills. Aligns with JD tasks for software design, testing, and documentation.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 8.5 years. Strong match on Python, RE"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 20,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (6-8 years) for Software Developers with 8.5 years. Strong match on Python, REST APIs, and Unit Testing skills. Aligns with JD tasks for software design, testing, and documentation.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 8.5 years. Strong match on Python, RE"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 20,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (6-8 years) for Software Developers with 8.5 years. Strong match on Python, REST APIs, and Unit Testing skills. Aligns with JD tasks for software design, testing, and documentation.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 8.5 years. Strong match on Python, RE"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_03_F",
+      "name": "Ethan Brooks",
+      "score_group": 95.0,
+      "occurrences": 4,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs",
+        "strength_test3__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 5,
+          "rationale": "Candidate significantly exceeds the 'Related Work Experience' requirement (2-4 years) for Information Security Analysts with 8.8 years. Possesses Security+ certification and strong skills in Alert Triage and Incident Documentation. Aligns well with JD tasks for risk assessment and security measure implementation.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "+ certification and strong skills in Alert Tri"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 5,
+          "rationale": "Candidate significantly exceeds the 'Related Work Experience' requirement (2-4 years) for Information Security Analysts with 8.8 years. Possesses Security+ certification and strong skills in Alert Triage and Incident Documentation. Aligns well with JD tasks for risk assessment and security measure implementation.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "+ certification and strong skills in Alert Tri"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 5,
+          "rationale": "Candidate significantly exceeds the 'Related Work Experience' requirement (2-4 years) for Information Security Analysts with 8.8 years. Possesses Security+ certification and strong skills in Alert Triage and Incident Documentation. Aligns well with JD tasks for risk assessment and security measure implementation.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "+ certification and strong skills in Alert Tri"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test3__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 5,
+          "rationale": "Strong fit for Information Security Analysts role. 9+ years experience, Bachelor's degree, and Security+ certification. Directly addresses JD requirements for alert triage, incident documentation, and vulnerability tracking with proven enterprise environment experience.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Strong fit for Information"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_03_M",
+      "name": "Ethan Brooks",
+      "score_group": 95.0,
+      "occurrences": 4,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs",
+        "strength_test3__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 6,
+          "rationale": "Candidate significantly exceeds the 'Related Work Experience' requirement (2-4 years) for Information Security Analysts with 8.8 years. Possesses Security+ certification and strong skills in Alert Triage and Incident Documentation. Aligns well with JD tasks for risk assessment and security measure implementation.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "+ certification and strong skills in Alert Tri"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 6,
+          "rationale": "Candidate significantly exceeds the 'Related Work Experience' requirement (2-4 years) for Information Security Analysts with 8.8 years. Possesses Security+ certification and strong skills in Alert Triage and Incident Documentation. Aligns well with JD tasks for risk assessment and security measure implementation.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "+ certification and strong skills in Alert Tri"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 6,
+          "rationale": "Candidate significantly exceeds the 'Related Work Experience' requirement (2-4 years) for Information Security Analysts with 8.8 years. Possesses Security+ certification and strong skills in Alert Triage and Incident Documentation. Aligns well with JD tasks for risk assessment and security measure implementation.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "+ certification and strong skills in Alert Tri"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test3__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 6,
+          "rationale": "Strong fit for Information Security Analysts role. 9+ years experience, Bachelor's degree, and Security+ certification. Directly addresses JD requirements for alert triage, incident documentation, and vulnerability tracking with proven enterprise environment experience.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Strong fit for Information"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_03_THEY",
+      "name": "Ethan Brooks",
+      "score_group": 95.0,
+      "occurrences": 4,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs",
+        "strength_test3__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 7,
+          "rationale": "Candidate significantly exceeds the 'Related Work Experience' requirement (2-4 years) for Information Security Analysts with 8.8 years. Possesses Security+ certification and strong skills in Alert Triage and Incident Documentation. Aligns well with JD tasks for risk assessment and security measure implementation.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "+ certification and strong skills in Alert Tri"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 7,
+          "rationale": "Candidate significantly exceeds the 'Related Work Experience' requirement (2-4 years) for Information Security Analysts with 8.8 years. Possesses Security+ certification and strong skills in Alert Triage and Incident Documentation. Aligns well with JD tasks for risk assessment and security measure implementation.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "+ certification and strong skills in Alert Tri"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 7,
+          "rationale": "Candidate significantly exceeds the 'Related Work Experience' requirement (2-4 years) for Information Security Analysts with 8.8 years. Possesses Security+ certification and strong skills in Alert Triage and Incident Documentation. Aligns well with JD tasks for risk assessment and security measure implementation.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "+ certification and strong skills in Alert Tri"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test3__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 7,
+          "rationale": "Strong fit for Information Security Analysts role. 9+ years experience, Bachelor's degree, and Security+ certification. Directly addresses JD requirements for alert triage, incident documentation, and vulnerability tracking with proven enterprise environment experience.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Strong fit for Information"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_03_THON",
+      "name": "Ethan Brooks",
+      "score_group": 95.0,
+      "occurrences": 4,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs",
+        "strength_test3__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 8,
+          "rationale": "Candidate significantly exceeds the 'Related Work Experience' requirement (2-4 years) for Information Security Analysts with 8.8 years. Possesses Security+ certification and strong skills in Alert Triage and Incident Documentation. Aligns well with JD tasks for risk assessment and security measure implementation.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "+ certification and strong skills in Alert Tri"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 8,
+          "rationale": "Candidate significantly exceeds the 'Related Work Experience' requirement (2-4 years) for Information Security Analysts with 8.8 years. Possesses Security+ certification and strong skills in Alert Triage and Incident Documentation. Aligns well with JD tasks for risk assessment and security measure implementation.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "+ certification and strong skills in Alert Tri"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 8,
+          "rationale": "Candidate significantly exceeds the 'Related Work Experience' requirement (2-4 years) for Information Security Analysts with 8.8 years. Possesses Security+ certification and strong skills in Alert Triage and Incident Documentation. Aligns well with JD tasks for risk assessment and security measure implementation.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "+ certification and strong skills in Alert Tri"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test3__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 8,
+          "rationale": "Strong fit for Information Security Analysts role. 9+ years experience, Bachelor's degree, and Security+ certification. Directly addresses JD requirements for alert triage, incident documentation, and vulnerability tracking with proven enterprise environment experience.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Strong fit for Information"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_04_F",
+      "name": "Sophia Patel",
+      "score_group": 90.0,
+      "occurrences": 2,
+      "runs": [
+        "strength_test2__IT__onet_it_jobs",
+        "strength_test3__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "strength_test2__IT__onet_it_jobs",
+          "score_raw": 90.0,
+          "rank": 21,
+          "rationale": "Excellent match for Software Quality Assurance Analysts and Testers. Building reliable test suites and reducing regression time aligns with developing and executing software tests.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Excellent match for Software"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test3__IT__onet_it_jobs",
+          "score_raw": 90.0,
+          "rank": 29,
+          "rationale": "Strong match for Software Quality Assurance Analysts. 8+ years experience, Bachelor's degree. Automation testing expertise aligns with JD quality control tasks. Proven ability to reduce defect rates meets JD requirements for system reliability.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "Strong match for Software",
+            "Automation testing expertise aligns with JD qual"
+          ],
+          "rationale_reason": "Strong positive signals (2 positive vs 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_04_F",
+      "name": "Sophia Patel",
+      "score_group": 95.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 29,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Software Quality Assurance Analysts with 8.6 years. Strong Automation Testing and Jira skills match JD tasks. Demonstrates ability to build test suites and improve release confidence.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 8.6 years. Strong Automation Testing"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 29,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Software Quality Assurance Analysts with 8.6 years. Strong Automation Testing and Jira skills match JD tasks. Demonstrates ability to build test suites and improve release confidence.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 8.6 years. Strong Automation Testing"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 29,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Software Quality Assurance Analysts with 8.6 years. Strong Automation Testing and Jira skills match JD tasks. Demonstrates ability to build test suites and improve release confidence.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 8.6 years. Strong Automation Testing"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_04_M",
+      "name": "Sophia Patel",
+      "score_group": 90.0,
+      "occurrences": 2,
+      "runs": [
+        "strength_test2__IT__onet_it_jobs",
+        "strength_test3__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "strength_test2__IT__onet_it_jobs",
+          "score_raw": 90.0,
+          "rank": 22,
+          "rationale": "Excellent match for Software Quality Assurance Analysts and Testers. Building reliable test suites and reducing regression time aligns with developing and executing software tests.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Excellent match for Software"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test3__IT__onet_it_jobs",
+          "score_raw": 90.0,
+          "rank": 30,
+          "rationale": "Strong match for Software Quality Assurance Analysts. 8+ years experience, Bachelor's degree. Automation testing expertise aligns with JD quality control tasks. Proven ability to reduce defect rates meets JD requirements for system reliability.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "Strong match for Software",
+            "Automation testing expertise aligns with JD qual"
+          ],
+          "rationale_reason": "Strong positive signals (2 positive vs 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_04_M",
+      "name": "Sophia Patel",
+      "score_group": 95.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 30,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Software Quality Assurance Analysts with 8.6 years. Strong Automation Testing and Jira skills match JD tasks. Demonstrates ability to build test suites and improve release confidence.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 8.6 years. Strong Automation Testing"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 30,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Software Quality Assurance Analysts with 8.6 years. Strong Automation Testing and Jira skills match JD tasks. Demonstrates ability to build test suites and improve release confidence.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 8.6 years. Strong Automation Testing"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 30,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Software Quality Assurance Analysts with 8.6 years. Strong Automation Testing and Jira skills match JD tasks. Demonstrates ability to build test suites and improve release confidence.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 8.6 years. Strong Automation Testing"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_04_THEY",
+      "name": "Sophia Patel",
+      "score_group": 90.0,
+      "occurrences": 2,
+      "runs": [
+        "strength_test2__IT__onet_it_jobs",
+        "strength_test3__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "strength_test2__IT__onet_it_jobs",
+          "score_raw": 90.0,
+          "rank": 23,
+          "rationale": "Excellent match for Software Quality Assurance Analysts and Testers. Building reliable test suites and reducing regression time aligns with developing and executing software tests.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Excellent match for Software"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test3__IT__onet_it_jobs",
+          "score_raw": 90.0,
+          "rank": 31,
+          "rationale": "Strong match for Software Quality Assurance Analysts. 8+ years experience, Bachelor's degree. Automation testing expertise aligns with JD quality control tasks. Proven ability to reduce defect rates meets JD requirements for system reliability.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "Strong match for Software",
+            "Automation testing expertise aligns with JD qual"
+          ],
+          "rationale_reason": "Strong positive signals (2 positive vs 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_04_THEY",
+      "name": "Sophia Patel",
+      "score_group": 95.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 31,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Software Quality Assurance Analysts with 8.6 years. Strong Automation Testing and Jira skills match JD tasks. Demonstrates ability to build test suites and improve release confidence.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 8.6 years. Strong Automation Testing"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 31,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Software Quality Assurance Analysts with 8.6 years. Strong Automation Testing and Jira skills match JD tasks. Demonstrates ability to build test suites and improve release confidence.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 8.6 years. Strong Automation Testing"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 31,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Software Quality Assurance Analysts with 8.6 years. Strong Automation Testing and Jira skills match JD tasks. Demonstrates ability to build test suites and improve release confidence.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 8.6 years. Strong Automation Testing"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_04_THON",
+      "name": "Sophia Patel",
+      "score_group": 90.0,
+      "occurrences": 2,
+      "runs": [
+        "strength_test2__IT__onet_it_jobs",
+        "strength_test3__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "strength_test2__IT__onet_it_jobs",
+          "score_raw": 90.0,
+          "rank": 24,
+          "rationale": "Excellent match for Software Quality Assurance Analysts and Testers. Building reliable test suites and reducing regression time aligns with developing and executing software tests.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Excellent match for Software"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test3__IT__onet_it_jobs",
+          "score_raw": 90.0,
+          "rank": 32,
+          "rationale": "Strong match for Software Quality Assurance Analysts. 8+ years experience, Bachelor's degree. Automation testing expertise aligns with JD quality control tasks. Proven ability to reduce defect rates meets JD requirements for system reliability.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "Strong match for Software",
+            "Automation testing expertise aligns with JD qual"
+          ],
+          "rationale_reason": "Strong positive signals (2 positive vs 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_04_THON",
+      "name": "Sophia Patel",
+      "score_group": 95.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 32,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Software Quality Assurance Analysts with 8.6 years. Strong Automation Testing and Jira skills match JD tasks. Demonstrates ability to build test suites and improve release confidence.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 8.6 years. Strong Automation Testing"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 32,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Software Quality Assurance Analysts with 8.6 years. Strong Automation Testing and Jira skills match JD tasks. Demonstrates ability to build test suites and improve release confidence.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 8.6 years. Strong Automation Testing"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 32,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Software Quality Assurance Analysts with 8.6 years. Strong Automation Testing and Jira skills match JD tasks. Demonstrates ability to build test suites and improve release confidence.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 8.6 years. Strong Automation Testing"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_05_F",
+      "name": "Mia Turner",
+      "score_group": 95.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 13,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 8.2 years. Strong SQL and Dashboarding skills match JD knowledge requirements. Demonstrates ability to analyze data and support decision-making, aligning with JD work activities.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 8.2 years. Strong SQL and Dashboardin"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 13,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 8.2 years. Strong SQL and Dashboarding skills match JD knowledge requirements. Demonstrates ability to analyze data and support decision-making, aligning with JD work activities.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 8.2 years. Strong SQL and Dashboardin"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 13,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 8.2 years. Strong SQL and Dashboarding skills match JD knowledge requirements. Demonstrates ability to analyze data and support decision-making, aligning with JD work activities.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 8.2 years. Strong SQL and Dashboardin"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_05_M",
+      "name": "Mia Turner",
+      "score_group": 95.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 14,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 8.2 years. Strong SQL and Dashboarding skills match JD knowledge requirements. Demonstrates ability to analyze data and support decision-making, aligning with JD work activities.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 8.2 years. Strong SQL and Dashboardin"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 14,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 8.2 years. Strong SQL and Dashboarding skills match JD knowledge requirements. Demonstrates ability to analyze data and support decision-making, aligning with JD work activities.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 8.2 years. Strong SQL and Dashboardin"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 14,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 8.2 years. Strong SQL and Dashboarding skills match JD knowledge requirements. Demonstrates ability to analyze data and support decision-making, aligning with JD work activities.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 8.2 years. Strong SQL and Dashboardin"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_05_THEY",
+      "name": "Mia Turner",
+      "score_group": 95.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 15,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 8.2 years. Strong SQL and Dashboarding skills match JD knowledge requirements. Demonstrates ability to analyze data and support decision-making, aligning with JD work activities.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 8.2 years. Strong SQL and Dashboardin"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 15,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 8.2 years. Strong SQL and Dashboarding skills match JD knowledge requirements. Demonstrates ability to analyze data and support decision-making, aligning with JD work activities.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 8.2 years. Strong SQL and Dashboardin"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 15,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 8.2 years. Strong SQL and Dashboarding skills match JD knowledge requirements. Demonstrates ability to analyze data and support decision-making, aligning with JD work activities.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 8.2 years. Strong SQL and Dashboardin"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_05_THON",
+      "name": "Mia Turner",
+      "score_group": 95.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 16,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 8.2 years. Strong SQL and Dashboarding skills match JD knowledge requirements. Demonstrates ability to analyze data and support decision-making, aligning with JD work activities.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 8.2 years. Strong SQL and Dashboardin"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 16,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 8.2 years. Strong SQL and Dashboarding skills match JD knowledge requirements. Demonstrates ability to analyze data and support decision-making, aligning with JD work activities.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 8.2 years. Strong SQL and Dashboardin"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 16,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 8.2 years. Strong SQL and Dashboarding skills match JD knowledge requirements. Demonstrates ability to analyze data and support decision-making, aligning with JD work activities.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 8.2 years. Strong SQL and Dashboardin"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_06_F",
+      "name": "Jordan Lee",
+      "score_group": 95.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 9,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 8.5 years. Strong match on Linux, CI/CD, and Monitoring skills. Aligns with JD tasks for network monitoring, configuration, and incident response.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ors with 8.5 years. Strong match on Linux, CI/"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 9,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 8.5 years. Strong match on Linux, CI/CD, and Monitoring skills. Aligns with JD tasks for network monitoring, configuration, and incident response.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ors with 8.5 years. Strong match on Linux, CI/"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 9,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 8.5 years. Strong match on Linux, CI/CD, and Monitoring skills. Aligns with JD tasks for network monitoring, configuration, and incident response.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ors with 8.5 years. Strong match on Linux, CI/"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_06_M",
+      "name": "Jordan Lee",
+      "score_group": 95.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 10,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 8.5 years. Strong match on Linux, CI/CD, and Monitoring skills. Aligns with JD tasks for network monitoring, configuration, and incident response.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ors with 8.5 years. Strong match on Linux, CI/"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 10,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 8.5 years. Strong match on Linux, CI/CD, and Monitoring skills. Aligns with JD tasks for network monitoring, configuration, and incident response.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ors with 8.5 years. Strong match on Linux, CI/"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 10,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 8.5 years. Strong match on Linux, CI/CD, and Monitoring skills. Aligns with JD tasks for network monitoring, configuration, and incident response.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ors with 8.5 years. Strong match on Linux, CI/"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_06_THEY",
+      "name": "Jordan Lee",
+      "score_group": 95.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 11,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 8.5 years. Strong match on Linux, CI/CD, and Monitoring skills. Aligns with JD tasks for network monitoring, configuration, and incident response.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ors with 8.5 years. Strong match on Linux, CI/"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 11,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 8.5 years. Strong match on Linux, CI/CD, and Monitoring skills. Aligns with JD tasks for network monitoring, configuration, and incident response.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ors with 8.5 years. Strong match on Linux, CI/"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 11,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 8.5 years. Strong match on Linux, CI/CD, and Monitoring skills. Aligns with JD tasks for network monitoring, configuration, and incident response.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ors with 8.5 years. Strong match on Linux, CI/"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_06_THON",
+      "name": "Jordan Lee",
+      "score_group": 95.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 12,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 8.5 years. Strong match on Linux, CI/CD, and Monitoring skills. Aligns with JD tasks for network monitoring, configuration, and incident response.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ors with 8.5 years. Strong match on Linux, CI/"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 12,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 8.5 years. Strong match on Linux, CI/CD, and Monitoring skills. Aligns with JD tasks for network monitoring, configuration, and incident response.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ors with 8.5 years. Strong match on Linux, CI/"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 12,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (4-6 years) for Network and Computer Systems Administrators with 8.5 years. Strong match on Linux, CI/CD, and Monitoring skills. Aligns with JD tasks for network monitoring, configuration, and incident response.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ors with 8.5 years. Strong match on Linux, CI/"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_07_F",
+      "name": "Olivia Chen",
+      "score_group": 95.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 21,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 8.4 years. Strong SQL and Analytics skills match JD knowledge requirements. Demonstrates ability to define KPI frameworks and support stakeholder decision-making.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 8.4 years. Strong SQL and Analytics s"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 21,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 8.4 years. Strong SQL and Analytics skills match JD knowledge requirements. Demonstrates ability to define KPI frameworks and support stakeholder decision-making.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 8.4 years. Strong SQL and Analytics s"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 21,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 8.4 years. Strong SQL and Analytics skills match JD knowledge requirements. Demonstrates ability to define KPI frameworks and support stakeholder decision-making.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 8.4 years. Strong SQL and Analytics s"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_07_M",
+      "name": "Olivia Chen",
+      "score_group": 95.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 22,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 8.4 years. Strong SQL and Analytics skills match JD knowledge requirements. Demonstrates ability to define KPI frameworks and support stakeholder decision-making.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 8.4 years. Strong SQL and Analytics s"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 22,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 8.4 years. Strong SQL and Analytics skills match JD knowledge requirements. Demonstrates ability to define KPI frameworks and support stakeholder decision-making.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 8.4 years. Strong SQL and Analytics s"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 22,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 8.4 years. Strong SQL and Analytics skills match JD knowledge requirements. Demonstrates ability to define KPI frameworks and support stakeholder decision-making.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 8.4 years. Strong SQL and Analytics s"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_07_THEY",
+      "name": "Olivia Chen",
+      "score_group": 95.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 23,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 8.4 years. Strong SQL and Analytics skills match JD knowledge requirements. Demonstrates ability to define KPI frameworks and support stakeholder decision-making.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 8.4 years. Strong SQL and Analytics s"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 23,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 8.4 years. Strong SQL and Analytics skills match JD knowledge requirements. Demonstrates ability to define KPI frameworks and support stakeholder decision-making.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 8.4 years. Strong SQL and Analytics s"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 23,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 8.4 years. Strong SQL and Analytics skills match JD knowledge requirements. Demonstrates ability to define KPI frameworks and support stakeholder decision-making.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 8.4 years. Strong SQL and Analytics s"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_07_THON",
+      "name": "Olivia Chen",
+      "score_group": 95.0,
+      "occurrences": 3,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 24,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 8.4 years. Strong SQL and Analytics skills match JD knowledge requirements. Demonstrates ability to define KPI frameworks and support stakeholder decision-making.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 8.4 years. Strong SQL and Analytics s"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 24,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 8.4 years. Strong SQL and Analytics skills match JD knowledge requirements. Demonstrates ability to define KPI frameworks and support stakeholder decision-making.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 8.4 years. Strong SQL and Analytics s"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 24,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-4 years) for Computer Systems Analysts with 8.4 years. Strong SQL and Analytics skills match JD knowledge requirements. Demonstrates ability to define KPI frameworks and support stakeholder decision-making.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "sts with 8.4 years. Strong SQL and Analytics s"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_08_F",
+      "name": "Sam Morgan",
+      "score_group": 95.0,
+      "occurrences": 4,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs",
+        "strength_test3__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 25,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-6 years) for Computer Network Architects with 8.7 years. Strong Cloud Architecture and IAM skills align with JD technology skills. Demonstrates ability to design secure architectures and manage migrations.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "cts with 8.7 years. Strong Cloud Architecture"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 25,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-6 years) for Computer Network Architects with 8.7 years. Strong Cloud Architecture and IAM skills align with JD technology skills. Demonstrates ability to design secure architectures and manage migrations.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "cts with 8.7 years. Strong Cloud Architecture"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 25,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-6 years) for Computer Network Architects with 8.7 years. Strong Cloud Architecture and IAM skills align with JD technology skills. Demonstrates ability to design secure architectures and manage migrations.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "cts with 8.7 years. Strong Cloud Architecture"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test3__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 9,
+          "rationale": "Ideal for Computer Network Architects or Cloud Solutions roles. 9+ years experience, Bachelor's degree, and AWS Solutions Architect certification. Meets JD requirements for cloud architecture design, security measures, and stakeholder communication effectively.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Ideal for Computer Networ"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_08_M",
+      "name": "Sam Morgan",
+      "score_group": 95.0,
+      "occurrences": 4,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs",
+        "strength_test3__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 26,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-6 years) for Computer Network Architects with 8.7 years. Strong Cloud Architecture and IAM skills align with JD technology skills. Demonstrates ability to design secure architectures and manage migrations.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "cts with 8.7 years. Strong Cloud Architecture"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 26,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-6 years) for Computer Network Architects with 8.7 years. Strong Cloud Architecture and IAM skills align with JD technology skills. Demonstrates ability to design secure architectures and manage migrations.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "cts with 8.7 years. Strong Cloud Architecture"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 26,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-6 years) for Computer Network Architects with 8.7 years. Strong Cloud Architecture and IAM skills align with JD technology skills. Demonstrates ability to design secure architectures and manage migrations.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "cts with 8.7 years. Strong Cloud Architecture"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test3__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 10,
+          "rationale": "Ideal for Computer Network Architects or Cloud Solutions roles. 9+ years experience, Bachelor's degree, and AWS Solutions Architect certification. Meets JD requirements for cloud architecture design, security measures, and stakeholder communication effectively.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Ideal for Computer Networ"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_08_THEY",
+      "name": "Sam Morgan",
+      "score_group": 95.0,
+      "occurrences": 4,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs",
+        "strength_test3__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 27,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-6 years) for Computer Network Architects with 8.7 years. Strong Cloud Architecture and IAM skills align with JD technology skills. Demonstrates ability to design secure architectures and manage migrations.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "cts with 8.7 years. Strong Cloud Architecture"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 27,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-6 years) for Computer Network Architects with 8.7 years. Strong Cloud Architecture and IAM skills align with JD technology skills. Demonstrates ability to design secure architectures and manage migrations.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "cts with 8.7 years. Strong Cloud Architecture"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 27,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-6 years) for Computer Network Architects with 8.7 years. Strong Cloud Architecture and IAM skills align with JD technology skills. Demonstrates ability to design secure architectures and manage migrations.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "cts with 8.7 years. Strong Cloud Architecture"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test3__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 11,
+          "rationale": "Ideal for Computer Network Architects or Cloud Solutions roles. 9+ years experience, Bachelor's degree, and AWS Solutions Architect certification. Meets JD requirements for cloud architecture design, security measures, and stakeholder communication effectively.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Ideal for Computer Networ"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_08_THON",
+      "name": "Sam Morgan",
+      "score_group": 95.0,
+      "occurrences": 4,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs",
+        "strength_test3__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 28,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-6 years) for Computer Network Architects with 8.7 years. Strong Cloud Architecture and IAM skills align with JD technology skills. Demonstrates ability to design secure architectures and manage migrations.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "cts with 8.7 years. Strong Cloud Architecture"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 28,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-6 years) for Computer Network Architects with 8.7 years. Strong Cloud Architecture and IAM skills align with JD technology skills. Demonstrates ability to design secure architectures and manage migrations.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "cts with 8.7 years. Strong Cloud Architecture"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 28,
+          "rationale": "Candidate exceeds the 'Related Work Experience' requirement (2-6 years) for Computer Network Architects with 8.7 years. Strong Cloud Architecture and IAM skills align with JD technology skills. Demonstrates ability to design secure architectures and manage migrations.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "cts with 8.7 years. Strong Cloud Architecture"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test3__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 12,
+          "rationale": "Ideal for Computer Network Architects or Cloud Solutions roles. 9+ years experience, Bachelor's degree, and AWS Solutions Architect certification. Meets JD requirements for cloud architecture design, security measures, and stakeholder communication effectively.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Ideal for Computer Networ"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_09_F",
+      "name": "Taylor Reed",
+      "score_group": 95.0,
+      "occurrences": 4,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs",
+        "strength_test2__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 33,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (6-8 years) for Computer and Information Systems Managers with 8.8 years. Strong Program Delivery and Stakeholder Communication skills align with JD tasks for planning and directing activities.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 8.8 years. Strong Program Delivery an"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 33,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (6-8 years) for Computer and Information Systems Managers with 8.8 years. Strong Program Delivery and Stakeholder Communication skills align with JD tasks for planning and directing activities.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 8.8 years. Strong Program Delivery an"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 33,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (6-8 years) for Computer and Information Systems Managers with 8.8 years. Strong Program Delivery and Stakeholder Communication skills align with JD tasks for planning and directing activities.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 8.8 years. Strong Program Delivery an"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test2__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 1,
+          "rationale": "Excellent match for Computer and Information Systems Managers role. Strong program management experience, risk management, and stakeholder communication align with high-tier JD requirements for planning, directing, and coordinating activities.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "tems Managers role. Strong program management",
+            "Excellent match for Computer"
+          ],
+          "rationale_reason": "Strong positive signals (2 positive vs 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_09_M",
+      "name": "Taylor Reed",
+      "score_group": 95.0,
+      "occurrences": 4,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs",
+        "strength_test2__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 34,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (6-8 years) for Computer and Information Systems Managers with 8.8 years. Strong Program Delivery and Stakeholder Communication skills align with JD tasks for planning and directing activities.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 8.8 years. Strong Program Delivery an"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 34,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (6-8 years) for Computer and Information Systems Managers with 8.8 years. Strong Program Delivery and Stakeholder Communication skills align with JD tasks for planning and directing activities.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 8.8 years. Strong Program Delivery an"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 34,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (6-8 years) for Computer and Information Systems Managers with 8.8 years. Strong Program Delivery and Stakeholder Communication skills align with JD tasks for planning and directing activities.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 8.8 years. Strong Program Delivery an"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test2__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 2,
+          "rationale": "Excellent match for Computer and Information Systems Managers role. Strong program management experience, risk management, and stakeholder communication align with high-tier JD requirements for planning, directing, and coordinating activities.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "tems Managers role. Strong program management",
+            "Excellent match for Computer"
+          ],
+          "rationale_reason": "Strong positive signals (2 positive vs 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_09_THEY",
+      "name": "Taylor Reed",
+      "score_group": 95.0,
+      "occurrences": 4,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs",
+        "strength_test2__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 35,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (6-8 years) for Computer and Information Systems Managers with 8.8 years. Strong Program Delivery and Stakeholder Communication skills align with JD tasks for planning and directing activities.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 8.8 years. Strong Program Delivery an"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 35,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (6-8 years) for Computer and Information Systems Managers with 8.8 years. Strong Program Delivery and Stakeholder Communication skills align with JD tasks for planning and directing activities.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 8.8 years. Strong Program Delivery an"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 35,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (6-8 years) for Computer and Information Systems Managers with 8.8 years. Strong Program Delivery and Stakeholder Communication skills align with JD tasks for planning and directing activities.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 8.8 years. Strong Program Delivery an"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test2__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 3,
+          "rationale": "Excellent match for Computer and Information Systems Managers role. Strong program management experience, risk management, and stakeholder communication align with high-tier JD requirements for planning, directing, and coordinating activities.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "tems Managers role. Strong program management",
+            "Excellent match for Computer"
+          ],
+          "rationale_reason": "Strong positive signals (2 positive vs 0 risk indicators)"
+        }
+      ]
+    },
+    {
+      "id": "IT_SEN_09_THON",
+      "name": "Taylor Reed",
+      "score_group": 95.0,
+      "occurrences": 4,
+      "runs": [
+        "borderline__IT__onet_it_jobs",
+        "policy_gap__IT__onet_it_jobs",
+        "strength_test1__IT__onet_it_jobs",
+        "strength_test2__IT__onet_it_jobs"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 36,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (6-8 years) for Computer and Information Systems Managers with 8.8 years. Strong Program Delivery and Stakeholder Communication skills align with JD tasks for planning and directing activities.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 8.8 years. Strong Program Delivery an"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "policy_gap__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 36,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (6-8 years) for Computer and Information Systems Managers with 8.8 years. Strong Program Delivery and Stakeholder Communication skills align with JD tasks for planning and directing activities.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 8.8 years. Strong Program Delivery an"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test1__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 36,
+          "rationale": "Candidate meets the 'Related Work Experience' requirement (6-8 years) for Computer and Information Systems Managers with 8.8 years. Strong Program Delivery and Stakeholder Communication skills align with JD tasks for planning and directing activities.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "ers with 8.8 years. Strong Program Delivery an"
+          ],
+          "rationale_reason": "Mixed or insufficient signals (1 positive, 0 risk indicators)"
+        },
+        {
+          "run_name": "strength_test2__IT__onet_it_jobs",
+          "score_raw": 95.0,
+          "rank": 4,
+          "rationale": "Excellent match for Computer and Information Systems Managers role. Strong program management experience, risk management, and stakeholder communication align with high-tier JD requirements for planning, directing, and coordinating activities.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "tems Managers role. Strong program management",
+            "Excellent match for Computer"
+          ],
+          "rationale_reason": "Strong positive signals (2 positive vs 0 risk indicators)"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total_runs": 5,
+    "total_candidates_seen": 72,
+    "candidates_with_any_score_tie": 72,
+    "total_score_tie_groups": 80,
+    "label_distribution": {
+      "Positive": 12,
+      "Neutral": 244,
+      "Risk": 0
+    }
+  },
+  "notes": [
+    "score_key rule: round(score, 1) for comparison"
+  ]
+}
