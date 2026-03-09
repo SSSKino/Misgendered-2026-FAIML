@@ -1,0 +1,6132 @@
+{
+  "metadata": {
+    "source": "O*NET Online Database",
+    "url": "https://www.onetcenter.org/database.html",
+    "industries": [
+      "IT",
+      "Construction",
+      "Nursing"
+    ],
+    "fields_collected": [
+      "soc_code",
+      "title",
+      "description",
+      "skills",
+      "abilities",
+      "knowledge",
+      "tasks",
+      "technology_skills",
+      "education_requirements",
+      "work_activities",
+      "work_context"
+    ],
+    "industry": "Construction",
+    "total_occupations": 18
+  },
+  "occupations": [
+    {
+      "soc_code": "11-9021.00",
+      "title": "Construction Managers",
+      "description": "Plan, direct, or coordinate, usually through subordinate supervisory personnel, activities concerned with the construction and maintenance of structures, facilities, and systems. Participate in the conceptual development of a construction project and oversee its organization, scheduling, budgeting, and implementation. Includes managers in specialized construction fields, such as carpentry or plumbing.",
+      "skills": [
+        {
+          "name": "Management of Personnel Resources",
+          "tier_label": "High"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "tier_label": "High"
+        },
+        {
+          "name": "Time Management",
+          "tier_label": "High"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "High"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "tier_label": "High"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "High"
+        },
+        {
+          "name": "Coordination",
+          "tier_label": "High"
+        },
+        {
+          "name": "Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Negotiation",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Learning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Writing",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Management of Financial Resources",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Analysis",
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Problem Sensitivity",
+          "tier_label": "High"
+        },
+        {
+          "name": "Oral Comprehension",
+          "tier_label": "High"
+        },
+        {
+          "name": "Information Ordering",
+          "tier_label": "High"
+        },
+        {
+          "name": "Oral Expression",
+          "tier_label": "High"
+        },
+        {
+          "name": "Written Comprehension",
+          "tier_label": "High"
+        },
+        {
+          "name": "Deductive Reasoning",
+          "tier_label": "High"
+        },
+        {
+          "name": "Near Vision",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Visualization",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speech Clarity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Inductive Reasoning",
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Building and Construction",
+          "tier_label": "High"
+        },
+        {
+          "name": "Administration and Management",
+          "tier_label": "High"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "High"
+        },
+        {
+          "name": "Engineering and Technology",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mechanical",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Production and Processing",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Economics and Accounting",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Public Safety and Security",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Design",
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Inspect or review projects to monitor compliance with building and safety codes or other regulations.",
+        "Develop or implement quality control programs.",
+        "Plan, schedule, or coordinate construction project activities to meet deadlines.",
+        "Prepare and submit budget estimates, progress reports, or cost tracking reports.",
+        "Direct and supervise construction or related workers.",
+        "Determine labor requirements for dispatching workers to construction sites.",
+        "Confer with supervisory personnel, owners, contractors, or design professionals to discuss and resolve matters, such as work procedures, complaints, or construction problems.",
+        "Prepare contracts or negotiate revisions to contractual agreements with architects, consultants, clients, suppliers, or subcontractors.",
+        "Study job specifications to determine appropriate construction methods.",
+        "Plan, organize, or direct activities concerned with the construction or maintenance of structures, facilities, or systems."
+      ],
+      "technology_skills": [
+        {
+          "category": "Word processing software",
+          "example": "3M Post-it App"
+        },
+        {
+          "category": "Document management software",
+          "example": "Adobe Acrobat"
+        },
+        {
+          "category": "Graphics or photo imaging software",
+          "example": "Adobe Creative Cloud software"
+        },
+        {
+          "category": "Calendar and scheduling software",
+          "example": "AEC Software FastTrack Schedule"
+        },
+        {
+          "category": "Analytical or scientific software",
+          "example": "ArenaSoft Estimating"
+        },
+        {
+          "category": "Computer aided design CAD software",
+          "example": "Autodesk AutoCAD"
+        },
+        {
+          "category": "Computer aided design CAD software",
+          "example": "Autodesk AutoCAD Civil 3D"
+        },
+        {
+          "category": "Computer aided design CAD software",
+          "example": "Autodesk Revit"
+        },
+        {
+          "category": "Document management software",
+          "example": "Axios Systems assyst"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Bechtel Software SETROUTE"
+        },
+        {
+          "category": "Computer aided design CAD software",
+          "example": "Cadsoft Design/Build"
+        },
+        {
+          "category": "Project management software",
+          "example": "CBS ProLog Manager"
+        },
+        {
+          "category": "Computer aided design CAD software",
+          "example": "Computer aided design and drafting software CADD"
+        },
+        {
+          "category": "Compliance software",
+          "example": "CSI WSE CodeBuddy"
+        },
+        {
+          "category": "Document management software",
+          "example": "Daily Manager"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Database software"
+        },
+        {
+          "category": "Graphics or photo imaging software",
+          "example": "Drone image capturing software"
+        },
+        {
+          "category": "Cloud-based data access and sharing software",
+          "example": "Dropbox"
+        },
+        {
+          "category": "Electronic mail software",
+          "example": "Email software"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Explorer Engineer"
+        }
+      ],
+      "education_requirements": {
+        "Job-Related Professional Certification": [],
+        "Job-related Apprenticeship": [],
+        "On-Site or In-Plant Training": [
+          {
+            "category": "4 to 10 years"
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "4 to 10 years"
+          }
+        ],
+        "Related Work Experience": [],
+        "Required Level of Education": [
+          {
+            "category": "Bachelor's degree"
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Communicating with Supervisors, Peers, or Subordinates",
+          "tier_label": "High"
+        },
+        {
+          "name": "Evaluating Information to Determine Compliance with Standards",
+          "tier_label": "High"
+        },
+        {
+          "name": "Monitoring Processes, Materials, or Surroundings",
+          "tier_label": "High"
+        },
+        {
+          "name": "Inspecting Equipment, Structures, or Materials",
+          "tier_label": "High"
+        },
+        {
+          "name": "Organizing, Planning, and Prioritizing Work",
+          "tier_label": "High"
+        },
+        {
+          "name": "Scheduling Work and Activities",
+          "tier_label": "High"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "tier_label": "High"
+        },
+        {
+          "name": "Coordinating the Work and Activities of Others",
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Guiding, Directing, and Motivating Subordinates",
+          "tier_label": "High"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "E-Mail",
+          "tier_label": "High"
+        },
+        {
+          "name": "Telephone Conversations",
+          "tier_label": "High"
+        },
+        {
+          "name": "Face-to-Face Discussions with Individuals and Within Teams",
+          "tier_label": "High"
+        },
+        {
+          "name": "Contact With Others",
+          "tier_label": "High"
+        },
+        {
+          "name": "Work With or Contribute to a Work Group or Team",
+          "tier_label": "High"
+        },
+        {
+          "name": "Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",
+          "tier_label": "High"
+        },
+        {
+          "name": "Health and Safety of Other Workers",
+          "tier_label": "High"
+        },
+        {
+          "name": "Time Pressure",
+          "tier_label": "High"
+        },
+        {
+          "name": "Freedom to Make Decisions",
+          "tier_label": "High"
+        },
+        {
+          "name": "Impact of Decisions on Co-workers or Company Results",
+          "tier_label": "High"
+        }
+      ]
+    },
+    {
+      "soc_code": "47-1011.00",
+      "title": "First-Line Supervisors of Construction Trades and Extraction Workers",
+      "description": "Directly supervise and coordinate activities of construction or extraction workers.",
+      "skills": [
+        {
+          "name": "Coordination",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Management of Personnel Resources",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Time Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Coordination",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Management of Personnel Resources",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Instructing",
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Oral Comprehension",
+          "tier_label": "High"
+        },
+        {
+          "name": "Oral Expression",
+          "tier_label": "High"
+        },
+        {
+          "name": "Written Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Oral Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Oral Expression",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Problem Sensitivity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Near Vision",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Information Ordering",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Deductive Reasoning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Problem Sensitivity",
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Building and Construction",
+          "tier_label": "High"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "tier_label": "High"
+        },
+        {
+          "name": "Administration and Management",
+          "tier_label": "High"
+        },
+        {
+          "name": "Building and Construction",
+          "tier_label": "High"
+        },
+        {
+          "name": "Mechanical",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "English Language",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Administration and Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Design",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mechanical",
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Inspect work progress, equipment, or construction sites to verify safety or to ensure that specifications are met.",
+        "Read specifications, such as blueprints, to determine construction requirements or to plan procedures.",
+        "Supervise, coordinate, or schedule the activities of construction or extractive workers.",
+        "Assign work to employees, based on material or worker requirements of specific jobs.",
+        "Coordinate work activities with other construction project activities.",
+        "Estimate material or worker requirements to complete jobs.",
+        "Analyze worker or production problems and recommend solutions, such as improving production methods or implementing motivational plans.",
+        "Order or requisition materials or supplies.",
+        "Train workers in construction methods, operation of equipment, safety procedures, or company policies.",
+        "Locate, measure, and mark site locations or placement of structures or equipment, using measuring and marking equipment."
+      ],
+      "technology_skills": [
+        {
+          "category": "Document management software",
+          "example": "Adobe Acrobat"
+        },
+        {
+          "category": "Computer aided design CAD software",
+          "example": "Autodesk AutoCAD"
+        },
+        {
+          "category": "Facilities management software",
+          "example": "Facilities management software"
+        },
+        {
+          "category": "Calendar and scheduling software",
+          "example": "FranklinCovey TabletPlanner"
+        },
+        {
+          "category": "Graphics or photo imaging software",
+          "example": "Graphics software"
+        },
+        {
+          "category": "Project management software",
+          "example": "HCSS HeavyJob"
+        },
+        {
+          "category": "Inventory management software",
+          "example": "Inventory tracking software"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Mi-Co Mi-Forms"
+        },
+        {
+          "category": "Spreadsheet software",
+          "example": "Microsoft Excel"
+        },
+        {
+          "category": "Video conferencing software",
+          "example": "Microsoft NetMeeting"
+        },
+        {
+          "category": "Office suite software",
+          "example": "Microsoft Office software"
+        },
+        {
+          "category": "Electronic mail software",
+          "example": "Microsoft Outlook"
+        },
+        {
+          "category": "Presentation software",
+          "example": "Microsoft PowerPoint"
+        },
+        {
+          "category": "Project management software",
+          "example": "Microsoft Project"
+        },
+        {
+          "category": "Word processing software",
+          "example": "Microsoft Word"
+        },
+        {
+          "category": "Project management software",
+          "example": "Oracle Primavera Enterprise Project Portfolio Management"
+        },
+        {
+          "category": "Project management software",
+          "example": "Oracle Primavera P6 Enterprise Portfolio Project Management"
+        },
+        {
+          "category": "Project management software",
+          "example": "Oracle Primavera Systems"
+        },
+        {
+          "category": "Analytical or scientific software",
+          "example": "Procore software"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Prolog"
+        }
+      ],
+      "education_requirements": {
+        "Job-Related Professional Certification": [],
+        "Job-related Apprenticeship": [],
+        "On-Site or In-Plant Training": [
+          {
+            "category": "Up to 1 month"
+          },
+          {
+            "category": "1 to 3 months"
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "6 months to 1 year"
+          },
+          {
+            "category": "3 to 6 months"
+          },
+          {
+            "category": "1 to 3 months"
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "Over 10 years"
+          },
+          {
+            "category": "6 months to 1 year"
+          },
+          {
+            "category": "1 to 3 months"
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "High school diploma or equivalent"
+          },
+          {
+            "category": "Post-secondary certificate"
+          },
+          {
+            "category": "Less than high school diploma"
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Evaluating Information to Determine Compliance with Standards",
+          "tier_label": "High"
+        },
+        {
+          "name": "Communicating with Supervisors, Peers, or Subordinates",
+          "tier_label": "High"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "tier_label": "High"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "tier_label": "High"
+        },
+        {
+          "name": "Inspecting Equipment, Structures, or Materials",
+          "tier_label": "High"
+        },
+        {
+          "name": "Performing General Physical Activities",
+          "tier_label": "High"
+        },
+        {
+          "name": "Inspecting Equipment, Structures, or Materials",
+          "tier_label": "High"
+        },
+        {
+          "name": "Organizing, Planning, and Prioritizing Work",
+          "tier_label": "High"
+        },
+        {
+          "name": "Identifying Objects, Actions, and Events",
+          "tier_label": "High"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "Face-to-Face Discussions with Individuals and Within Teams",
+          "tier_label": "High"
+        },
+        {
+          "name": "Contact With Others",
+          "tier_label": "High"
+        },
+        {
+          "name": "Telephone Conversations",
+          "tier_label": "High"
+        },
+        {
+          "name": "Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",
+          "tier_label": "High"
+        },
+        {
+          "name": "Contact With Others",
+          "tier_label": "High"
+        },
+        {
+          "name": "Frequency of Decision Making",
+          "tier_label": "High"
+        },
+        {
+          "name": "E-Mail",
+          "tier_label": "High"
+        },
+        {
+          "name": "Health and Safety of Other Workers",
+          "tier_label": "High"
+        },
+        {
+          "name": "Telephone Conversations",
+          "tier_label": "High"
+        },
+        {
+          "name": "Frequency of Decision Making",
+          "tier_label": "High"
+        }
+      ]
+    },
+    {
+      "soc_code": "47-1011.03",
+      "title": "Solar Energy Installation Managers",
+      "description": "Direct work crews installing residential or commercial solar photovoltaic or thermal systems.",
+      "skills": [
+        {
+          "name": "Coordination",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Management of Personnel Resources",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Time Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Coordination",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Management of Personnel Resources",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Instructing",
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Oral Comprehension",
+          "tier_label": "High"
+        },
+        {
+          "name": "Oral Expression",
+          "tier_label": "High"
+        },
+        {
+          "name": "Written Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Oral Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Oral Expression",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Problem Sensitivity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Near Vision",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Information Ordering",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Deductive Reasoning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Problem Sensitivity",
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Building and Construction",
+          "tier_label": "High"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "tier_label": "High"
+        },
+        {
+          "name": "Administration and Management",
+          "tier_label": "High"
+        },
+        {
+          "name": "Building and Construction",
+          "tier_label": "High"
+        },
+        {
+          "name": "Mechanical",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "English Language",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Administration and Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Design",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mechanical",
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Inspect work progress, equipment, or construction sites to verify safety or to ensure that specifications are met.",
+        "Read specifications, such as blueprints, to determine construction requirements or to plan procedures.",
+        "Supervise, coordinate, or schedule the activities of construction or extractive workers.",
+        "Assign work to employees, based on material or worker requirements of specific jobs.",
+        "Coordinate work activities with other construction project activities.",
+        "Estimate material or worker requirements to complete jobs.",
+        "Analyze worker or production problems and recommend solutions, such as improving production methods or implementing motivational plans.",
+        "Order or requisition materials or supplies.",
+        "Train workers in construction methods, operation of equipment, safety procedures, or company policies.",
+        "Locate, measure, and mark site locations or placement of structures or equipment, using measuring and marking equipment."
+      ],
+      "technology_skills": [
+        {
+          "category": "Document management software",
+          "example": "Adobe Acrobat"
+        },
+        {
+          "category": "Computer aided design CAD software",
+          "example": "Autodesk AutoCAD"
+        },
+        {
+          "category": "Facilities management software",
+          "example": "Facilities management software"
+        },
+        {
+          "category": "Calendar and scheduling software",
+          "example": "FranklinCovey TabletPlanner"
+        },
+        {
+          "category": "Graphics or photo imaging software",
+          "example": "Graphics software"
+        },
+        {
+          "category": "Project management software",
+          "example": "HCSS HeavyJob"
+        },
+        {
+          "category": "Inventory management software",
+          "example": "Inventory tracking software"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Mi-Co Mi-Forms"
+        },
+        {
+          "category": "Spreadsheet software",
+          "example": "Microsoft Excel"
+        },
+        {
+          "category": "Video conferencing software",
+          "example": "Microsoft NetMeeting"
+        },
+        {
+          "category": "Office suite software",
+          "example": "Microsoft Office software"
+        },
+        {
+          "category": "Electronic mail software",
+          "example": "Microsoft Outlook"
+        },
+        {
+          "category": "Presentation software",
+          "example": "Microsoft PowerPoint"
+        },
+        {
+          "category": "Project management software",
+          "example": "Microsoft Project"
+        },
+        {
+          "category": "Word processing software",
+          "example": "Microsoft Word"
+        },
+        {
+          "category": "Project management software",
+          "example": "Oracle Primavera Enterprise Project Portfolio Management"
+        },
+        {
+          "category": "Project management software",
+          "example": "Oracle Primavera P6 Enterprise Portfolio Project Management"
+        },
+        {
+          "category": "Project management software",
+          "example": "Oracle Primavera Systems"
+        },
+        {
+          "category": "Analytical or scientific software",
+          "example": "Procore software"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Prolog"
+        }
+      ],
+      "education_requirements": {
+        "Job-Related Professional Certification": [],
+        "Job-related Apprenticeship": [],
+        "On-Site or In-Plant Training": [
+          {
+            "category": "Up to 1 month"
+          },
+          {
+            "category": "1 to 3 months"
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "6 months to 1 year"
+          },
+          {
+            "category": "3 to 6 months"
+          },
+          {
+            "category": "1 to 3 months"
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "Over 10 years"
+          },
+          {
+            "category": "6 months to 1 year"
+          },
+          {
+            "category": "1 to 3 months"
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "High school diploma or equivalent"
+          },
+          {
+            "category": "Post-secondary certificate"
+          },
+          {
+            "category": "Less than high school diploma"
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Evaluating Information to Determine Compliance with Standards",
+          "tier_label": "High"
+        },
+        {
+          "name": "Communicating with Supervisors, Peers, or Subordinates",
+          "tier_label": "High"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "tier_label": "High"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "tier_label": "High"
+        },
+        {
+          "name": "Inspecting Equipment, Structures, or Materials",
+          "tier_label": "High"
+        },
+        {
+          "name": "Performing General Physical Activities",
+          "tier_label": "High"
+        },
+        {
+          "name": "Inspecting Equipment, Structures, or Materials",
+          "tier_label": "High"
+        },
+        {
+          "name": "Organizing, Planning, and Prioritizing Work",
+          "tier_label": "High"
+        },
+        {
+          "name": "Identifying Objects, Actions, and Events",
+          "tier_label": "High"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "Face-to-Face Discussions with Individuals and Within Teams",
+          "tier_label": "High"
+        },
+        {
+          "name": "Contact With Others",
+          "tier_label": "High"
+        },
+        {
+          "name": "Telephone Conversations",
+          "tier_label": "High"
+        },
+        {
+          "name": "Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",
+          "tier_label": "High"
+        },
+        {
+          "name": "Contact With Others",
+          "tier_label": "High"
+        },
+        {
+          "name": "Frequency of Decision Making",
+          "tier_label": "High"
+        },
+        {
+          "name": "E-Mail",
+          "tier_label": "High"
+        },
+        {
+          "name": "Health and Safety of Other Workers",
+          "tier_label": "High"
+        },
+        {
+          "name": "Telephone Conversations",
+          "tier_label": "High"
+        },
+        {
+          "name": "Frequency of Decision Making",
+          "tier_label": "High"
+        }
+      ]
+    },
+    {
+      "soc_code": "47-2011.00",
+      "title": "Boilermakers",
+      "description": "Construct, assemble, maintain, and repair stationary steam boilers and boiler house auxiliaries. Align structures or plate sections to assemble boiler frame tanks or vats, following blueprints. Work involves use of hand and power tools, plumb bobs, levels, wedges, dogs, or turnbuckles. Assist in testing assembled vessels. Direct cleaning of boilers and boiler furnaces. Inspect and repair boiler fittings, such as safety valves, regulators, automatic-control mechanisms, water columns, and auxiliary machines.",
+      "skills": [
+        {
+          "name": "Operations Monitoring",
+          "tier_label": "High"
+        },
+        {
+          "name": "Operation and Control",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Repairing",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Quality Control Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Equipment Maintenance",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Troubleshooting",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Equipment Selection",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Learning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Time Management",
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Near Vision",
+          "tier_label": "High"
+        },
+        {
+          "name": "Control Precision",
+          "tier_label": "High"
+        },
+        {
+          "name": "Problem Sensitivity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Deductive Reasoning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Arm-Hand Steadiness",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Manual Dexterity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Finger Dexterity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Multilimb Coordination",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Inductive Reasoning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Oral Comprehension",
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Mechanical",
+          "tier_label": "High"
+        },
+        {
+          "name": "English Language",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Administration and Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Building and Construction",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Computers and Electronics",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Physics",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Engineering and Technology",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Design",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Conduct pressure tests on vessels, such as boilers.",
+        "Study blueprints to determine locations, relationships, or dimensions of parts.",
+        "Examine boilers, pressure vessels, tanks, or vats to locate defects, such as leaks, weak spots, or defective sections, so that they can be repaired.",
+        "Inspect assembled vessels or individual components, such as tubes, fittings, valves, controls, or auxiliary mechanisms, to locate any defects.",
+        "Lay out plate, sheet steel, or other heavy metal and locate and mark bending and cutting lines, using protractors, compasses, and drawing instruments or templates.",
+        "Bell, bead with power hammers, or weld pressure vessel tube ends to ensure leakproof joints.",
+        "Locate and mark reference points for columns or plates on boiler foundations, following blueprints and using straightedges, squares, transits, or measuring instruments.",
+        "Shape or fabricate parts, such as stacks, uptakes, or chutes, to adapt pressure vessels, heat exchangers, or piping to premises, using heavy-metalworking machines such as brakes, rolls, or drill presses.",
+        "Position, align, and secure structural parts or related assemblies to boiler frames, tanks, or vats of pressure vessels, following blueprints.",
+        "Clean pressure vessel equipment, using scrapers, wire brushes, and cleaning solvents."
+      ],
+      "technology_skills": [
+        {
+          "category": "Computer aided design CAD software",
+          "example": "Autodesk AutoCAD"
+        },
+        {
+          "category": "Computer aided design CAD software",
+          "example": "Computer aided design CAD software"
+        },
+        {
+          "category": "Computer based training software",
+          "example": "Health and safety training software"
+        },
+        {
+          "category": "Spreadsheet software",
+          "example": "Microsoft Excel"
+        },
+        {
+          "category": "Office suite software",
+          "example": "Microsoft Office software"
+        },
+        {
+          "category": "Electronic mail software",
+          "example": "Microsoft Outlook"
+        },
+        {
+          "category": "Operating system software",
+          "example": "Microsoft Windows"
+        },
+        {
+          "category": "Word processing software",
+          "example": "Microsoft Word"
+        },
+        {
+          "category": "Enterprise resource planning ERP software",
+          "example": "SAP software"
+        }
+      ],
+      "education_requirements": {
+        "Job-Related Professional Certification": [],
+        "Job-related Apprenticeship": [],
+        "On-Site or In-Plant Training": [
+          {
+            "category": "None"
+          },
+          {
+            "category": "Over 10 years"
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "2 to 4 years"
+          },
+          {
+            "category": "1 to 2 years"
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "4 years to 6 years"
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "High school diploma or equivalent"
+          },
+          {
+            "category": "Post-secondary certificate"
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Repairing and Maintaining Mechanical Equipment",
+          "tier_label": "High"
+        },
+        {
+          "name": "Inspecting Equipment, Structures, or Materials",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Getting Information",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Performing General Physical Activities",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operating Vehicles, Mechanized Devices, or Equipment",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Identifying Objects, Actions, and Events",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Updating and Using Relevant Knowledge",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Communicating with Supervisors, Peers, or Subordinates",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Handling and Moving Objects",
+          "tier_label": "Moderate"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "Telephone Conversations",
+          "tier_label": "High"
+        },
+        {
+          "name": "Face-to-Face Discussions with Individuals and Within Teams",
+          "tier_label": "High"
+        },
+        {
+          "name": "Contact With Others",
+          "tier_label": "High"
+        },
+        {
+          "name": "Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",
+          "tier_label": "High"
+        },
+        {
+          "name": "Importance of Being Exact or Accurate",
+          "tier_label": "High"
+        },
+        {
+          "name": "Work With or Contribute to a Work Group or Team",
+          "tier_label": "High"
+        },
+        {
+          "name": "Indoors, Environmentally Controlled",
+          "tier_label": "High"
+        },
+        {
+          "name": "E-Mail",
+          "tier_label": "High"
+        },
+        {
+          "name": "Coordinate or Lead Others in Accomplishing Work Activities",
+          "tier_label": "High"
+        },
+        {
+          "name": "Exposed to Very Hot or Cold Temperatures",
+          "tier_label": "High"
+        }
+      ]
+    },
+    {
+      "soc_code": "47-2021.00",
+      "title": "Brickmasons and Blockmasons",
+      "description": "Lay and bind building materials, such as brick, structural tile, concrete block, cinder block, glass block, and terra-cotta block, with mortar and other substances, to construct or repair walls, partitions, arches, sewers, and other structures.",
+      "skills": [
+        {
+          "name": "Coordination",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Quality Control Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Time Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operations Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Learning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Social Perceptiveness",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operation and Control",
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Trunk Strength",
+          "tier_label": "High"
+        },
+        {
+          "name": "Extent Flexibility",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Manual Dexterity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Arm-Hand Steadiness",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Static Strength",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Near Vision",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Multilimb Coordination",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Visualization",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Dynamic Strength",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Finger Dexterity",
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Building and Construction",
+          "tier_label": "High"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "English Language",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Public Safety and Security",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Production and Processing",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Design",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Administration and Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mechanical",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Engineering and Technology",
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Measure distance from reference points and mark guidelines to lay out work, using plumb bobs and levels.",
+        "Construct corners by fastening in plumb position a corner pole or building a corner pyramid of bricks, and filling in between the corners using a line from corner to corner to guide each course, or layer, of brick.",
+        "Apply and smooth mortar or other mixture over work surface.",
+        "Calculate angles and courses and determine vertical and horizontal alignment of courses.",
+        "Break or cut bricks, tiles, or blocks to size, using trowel edge, hammer, or power saw.",
+        "Interpret blueprints and drawings to determine specifications and to calculate the materials required.",
+        "Remove excess mortar with trowels and hand tools, and finish mortar joints with jointing tools, for a sealed, uniform appearance.",
+        "Fasten or fuse brick or other building material to structure with wire clamps, anchor holes, torch, or cement.",
+        "Clean working surface to remove scale, dust, soot, or chips of brick and mortar, using broom, wire brush, or scraper.",
+        "Examine brickwork or structure to determine need for repair."
+      ],
+      "technology_skills": [
+        {
+          "category": "Analytical or scientific software",
+          "example": "Construction Management Software ProEst"
+        },
+        {
+          "category": "Project management software",
+          "example": "CPR Visual Estimator"
+        },
+        {
+          "category": "Project management software",
+          "example": "Daystar iStructural.com"
+        },
+        {
+          "category": "Project management software",
+          "example": "Estimating software"
+        },
+        {
+          "category": "Accounting software",
+          "example": "Intuit QuickBooks"
+        },
+        {
+          "category": "Spreadsheet software",
+          "example": "Microsoft Excel"
+        },
+        {
+          "category": "Office suite software",
+          "example": "Microsoft Office software"
+        },
+        {
+          "category": "Operating system software",
+          "example": "Microsoft Windows"
+        },
+        {
+          "category": "Computer aided design CAD software",
+          "example": "RISA Technologies RISA-3D"
+        },
+        {
+          "category": "Project management software",
+          "example": "Tradesman's Software Master Estimator"
+        }
+      ],
+      "education_requirements": {
+        "On-Site or In-Plant Training": [
+          {
+            "category": "2 to 4 years"
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "2 to 4 years"
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "2 years to 4 years"
+          },
+          {
+            "category": "None"
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "High school diploma or equivalent"
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Handling and Moving Objects",
+          "tier_label": "High"
+        },
+        {
+          "name": "Inspecting Equipment, Structures, or Materials",
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Monitoring Processes, Materials, or Surroundings",
+          "tier_label": "High"
+        },
+        {
+          "name": "Communicating with Supervisors, Peers, or Subordinates",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Identifying Objects, Actions, and Events",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Scheduling Work and Activities",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Performing General Physical Activities",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Coordinating the Work and Activities of Others",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "tier_label": "Moderate"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",
+          "tier_label": "High"
+        },
+        {
+          "name": "Outdoors, Exposed to All Weather Conditions",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Standing",
+          "tier_label": "High"
+        },
+        {
+          "name": "Exposed to Hazardous Equipment",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Making Repetitive Motions",
+          "tier_label": "High"
+        },
+        {
+          "name": "Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable",
+          "tier_label": "High"
+        },
+        {
+          "name": "Exposed to Very Hot or Cold Temperatures",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",
+          "tier_label": "High"
+        },
+        {
+          "name": "Physical Proximity",
+          "tier_label": "High"
+        },
+        {
+          "name": "Work With or Contribute to a Work Group or Team",
+          "tier_label": "High"
+        }
+      ]
+    },
+    {
+      "soc_code": "47-2031.00",
+      "title": "Carpenters",
+      "description": "Construct, erect, install, or repair structures and fixtures made of wood and comparable materials, such as concrete forms; building frameworks, including partitions, joists, studding, and rafters; and wood stairways, window and door frames, and hardwood floors. May also install cabinets, siding, drywall, and batt or roll insulation. Includes brattice builders who build doors or brattices (ventilation walls or partitions) in underground passageways.",
+      "skills": [
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Coordination",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Quality Control Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Time Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Learning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Writing",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operation and Control",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operations Monitoring",
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Visualization",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Problem Sensitivity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Finger Dexterity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Manual Dexterity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Near Vision",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Trunk Strength",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Information Ordering",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Arm-Hand Steadiness",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Deductive Reasoning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Far Vision",
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Building and Construction",
+          "tier_label": "High"
+        },
+        {
+          "name": "Administration and Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Design",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Engineering and Technology",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Public Safety and Security",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mechanical",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Education and Training",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Physics",
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Follow established safety rules and regulations and maintain a safe and clean environment.",
+        "Measure and mark cutting lines on materials, using a ruler, pencil, chalk, and marking gauge.",
+        "Assemble and fasten materials to make frameworks or props, using hand tools and wood screws, nails, dowel pins, or glue.",
+        "Study specifications in blueprints, sketches, or building plans to prepare project layout and determine dimensions and materials required.",
+        "Shape or cut materials to specified measurements, using hand tools, machines, or power saws.",
+        "Verify trueness of structure, using plumb bob and level.",
+        "Inspect ceiling or floor tile, wall coverings, siding, glass, or woodwork to detect broken or damaged structures.",
+        "Erect scaffolding or ladders for assembling structures above ground level.",
+        "Install structures or fixtures, such as windows, frames, floorings, trim, or hardware, using carpenters' hand or power tools.",
+        "Maintain records, document actions, and present written progress reports."
+      ],
+      "technology_skills": [
+        {
+          "category": "Project management software",
+          "example": "Bosch Punch List"
+        },
+        {
+          "category": "Project management software",
+          "example": "Craftsman CD Estimator"
+        },
+        {
+          "category": "Computer aided design CAD software",
+          "example": "Drawing and drafting software"
+        },
+        {
+          "category": "Project management software",
+          "example": "Estimating software"
+        },
+        {
+          "category": "Accounting software",
+          "example": "Intuit QuickBooks"
+        },
+        {
+          "category": "Accounting software",
+          "example": "Job costing software"
+        },
+        {
+          "category": "Spreadsheet software",
+          "example": "Microsoft Excel"
+        },
+        {
+          "category": "Office suite software",
+          "example": "Microsoft Office software"
+        },
+        {
+          "category": "Operating system software",
+          "example": "Microsoft Windows"
+        },
+        {
+          "category": "Word processing software",
+          "example": "Microsoft Word"
+        },
+        {
+          "category": "Accounting software",
+          "example": "Quicken"
+        },
+        {
+          "category": "Information retrieval or search software",
+          "example": "Renaissance MasterCarpenter"
+        },
+        {
+          "category": "Project management software",
+          "example": "Turtle Creek Software Goldenseal"
+        },
+        {
+          "category": "Project management software",
+          "example": "VirtualBoss"
+        },
+        {
+          "category": "Internet browser software",
+          "example": "Web browser software"
+        },
+        {
+          "category": "Web page creation and editing software",
+          "example": "Web page creation and editing software"
+        },
+        {
+          "category": "Word processing software",
+          "example": "Wilhelm Publishing Threshold"
+        }
+      ],
+      "education_requirements": {
+        "Job-Related Professional Certification": [],
+        "Job-related Apprenticeship": [],
+        "On-Site or In-Plant Training": [
+          {
+            "category": "4 to 10 years"
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "4 to 10 years"
+          },
+          {
+            "category": "2 to 4 years"
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "1 year to 2 years"
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "High school diploma or equivalent"
+          },
+          {
+            "category": "Post-secondary certificate"
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Identifying Objects, Actions, and Events",
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Inspecting Equipment, Structures, or Materials",
+          "tier_label": "High"
+        },
+        {
+          "name": "Monitoring Processes, Materials, or Surroundings",
+          "tier_label": "High"
+        },
+        {
+          "name": "Handling and Moving Objects",
+          "tier_label": "High"
+        },
+        {
+          "name": "Performing General Physical Activities",
+          "tier_label": "High"
+        },
+        {
+          "name": "Communicating with Supervisors, Peers, or Subordinates",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Organizing, Planning, and Prioritizing Work",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operating Vehicles, Mechanized Devices, or Equipment",
+          "tier_label": "Moderate"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",
+          "tier_label": "High"
+        },
+        {
+          "name": "Face-to-Face Discussions with Individuals and Within Teams",
+          "tier_label": "High"
+        },
+        {
+          "name": "Contact With Others",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Standing",
+          "tier_label": "High"
+        },
+        {
+          "name": "Importance of Being Exact or Accurate",
+          "tier_label": "High"
+        },
+        {
+          "name": "Work With or Contribute to a Work Group or Team",
+          "tier_label": "High"
+        },
+        {
+          "name": "Health and Safety of Other Workers",
+          "tier_label": "High"
+        },
+        {
+          "name": "Time Pressure",
+          "tier_label": "High"
+        },
+        {
+          "name": "Impact of Decisions on Co-workers or Company Results",
+          "tier_label": "High"
+        },
+        {
+          "name": "Work Outcomes and Results of Other Workers",
+          "tier_label": "High"
+        }
+      ]
+    },
+    {
+      "soc_code": "47-2041.00",
+      "title": "Carpet Installers",
+      "description": "Lay and install carpet from rolls or blocks on floors. Install padding and trim flooring materials.",
+      "skills": [
+        {
+          "name": "Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Coordination",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Time Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Quality Control Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Social Perceptiveness",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Learning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operations Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Service Orientation",
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Extent Flexibility",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Trunk Strength",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Problem Sensitivity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Near Vision",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Static Strength",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speech Recognition",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Manual Dexterity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Arm-Hand Steadiness",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Visualization",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Oral Expression",
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Customer and Personal Service",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Administration and Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "English Language",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Building and Construction",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Production and Processing",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Education and Training",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mechanical",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Design",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Public Safety and Security",
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Inspect the surface to be covered to determine its condition, and correct any imperfections that might show through carpet or cause carpet to wear unevenly.",
+        "Roll out, measure, mark, and cut carpeting to size with a carpet knife, following floor sketches and allowing extra carpet for final fitting.",
+        "Join edges of carpet and seam edges where necessary, by sewing or by using tape with glue and heated carpet iron.",
+        "Cut and trim carpet to fit along wall edges, openings, and projections, finishing the edges with a wall trimmer.",
+        "Plan the layout of the carpet, allowing for expected traffic patterns and placing seams for best appearance and longest wear.",
+        "Stretch carpet to align with walls and ensure a smooth surface, and press carpet in place over tack strips or use staples, tape, tacks or glue to hold carpet in place.",
+        "Take measurements and study floor sketches to calculate the area to be carpeted and the amount of material needed.",
+        "Install carpet on some floors using adhesive, following prescribed method.",
+        "Clean up before and after installation, including vacuuming carpet and discarding remnant pieces.",
+        "Measure, cut and install tackless strips along the baseboard or wall."
+      ],
+      "technology_skills": [
+        {
+          "category": "Computer aided design CAD software",
+          "example": "Autodesk AutoCAD"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Aya Associates Comp-U-Floor"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Carpet Dealer Management System CDMS"
+        },
+        {
+          "category": "Project management software",
+          "example": "eTakeoff"
+        },
+        {
+          "category": "Project management software",
+          "example": "FIRST Flooring"
+        },
+        {
+          "category": "Project management software",
+          "example": "FloorCOST Estimator for Excel"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Flooring Technologies QFloors"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Focus Floor Covering Software"
+        },
+        {
+          "category": "Project management software",
+          "example": "Measure Square FloorEstimate Pro"
+        },
+        {
+          "category": "Spreadsheet software",
+          "example": "Microsoft Excel"
+        },
+        {
+          "category": "Office suite software",
+          "example": "Microsoft Office software"
+        },
+        {
+          "category": "Word processing software",
+          "example": "Microsoft Word"
+        },
+        {
+          "category": "Project management software",
+          "example": "Pacific Solutions FloorRight"
+        },
+        {
+          "category": "Calendar and scheduling software",
+          "example": "RFMS Schedule Pro"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Textile Management Systems RollMaster"
+        }
+      ],
+      "education_requirements": {
+        "On-Site or In-Plant Training": [
+          {
+            "category": "None"
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "2 to 4 years"
+          },
+          {
+            "category": "1 to 2 years"
+          },
+          {
+            "category": "4 to 10 years"
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "4 years to 6 years"
+          },
+          {
+            "category": "1 year to 2 years"
+          },
+          {
+            "category": "2 years to 4 years"
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "High school diploma or equivalent"
+          },
+          {
+            "category": "Less than high school diploma"
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Performing General Physical Activities",
+          "tier_label": "High"
+        },
+        {
+          "name": "Handling and Moving Objects",
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Inspecting Equipment, Structures, or Materials",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Communicating with Supervisors, Peers, or Subordinates",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Estimating the Quantifiable Characteristics of Products, Events, or Information",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Monitoring Processes, Materials, or Surroundings",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Updating and Using Relevant Knowledge",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operating Vehicles, Mechanized Devices, or Equipment",
+          "tier_label": "Moderate"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "Freedom to Make Decisions",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",
+          "tier_label": "High"
+        },
+        {
+          "name": "Face-to-Face Discussions with Individuals and Within Teams",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Kneeling, Crouching, Stooping, or Crawling",
+          "tier_label": "High"
+        },
+        {
+          "name": "Telephone Conversations",
+          "tier_label": "High"
+        },
+        {
+          "name": "Contact With Others",
+          "tier_label": "High"
+        },
+        {
+          "name": "Indoors, Environmentally Controlled",
+          "tier_label": "High"
+        },
+        {
+          "name": "Time Pressure",
+          "tier_label": "High"
+        },
+        {
+          "name": "Determine Tasks, Priorities and Goals",
+          "tier_label": "High"
+        },
+        {
+          "name": "Exposed to Contaminants",
+          "tier_label": "High"
+        }
+      ]
+    },
+    {
+      "soc_code": "47-2051.00",
+      "title": "Cement Masons and Concrete Finishers",
+      "description": "Smooth and finish surfaces of poured concrete, such as floors, walks, sidewalks, roads, or curbs using a variety of hand and power tools. Align forms for sidewalks, curbs, or gutters; patch voids; and use saws to cut expansion joints.",
+      "skills": [
+        {
+          "name": "Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Time Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Quality Control Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Coordination",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operation and Control",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operations Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Management of Personnel Resources",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Social Perceptiveness",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Instructing",
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Manual Dexterity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Trunk Strength",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Near Vision",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Multilimb Coordination",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Control Precision",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Arm-Hand Steadiness",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Extent Flexibility",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Deductive Reasoning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Visualization",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Information Ordering",
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "English Language",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Building and Construction",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Public Safety and Security",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mechanical",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Administration and Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Transportation",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Education and Training",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Foreign Language",
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Check the forms that hold the concrete to see that they are properly constructed.",
+        "Set the forms that hold concrete to the desired pitch and depth, and align them.",
+        "Spread, level, and smooth concrete, using rake, shovel, hand or power trowel, hand or power screed, and float.",
+        "Monitor how the wind, heat, or cold affect the curing of the concrete throughout the entire process.",
+        "Mold expansion joints and edges, using edging tools, jointers, and straightedge.",
+        "Signal truck driver to position truck to facilitate pouring concrete, and move chute to direct concrete on forms.",
+        "Direct the casting of the concrete and supervise laborers who use shovels or special tools to spread it.",
+        "Produce rough concrete surface, using broom.",
+        "Apply hardening and sealing compounds to cure surface of concrete, and waterproof or restore surface.",
+        "Operate power vibrator to compact concrete."
+      ],
+      "technology_skills": [
+        {
+          "category": "Information retrieval or search software",
+          "example": "ACT Contractors Forms"
+        },
+        {
+          "category": "Analytical or scientific software",
+          "example": "ADAPT-Modeler"
+        },
+        {
+          "category": "Project management software",
+          "example": "Hard Dollar HD Project Estimating"
+        },
+        {
+          "category": "Analytical or scientific software",
+          "example": "HIPERPAV"
+        },
+        {
+          "category": "Analytical or scientific software",
+          "example": "LogicSphere Firstmix"
+        },
+        {
+          "category": "Project management software",
+          "example": "Maxwell Systems Quest Estimator"
+        },
+        {
+          "category": "Project management software",
+          "example": "National Concrete & Masonry Estimator"
+        },
+        {
+          "category": "Analytical or scientific software",
+          "example": "Shilstone seeMIX"
+        },
+        {
+          "category": "Accounting software",
+          "example": "Sirus GT Construction Accounting"
+        },
+        {
+          "category": "Project management software",
+          "example": "Tradesman's Software Master Estimator"
+        }
+      ],
+      "education_requirements": {
+        "Job-Related Professional Certification": [],
+        "Job-related Apprenticeship": [],
+        "On-Site or In-Plant Training": [
+          {
+            "category": "None"
+          },
+          {
+            "category": "Up to 1 month"
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "Up to 1 month"
+          },
+          {
+            "category": "2 to 4 years"
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "None"
+          },
+          {
+            "category": "6 months to 1 year"
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "Less than high school diploma"
+          },
+          {
+            "category": "High school diploma or equivalent"
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Handling and Moving Objects",
+          "tier_label": "High"
+        },
+        {
+          "name": "Inspecting Equipment, Structures, or Materials",
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Performing General Physical Activities",
+          "tier_label": "High"
+        },
+        {
+          "name": "Scheduling Work and Activities",
+          "tier_label": "High"
+        },
+        {
+          "name": "Controlling Machines and Processes",
+          "tier_label": "High"
+        },
+        {
+          "name": "Identifying Objects, Actions, and Events",
+          "tier_label": "High"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "tier_label": "High"
+        },
+        {
+          "name": "Monitoring Processes, Materials, or Surroundings",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Coordinating the Work and Activities of Others",
+          "tier_label": "Moderate"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Standing",
+          "tier_label": "High"
+        },
+        {
+          "name": "Outdoors, Exposed to All Weather Conditions",
+          "tier_label": "High"
+        },
+        {
+          "name": "Exposed to Contaminants",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Making Repetitive Motions",
+          "tier_label": "High"
+        },
+        {
+          "name": "Importance of Being Exact or Accurate",
+          "tier_label": "High"
+        },
+        {
+          "name": "Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",
+          "tier_label": "High"
+        },
+        {
+          "name": "Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable",
+          "tier_label": "High"
+        },
+        {
+          "name": "Physical Proximity",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Walking or Running",
+          "tier_label": "High"
+        }
+      ]
+    },
+    {
+      "soc_code": "47-2061.00",
+      "title": "Construction Laborers",
+      "description": "Perform tasks involving physical labor at construction sites. May operate hand and power tools of all types: air hammers, earth tampers, cement mixers, small mechanical hoists, surveying and measuring equipment, and a variety of other equipment and instruments. May clean and prepare sites, dig trenches, set braces to support the sides of excavations, erect scaffolding, and clean up rubble, debris, and other waste materials. May assist other craft workers.",
+      "skills": [
+        {
+          "name": "Speaking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Coordination",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operation and Control",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operations Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Social Perceptiveness",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Equipment Selection",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Equipment Maintenance",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Time Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Writing",
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Manual Dexterity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Static Strength",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Multilimb Coordination",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Arm-Hand Steadiness",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Near Vision",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Control Precision",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Trunk Strength",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Oral Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Problem Sensitivity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Oral Expression",
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Building and Construction",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Public Safety and Security",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mechanical",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Education and Training",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Administration and Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Design",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "English Language",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Engineering and Technology",
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Tend pumps, compressors, or generators to provide power for tools, machinery, or equipment or to heat or move materials, such as asphalt.",
+        "Lubricate, clean, or repair machinery, equipment, or tools.",
+        "Signal equipment operators to facilitate alignment, movement, or adjustment of machinery, equipment, or materials.",
+        "Read plans, instructions, or specifications to determine work activities.",
+        "Measure, mark, or record openings or distances to layout areas where construction work will be performed.",
+        "Clean or prepare construction sites to eliminate possible hazards.",
+        "Dig ditches or trenches, backfill excavations, or compact and level earth to grade specifications, using picks, shovels, pneumatic tampers, or rakes.",
+        "Load, unload, or identify building materials, machinery, or tools, distributing them to the appropriate locations, according to project plans or specifications.",
+        "Position, join, align, or seal structural components, such as concrete wall sections or pipes.",
+        "Perform site activities required of green certified construction practices, such as implementing waste management procedures, identifying materials for reuse, or installing erosion or sedimentation control mechanisms."
+      ],
+      "technology_skills": [
+        {
+          "category": "Computer aided design CAD software",
+          "example": "Autodesk Revit"
+        },
+        {
+          "category": "Spreadsheet software",
+          "example": "Microsoft Excel"
+        },
+        {
+          "category": "Office suite software",
+          "example": "Microsoft Office software"
+        },
+        {
+          "category": "Electronic mail software",
+          "example": "Microsoft Outlook"
+        },
+        {
+          "category": "Operating system software",
+          "example": "Microsoft Windows"
+        },
+        {
+          "category": "Word processing software",
+          "example": "Microsoft Word"
+        },
+        {
+          "category": "Project management software",
+          "example": "Oracle Primavera Enterprise Project Portfolio Management"
+        }
+      ],
+      "education_requirements": {
+        "Job-Related Professional Certification": [],
+        "Job-related Apprenticeship": [],
+        "On-Site or In-Plant Training": [
+          {
+            "category": "None"
+          },
+          {
+            "category": "Up to 1 month"
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "3 to 6 months"
+          },
+          {
+            "category": "None"
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "None"
+          },
+          {
+            "category": "1 to 3 months"
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "High school diploma or equivalent"
+          },
+          {
+            "category": "Less than high school diploma"
+          },
+          {
+            "category": "Post-secondary certificate"
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Inspecting Equipment, Structures, or Materials",
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Monitoring Processes, Materials, or Surroundings",
+          "tier_label": "High"
+        },
+        {
+          "name": "Controlling Machines and Processes",
+          "tier_label": "High"
+        },
+        {
+          "name": "Identifying Objects, Actions, and Events",
+          "tier_label": "High"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "tier_label": "High"
+        },
+        {
+          "name": "Organizing, Planning, and Prioritizing Work",
+          "tier_label": "High"
+        },
+        {
+          "name": "Operating Vehicles, Mechanized Devices, or Equipment",
+          "tier_label": "High"
+        },
+        {
+          "name": "Handling and Moving Objects",
+          "tier_label": "High"
+        },
+        {
+          "name": "Repairing and Maintaining Mechanical Equipment",
+          "tier_label": "Moderate"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",
+          "tier_label": "High"
+        },
+        {
+          "name": "Face-to-Face Discussions with Individuals and Within Teams",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Standing",
+          "tier_label": "High"
+        },
+        {
+          "name": "Outdoors, Exposed to All Weather Conditions",
+          "tier_label": "High"
+        },
+        {
+          "name": "Contact With Others",
+          "tier_label": "High"
+        },
+        {
+          "name": "Exposed to Very Hot or Cold Temperatures",
+          "tier_label": "High"
+        },
+        {
+          "name": "Exposed to Hazardous Equipment",
+          "tier_label": "High"
+        },
+        {
+          "name": "Telephone Conversations",
+          "tier_label": "High"
+        },
+        {
+          "name": "Exposed to Contaminants",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",
+          "tier_label": "High"
+        }
+      ]
+    },
+    {
+      "soc_code": "47-2071.00",
+      "title": "Paving, Surfacing, and Tamping Equipment Operators",
+      "description": "Operate equipment used for applying concrete, asphalt, or other materials to road beds, parking lots, or airport runways and taxiways or for tamping gravel, dirt, or other materials. Includes concrete and asphalt paving machine operators, form tampers, tamping machine operators, and stone spreader operators.",
+      "skills": [
+        {
+          "name": "Operations Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operation and Control",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Troubleshooting",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Repairing",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Coordination",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Equipment Maintenance",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Time Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Quality Control Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Learning",
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Control Precision",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Problem Sensitivity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Multilimb Coordination",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Reaction Time",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Rate Control",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Far Vision",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Trunk Strength",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Static Strength",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Oral Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Visualization",
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Building and Construction",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mechanical",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Public Safety and Security",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Physics",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Chemistry",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Administration and Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Design",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Law and Government",
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Start machine, engage clutch, and push and move levers to guide machine along forms or guidelines and to control the operation of machine attachments.",
+        "Fill tanks, hoppers, or machines with paving materials.",
+        "Control paving machines to push dump trucks and to maintain a constant flow of asphalt or other material into hoppers or screeds.",
+        "Observe distribution of paving material to adjust machine settings or material flow, and indicate low spots for workers to add material.",
+        "Coordinate truck dumping.",
+        "Drive machines onto truck trailers, and drive trucks to transport machines and material to and from job sites.",
+        "Inspect, clean, maintain, and repair equipment, using mechanics' hand tools, or report malfunctions to supervisors.",
+        "Set up and tear down equipment.",
+        "Operate machines to spread, smooth, level, or steel-reinforce stone, concrete, or asphalt on road beds.",
+        "Light burners or start heating units of machines, and regulate screed temperatures and asphalt flow rates."
+      ],
+      "technology_skills": [
+        {
+          "category": "Computer aided design CAD software",
+          "example": "Autodesk AutoCAD Civil 3D"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Database software"
+        },
+        {
+          "category": "Electronic mail software",
+          "example": "Email software"
+        },
+        {
+          "category": "Project management software",
+          "example": "HCSS HeavyBid"
+        },
+        {
+          "category": "Spreadsheet software",
+          "example": "Microsoft Excel"
+        },
+        {
+          "category": "Office suite software",
+          "example": "Microsoft Office software"
+        },
+        {
+          "category": "Electronic mail software",
+          "example": "Microsoft Outlook"
+        },
+        {
+          "category": "Spreadsheet software",
+          "example": "Spreadsheet software"
+        },
+        {
+          "category": "Time accounting software",
+          "example": "Time report software"
+        },
+        {
+          "category": "Materials requirements planning logistics and supply chain software",
+          "example": "Warehouse management system WMS"
+        },
+        {
+          "category": "Word processing software",
+          "example": "Word processing software"
+        }
+      ],
+      "education_requirements": {
+        "Job-Related Professional Certification": [],
+        "Job-related Apprenticeship": [],
+        "On-Site or In-Plant Training": [
+          {
+            "category": "None"
+          },
+          {
+            "category": "1 to 3 months"
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "1 to 2 years"
+          },
+          {
+            "category": "1 to 3 months"
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "1 year to 2 years"
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "Less than high school diploma"
+          },
+          {
+            "category": "High school diploma or equivalent"
+          },
+          {
+            "category": "Post-secondary certificate"
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Controlling Machines and Processes",
+          "tier_label": "High"
+        },
+        {
+          "name": "Inspecting Equipment, Structures, or Materials",
+          "tier_label": "High"
+        },
+        {
+          "name": "Operating Vehicles, Mechanized Devices, or Equipment",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Performing General Physical Activities",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judging the Qualities of Objects, Services, or People",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Monitoring Processes, Materials, or Surroundings",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Updating and Using Relevant Knowledge",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Evaluating Information to Determine Compliance with Standards",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Repairing and Maintaining Mechanical Equipment",
+          "tier_label": "Moderate"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "Outdoors, Exposed to All Weather Conditions",
+          "tier_label": "High"
+        },
+        {
+          "name": "Face-to-Face Discussions with Individuals and Within Teams",
+          "tier_label": "High"
+        },
+        {
+          "name": "Exposed to Whole Body Vibration",
+          "tier_label": "High"
+        },
+        {
+          "name": "Exposed to Hazardous Equipment",
+          "tier_label": "High"
+        },
+        {
+          "name": "Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",
+          "tier_label": "High"
+        },
+        {
+          "name": "Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable",
+          "tier_label": "High"
+        },
+        {
+          "name": "Exposed to Contaminants",
+          "tier_label": "High"
+        },
+        {
+          "name": "In an Open Vehicle or Operating Equipment",
+          "tier_label": "High"
+        },
+        {
+          "name": "Telephone Conversations",
+          "tier_label": "High"
+        }
+      ]
+    },
+    {
+      "soc_code": "47-2111.00",
+      "title": "Electricians",
+      "description": "Install, maintain, and repair electrical wiring, equipment, and fixtures. Ensure that work is in accordance with relevant codes. May install or service street lights, intercom systems, or electrical control systems.",
+      "skills": [
+        {
+          "name": "Troubleshooting",
+          "tier_label": "High"
+        },
+        {
+          "name": "Repairing",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Quality Control Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Installation",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Learning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operations Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Coordination",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Persuasion",
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Near Vision",
+          "tier_label": "High"
+        },
+        {
+          "name": "Problem Sensitivity",
+          "tier_label": "High"
+        },
+        {
+          "name": "Inductive Reasoning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Deductive Reasoning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Information Ordering",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Oral Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Finger Dexterity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Arm-Hand Steadiness",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Visual Color Discrimination",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Extent Flexibility",
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Building and Construction",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Administration and Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mechanical",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Design",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Public Safety and Security",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Psychology",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "English Language",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Transportation",
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Prepare sketches or follow blueprints to determine the location of wiring or equipment and to ensure conformance to building and safety codes.",
+        "Place conduit, pipes, or tubing, inside designated partitions, walls, or other concealed areas, and pull insulated wires or cables through the conduit to complete circuits between boxes.",
+        "Work from ladders, scaffolds, or roofs to install, maintain, or repair electrical wiring, equipment, or fixtures.",
+        "Use a variety of tools or equipment, such as power construction equipment, measuring devices, power tools, and testing equipment, such as oscilloscopes, ammeters, or test lamps.",
+        "Assemble, install, test, or maintain electrical or electronic wiring, equipment, appliances, apparatus, or fixtures, using hand tools or power tools.",
+        "Connect wires to circuit breakers, transformers, or other components.",
+        "Maintain current electrician's license or identification card to meet governmental regulations.",
+        "Plan layout and installation of electrical wiring, equipment, or fixtures, based on job specifications and local codes.",
+        "Direct or train workers to install, maintain, or repair electrical wiring, equipment, or fixtures.",
+        "Test electrical systems or continuity of circuits in electrical wiring, equipment, or fixtures, using testing devices, such as ohmmeters, voltmeters, or oscilloscopes, to ensure compatibility and safety of system."
+      ],
+      "technology_skills": [
+        {
+          "category": "Document management software",
+          "example": "Adobe Acrobat"
+        },
+        {
+          "category": "Computer aided design CAD software",
+          "example": "Autodesk AutoCAD"
+        },
+        {
+          "category": "Industrial control software",
+          "example": "AVEVA InTouch HMI"
+        },
+        {
+          "category": "Computer aided design CAD software",
+          "example": "Computer aided design CAD software"
+        },
+        {
+          "category": "Analytical or scientific software",
+          "example": "Construction Master Pro"
+        },
+        {
+          "category": "Project management software",
+          "example": "Craftsman CD Estimator"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Database software"
+        },
+        {
+          "category": "Analytical or scientific software",
+          "example": "Electrosoft FlashWorks"
+        },
+        {
+          "category": "Analytical or scientific software",
+          "example": "Elite Software E-Coord"
+        },
+        {
+          "category": "Analytical or scientific software",
+          "example": "Elite Software Inpoint"
+        },
+        {
+          "category": "Analytical or scientific software",
+          "example": "Elite Software Outpoint"
+        },
+        {
+          "category": "Analytical or scientific software",
+          "example": "Elite Software Short"
+        },
+        {
+          "category": "Analytical or scientific software",
+          "example": "Elite Software VDROP"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Insight Direct ServiceCEO"
+        },
+        {
+          "category": "Analytical or scientific software",
+          "example": "Lighting calculation software"
+        },
+        {
+          "category": "Spreadsheet software",
+          "example": "Microsoft Excel"
+        },
+        {
+          "category": "Office suite software",
+          "example": "Microsoft Office software"
+        },
+        {
+          "category": "Electronic mail software",
+          "example": "Microsoft Outlook"
+        },
+        {
+          "category": "Operating system software",
+          "example": "Microsoft Windows"
+        },
+        {
+          "category": "Word processing software",
+          "example": "Microsoft Word"
+        }
+      ],
+      "education_requirements": {
+        "Job-Related Professional Certification": [],
+        "Job-related Apprenticeship": [],
+        "On-Site or In-Plant Training": [
+          {
+            "category": "Up to 1 month"
+          },
+          {
+            "category": "2 to 4 years"
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "4 to 10 years"
+          },
+          {
+            "category": "1 to 2 years"
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "6 months to 1 year"
+          },
+          {
+            "category": "4 years to 6 years"
+          },
+          {
+            "category": "None"
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "Post-secondary certificate"
+          },
+          {
+            "category": "High school diploma or equivalent"
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Performing General Physical Activities",
+          "tier_label": "High"
+        },
+        {
+          "name": "Communicating with Supervisors, Peers, or Subordinates",
+          "tier_label": "High"
+        },
+        {
+          "name": "Organizing, Planning, and Prioritizing Work",
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Monitoring Processes, Materials, or Surroundings",
+          "tier_label": "High"
+        },
+        {
+          "name": "Updating and Using Relevant Knowledge",
+          "tier_label": "High"
+        },
+        {
+          "name": "Establishing and Maintaining Interpersonal Relationships",
+          "tier_label": "High"
+        },
+        {
+          "name": "Handling and Moving Objects",
+          "tier_label": "High"
+        },
+        {
+          "name": "Coordinating the Work and Activities of Others",
+          "tier_label": "High"
+        },
+        {
+          "name": "Inspecting Equipment, Structures, or Materials",
+          "tier_label": "High"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",
+          "tier_label": "High"
+        },
+        {
+          "name": "Face-to-Face Discussions with Individuals and Within Teams",
+          "tier_label": "High"
+        },
+        {
+          "name": "Contact With Others",
+          "tier_label": "High"
+        },
+        {
+          "name": "Importance of Being Exact or Accurate",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Bending or Twisting Your Body",
+          "tier_label": "High"
+        },
+        {
+          "name": "Impact of Decisions on Co-workers or Company Results",
+          "tier_label": "High"
+        },
+        {
+          "name": "Exposed to Hazardous Conditions",
+          "tier_label": "High"
+        },
+        {
+          "name": "Health and Safety of Other Workers",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Standing",
+          "tier_label": "High"
+        }
+      ]
+    },
+    {
+      "soc_code": "47-2121.00",
+      "title": "Glaziers",
+      "description": "Install glass in windows, skylights, store fronts, and display cases, or on surfaces, such as building fronts, interior walls, ceilings, and tabletops.",
+      "skills": [
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Coordination",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Time Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operations Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operation and Control",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Social Perceptiveness",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Service Orientation",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Persuasion",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Quality Control Analysis",
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Arm-Hand Steadiness",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Near Vision",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Trunk Strength",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Multilimb Coordination",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Manual Dexterity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Problem Sensitivity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Information Ordering",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Control Precision",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Static Strength",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Written Comprehension",
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Building and Construction",
+          "tier_label": "High"
+        },
+        {
+          "name": "Mechanical",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Administration and Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Design",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Engineering and Technology",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "English Language",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Production and Processing",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Public Safety and Security",
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Read and interpret blueprints or specifications to determine size, shape, color, type, or thickness of glass, location of framing, installation procedures, or staging or scaffolding materials required.",
+        "Determine plumb of walls or ceilings, using plumb lines and levels.",
+        "Install pre-assembled metal or wood frameworks for windows or doors to be fitted with glass panels, using hand tools.",
+        "Fabricate or install metal sashes or moldings for glass installation, using aluminum or steel framing.",
+        "Operate cranes or hoists with suction cups to lift large, heavy pieces of glass.",
+        "Set glass doors into frames and bolt metal hinges, handles, locks, or other hardware to attach doors to frames and walls.",
+        "Cut, fit, install, repair, or replace glass or glass substitutes, such as plastic or aluminum, in building interiors or exteriors or in furniture or other products.",
+        "Drive trucks to installation sites and unload mirrors, glass equipment, or tools.",
+        "Load and arrange glass or mirrors onto delivery trucks, using suction cups or cranes to lift glass.",
+        "Measure mirrors and dimensions of areas to be covered to determine work procedures."
+      ],
+      "technology_skills": [
+        {
+          "category": "Project management software",
+          "example": "American Glazing Software AGS WindowPricer"
+        },
+        {
+          "category": "Project management software",
+          "example": "BidMaster"
+        },
+        {
+          "category": "Computer aided design CAD software",
+          "example": "D-CALC FACADE 4000"
+        },
+        {
+          "category": "Spreadsheet software",
+          "example": "Microsoft Excel"
+        },
+        {
+          "category": "Office suite software",
+          "example": "Microsoft Office software"
+        },
+        {
+          "category": "Operating system software",
+          "example": "Microsoft Windows"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Work order software"
+        }
+      ],
+      "education_requirements": {
+        "Job-Related Professional Certification": [],
+        "Job-related Apprenticeship": [],
+        "On-Site or In-Plant Training": [
+          {
+            "category": "None"
+          }
+        ],
+        "On-the-Job Training": [],
+        "Related Work Experience": [
+          {
+            "category": "None"
+          },
+          {
+            "category": "1 year to 2 years"
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "High school diploma or equivalent"
+          },
+          {
+            "category": "Less than high school diploma"
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Inspecting Equipment, Structures, or Materials",
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Handling and Moving Objects",
+          "tier_label": "High"
+        },
+        {
+          "name": "Identifying Objects, Actions, and Events",
+          "tier_label": "High"
+        },
+        {
+          "name": "Performing General Physical Activities",
+          "tier_label": "High"
+        },
+        {
+          "name": "Communicating with Supervisors, Peers, or Subordinates",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Organizing, Planning, and Prioritizing Work",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Monitoring Processes, Materials, or Surroundings",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operating Vehicles, Mechanized Devices, or Equipment",
+          "tier_label": "Moderate"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",
+          "tier_label": "High"
+        },
+        {
+          "name": "Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",
+          "tier_label": "High"
+        },
+        {
+          "name": "Face-to-Face Discussions with Individuals and Within Teams",
+          "tier_label": "High"
+        },
+        {
+          "name": "Outdoors, Exposed to All Weather Conditions",
+          "tier_label": "High"
+        },
+        {
+          "name": "Importance of Being Exact or Accurate",
+          "tier_label": "High"
+        },
+        {
+          "name": "Contact With Others",
+          "tier_label": "High"
+        },
+        {
+          "name": "Work With or Contribute to a Work Group or Team",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Standing",
+          "tier_label": "High"
+        },
+        {
+          "name": "Physical Proximity",
+          "tier_label": "High"
+        },
+        {
+          "name": "Coordinate or Lead Others in Accomplishing Work Activities",
+          "tier_label": "High"
+        }
+      ]
+    },
+    {
+      "soc_code": "47-2131.00",
+      "title": "Insulation Workers, Floor, Ceiling, and Wall",
+      "description": "Line and cover structures with insulating materials. May work with batt, roll, or blown insulation materials.",
+      "skills": [
+        {
+          "name": "Operation and Control",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operations Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Coordination",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Social Perceptiveness",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Time Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Learning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Quality Control Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Persuasion",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Extent Flexibility",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Manual Dexterity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Multilimb Coordination",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Trunk Strength",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Gross Body Equilibrium",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Control Precision",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Arm-Hand Steadiness",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Visualization",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speech Clarity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Finger Dexterity",
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Building and Construction",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mechanical",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "English Language",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Administration and Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Transportation",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Public Safety and Security",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Design",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Education and Training",
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Measure and cut insulation for covering surfaces, using tape measures, handsaws, power saws, knives, or scissors.",
+        "Fit, wrap, staple, or glue insulating materials to structures or surfaces, using hand tools or wires.",
+        "Cover and line structures with blown or rolled forms of materials to insulate against cold, heat, or moisture, using saws, knives, rasps, trowels, blowers, or other tools and implements.",
+        "Distribute insulating materials evenly into small spaces within floors, ceilings, or walls, using blowers and hose attachments, or cement mortars.",
+        "Move controls, buttons, or levers to start blowers and regulate flow of materials through nozzles.",
+        "Fill blower hoppers with insulating materials.",
+        "Cover, seal, or finish insulated surfaces or access holes with plastic covers, canvas strips, sealants, tape, cement or asphalt mastic.",
+        "Read blueprints, and select appropriate insulation, based on space characteristics and the heat retaining or excluding characteristics of the material.",
+        "Remove old insulation, such as asbestos, following safety procedures.",
+        "Prepare surfaces for insulation application by brushing or spreading on adhesives, cement, or asphalt, or by attaching metal pins to surfaces."
+      ],
+      "technology_skills": [
+        {
+          "category": "Data base user interface and query software",
+          "example": "CMSN FieldPAK"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Comput-Ability Mechanical Insulation Key Estimator"
+        },
+        {
+          "category": "Spreadsheet software",
+          "example": "Microsoft Excel"
+        },
+        {
+          "category": "Office suite software",
+          "example": "Microsoft Office software"
+        },
+        {
+          "category": "Electronic mail software",
+          "example": "Microsoft Outlook"
+        },
+        {
+          "category": "Operating system software",
+          "example": "Microsoft Windows"
+        },
+        {
+          "category": "Analytical or scientific software",
+          "example": "North American Insulation Manufacturers Association NAIMA 3E Plus"
+        },
+        {
+          "category": "Project management software",
+          "example": "Turtle Creek Software Goldenseal"
+        }
+      ],
+      "education_requirements": {
+        "On-Site or In-Plant Training": [
+          {
+            "category": "Up to 1 month"
+          },
+          {
+            "category": "None"
+          }
+        ],
+        "On-the-Job Training": [],
+        "Related Work Experience": [
+          {
+            "category": "None"
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "High school diploma or equivalent"
+          },
+          {
+            "category": "Less than high school diploma"
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Handling and Moving Objects",
+          "tier_label": "High"
+        },
+        {
+          "name": "Performing General Physical Activities",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Communicating with Supervisors, Peers, or Subordinates",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Inspecting Equipment, Structures, or Materials",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Identifying Objects, Actions, and Events",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operating Vehicles, Mechanized Devices, or Equipment",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Getting Information",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Monitoring Processes, Materials, or Surroundings",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Controlling Machines and Processes",
+          "tier_label": "Moderate"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "Spend Time Standing",
+          "tier_label": "High"
+        },
+        {
+          "name": "Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",
+          "tier_label": "High"
+        },
+        {
+          "name": "Face-to-Face Discussions with Individuals and Within Teams",
+          "tier_label": "High"
+        },
+        {
+          "name": "Exposed to Contaminants",
+          "tier_label": "High"
+        },
+        {
+          "name": "Time Pressure",
+          "tier_label": "High"
+        },
+        {
+          "name": "Exposed to Very Hot or Cold Temperatures",
+          "tier_label": "High"
+        },
+        {
+          "name": "Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Freedom to Make Decisions",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Work With or Contribute to a Work Group or Team",
+          "tier_label": "Moderate"
+        }
+      ]
+    },
+    {
+      "soc_code": "47-2141.00",
+      "title": "Painters, Construction and Maintenance",
+      "description": "Paint walls, equipment, buildings, bridges, and other structural surfaces, using brushes, rollers, and spray guns. May remove old paint to prepare surface prior to painting. May mix colors or oils to obtain desired color or consistency.",
+      "skills": [
+        {
+          "name": "Time Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Social Perceptiveness",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Coordination",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Service Orientation",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Evaluation",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Quality Control Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operation and Control",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operations Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Management of Personnel Resources",
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Arm-Hand Steadiness",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Near Vision",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Trunk Strength",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Manual Dexterity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Oral Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Visual Color Discrimination",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Gross Body Equilibrium",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Gross Body Coordination",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Extent Flexibility",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Written Comprehension",
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Customer and Personal Service",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Building and Construction",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Administration and Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Public Safety and Security",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Chemistry",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Transportation",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Education and Training",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Production and Processing",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mechanical",
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Cover surfaces with dropcloths or masking tape and paper to protect surfaces during painting.",
+        "Read work orders or receive instructions from supervisors or homeowners to determine work requirements.",
+        "Apply paint, stain, varnish, enamel, or other finishes to equipment, buildings, bridges, or other structures, using brushes, spray guns, or rollers.",
+        "Fill cracks, holes, or joints with caulk, putty, plaster, or other fillers, using caulking guns or putty knives.",
+        "Smooth surfaces, using sandpaper, scrapers, brushes, steel wool, or sanding machines.",
+        "Erect scaffolding or swing gates, or set up ladders, to work above ground level.",
+        "Wash and treat surfaces with oil, turpentine, mildew remover, or other preparations, and sand rough spots to ensure that finishes will adhere properly.",
+        "Apply primers or sealers to prepare new surfaces, such as bare wood or metal, for finish coats.",
+        "Calculate amounts of required materials and estimate costs, based on surface measurements or work orders.",
+        "Remove old finishes by stripping, sanding, wire brushing, burning, or using water or abrasive blasting."
+      ],
+      "technology_skills": [
+        {
+          "category": "Customer relationship management CRM software",
+          "example": "Act!"
+        },
+        {
+          "category": "Graphics or photo imaging software",
+          "example": "Corel Paint Shop Pro"
+        },
+        {
+          "category": "Graphics or photo imaging software",
+          "example": "Corel Painter"
+        },
+        {
+          "category": "Project management software",
+          "example": "Evergreen Technology Eagle Bid Estimating"
+        },
+        {
+          "category": "Analytical or scientific software",
+          "example": "Evergreen Technology Total Faux"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Insight Direct ServiceCEO"
+        },
+        {
+          "category": "Spreadsheet software",
+          "example": "Microsoft Excel"
+        },
+        {
+          "category": "Office suite software",
+          "example": "Microsoft Office software"
+        },
+        {
+          "category": "Operating system software",
+          "example": "Microsoft Windows"
+        },
+        {
+          "category": "Word processing software",
+          "example": "Microsoft Word"
+        },
+        {
+          "category": "Project management software",
+          "example": "On Center Quick Bid"
+        },
+        {
+          "category": "Spreadsheet software",
+          "example": "Spreadsheet software"
+        },
+        {
+          "category": "Project management software",
+          "example": "Turtle Creek Software Goldenseal"
+        },
+        {
+          "category": "Word processing software",
+          "example": "Word processing software"
+        }
+      ],
+      "education_requirements": {
+        "Job-Related Professional Certification": [],
+        "Job-related Apprenticeship": [],
+        "On-Site or In-Plant Training": [
+          {
+            "category": "None"
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "3 to 6 months"
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "None"
+          },
+          {
+            "category": "1 year to 2 years"
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "High school diploma or equivalent"
+          },
+          {
+            "category": "Post-secondary certificate"
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Performing General Physical Activities",
+          "tier_label": "High"
+        },
+        {
+          "name": "Organizing, Planning, and Prioritizing Work",
+          "tier_label": "High"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "tier_label": "High"
+        },
+        {
+          "name": "Inspecting Equipment, Structures, or Materials",
+          "tier_label": "High"
+        },
+        {
+          "name": "Identifying Objects, Actions, and Events",
+          "tier_label": "High"
+        },
+        {
+          "name": "Developing Objectives and Strategies",
+          "tier_label": "High"
+        },
+        {
+          "name": "Training and Teaching Others",
+          "tier_label": "High"
+        },
+        {
+          "name": "Communicating with Supervisors, Peers, or Subordinates",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Getting Information",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Monitoring Processes, Materials, or Surroundings",
+          "tier_label": "Moderate"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "Spend Time Standing",
+          "tier_label": "High"
+        },
+        {
+          "name": "Face-to-Face Discussions with Individuals and Within Teams",
+          "tier_label": "High"
+        },
+        {
+          "name": "Telephone Conversations",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",
+          "tier_label": "High"
+        },
+        {
+          "name": "Time Pressure",
+          "tier_label": "High"
+        },
+        {
+          "name": "Importance of Being Exact or Accurate",
+          "tier_label": "High"
+        },
+        {
+          "name": "Freedom to Make Decisions",
+          "tier_label": "High"
+        },
+        {
+          "name": "Contact With Others",
+          "tier_label": "High"
+        },
+        {
+          "name": "Determine Tasks, Priorities and Goals",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Climbing Ladders, Scaffolds, or Poles",
+          "tier_label": "High"
+        }
+      ]
+    },
+    {
+      "soc_code": "47-2151.00",
+      "title": "Pipelayers",
+      "description": "Lay pipe for storm or sanitation sewers, drains, and water mains. Perform any combination of the following tasks: grade trenches or culverts, position pipe, or seal joints.",
+      "skills": [
+        {
+          "name": "Operation and Control",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operations Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Quality Control Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Coordination",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Time Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Installation",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Repairing",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Troubleshooting",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Equipment Maintenance",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Social Perceptiveness",
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Control Precision",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Arm-Hand Steadiness",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Oral Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Static Strength",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Near Vision",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Extent Flexibility",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Stamina",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Trunk Strength",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Visualization",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Reaction Time",
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Building and Construction",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Public Safety and Security",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mechanical",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Engineering and Technology",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Administration and Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "English Language",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Production and Processing",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Design",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Education and Training",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Grade or level trench bases, using tamping machines or hand tools.",
+        "Dig trenches to desired or required depths, by hand or using trenching tools.",
+        "Cut pipes to required lengths.",
+        "Install or use instruments such as lasers, grade rods, or transit levels.",
+        "Cover pipes with earth or other materials.",
+        "Connect pipe pieces and seal joints, using welding equipment, cement, or glue.",
+        "Install or repair sanitary or stormwater sewer structures or pipe systems.",
+        "Check slopes for conformance to requirements, using levels or lasers.",
+        "Align and position pipes to prepare them for welding or sealing.",
+        "Lay out pipe routes, following written instructions or blueprints and coordinating layouts with supervisors."
+      ],
+      "technology_skills": [
+        {
+          "category": "Spreadsheet software",
+          "example": "Microsoft Excel"
+        },
+        {
+          "category": "Office suite software",
+          "example": "Microsoft Office software"
+        },
+        {
+          "category": "Spreadsheet software",
+          "example": "Spreadsheet software"
+        },
+        {
+          "category": "Word processing software",
+          "example": "Word processing software"
+        }
+      ],
+      "education_requirements": {
+        "Job-Related Professional Certification": [],
+        "Job-related Apprenticeship": [],
+        "On-Site or In-Plant Training": [
+          {
+            "category": "2 to 4 years"
+          },
+          {
+            "category": "Up to 1 month"
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "6 months to 1 year"
+          },
+          {
+            "category": "Up to 1 month"
+          }
+        ],
+        "Related Work Experience": [],
+        "Required Level of Education": [
+          {
+            "category": "Less than high school diploma"
+          },
+          {
+            "category": "High school diploma or equivalent"
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Handling and Moving Objects",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Communicating with Supervisors, Peers, or Subordinates",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Controlling Machines and Processes",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operating Vehicles, Mechanized Devices, or Equipment",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Inspecting Equipment, Structures, or Materials",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Performing General Physical Activities",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Identifying Objects, Actions, and Events",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Establishing and Maintaining Interpersonal Relationships",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Monitoring Processes, Materials, or Surroundings",
+          "tier_label": "Moderate"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",
+          "tier_label": "High"
+        },
+        {
+          "name": "Face-to-Face Discussions with Individuals and Within Teams",
+          "tier_label": "High"
+        },
+        {
+          "name": "Outdoors, Exposed to All Weather Conditions",
+          "tier_label": "High"
+        },
+        {
+          "name": "Work With or Contribute to a Work Group or Team",
+          "tier_label": "High"
+        },
+        {
+          "name": "Contact With Others",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Standing",
+          "tier_label": "High"
+        },
+        {
+          "name": "Frequency of Decision Making",
+          "tier_label": "High"
+        },
+        {
+          "name": "Health and Safety of Other Workers",
+          "tier_label": "High"
+        },
+        {
+          "name": "Impact of Decisions on Co-workers or Company Results",
+          "tier_label": "High"
+        },
+        {
+          "name": "Exposed to Very Hot or Cold Temperatures",
+          "tier_label": "High"
+        }
+      ]
+    },
+    {
+      "soc_code": "47-2152.00",
+      "title": "Plumbers, Pipefitters, and Steamfitters",
+      "description": "Assemble, install, alter, and repair pipelines or pipe systems that carry water, steam, air, or other liquids or gases. May install heating and cooling equipment and mechanical control systems. Includes sprinkler fitters.",
+      "skills": [
+        {
+          "name": "Installation",
+          "tier_label": "High"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Quality Control Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operations Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Repairing",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Troubleshooting",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Time Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Troubleshooting",
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Problem Sensitivity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Oral Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Finger Dexterity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Near Vision",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Deductive Reasoning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Manual Dexterity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Near Vision",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speech Recognition",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Extent Flexibility",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Inductive Reasoning",
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Mechanical",
+          "tier_label": "High"
+        },
+        {
+          "name": "Building and Construction",
+          "tier_label": "High"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "tier_label": "High"
+        },
+        {
+          "name": "Building and Construction",
+          "tier_label": "High"
+        },
+        {
+          "name": "Mechanical",
+          "tier_label": "High"
+        },
+        {
+          "name": "English Language",
+          "tier_label": "High"
+        },
+        {
+          "name": "Engineering and Technology",
+          "tier_label": "High"
+        },
+        {
+          "name": "Education and Training",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Design",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Public Safety and Security",
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Shut off steam, water, or other gases or liquids from pipe sections, using valve keys or wrenches.",
+        "Install underground storm, sanitary, or water piping systems, extending piping as needed to connect fixtures and plumbing.",
+        "Assemble pipe sections, tubing, or fittings, using couplings, clamps, screws, bolts, cement, plastic solvent, caulking, or soldering, brazing, or welding equipment.",
+        "Locate and mark the position of pipe installations, connections, passage holes, or fixtures in structures, using measuring instruments such as rulers or levels.",
+        "Cut, thread, or hammer pipes to specifications, using tools such as saws, cutting torches, pipe threaders, or pipe benders.",
+        "Lay out full scale drawings of pipe systems, supports, or related equipment, according to blueprints.",
+        "Plan pipe system layout, installation, or repair, according to specifications.",
+        "Review blueprints, building codes, or specifications to determine work details or procedures.",
+        "Select pipe sizes, types, or related materials, such as supports, hangers, or hydraulic cylinders, according to specifications.",
+        "Fill pipes or plumbing fixtures with water or air and observe pressure gauges to detect and locate leaks."
+      ],
+      "technology_skills": [
+        {
+          "category": "Computer aided design CAD software",
+          "example": "AEC Design Group CADPIPE"
+        },
+        {
+          "category": "Word processing software",
+          "example": "Atlas Construction Business Forms"
+        },
+        {
+          "category": "Computer aided design CAD software",
+          "example": "Autodesk Building Systems"
+        },
+        {
+          "category": "Analytical or scientific software",
+          "example": "Bentley Systems AutoPIPE"
+        },
+        {
+          "category": "Accounting software",
+          "example": "Bookkeeping software"
+        },
+        {
+          "category": "Analytical or scientific software",
+          "example": "COADE CAESAR II"
+        },
+        {
+          "category": "Computer aided design CAD software",
+          "example": "Computer aided design CAD software"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Database software"
+        },
+        {
+          "category": "Computer aided design CAD software",
+          "example": "Drawing and drafting software"
+        },
+        {
+          "category": "Analytical or scientific software",
+          "example": "Elite Software DPIPE"
+        },
+        {
+          "category": "Analytical or scientific software",
+          "example": "Elite Software FIRE"
+        },
+        {
+          "category": "Analytical or scientific software",
+          "example": "Elite Software HSYM"
+        },
+        {
+          "category": "Computer aided design CAD software",
+          "example": "Elite Software Plumbing CAD"
+        },
+        {
+          "category": "Analytical or scientific software",
+          "example": "Elite Software Spipe"
+        },
+        {
+          "category": "Computer aided design CAD software",
+          "example": "Elite Software Sprinkler CAD"
+        },
+        {
+          "category": "Electronic mail software",
+          "example": "Email software"
+        },
+        {
+          "category": "Project management software",
+          "example": "Estimating software"
+        },
+        {
+          "category": "Project management software",
+          "example": "FastEST FastPipe"
+        },
+        {
+          "category": "Project management software",
+          "example": "FastEST software"
+        },
+        {
+          "category": "Analytical or scientific software",
+          "example": "Heat loss calculation software"
+        }
+      ],
+      "education_requirements": {
+        "Job-Related Professional Certification": [],
+        "Job-related Apprenticeship": [],
+        "On-Site or In-Plant Training": [
+          {
+            "category": "3 to 6 months"
+          },
+          {
+            "category": "4 to 10 years"
+          },
+          {
+            "category": "6 months to 1 year"
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "3 to 6 months"
+          },
+          {
+            "category": "4 to 10 years"
+          },
+          {
+            "category": "2 to 4 years"
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "4 years to 6 years"
+          },
+          {
+            "category": "None"
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "Post-secondary certificate"
+          },
+          {
+            "category": "High school diploma or equivalent"
+          },
+          {
+            "category": "Some college, no degree"
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Communicating with Supervisors, Peers, or Subordinates",
+          "tier_label": "High"
+        },
+        {
+          "name": "Identifying Objects, Actions, and Events",
+          "tier_label": "High"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Thinking Creatively",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Inspecting Equipment, Structures, or Materials",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Performing General Physical Activities",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Handling and Moving Objects",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operating Vehicles, Mechanized Devices, or Equipment",
+          "tier_label": "Moderate"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",
+          "tier_label": "High"
+        },
+        {
+          "name": "Freedom to Make Decisions",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Standing",
+          "tier_label": "High"
+        },
+        {
+          "name": "Face-to-Face Discussions with Individuals and Within Teams",
+          "tier_label": "High"
+        },
+        {
+          "name": "Frequency of Decision Making",
+          "tier_label": "High"
+        },
+        {
+          "name": "Exposed to Contaminants",
+          "tier_label": "High"
+        },
+        {
+          "name": "Impact of Decisions on Co-workers or Company Results",
+          "tier_label": "High"
+        },
+        {
+          "name": "Time Pressure",
+          "tier_label": "High"
+        },
+        {
+          "name": "Freedom to Make Decisions",
+          "tier_label": "High"
+        }
+      ]
+    },
+    {
+      "soc_code": "47-2152.04",
+      "title": "Solar Thermal Installers and Technicians",
+      "description": "Install or repair solar energy systems designed to collect, store, and circulate solar-heated water for residential, commercial or industrial use.",
+      "skills": [
+        {
+          "name": "Installation",
+          "tier_label": "High"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Quality Control Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operations Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Repairing",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Troubleshooting",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Time Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Troubleshooting",
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Problem Sensitivity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Oral Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Finger Dexterity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Near Vision",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Deductive Reasoning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Manual Dexterity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Near Vision",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speech Recognition",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Extent Flexibility",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Inductive Reasoning",
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Mechanical",
+          "tier_label": "High"
+        },
+        {
+          "name": "Building and Construction",
+          "tier_label": "High"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "tier_label": "High"
+        },
+        {
+          "name": "Building and Construction",
+          "tier_label": "High"
+        },
+        {
+          "name": "Mechanical",
+          "tier_label": "High"
+        },
+        {
+          "name": "English Language",
+          "tier_label": "High"
+        },
+        {
+          "name": "Engineering and Technology",
+          "tier_label": "High"
+        },
+        {
+          "name": "Education and Training",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Design",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Public Safety and Security",
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Shut off steam, water, or other gases or liquids from pipe sections, using valve keys or wrenches.",
+        "Install underground storm, sanitary, or water piping systems, extending piping as needed to connect fixtures and plumbing.",
+        "Assemble pipe sections, tubing, or fittings, using couplings, clamps, screws, bolts, cement, plastic solvent, caulking, or soldering, brazing, or welding equipment.",
+        "Locate and mark the position of pipe installations, connections, passage holes, or fixtures in structures, using measuring instruments such as rulers or levels.",
+        "Cut, thread, or hammer pipes to specifications, using tools such as saws, cutting torches, pipe threaders, or pipe benders.",
+        "Lay out full scale drawings of pipe systems, supports, or related equipment, according to blueprints.",
+        "Plan pipe system layout, installation, or repair, according to specifications.",
+        "Review blueprints, building codes, or specifications to determine work details or procedures.",
+        "Select pipe sizes, types, or related materials, such as supports, hangers, or hydraulic cylinders, according to specifications.",
+        "Fill pipes or plumbing fixtures with water or air and observe pressure gauges to detect and locate leaks."
+      ],
+      "technology_skills": [
+        {
+          "category": "Computer aided design CAD software",
+          "example": "AEC Design Group CADPIPE"
+        },
+        {
+          "category": "Word processing software",
+          "example": "Atlas Construction Business Forms"
+        },
+        {
+          "category": "Computer aided design CAD software",
+          "example": "Autodesk Building Systems"
+        },
+        {
+          "category": "Analytical or scientific software",
+          "example": "Bentley Systems AutoPIPE"
+        },
+        {
+          "category": "Accounting software",
+          "example": "Bookkeeping software"
+        },
+        {
+          "category": "Analytical or scientific software",
+          "example": "COADE CAESAR II"
+        },
+        {
+          "category": "Computer aided design CAD software",
+          "example": "Computer aided design CAD software"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Database software"
+        },
+        {
+          "category": "Computer aided design CAD software",
+          "example": "Drawing and drafting software"
+        },
+        {
+          "category": "Analytical or scientific software",
+          "example": "Elite Software DPIPE"
+        },
+        {
+          "category": "Analytical or scientific software",
+          "example": "Elite Software FIRE"
+        },
+        {
+          "category": "Analytical or scientific software",
+          "example": "Elite Software HSYM"
+        },
+        {
+          "category": "Computer aided design CAD software",
+          "example": "Elite Software Plumbing CAD"
+        },
+        {
+          "category": "Analytical or scientific software",
+          "example": "Elite Software Spipe"
+        },
+        {
+          "category": "Computer aided design CAD software",
+          "example": "Elite Software Sprinkler CAD"
+        },
+        {
+          "category": "Electronic mail software",
+          "example": "Email software"
+        },
+        {
+          "category": "Project management software",
+          "example": "Estimating software"
+        },
+        {
+          "category": "Project management software",
+          "example": "FastEST FastPipe"
+        },
+        {
+          "category": "Project management software",
+          "example": "FastEST software"
+        },
+        {
+          "category": "Analytical or scientific software",
+          "example": "Heat loss calculation software"
+        }
+      ],
+      "education_requirements": {
+        "Job-Related Professional Certification": [],
+        "Job-related Apprenticeship": [],
+        "On-Site or In-Plant Training": [
+          {
+            "category": "3 to 6 months"
+          },
+          {
+            "category": "4 to 10 years"
+          },
+          {
+            "category": "6 months to 1 year"
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "3 to 6 months"
+          },
+          {
+            "category": "4 to 10 years"
+          },
+          {
+            "category": "2 to 4 years"
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "4 years to 6 years"
+          },
+          {
+            "category": "None"
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "Post-secondary certificate"
+          },
+          {
+            "category": "High school diploma or equivalent"
+          },
+          {
+            "category": "Some college, no degree"
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Communicating with Supervisors, Peers, or Subordinates",
+          "tier_label": "High"
+        },
+        {
+          "name": "Identifying Objects, Actions, and Events",
+          "tier_label": "High"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Thinking Creatively",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Inspecting Equipment, Structures, or Materials",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Performing General Physical Activities",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Handling and Moving Objects",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operating Vehicles, Mechanized Devices, or Equipment",
+          "tier_label": "Moderate"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",
+          "tier_label": "High"
+        },
+        {
+          "name": "Freedom to Make Decisions",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Standing",
+          "tier_label": "High"
+        },
+        {
+          "name": "Face-to-Face Discussions with Individuals and Within Teams",
+          "tier_label": "High"
+        },
+        {
+          "name": "Frequency of Decision Making",
+          "tier_label": "High"
+        },
+        {
+          "name": "Exposed to Contaminants",
+          "tier_label": "High"
+        },
+        {
+          "name": "Impact of Decisions on Co-workers or Company Results",
+          "tier_label": "High"
+        },
+        {
+          "name": "Time Pressure",
+          "tier_label": "High"
+        },
+        {
+          "name": "Freedom to Make Decisions",
+          "tier_label": "High"
+        }
+      ]
+    },
+    {
+      "soc_code": "47-2161.00",
+      "title": "Plasterers and Stucco Masons",
+      "description": "Apply interior or exterior plaster, cement, stucco, or similar materials. May also set ornamental plaster.",
+      "skills": [
+        {
+          "name": "Time Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Quality Control Analysis",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Service Orientation",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Coordination",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operations Monitoring",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Reading Comprehension",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Critical Thinking",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Learning",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operation and Control",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Social Perceptiveness",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Near Vision",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Arm-Hand Steadiness",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Manual Dexterity",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Trunk Strength",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Extent Flexibility",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Multilimb Coordination",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Gross Body Equilibrium",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Static Strength",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Dynamic Strength",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Stamina",
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Building and Construction",
+          "tier_label": "High"
+        },
+        {
+          "name": "Administration and Management",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Design",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "English Language",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Public Safety and Security",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mechanical",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Production and Processing",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Education and Training",
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Cover surfaces such as windows, doors, or sidewalks to protect from splashing.",
+        "Clean job sites.",
+        "Mix mortar and plaster to desired consistency or direct workers who perform mixing.",
+        "Apply coats of plaster or stucco to walls, ceilings, or partitions of buildings, using trowels, brushes, or spray guns.",
+        "Set up scaffolds.",
+        "Determine materials needed to complete the job and place orders accordingly.",
+        "Apply weatherproof, decorative coverings to exterior surfaces of buildings, such as by troweling or spraying on coats of stucco.",
+        "Clean and prepare surfaces for applications of plaster, cement, stucco, or similar materials, such as by drywall taping.",
+        "Create decorative textures in finish coat, using brushes or trowels, sand, pebbles, or stones.",
+        "Apply insulation to building exteriors by installing prefabricated insulation systems over existing walls or by covering the outer wall with insulation board, reinforcing mesh, and a base coat."
+      ],
+      "technology_skills": [
+        {
+          "category": "Accounting software",
+          "example": "A-Systems JobView"
+        },
+        {
+          "category": "Accounting software",
+          "example": "Accounting software"
+        },
+        {
+          "category": "Computer aided design CAD software",
+          "example": "Autodesk 3ds Max Design"
+        },
+        {
+          "category": "Graphics or photo imaging software",
+          "example": "Autodesk Maya"
+        },
+        {
+          "category": "Project management software",
+          "example": "Construction Software Center EasyEst"
+        },
+        {
+          "category": "Graphics or photo imaging software",
+          "example": "Corel Paint Shop Pro"
+        },
+        {
+          "category": "Graphics or photo imaging software",
+          "example": "Corel Painter"
+        },
+        {
+          "category": "Project management software",
+          "example": "Cost estimating software"
+        },
+        {
+          "category": "Computer aided manufacturing CAM software",
+          "example": "Dassault Systemes CATIA"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Embedded systems development software"
+        },
+        {
+          "category": "Enterprise resource planning ERP software",
+          "example": "IBM Maximo Asset Management"
+        },
+        {
+          "category": "Operating system software",
+          "example": "Linux"
+        },
+        {
+          "category": "Spreadsheet software",
+          "example": "Microsoft Excel"
+        },
+        {
+          "category": "Office suite software",
+          "example": "Microsoft Office software"
+        },
+        {
+          "category": "Word processing software",
+          "example": "Microsoft Word"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Oracle Database"
+        },
+        {
+          "category": "Project management software",
+          "example": "Sage Construction Anywhere"
+        },
+        {
+          "category": "Customer relationship management CRM software",
+          "example": "Salesforce software"
+        },
+        {
+          "category": "Accounting software",
+          "example": "Turtle Creek Software Goldenseal"
+        }
+      ],
+      "education_requirements": {
+        "On-Site or In-Plant Training": [
+          {
+            "category": "None"
+          },
+          {
+            "category": "Up to 1 month"
+          },
+          {
+            "category": "4 to 10 years"
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "Up to 1 month"
+          },
+          {
+            "category": "None"
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "None"
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "Less than high school diploma"
+          },
+          {
+            "category": "High school diploma or equivalent"
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Getting Information",
+          "tier_label": "High"
+        },
+        {
+          "name": "Performing General Physical Activities",
+          "tier_label": "High"
+        },
+        {
+          "name": "Handling and Moving Objects",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Inspecting Equipment, Structures, or Materials",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Coordinating the Work and Activities of Others",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Identifying Objects, Actions, and Events",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Evaluating Information to Determine Compliance with Standards",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Communicating with Supervisors, Peers, or Subordinates",
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operating Vehicles, Mechanized Devices, or Equipment",
+          "tier_label": "Moderate"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",
+          "tier_label": "High"
+        },
+        {
+          "name": "Face-to-Face Discussions with Individuals and Within Teams",
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Standing",
+          "tier_label": "High"
+        },
+        {
+          "name": "Outdoors, Exposed to All Weather Conditions",
+          "tier_label": "High"
+        },
+        {
+          "name": "Work With or Contribute to a Work Group or Team",
+          "tier_label": "High"
+        },
+        {
+          "name": "Importance of Being Exact or Accurate",
+          "tier_label": "High"
+        },
+        {
+          "name": "Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",
+          "tier_label": "High"
+        },
+        {
+          "name": "Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable",
+          "tier_label": "High"
+        },
+        {
+          "name": "Frequency of Decision Making",
+          "tier_label": "High"
+        },
+        {
+          "name": "Contact With Others",
+          "tier_label": "High"
+        }
+      ]
+    }
+  ]
+}
