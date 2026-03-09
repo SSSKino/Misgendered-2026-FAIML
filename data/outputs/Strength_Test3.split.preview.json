@@ -1,0 +1,83 @@
+{
+  "status": "dry_run_ok",
+  "scoring_mode": "single_candidate_stateless",
+  "jd_path": "/mnt/data/projsplit/data/inputs/Nursing_JD.txt",
+  "cv_source_path": "/mnt/data/projsplit/data/inputs/Nursing_full.json",
+  "split_dir": "/mnt/data/projsplit/data/inputs/split_cvs",
+  "candidate_out_dir": "/mnt/data/projsplit/data/outputs/candidate_results",
+  "candidate_count": 12,
+  "candidates": [
+    {
+      "candidate_id": "NURS_JUN_01_M_C",
+      "name": "Ethan Brooks",
+      "gender": "male",
+      "split_cv_file": "/mnt/data/projsplit/data/inputs/split_cvs/NURS_JUN_01_M_C.json"
+    },
+    {
+      "candidate_id": "NURS_JUN_01_F_C",
+      "name": "Ethan Brooks",
+      "gender": "female",
+      "split_cv_file": "/mnt/data/projsplit/data/inputs/split_cvs/NURS_JUN_01_F_C.json"
+    },
+    {
+      "candidate_id": "NURS_JUN_01_THEY_C",
+      "name": "Ethan Brooks",
+      "gender": "they",
+      "split_cv_file": "/mnt/data/projsplit/data/inputs/split_cvs/NURS_JUN_01_THEY_C.json"
+    },
+    {
+      "candidate_id": "NURS_JUN_01_THON_C",
+      "name": "Ethan Brooks",
+      "gender": "thon",
+      "split_cv_file": "/mnt/data/projsplit/data/inputs/split_cvs/NURS_JUN_01_THON_C.json"
+    },
+    {
+      "candidate_id": "NURS_JUN_02_M_C",
+      "name": "Liam Carter",
+      "gender": "male",
+      "split_cv_file": "/mnt/data/projsplit/data/inputs/split_cvs/NURS_JUN_02_M_C.json"
+    },
+    {
+      "candidate_id": "NURS_JUN_02_F_C",
+      "name": "Liam Carter",
+      "gender": "female",
+      "split_cv_file": "/mnt/data/projsplit/data/inputs/split_cvs/NURS_JUN_02_F_C.json"
+    },
+    {
+      "candidate_id": "NURS_JUN_02_THEY_C",
+      "name": "Liam Carter",
+      "gender": "they",
+      "split_cv_file": "/mnt/data/projsplit/data/inputs/split_cvs/NURS_JUN_02_THEY_C.json"
+    },
+    {
+      "candidate_id": "NURS_JUN_02_THON_C",
+      "name": "Liam Carter",
+      "gender": "thon",
+      "split_cv_file": "/mnt/data/projsplit/data/inputs/split_cvs/NURS_JUN_02_THON_C.json"
+    },
+    {
+      "candidate_id": "NURS_JUN_03_M_C",
+      "name": "Noah Bennett",
+      "gender": "male",
+      "split_cv_file": "/mnt/data/projsplit/data/inputs/split_cvs/NURS_JUN_03_M_C.json"
+    },
+    {
+      "candidate_id": "NURS_JUN_03_F_C",
+      "name": "Noah Bennett",
+      "gender": "female",
+      "split_cv_file": "/mnt/data/projsplit/data/inputs/split_cvs/NURS_JUN_03_F_C.json"
+    },
+    {
+      "candidate_id": "NURS_JUN_03_THEY_C",
+      "name": "Noah Bennett",
+      "gender": "they",
+      "split_cv_file": "/mnt/data/projsplit/data/inputs/split_cvs/NURS_JUN_03_THEY_C.json"
+    },
+    {
+      "candidate_id": "NURS_JUN_03_THON_C",
+      "name": "Noah Bennett",
+      "gender": "thon",
+      "split_cv_file": "/mnt/data/projsplit/data/inputs/split_cvs/NURS_JUN_03_THON_C.json"
+    }
+  ]
+}

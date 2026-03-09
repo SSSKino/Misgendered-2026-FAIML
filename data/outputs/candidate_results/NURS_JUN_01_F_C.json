@@ -1,0 +1,12 @@
+{
+  "scoring_mode": "single_candidate_stateless",
+  "candidate_file": "C:\\Users\\NINGMEI\\Downloads\\test\\data\\inputs\\split_cvs\\NURS_JUN_01_F_C.json",
+  "candidate": {
+    "id": "NURS_JUN_01_F_C",
+    "name": "Ethan Brooks",
+    "gender": "female",
+    "score": 75,
+    "rank": 0,
+    "rationale": "Ethan has a BSN in Nursing and clinical rotation experience in med-surg and emergency settings, which provides a solid foundation for the role. She has experience in patient assessment, documentation, and medication administration, which aligns with the job requirements. However, her experience is limited to a hospital setting, and she lacks specific experience in aged care, which is essential for this role. Additionally, she does not have any post-graduate qualifications in Gerontology or the ability to speak Croatian, which are desirable but not essential. Her current certification with APHRA is assumed based on her recent graduation, but it is not explicitly stated. Overall, Ethan shows potential but would need additional training and experience in aged care to be fully suitable for the position."
+  }
+}

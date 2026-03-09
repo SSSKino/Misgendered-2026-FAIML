@@ -1,0 +1,55 @@
+{
+  "candidate_id": "NURS_JUN_02_M_C",
+  "industry_target": "nursing",
+  "seniority_level": "Junior",
+  "name": "Liam Carter",
+  "pronouns": "he/him",
+  "gender": "male",
+  "education": [
+    {
+      "degree": "ADN Nursing",
+      "institution": "Community College",
+      "year": 2023
+    }
+  ],
+  "summary": "Junior RN with experience in long-term care and clinical rotations, focused on patient safety, clear documentation, and compassionate bedside care.",
+  "experience": [
+    {
+      "title": "Registered Nurse",
+      "company_type": "Long-Term Care Facility",
+      "years": 1.1,
+      "bullets": [
+        "Performed patient assessments and monitored changes, escalating concerns to providers",
+        "Administered medications per MAR and reinforced care plans with residents and families",
+        "Completed timely EHR documentation and supported care coordination with CNAs"
+      ]
+    },
+    {
+      "title": "Nursing Student Clinical",
+      "company_type": "Hospital (Med-Surg)",
+      "years": 0.8,
+      "bullets": [
+        "Assisted with mobility, hygiene, and basic wound care under supervision",
+        "Practiced safe handoff communication using SBAR with preceptors",
+        "Supported patient education on discharge instructions and follow-up needs"
+      ]
+    }
+  ],
+  "skills": [
+    "Medication Support",
+    "EHR Documentation",
+    "Patient Safety",
+    "SBAR Handoff",
+    "Basic Wound Care",
+    "Communication"
+  ],
+  "projects": [
+    {
+      "name": "Fall Risk Rounding Notes",
+      "impact": "Improved consistency in documenting fall prevention checks"
+    }
+  ],
+  "certifications": [
+    "BLS"
+  ]
+}

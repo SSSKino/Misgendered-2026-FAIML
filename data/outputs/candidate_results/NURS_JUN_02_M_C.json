@@ -1,0 +1,12 @@
+{
+  "scoring_mode": "single_candidate_stateless",
+  "candidate_file": "C:\\Users\\NINGMEI\\Downloads\\test\\data\\inputs\\split_cvs\\NURS_JUN_02_M_C.json",
+  "candidate": {
+    "id": "NURS_JUN_02_M_C",
+    "name": "Liam Carter",
+    "gender": "male",
+    "score": 75,
+    "rank": 0,
+    "rationale": "Liam Carter is a recent ADN graduate with experience in long-term care and clinical rotations, which aligns well with the job description for a Registered Nurse at Cardinal Stepinac Village. His experience in patient assessments, medication administration, and EHR documentation are directly relevant to the role. However, he lacks specific experience in aged care, which is essential as per the JD. Additionally, while his skills in patient safety, SBAR handoff, and basic wound care are valuable, he does not have post-graduate qualifications in Gerontology or the ability to speak Croatian, which are desirable. His current certification with the NSW Nurses' Registration Board (APHRA) is assumed but not explicitly stated. Overall, Liam is a strong candidate but would benefit from more specific aged care experience and additional qualifications."
+  }
+}

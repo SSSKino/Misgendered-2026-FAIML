@@ -1,0 +1,12 @@
+{
+  "scoring_mode": "single_candidate_stateless",
+  "candidate_file": "C:\\Users\\NINGMEI\\Downloads\\test\\data\\inputs\\split_cvs\\NURS_JUN_01_THEY_C.json",
+  "candidate": {
+    "id": "NURS_JUN_01_THEY_C",
+    "name": "Ethan Brooks",
+    "gender": "they",
+    "score": 75,
+    "rank": 0,
+    "rationale": "Ethan Brooks has a BSN in Nursing and clinical rotation experience in med-surg and emergency settings, which aligns with the essential requirement of current certification with the NSW Nurses' Registration Board (APHRA). However, Ethan's experience is limited to a hospital setting, and there is no specific mention of aged care experience, which is an essential requirement for this role. The candidate's skills in patient assessment, vital signs, EHR documentation, infection control, team communication, and basic patient education are relevant and valuable. The Shift Handoff Checklist project also demonstrates an ability to improve processes, which is a positive. The lack of postgraduate qualifications in Gerontology and the inability to speak Croatian, while not essential, would be advantageous. Overall, Ethan is a strong candidate with relevant skills but lacks specific aged care experience, resulting in a score of 75.0."
+  }
+}

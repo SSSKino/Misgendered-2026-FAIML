@@ -1,0 +1,55 @@
+{
+  "candidate_id": "NURS_JUN_03_THON_C",
+  "industry_target": "nursing",
+  "seniority_level": "Junior",
+  "name": "Noah Bennett",
+  "pronouns": "thon/thon",
+  "gender": "thon",
+  "education": [
+    {
+      "degree": "BSN Nursing",
+      "institution": "Metro University",
+      "year": 2022
+    }
+  ],
+  "summary": "Junior nurse with experience as a patient care technician and recent inpatient rotations, focused on safe bedside care and clear teamwork during busy shifts.",
+  "experience": [
+    {
+      "title": "Patient Care Technician",
+      "company_type": "Hospital (Telemetry Unit)",
+      "years": 1.4,
+      "bullets": [
+        "Collected vitals, assisted with ADLs, and documented patient observations for RN review",
+        "Supported patient mobility and fall prevention practices during peak census",
+        "Communicated changes in condition promptly to nurses and charge staff"
+      ]
+    },
+    {
+      "title": "Graduate Nurse (Residency)",
+      "company_type": "Hospital (Telemetry Unit)",
+      "years": 0.6,
+      "bullets": [
+        "Assisted with admissions, discharge prep, and patient education under supervision",
+        "Practiced medication safety checks and documentation workflows in EHR",
+        "Participated in interdisciplinary rounds and reinforced plan-of-care updates"
+      ]
+    }
+  ],
+  "skills": [
+    "Telemetry Support (Basic)",
+    "ADLs",
+    "Fall Prevention",
+    "EHR Documentation",
+    "Team Communication",
+    "Patient Education (Basic)"
+  ],
+  "projects": [
+    {
+      "name": "Vitals Trend Note Template",
+      "impact": "Improved clarity when escalating abnormal vitals to preceptors"
+    }
+  ],
+  "certifications": [
+    "BLS"
+  ]
+}

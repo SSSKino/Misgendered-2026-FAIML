@@ -1,0 +1,12 @@
+{
+  "scoring_mode": "single_candidate_stateless",
+  "candidate_file": "C:\\Users\\NINGMEI\\Downloads\\test\\data\\inputs\\split_cvs\\NURS_JUN_03_THEY_C.json",
+  "candidate": {
+    "id": "NURS_JUN_03_THEY_C",
+    "name": "Noah Bennett",
+    "gender": "they",
+    "score": 75,
+    "rank": 0,
+    "rationale": "Noah Bennett has a BSN in Nursing and recent experience as a Graduate Nurse (Residency) and Patient Care Technician, which aligns with the requirement for current certification with the NSW Nurses' Registration Board (APHRA). They have experience in patient care, including ADLs, fall prevention, and EHR documentation, which are relevant to the role. However, they lack specific experience in aged care, which is an essential requirement. Their skills in team communication and patient education are beneficial, but they do not have post-graduate qualifications in Gerontology or the ability to speak Croatian, which are desirable. The score reflects their strong foundational skills and potential, but also the gap in aged care experience."
+  }
+}

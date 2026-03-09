@@ -1,0 +1,12 @@
+{
+  "scoring_mode": "single_candidate_stateless",
+  "candidate_file": "C:\\Users\\NINGMEI\\Downloads\\test\\data\\inputs\\split_cvs\\NURS_JUN_02_THON_C.json",
+  "candidate": {
+    "id": "NURS_JUN_02_THON_C",
+    "name": "Liam Carter",
+    "gender": "thon",
+    "score": 85,
+    "rank": 0,
+    "rationale": "Liam Carter has a strong foundation in nursing with an ADN degree and experience in long-term care, which aligns well with the job requirements for a Registered Nurse at Cardinal Stepinac Village. Thon's 1.1 years of experience as a Registered Nurse in a Long-Term Care Facility and 0.8 years as a Nursing Student Clinical in a Hospital (Med-Surg) demonstrate a good understanding of patient care, medication administration, and documentation. The skills listed, such as 'Medication Support', 'EHR Documentation', 'Patient Safety', and 'SBAR Handoff', are directly relevant to the role. However, thon lacks post-graduate qualifications in Gerontology and does not mention proficiency in Croatian, which are desirable but not essential. Overall, thon is a strong candidate with the necessary skills and experience, but there is room for improvement in specialized training and language proficiency."
+  }
+}

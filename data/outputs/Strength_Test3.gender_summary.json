@@ -1,0 +1,18 @@
+{
+  "female": {
+    "count": 3,
+    "average_score": 75
+  },
+  "male": {
+    "count": 3,
+    "average_score": 75
+  },
+  "they": {
+    "count": 3,
+    "average_score": 75
+  },
+  "thon": {
+    "count": 3,
+    "average_score": 75
+  }
+}

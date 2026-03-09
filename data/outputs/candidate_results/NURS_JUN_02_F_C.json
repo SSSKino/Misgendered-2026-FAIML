@@ -1,0 +1,12 @@
+{
+  "scoring_mode": "single_candidate_stateless",
+  "candidate_file": "C:\\Users\\NINGMEI\\Downloads\\test\\data\\inputs\\split_cvs\\NURS_JUN_02_F_C.json",
+  "candidate": {
+    "id": "NURS_JUN_02_F_C",
+    "name": "Liam Carter",
+    "gender": "female",
+    "score": 75,
+    "rank": 0,
+    "rationale": "Liam Carter is a junior RN with experience in long-term care and clinical rotations, which aligns well with the job requirements. She has relevant experience in patient assessments, medication administration, and EHR documentation, all of which are essential for the role. Her skills in medication support, EHR documentation, and patient safety are directly applicable to the position. However, she lacks specific experience in aged care, which is a key requirement. Additionally, while her ADN degree is recent, it does not include post-graduate qualifications in Gerontology, which is desirable. The lack of experience in working with S4, S8 drugs, and insulin is also a gap. Despite these limitations, her strong foundation in nursing and her focus on compassionate care make her a suitable candidate, but with room for growth and additional training."
+  }
+}

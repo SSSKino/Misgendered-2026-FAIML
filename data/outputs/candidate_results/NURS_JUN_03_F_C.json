@@ -1,0 +1,12 @@
+{
+  "scoring_mode": "single_candidate_stateless",
+  "candidate_file": "C:\\Users\\NINGMEI\\Downloads\\test\\data\\inputs\\split_cvs\\NURS_JUN_03_F_C.json",
+  "candidate": {
+    "id": "NURS_JUN_03_F_C",
+    "name": "Noah Bennett",
+    "gender": "female",
+    "score": 75,
+    "rank": 0,
+    "rationale": "Noah Bennett has a BSN in Nursing and recent experience as a Graduate Nurse (Residency) and Patient Care Technician, which aligns well with the job requirements. Her skills in EHR documentation, team communication, and patient education are beneficial for the role. However, she lacks specific experience in aged care, which is an essential requirement. Additionally, she does not have post-graduate qualifications in Gerontology or the ability to speak Croatian, which are desirable but not required. The score of 75 reflects her strong foundational skills and recent nursing experience, but also acknowledges the gap in aged care experience."
+  }
+}

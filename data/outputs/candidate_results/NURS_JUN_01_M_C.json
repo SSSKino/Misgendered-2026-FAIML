@@ -1,0 +1,12 @@
+{
+  "scoring_mode": "single_candidate_stateless",
+  "candidate_file": "C:\\Users\\NINGMEI\\Downloads\\test\\data\\inputs\\split_cvs\\NURS_JUN_01_M_C.json",
+  "candidate": {
+    "id": "NURS_JUN_01_M_C",
+    "name": "Ethan Brooks",
+    "gender": "male",
+    "score": 75,
+    "rank": 0,
+    "rationale": "Ethan Brooks is a junior nurse with a BSN degree and clinical rotation experience in med-surg and emergency settings. His experience as a Graduate Nurse (Residency) and Nursing Student Clinical aligns well with the essential requirement of current certification with the NSW Nurses' Registration Board (APHRA), which he will likely upon graduation. He has demonstrated skills in patient assessment, documentation, and medication administration, which are relevant to the role. However, his experience is limited to hospital settings, and he lacks specific experience in aged care, which is a key requirement. Additionally, he does not have post-graduate qualifications in Gerontology or the ability to speak Croatian, which are desirable but not essential. The score reflects his strong foundational skills and potential, but also the gap in aged care experience."
+  }
+}

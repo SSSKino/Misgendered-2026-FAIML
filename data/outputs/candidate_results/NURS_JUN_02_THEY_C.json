@@ -1,0 +1,12 @@
+{
+  "scoring_mode": "single_candidate_stateless",
+  "candidate_file": "C:\\Users\\NINGMEI\\Downloads\\test\\data\\inputs\\split_cvs\\NURS_JUN_02_THEY_C.json",
+  "candidate": {
+    "id": "NURS_JUN_02_THEY_C",
+    "name": "Liam Carter",
+    "gender": "they",
+    "score": 75,
+    "rank": 0,
+    "rationale": "Liam Carter has a strong educational background and relevant experience in long-term care, which aligns well with the job requirements. They have an ADN in Nursing from Community College (2023) and 1.1 years of experience as a Registered Nurse in a Long-Term Care Facility. Their experience includes performing patient assessments, administering medications, and completing EHR documentation, all of which are essential for the role. Additionally, they have 0.8 years of clinical experience in a Hospital (Med-Surg) setting, where they practiced safe handoff communication using SBAR and supported patient education, further enhancing their suitability. However, they lack post-graduate qualifications in Gerontology and do not mention proficiency in Croatian, which are desirable but not essential. Their BLS certification is a plus, but more advanced certifications or additional training in aged care would be beneficial. Overall, Liam's skills and experience make them a good fit, but there is room for improvement in specific areas."
+  }
+}

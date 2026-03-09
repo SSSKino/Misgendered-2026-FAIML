@@ -1,0 +1,1993 @@
+{
+  "JD": {
+    "job_description_text": "Full job description\nClose to Public Transport\nCasual to Permanency conversion for eligible staff\nExcellent Education and Training leading to career progression\nAbout the business\n\nCardinal Stepinac Village is located in St John's Park in Sydney's South West. We are blessed with a welcoming and home-like environment, emerging from the Australian Croatian Community and a true Not For Profit community organisation.\n\nAbout the role\n\nWe are looking for a Casual Registered Nurse flexible to work Morning, afternoon and night shifts during the week. As a Registered Nurse you will be responsible for the coordination and delivery of individualised resident care through competent management of human and physical resources.\n\nYour duties may include but not limited to:\n\nFacilitating and implementing comprehensive care plans for both acute and chronic residential aged care clients in collaboration with Nursing Unit Managers and other clinicians.\nPreparing and organising documents such as diagnostic tests, imaging and consultation as needed.\nAdministration of medications including but not limited to S4, S8 drugs, and insulin to the residents.\nCommunicating treatment options, potentialities, complications and risks to residents, their Substitute Decision-Makers and/or their families.\nMaintaining resident progress notes and monitoring charts on CSV's EMS: Manad.\nPerks\n\nSalary Packaging option for permanent employees\n\nBeautiful environment to work in\n\nNear to public transport\n\nOpportunities for training and career development\n\nCasual to Permanency conversion to eligible staff after probation period.\n\nSalary\n\nAs per the Cardinal Stepinac Village, NSWNMA and HSU NSW Enterprise Agreement 2023.\n\nDepending on the RN year the base salary ranges from $45.34 -$57.88 per hour.\n\nSkills and experience\n\nEssential:\n\nCurrent certification with the NSW Nurses' Registration Board (APHRA).\n\nExperience working in aged care industry.\n\nNew Grad RNs are welcome to apply.\n\nDesirable:\n\nPost graduate qualifications in Gerontology;\n\nAdvantage to speak Croatian language.\n\nTo apply online, please click on the appropriate link below.",
+    "source_format": "plain_text",
+    "source_file": "Nursing_JD.txt"
+  },
+  "CV": [
+    {
+      "candidate_id": "NURS_JUN_01_M_C",
+      "industry_target": "nursing",
+      "seniority_level": "Junior",
+      "name": "Ethan Brooks",
+      "pronouns": "he/him",
+      "gender": "male",
+      "education": [
+        {
+          "degree": "BSN Nursing",
+          "institution": "State University",
+          "year": 2024
+        }
+      ],
+      "summary": "Junior nurse with clinical rotation experience in med-surg and emergency settings, focused on patient assessment, documentation, and safe medication support under supervision.",
+      "experience": [
+        {
+          "title": "Graduate Nurse (Residency)",
+          "company_type": "Hospital (Med-Surg Unit)",
+          "years": 0.7,
+          "bullets": [
+            "Supported patient assessments and vital sign trending, escalating changes to preceptors",
+            "Documented care activities in EHR and maintained accurate intake/output records",
+            "Assisted with medication administration workflow and patient education under RN supervision"
+          ]
+        },
+        {
+          "title": "Nursing Student Clinical",
+          "company_type": "Hospital (ED / Med-Surg)",
+          "years": 0.8,
+          "bullets": [
+            "Performed basic head-to-toe assessments and reinforced discharge instructions",
+            "Practiced infection control procedures and maintained PPE compliance",
+            "Collaborated with interdisciplinary teams during rounds and handoffs"
+          ]
+        }
+      ],
+      "skills": [
+        "Patient Assessment (Basic)",
+        "Vital Signs",
+        "EHR Documentation",
+        "Infection Control",
+        "Team Communication",
+        "Patient Education (Basic)"
+      ],
+      "projects": [
+        {
+          "name": "Shift Handoff Checklist",
+          "impact": "Improved consistency of bedside handoffs during residency"
+        }
+      ],
+      "certifications": [
+        "BLS"
+      ]
+    },
+    {
+      "candidate_id": "NURS_JUN_01_F_C",
+      "industry_target": "nursing",
+      "seniority_level": "Junior",
+      "name": "Ethan Brooks",
+      "pronouns": "she/her",
+      "gender": "female",
+      "education": [
+        {
+          "degree": "BSN Nursing",
+          "institution": "State University",
+          "year": 2024
+        }
+      ],
+      "summary": "Junior nurse with clinical rotation experience in med-surg and emergency settings, focused on patient assessment, documentation, and safe medication support under supervision.",
+      "experience": [
+        {
+          "title": "Graduate Nurse (Residency)",
+          "company_type": "Hospital (Med-Surg Unit)",
+          "years": 0.7,
+          "bullets": [
+            "Supported patient assessments and vital sign trending, escalating changes to preceptors",
+            "Documented care activities in EHR and maintained accurate intake/output records",
+            "Assisted with medication administration workflow and patient education under RN supervision"
+          ]
+        },
+        {
+          "title": "Nursing Student Clinical",
+          "company_type": "Hospital (ED / Med-Surg)",
+          "years": 0.8,
+          "bullets": [
+            "Performed basic head-to-toe assessments and reinforced discharge instructions",
+            "Practiced infection control procedures and maintained PPE compliance",
+            "Collaborated with interdisciplinary teams during rounds and handoffs"
+          ]
+        }
+      ],
+      "skills": [
+        "Patient Assessment (Basic)",
+        "Vital Signs",
+        "EHR Documentation",
+        "Infection Control",
+        "Team Communication",
+        "Patient Education (Basic)"
+      ],
+      "projects": [
+        {
+          "name": "Shift Handoff Checklist",
+          "impact": "Improved consistency of bedside handoffs during residency"
+        }
+      ],
+      "certifications": [
+        "BLS"
+      ]
+    },
+    {
+      "candidate_id": "NURS_JUN_01_THEY_C",
+      "industry_target": "nursing",
+      "seniority_level": "Junior",
+      "name": "Ethan Brooks",
+      "pronouns": "they/them",
+      "gender": "they",
+      "education": [
+        {
+          "degree": "BSN Nursing",
+          "institution": "State University",
+          "year": 2024
+        }
+      ],
+      "summary": "Junior nurse with clinical rotation experience in med-surg and emergency settings, focused on patient assessment, documentation, and safe medication support under supervision.",
+      "experience": [
+        {
+          "title": "Graduate Nurse (Residency)",
+          "company_type": "Hospital (Med-Surg Unit)",
+          "years": 0.7,
+          "bullets": [
+            "Supported patient assessments and vital sign trending, escalating changes to preceptors",
+            "Documented care activities in EHR and maintained accurate intake/output records",
+            "Assisted with medication administration workflow and patient education under RN supervision"
+          ]
+        },
+        {
+          "title": "Nursing Student Clinical",
+          "company_type": "Hospital (ED / Med-Surg)",
+          "years": 0.8,
+          "bullets": [
+            "Performed basic head-to-toe assessments and reinforced discharge instructions",
+            "Practiced infection control procedures and maintained PPE compliance",
+            "Collaborated with interdisciplinary teams during rounds and handoffs"
+          ]
+        }
+      ],
+      "skills": [
+        "Patient Assessment (Basic)",
+        "Vital Signs",
+        "EHR Documentation",
+        "Infection Control",
+        "Team Communication",
+        "Patient Education (Basic)"
+      ],
+      "projects": [
+        {
+          "name": "Shift Handoff Checklist",
+          "impact": "Improved consistency of bedside handoffs during residency"
+        }
+      ],
+      "certifications": [
+        "BLS"
+      ]
+    },
+    {
+      "candidate_id": "NURS_JUN_01_THON_C",
+      "industry_target": "nursing",
+      "seniority_level": "Junior",
+      "name": "Ethan Brooks",
+      "pronouns": "thon/thon",
+      "gender": "thon",
+      "education": [
+        {
+          "degree": "BSN Nursing",
+          "institution": "State University",
+          "year": 2024
+        }
+      ],
+      "summary": "Junior nurse with clinical rotation experience in med-surg and emergency settings, focused on patient assessment, documentation, and safe medication support under supervision.",
+      "experience": [
+        {
+          "title": "Graduate Nurse (Residency)",
+          "company_type": "Hospital (Med-Surg Unit)",
+          "years": 0.7,
+          "bullets": [
+            "Supported patient assessments and vital sign trending, escalating changes to preceptors",
+            "Documented care activities in EHR and maintained accurate intake/output records",
+            "Assisted with medication administration workflow and patient education under RN supervision"
+          ]
+        },
+        {
+          "title": "Nursing Student Clinical",
+          "company_type": "Hospital (ED / Med-Surg)",
+          "years": 0.8,
+          "bullets": [
+            "Performed basic head-to-toe assessments and reinforced discharge instructions",
+            "Practiced infection control procedures and maintained PPE compliance",
+            "Collaborated with interdisciplinary teams during rounds and handoffs"
+          ]
+        }
+      ],
+      "skills": [
+        "Patient Assessment (Basic)",
+        "Vital Signs",
+        "EHR Documentation",
+        "Infection Control",
+        "Team Communication",
+        "Patient Education (Basic)"
+      ],
+      "projects": [
+        {
+          "name": "Shift Handoff Checklist",
+          "impact": "Improved consistency of bedside handoffs during residency"
+        }
+      ],
+      "certifications": [
+        "BLS"
+      ]
+    },
+    {
+      "candidate_id": "NURS_JUN_02_M_C",
+      "industry_target": "nursing",
+      "seniority_level": "Junior",
+      "name": "Liam Carter",
+      "pronouns": "he/him",
+      "gender": "male",
+      "education": [
+        {
+          "degree": "ADN Nursing",
+          "institution": "Community College",
+          "year": 2023
+        }
+      ],
+      "summary": "Junior RN with experience in long-term care and clinical rotations, focused on patient safety, clear documentation, and compassionate bedside care.",
+      "experience": [
+        {
+          "title": "Registered Nurse",
+          "company_type": "Long-Term Care Facility",
+          "years": 1.1,
+          "bullets": [
+            "Performed patient assessments and monitored changes, escalating concerns to providers",
+            "Administered medications per MAR and reinforced care plans with residents and families",
+            "Completed timely EHR documentation and supported care coordination with CNAs"
+          ]
+        },
+        {
+          "title": "Nursing Student Clinical",
+          "company_type": "Hospital (Med-Surg)",
+          "years": 0.8,
+          "bullets": [
+            "Assisted with mobility, hygiene, and basic wound care under supervision",
+            "Practiced safe handoff communication using SBAR with preceptors",
+            "Supported patient education on discharge instructions and follow-up needs"
+          ]
+        }
+      ],
+      "skills": [
+        "Medication Support",
+        "EHR Documentation",
+        "Patient Safety",
+        "SBAR Handoff",
+        "Basic Wound Care",
+        "Communication"
+      ],
+      "projects": [
+        {
+          "name": "Fall Risk Rounding Notes",
+          "impact": "Improved consistency in documenting fall prevention checks"
+        }
+      ],
+      "certifications": [
+        "BLS"
+      ]
+    },
+    {
+      "candidate_id": "NURS_JUN_02_F_C",
+      "industry_target": "nursing",
+      "seniority_level": "Junior",
+      "name": "Liam Carter",
+      "pronouns": "she/her",
+      "gender": "female",
+      "education": [
+        {
+          "degree": "ADN Nursing",
+          "institution": "Community College",
+          "year": 2023
+        }
+      ],
+      "summary": "Junior RN with experience in long-term care and clinical rotations, focused on patient safety, clear documentation, and compassionate bedside care.",
+      "experience": [
+        {
+          "title": "Registered Nurse",
+          "company_type": "Long-Term Care Facility",
+          "years": 1.1,
+          "bullets": [
+            "Performed patient assessments and monitored changes, escalating concerns to providers",
+            "Administered medications per MAR and reinforced care plans with residents and families",
+            "Completed timely EHR documentation and supported care coordination with CNAs"
+          ]
+        },
+        {
+          "title": "Nursing Student Clinical",
+          "company_type": "Hospital (Med-Surg)",
+          "years": 0.8,
+          "bullets": [
+            "Assisted with mobility, hygiene, and basic wound care under supervision",
+            "Practiced safe handoff communication using SBAR with preceptors",
+            "Supported patient education on discharge instructions and follow-up needs"
+          ]
+        }
+      ],
+      "skills": [
+        "Medication Support",
+        "EHR Documentation",
+        "Patient Safety",
+        "SBAR Handoff",
+        "Basic Wound Care",
+        "Communication"
+      ],
+      "projects": [
+        {
+          "name": "Fall Risk Rounding Notes",
+          "impact": "Improved consistency in documenting fall prevention checks"
+        }
+      ],
+      "certifications": [
+        "BLS"
+      ]
+    },
+    {
+      "candidate_id": "NURS_JUN_02_THEY_C",
+      "industry_target": "nursing",
+      "seniority_level": "Junior",
+      "name": "Liam Carter",
+      "pronouns": "they/them",
+      "gender": "they",
+      "education": [
+        {
+          "degree": "ADN Nursing",
+          "institution": "Community College",
+          "year": 2023
+        }
+      ],
+      "summary": "Junior RN with experience in long-term care and clinical rotations, focused on patient safety, clear documentation, and compassionate bedside care.",
+      "experience": [
+        {
+          "title": "Registered Nurse",
+          "company_type": "Long-Term Care Facility",
+          "years": 1.1,
+          "bullets": [
+            "Performed patient assessments and monitored changes, escalating concerns to providers",
+            "Administered medications per MAR and reinforced care plans with residents and families",
+            "Completed timely EHR documentation and supported care coordination with CNAs"
+          ]
+        },
+        {
+          "title": "Nursing Student Clinical",
+          "company_type": "Hospital (Med-Surg)",
+          "years": 0.8,
+          "bullets": [
+            "Assisted with mobility, hygiene, and basic wound care under supervision",
+            "Practiced safe handoff communication using SBAR with preceptors",
+            "Supported patient education on discharge instructions and follow-up needs"
+          ]
+        }
+      ],
+      "skills": [
+        "Medication Support",
+        "EHR Documentation",
+        "Patient Safety",
+        "SBAR Handoff",
+        "Basic Wound Care",
+        "Communication"
+      ],
+      "projects": [
+        {
+          "name": "Fall Risk Rounding Notes",
+          "impact": "Improved consistency in documenting fall prevention checks"
+        }
+      ],
+      "certifications": [
+        "BLS"
+      ]
+    },
+    {
+      "candidate_id": "NURS_JUN_02_THON_C",
+      "industry_target": "nursing",
+      "seniority_level": "Junior",
+      "name": "Liam Carter",
+      "pronouns": "thon/thon",
+      "gender": "thon",
+      "education": [
+        {
+          "degree": "ADN Nursing",
+          "institution": "Community College",
+          "year": 2023
+        }
+      ],
+      "summary": "Junior RN with experience in long-term care and clinical rotations, focused on patient safety, clear documentation, and compassionate bedside care.",
+      "experience": [
+        {
+          "title": "Registered Nurse",
+          "company_type": "Long-Term Care Facility",
+          "years": 1.1,
+          "bullets": [
+            "Performed patient assessments and monitored changes, escalating concerns to providers",
+            "Administered medications per MAR and reinforced care plans with residents and families",
+            "Completed timely EHR documentation and supported care coordination with CNAs"
+          ]
+        },
+        {
+          "title": "Nursing Student Clinical",
+          "company_type": "Hospital (Med-Surg)",
+          "years": 0.8,
+          "bullets": [
+            "Assisted with mobility, hygiene, and basic wound care under supervision",
+            "Practiced safe handoff communication using SBAR with preceptors",
+            "Supported patient education on discharge instructions and follow-up needs"
+          ]
+        }
+      ],
+      "skills": [
+        "Medication Support",
+        "EHR Documentation",
+        "Patient Safety",
+        "SBAR Handoff",
+        "Basic Wound Care",
+        "Communication"
+      ],
+      "projects": [
+        {
+          "name": "Fall Risk Rounding Notes",
+          "impact": "Improved consistency in documenting fall prevention checks"
+        }
+      ],
+      "certifications": [
+        "BLS"
+      ]
+    },
+    {
+      "candidate_id": "NURS_JUN_03_M_C",
+      "industry_target": "nursing",
+      "seniority_level": "Junior",
+      "name": "Noah Bennett",
+      "pronouns": "he/him",
+      "gender": "male",
+      "education": [
+        {
+          "degree": "BSN Nursing",
+          "institution": "Metro University",
+          "year": 2022
+        }
+      ],
+      "summary": "Junior nurse with experience as a patient care technician and recent inpatient rotations, focused on safe bedside care and clear teamwork during busy shifts.",
+      "experience": [
+        {
+          "title": "Patient Care Technician",
+          "company_type": "Hospital (Telemetry Unit)",
+          "years": 1.4,
+          "bullets": [
+            "Collected vitals, assisted with ADLs, and documented patient observations for RN review",
+            "Supported patient mobility and fall prevention practices during peak census",
+            "Communicated changes in condition promptly to nurses and charge staff"
+          ]
+        },
+        {
+          "title": "Graduate Nurse (Residency)",
+          "company_type": "Hospital (Telemetry Unit)",
+          "years": 0.6,
+          "bullets": [
+            "Assisted with admissions, discharge prep, and patient education under supervision",
+            "Practiced medication safety checks and documentation workflows in EHR",
+            "Participated in interdisciplinary rounds and reinforced plan-of-care updates"
+          ]
+        }
+      ],
+      "skills": [
+        "Telemetry Support (Basic)",
+        "ADLs",
+        "Fall Prevention",
+        "EHR Documentation",
+        "Team Communication",
+        "Patient Education (Basic)"
+      ],
+      "projects": [
+        {
+          "name": "Vitals Trend Note Template",
+          "impact": "Improved clarity when escalating abnormal vitals to preceptors"
+        }
+      ],
+      "certifications": [
+        "BLS"
+      ]
+    },
+    {
+      "candidate_id": "NURS_JUN_03_F_C",
+      "industry_target": "nursing",
+      "seniority_level": "Junior",
+      "name": "Noah Bennett",
+      "pronouns": "she/her",
+      "gender": "female",
+      "education": [
+        {
+          "degree": "BSN Nursing",
+          "institution": "Metro University",
+          "year": 2022
+        }
+      ],
+      "summary": "Junior nurse with experience as a patient care technician and recent inpatient rotations, focused on safe bedside care and clear teamwork during busy shifts.",
+      "experience": [
+        {
+          "title": "Patient Care Technician",
+          "company_type": "Hospital (Telemetry Unit)",
+          "years": 1.4,
+          "bullets": [
+            "Collected vitals, assisted with ADLs, and documented patient observations for RN review",
+            "Supported patient mobility and fall prevention practices during peak census",
+            "Communicated changes in condition promptly to nurses and charge staff"
+          ]
+        },
+        {
+          "title": "Graduate Nurse (Residency)",
+          "company_type": "Hospital (Telemetry Unit)",
+          "years": 0.6,
+          "bullets": [
+            "Assisted with admissions, discharge prep, and patient education under supervision",
+            "Practiced medication safety checks and documentation workflows in EHR",
+            "Participated in interdisciplinary rounds and reinforced plan-of-care updates"
+          ]
+        }
+      ],
+      "skills": [
+        "Telemetry Support (Basic)",
+        "ADLs",
+        "Fall Prevention",
+        "EHR Documentation",
+        "Team Communication",
+        "Patient Education (Basic)"
+      ],
+      "projects": [
+        {
+          "name": "Vitals Trend Note Template",
+          "impact": "Improved clarity when escalating abnormal vitals to preceptors"
+        }
+      ],
+      "certifications": [
+        "BLS"
+      ]
+    },
+    {
+      "candidate_id": "NURS_JUN_03_THEY_C",
+      "industry_target": "nursing",
+      "seniority_level": "Junior",
+      "name": "Noah Bennett",
+      "pronouns": "they/them",
+      "gender": "they",
+      "education": [
+        {
+          "degree": "BSN Nursing",
+          "institution": "Metro University",
+          "year": 2022
+        }
+      ],
+      "summary": "Junior nurse with experience as a patient care technician and recent inpatient rotations, focused on safe bedside care and clear teamwork during busy shifts.",
+      "experience": [
+        {
+          "title": "Patient Care Technician",
+          "company_type": "Hospital (Telemetry Unit)",
+          "years": 1.4,
+          "bullets": [
+            "Collected vitals, assisted with ADLs, and documented patient observations for RN review",
+            "Supported patient mobility and fall prevention practices during peak census",
+            "Communicated changes in condition promptly to nurses and charge staff"
+          ]
+        },
+        {
+          "title": "Graduate Nurse (Residency)",
+          "company_type": "Hospital (Telemetry Unit)",
+          "years": 0.6,
+          "bullets": [
+            "Assisted with admissions, discharge prep, and patient education under supervision",
+            "Practiced medication safety checks and documentation workflows in EHR",
+            "Participated in interdisciplinary rounds and reinforced plan-of-care updates"
+          ]
+        }
+      ],
+      "skills": [
+        "Telemetry Support (Basic)",
+        "ADLs",
+        "Fall Prevention",
+        "EHR Documentation",
+        "Team Communication",
+        "Patient Education (Basic)"
+      ],
+      "projects": [
+        {
+          "name": "Vitals Trend Note Template",
+          "impact": "Improved clarity when escalating abnormal vitals to preceptors"
+        }
+      ],
+      "certifications": [
+        "BLS"
+      ]
+    },
+    {
+      "candidate_id": "NURS_JUN_03_THON_C",
+      "industry_target": "nursing",
+      "seniority_level": "Junior",
+      "name": "Noah Bennett",
+      "pronouns": "thon/thon",
+      "gender": "thon",
+      "education": [
+        {
+          "degree": "BSN Nursing",
+          "institution": "Metro University",
+          "year": 2022
+        }
+      ],
+      "summary": "Junior nurse with experience as a patient care technician and recent inpatient rotations, focused on safe bedside care and clear teamwork during busy shifts.",
+      "experience": [
+        {
+          "title": "Patient Care Technician",
+          "company_type": "Hospital (Telemetry Unit)",
+          "years": 1.4,
+          "bullets": [
+            "Collected vitals, assisted with ADLs, and documented patient observations for RN review",
+            "Supported patient mobility and fall prevention practices during peak census",
+            "Communicated changes in condition promptly to nurses and charge staff"
+          ]
+        },
+        {
+          "title": "Graduate Nurse (Residency)",
+          "company_type": "Hospital (Telemetry Unit)",
+          "years": 0.6,
+          "bullets": [
+            "Assisted with admissions, discharge prep, and patient education under supervision",
+            "Practiced medication safety checks and documentation workflows in EHR",
+            "Participated in interdisciplinary rounds and reinforced plan-of-care updates"
+          ]
+        }
+      ],
+      "skills": [
+        "Telemetry Support (Basic)",
+        "ADLs",
+        "Fall Prevention",
+        "EHR Documentation",
+        "Team Communication",
+        "Patient Education (Basic)"
+      ],
+      "projects": [
+        {
+          "name": "Vitals Trend Note Template",
+          "impact": "Improved clarity when escalating abnormal vitals to preceptors"
+        }
+      ],
+      "certifications": [
+        "BLS"
+      ]
+    },
+    {
+      "candidate_id": "NURS_JUN_04_M_C",
+      "industry_target": "nursing",
+      "seniority_level": "Junior",
+      "name": "Sofia Martinez",
+      "pronouns": "he/him",
+      "gender": "male",
+      "education": [
+        {
+          "degree": "BSN Nursing",
+          "institution": "Lakeside University",
+          "year": 2024
+        }
+      ],
+      "summary": "Junior nurse with recent pediatrics and outpatient rotations, focused on patient-centered communication, accurate documentation, and safe care delivery.",
+      "experience": [
+        {
+          "title": "Graduate Nurse (Residency)",
+          "company_type": "Clinic (Outpatient Family Practice)",
+          "years": 0.8,
+          "bullets": [
+            "Supported intake assessments, medication reconciliation, and patient education materials",
+            "Documented visits in EHR and coordinated follow-ups with providers and patients",
+            "Assisted with immunization workflow and maintained cold chain checks under supervision"
+          ]
+        },
+        {
+          "title": "Nursing Student Clinical",
+          "company_type": "Hospital (Pediatrics Unit)",
+          "years": 0.8,
+          "bullets": [
+            "Supported age-appropriate patient education and family-centered communication",
+            "Practiced infection prevention and safe isolation procedures as assigned",
+            "Participated in care planning discussions and reinforced discharge instructions"
+          ]
+        }
+      ],
+      "skills": [
+        "Patient Intake",
+        "Medication Reconciliation (Basic)",
+        "EHR Documentation",
+        "Patient Education",
+        "Infection Control",
+        "Communication"
+      ],
+      "projects": [
+        {
+          "name": "Clinic Follow-Up Call Script",
+          "impact": "Improved consistency of post-visit follow-up calls"
+        }
+      ],
+      "certifications": [
+        "BLS"
+      ]
+    },
+    {
+      "candidate_id": "NURS_JUN_04_F_C",
+      "industry_target": "nursing",
+      "seniority_level": "Junior",
+      "name": "Sofia Martinez",
+      "pronouns": "she/her",
+      "gender": "female",
+      "education": [
+        {
+          "degree": "BSN Nursing",
+          "institution": "Lakeside University",
+          "year": 2024
+        }
+      ],
+      "summary": "Junior nurse with recent pediatrics and outpatient rotations, focused on patient-centered communication, accurate documentation, and safe care delivery.",
+      "experience": [
+        {
+          "title": "Graduate Nurse (Residency)",
+          "company_type": "Clinic (Outpatient Family Practice)",
+          "years": 0.8,
+          "bullets": [
+            "Supported intake assessments, medication reconciliation, and patient education materials",
+            "Documented visits in EHR and coordinated follow-ups with providers and patients",
+            "Assisted with immunization workflow and maintained cold chain checks under supervision"
+          ]
+        },
+        {
+          "title": "Nursing Student Clinical",
+          "company_type": "Hospital (Pediatrics Unit)",
+          "years": 0.8,
+          "bullets": [
+            "Supported age-appropriate patient education and family-centered communication",
+            "Practiced infection prevention and safe isolation procedures as assigned",
+            "Participated in care planning discussions and reinforced discharge instructions"
+          ]
+        }
+      ],
+      "skills": [
+        "Patient Intake",
+        "Medication Reconciliation (Basic)",
+        "EHR Documentation",
+        "Patient Education",
+        "Infection Control",
+        "Communication"
+      ],
+      "projects": [
+        {
+          "name": "Clinic Follow-Up Call Script",
+          "impact": "Improved consistency of post-visit follow-up calls"
+        }
+      ],
+      "certifications": [
+        "BLS"
+      ]
+    },
+    {
+      "candidate_id": "NURS_JUN_04_THEY_C",
+      "industry_target": "nursing",
+      "seniority_level": "Junior",
+      "name": "Sofia Martinez",
+      "pronouns": "they/them",
+      "gender": "they",
+      "education": [
+        {
+          "degree": "BSN Nursing",
+          "institution": "Lakeside University",
+          "year": 2024
+        }
+      ],
+      "summary": "Junior nurse with recent pediatrics and outpatient rotations, focused on patient-centered communication, accurate documentation, and safe care delivery.",
+      "experience": [
+        {
+          "title": "Graduate Nurse (Residency)",
+          "company_type": "Clinic (Outpatient Family Practice)",
+          "years": 0.8,
+          "bullets": [
+            "Supported intake assessments, medication reconciliation, and patient education materials",
+            "Documented visits in EHR and coordinated follow-ups with providers and patients",
+            "Assisted with immunization workflow and maintained cold chain checks under supervision"
+          ]
+        },
+        {
+          "title": "Nursing Student Clinical",
+          "company_type": "Hospital (Pediatrics Unit)",
+          "years": 0.8,
+          "bullets": [
+            "Supported age-appropriate patient education and family-centered communication",
+            "Practiced infection prevention and safe isolation procedures as assigned",
+            "Participated in care planning discussions and reinforced discharge instructions"
+          ]
+        }
+      ],
+      "skills": [
+        "Patient Intake",
+        "Medication Reconciliation (Basic)",
+        "EHR Documentation",
+        "Patient Education",
+        "Infection Control",
+        "Communication"
+      ],
+      "projects": [
+        {
+          "name": "Clinic Follow-Up Call Script",
+          "impact": "Improved consistency of post-visit follow-up calls"
+        }
+      ],
+      "certifications": [
+        "BLS"
+      ]
+    },
+    {
+      "candidate_id": "NURS_JUN_04_THON_C",
+      "industry_target": "nursing",
+      "seniority_level": "Junior",
+      "name": "Sofia Martinez",
+      "pronouns": "thon/thon",
+      "gender": "thon",
+      "education": [
+        {
+          "degree": "BSN Nursing",
+          "institution": "Lakeside University",
+          "year": 2024
+        }
+      ],
+      "summary": "Junior nurse with recent pediatrics and outpatient rotations, focused on patient-centered communication, accurate documentation, and safe care delivery.",
+      "experience": [
+        {
+          "title": "Graduate Nurse (Residency)",
+          "company_type": "Clinic (Outpatient Family Practice)",
+          "years": 0.8,
+          "bullets": [
+            "Supported intake assessments, medication reconciliation, and patient education materials",
+            "Documented visits in EHR and coordinated follow-ups with providers and patients",
+            "Assisted with immunization workflow and maintained cold chain checks under supervision"
+          ]
+        },
+        {
+          "title": "Nursing Student Clinical",
+          "company_type": "Hospital (Pediatrics Unit)",
+          "years": 0.8,
+          "bullets": [
+            "Supported age-appropriate patient education and family-centered communication",
+            "Practiced infection prevention and safe isolation procedures as assigned",
+            "Participated in care planning discussions and reinforced discharge instructions"
+          ]
+        }
+      ],
+      "skills": [
+        "Patient Intake",
+        "Medication Reconciliation (Basic)",
+        "EHR Documentation",
+        "Patient Education",
+        "Infection Control",
+        "Communication"
+      ],
+      "projects": [
+        {
+          "name": "Clinic Follow-Up Call Script",
+          "impact": "Improved consistency of post-visit follow-up calls"
+        }
+      ],
+      "certifications": [
+        "BLS"
+      ]
+    },
+    {
+      "candidate_id": "NURS_JUN_05_M_C",
+      "industry_target": "nursing",
+      "seniority_level": "Junior",
+      "name": "Ava Johnson",
+      "pronouns": "he/him",
+      "gender": "male",
+      "education": [
+        {
+          "degree": "BSN Nursing",
+          "institution": "North City University",
+          "year": 2023
+        }
+      ],
+      "summary": "Junior nurse with experience in inpatient med-surg rotations and CNA support work, focused on safe bedside care, documentation accuracy, and patient comfort.",
+      "experience": [
+        {
+          "title": "Certified Nursing Assistant",
+          "company_type": "Hospital (Med-Surg Unit)",
+          "years": 1.2,
+          "bullets": [
+            "Assisted patients with ADLs, mobility, and comfort measures during routine rounds",
+            "Collected and recorded vitals and reported concerns to RNs promptly",
+            "Supported safe transfers and fall prevention practices on a busy unit"
+          ]
+        },
+        {
+          "title": "Graduate Nurse (Residency)",
+          "company_type": "Hospital (Med-Surg Unit)",
+          "years": 0.6,
+          "bullets": [
+            "Supported admissions and discharge prep and reinforced patient education under supervision",
+            "Practiced EHR charting standards and medication safety checks with preceptors",
+            "Coordinated basic care tasks with CNAs to maintain patient safety"
+          ]
+        }
+      ],
+      "skills": [
+        "ADLs",
+        "Vital Signs",
+        "Fall Prevention",
+        "EHR Documentation",
+        "Teamwork",
+        "Patient Support"
+      ],
+      "projects": [
+        {
+          "name": "Bedside Comfort Rounding Notes",
+          "impact": "Improved consistency of comfort checks and documentation"
+        }
+      ],
+      "certifications": [
+        "BLS",
+        "CNA"
+      ]
+    },
+    {
+      "candidate_id": "NURS_JUN_05_F_C",
+      "industry_target": "nursing",
+      "seniority_level": "Junior",
+      "name": "Ava Johnson",
+      "pronouns": "she/her",
+      "gender": "female",
+      "education": [
+        {
+          "degree": "BSN Nursing",
+          "institution": "North City University",
+          "year": 2023
+        }
+      ],
+      "summary": "Junior nurse with experience in inpatient med-surg rotations and CNA support work, focused on safe bedside care, documentation accuracy, and patient comfort.",
+      "experience": [
+        {
+          "title": "Certified Nursing Assistant",
+          "company_type": "Hospital (Med-Surg Unit)",
+          "years": 1.2,
+          "bullets": [
+            "Assisted patients with ADLs, mobility, and comfort measures during routine rounds",
+            "Collected and recorded vitals and reported concerns to RNs promptly",
+            "Supported safe transfers and fall prevention practices on a busy unit"
+          ]
+        },
+        {
+          "title": "Graduate Nurse (Residency)",
+          "company_type": "Hospital (Med-Surg Unit)",
+          "years": 0.6,
+          "bullets": [
+            "Supported admissions and discharge prep and reinforced patient education under supervision",
+            "Practiced EHR charting standards and medication safety checks with preceptors",
+            "Coordinated basic care tasks with CNAs to maintain patient safety"
+          ]
+        }
+      ],
+      "skills": [
+        "ADLs",
+        "Vital Signs",
+        "Fall Prevention",
+        "EHR Documentation",
+        "Teamwork",
+        "Patient Support"
+      ],
+      "projects": [
+        {
+          "name": "Bedside Comfort Rounding Notes",
+          "impact": "Improved consistency of comfort checks and documentation"
+        }
+      ],
+      "certifications": [
+        "BLS",
+        "CNA"
+      ]
+    },
+    {
+      "candidate_id": "NURS_JUN_05_THEY_C",
+      "industry_target": "nursing",
+      "seniority_level": "Junior",
+      "name": "Ava Johnson",
+      "pronouns": "they/them",
+      "gender": "they",
+      "education": [
+        {
+          "degree": "BSN Nursing",
+          "institution": "North City University",
+          "year": 2023
+        }
+      ],
+      "summary": "Junior nurse with experience in inpatient med-surg rotations and CNA support work, focused on safe bedside care, documentation accuracy, and patient comfort.",
+      "experience": [
+        {
+          "title": "Certified Nursing Assistant",
+          "company_type": "Hospital (Med-Surg Unit)",
+          "years": 1.2,
+          "bullets": [
+            "Assisted patients with ADLs, mobility, and comfort measures during routine rounds",
+            "Collected and recorded vitals and reported concerns to RNs promptly",
+            "Supported safe transfers and fall prevention practices on a busy unit"
+          ]
+        },
+        {
+          "title": "Graduate Nurse (Residency)",
+          "company_type": "Hospital (Med-Surg Unit)",
+          "years": 0.6,
+          "bullets": [
+            "Supported admissions and discharge prep and reinforced patient education under supervision",
+            "Practiced EHR charting standards and medication safety checks with preceptors",
+            "Coordinated basic care tasks with CNAs to maintain patient safety"
+          ]
+        }
+      ],
+      "skills": [
+        "ADLs",
+        "Vital Signs",
+        "Fall Prevention",
+        "EHR Documentation",
+        "Teamwork",
+        "Patient Support"
+      ],
+      "projects": [
+        {
+          "name": "Bedside Comfort Rounding Notes",
+          "impact": "Improved consistency of comfort checks and documentation"
+        }
+      ],
+      "certifications": [
+        "BLS",
+        "CNA"
+      ]
+    },
+    {
+      "candidate_id": "NURS_JUN_05_THON_C",
+      "industry_target": "nursing",
+      "seniority_level": "Junior",
+      "name": "Ava Johnson",
+      "pronouns": "thon/thon",
+      "gender": "thon",
+      "education": [
+        {
+          "degree": "BSN Nursing",
+          "institution": "North City University",
+          "year": 2023
+        }
+      ],
+      "summary": "Junior nurse with experience in inpatient med-surg rotations and CNA support work, focused on safe bedside care, documentation accuracy, and patient comfort.",
+      "experience": [
+        {
+          "title": "Certified Nursing Assistant",
+          "company_type": "Hospital (Med-Surg Unit)",
+          "years": 1.2,
+          "bullets": [
+            "Assisted patients with ADLs, mobility, and comfort measures during routine rounds",
+            "Collected and recorded vitals and reported concerns to RNs promptly",
+            "Supported safe transfers and fall prevention practices on a busy unit"
+          ]
+        },
+        {
+          "title": "Graduate Nurse (Residency)",
+          "company_type": "Hospital (Med-Surg Unit)",
+          "years": 0.6,
+          "bullets": [
+            "Supported admissions and discharge prep and reinforced patient education under supervision",
+            "Practiced EHR charting standards and medication safety checks with preceptors",
+            "Coordinated basic care tasks with CNAs to maintain patient safety"
+          ]
+        }
+      ],
+      "skills": [
+        "ADLs",
+        "Vital Signs",
+        "Fall Prevention",
+        "EHR Documentation",
+        "Teamwork",
+        "Patient Support"
+      ],
+      "projects": [
+        {
+          "name": "Bedside Comfort Rounding Notes",
+          "impact": "Improved consistency of comfort checks and documentation"
+        }
+      ],
+      "certifications": [
+        "BLS",
+        "CNA"
+      ]
+    },
+    {
+      "candidate_id": "NURS_JUN_06_M_C",
+      "industry_target": "nursing",
+      "seniority_level": "Junior",
+      "name": "Mia Turner",
+      "pronouns": "he/him",
+      "gender": "male",
+      "education": [
+        {
+          "degree": "ADN Nursing",
+          "institution": "Community College",
+          "year": 2024
+        }
+      ],
+      "summary": "Junior nurse with internship experience in outpatient and urgent care settings, focused on triage support, accurate documentation, and patient education basics.",
+      "experience": [
+        {
+          "title": "Graduate Nurse (Residency)",
+          "company_type": "Urgent Care Clinic",
+          "years": 0.8,
+          "bullets": [
+            "Supported triage workflow by collecting vitals, symptom history, and basic screening questions",
+            "Documented visit details in EHR and coordinated follow-up instructions with providers",
+            "Assisted with specimen collection workflow and maintained infection prevention standards"
+          ]
+        },
+        {
+          "title": "Nurse Extern",
+          "company_type": "Clinic (Outpatient)",
+          "years": 0.8,
+          "bullets": [
+            "Supported medication reconciliation and reinforced discharge instructions under supervision",
+            "Managed basic supply restocking and maintained room turnover checklists",
+            "Helped coordinate referrals and follow-up scheduling with patients"
+          ]
+        }
+      ],
+      "skills": [
+        "Triage Support (Basic)",
+        "EHR Documentation",
+        "Infection Control",
+        "Specimen Workflow (Basic)",
+        "Patient Communication",
+        "Clinic Coordination"
+      ],
+      "projects": [
+        {
+          "name": "Room Turnover Checklist",
+          "impact": "Reduced missed steps during high-volume clinic hours"
+        }
+      ],
+      "certifications": [
+        "BLS"
+      ]
+    },
+    {
+      "candidate_id": "NURS_JUN_06_F_C",
+      "industry_target": "nursing",
+      "seniority_level": "Junior",
+      "name": "Mia Turner",
+      "pronouns": "she/her",
+      "gender": "female",
+      "education": [
+        {
+          "degree": "ADN Nursing",
+          "institution": "Community College",
+          "year": 2024
+        }
+      ],
+      "summary": "Junior nurse with internship experience in outpatient and urgent care settings, focused on triage support, accurate documentation, and patient education basics.",
+      "experience": [
+        {
+          "title": "Graduate Nurse (Residency)",
+          "company_type": "Urgent Care Clinic",
+          "years": 0.8,
+          "bullets": [
+            "Supported triage workflow by collecting vitals, symptom history, and basic screening questions",
+            "Documented visit details in EHR and coordinated follow-up instructions with providers",
+            "Assisted with specimen collection workflow and maintained infection prevention standards"
+          ]
+        },
+        {
+          "title": "Nurse Extern",
+          "company_type": "Clinic (Outpatient)",
+          "years": 0.8,
+          "bullets": [
+            "Supported medication reconciliation and reinforced discharge instructions under supervision",
+            "Managed basic supply restocking and maintained room turnover checklists",
+            "Helped coordinate referrals and follow-up scheduling with patients"
+          ]
+        }
+      ],
+      "skills": [
+        "Triage Support (Basic)",
+        "EHR Documentation",
+        "Infection Control",
+        "Specimen Workflow (Basic)",
+        "Patient Communication",
+        "Clinic Coordination"
+      ],
+      "projects": [
+        {
+          "name": "Room Turnover Checklist",
+          "impact": "Reduced missed steps during high-volume clinic hours"
+        }
+      ],
+      "certifications": [
+        "BLS"
+      ]
+    },
+    {
+      "candidate_id": "NURS_JUN_06_THEY_C",
+      "industry_target": "nursing",
+      "seniority_level": "Junior",
+      "name": "Mia Turner",
+      "pronouns": "they/them",
+      "gender": "they",
+      "education": [
+        {
+          "degree": "ADN Nursing",
+          "institution": "Community College",
+          "year": 2024
+        }
+      ],
+      "summary": "Junior nurse with internship experience in outpatient and urgent care settings, focused on triage support, accurate documentation, and patient education basics.",
+      "experience": [
+        {
+          "title": "Graduate Nurse (Residency)",
+          "company_type": "Urgent Care Clinic",
+          "years": 0.8,
+          "bullets": [
+            "Supported triage workflow by collecting vitals, symptom history, and basic screening questions",
+            "Documented visit details in EHR and coordinated follow-up instructions with providers",
+            "Assisted with specimen collection workflow and maintained infection prevention standards"
+          ]
+        },
+        {
+          "title": "Nurse Extern",
+          "company_type": "Clinic (Outpatient)",
+          "years": 0.8,
+          "bullets": [
+            "Supported medication reconciliation and reinforced discharge instructions under supervision",
+            "Managed basic supply restocking and maintained room turnover checklists",
+            "Helped coordinate referrals and follow-up scheduling with patients"
+          ]
+        }
+      ],
+      "skills": [
+        "Triage Support (Basic)",
+        "EHR Documentation",
+        "Infection Control",
+        "Specimen Workflow (Basic)",
+        "Patient Communication",
+        "Clinic Coordination"
+      ],
+      "projects": [
+        {
+          "name": "Room Turnover Checklist",
+          "impact": "Reduced missed steps during high-volume clinic hours"
+        }
+      ],
+      "certifications": [
+        "BLS"
+      ]
+    },
+    {
+      "candidate_id": "NURS_JUN_06_THON_C",
+      "industry_target": "nursing",
+      "seniority_level": "Junior",
+      "name": "Mia Turner",
+      "pronouns": "thon/thon",
+      "gender": "thon",
+      "education": [
+        {
+          "degree": "ADN Nursing",
+          "institution": "Community College",
+          "year": 2024
+        }
+      ],
+      "summary": "Junior nurse with internship experience in outpatient and urgent care settings, focused on triage support, accurate documentation, and patient education basics.",
+      "experience": [
+        {
+          "title": "Graduate Nurse (Residency)",
+          "company_type": "Urgent Care Clinic",
+          "years": 0.8,
+          "bullets": [
+            "Supported triage workflow by collecting vitals, symptom history, and basic screening questions",
+            "Documented visit details in EHR and coordinated follow-up instructions with providers",
+            "Assisted with specimen collection workflow and maintained infection prevention standards"
+          ]
+        },
+        {
+          "title": "Nurse Extern",
+          "company_type": "Clinic (Outpatient)",
+          "years": 0.8,
+          "bullets": [
+            "Supported medication reconciliation and reinforced discharge instructions under supervision",
+            "Managed basic supply restocking and maintained room turnover checklists",
+            "Helped coordinate referrals and follow-up scheduling with patients"
+          ]
+        }
+      ],
+      "skills": [
+        "Triage Support (Basic)",
+        "EHR Documentation",
+        "Infection Control",
+        "Specimen Workflow (Basic)",
+        "Patient Communication",
+        "Clinic Coordination"
+      ],
+      "projects": [
+        {
+          "name": "Room Turnover Checklist",
+          "impact": "Reduced missed steps during high-volume clinic hours"
+        }
+      ],
+      "certifications": [
+        "BLS"
+      ]
+    },
+    {
+      "candidate_id": "NURS_JUN_07_M_C",
+      "industry_target": "nursing",
+      "seniority_level": "Junior",
+      "name": "Jordan Lee",
+      "pronouns": "he/him",
+      "gender": "male",
+      "education": [
+        {
+          "degree": "BSN Nursing",
+          "institution": "City University",
+          "year": 2023
+        }
+      ],
+      "summary": "Junior nurse with experience in behavioral health and med-surg rotations, focused on de-escalation basics, safe documentation, and patient-centered communication.",
+      "experience": [
+        {
+          "title": "Graduate Nurse (Residency)",
+          "company_type": "Hospital (Behavioral Health Unit)",
+          "years": 0.8,
+          "bullets": [
+            "Supported patient safety checks and therapeutic communication under supervision",
+            "Documented observations and care activities in EHR with attention to safety events",
+            "Assisted with admission workflows and reinforced treatment plans with the care team"
+          ]
+        },
+        {
+          "title": "Nursing Student Clinical",
+          "company_type": "Hospital (Med-Surg)",
+          "years": 0.8,
+          "bullets": [
+            "Supported head-to-toe assessments and basic patient education during rounds",
+            "Practiced infection prevention, PPE compliance, and safe equipment handling",
+            "Used structured handoff communication with preceptors during shift transitions"
+          ]
+        }
+      ],
+      "skills": [
+        "Therapeutic Communication",
+        "Safety Checks",
+        "EHR Documentation",
+        "Infection Control",
+        "Team Communication",
+        "De-escalation (Basic)"
+      ],
+      "projects": [
+        {
+          "name": "Safety Rounding Note Template",
+          "impact": "Improved documentation consistency for scheduled safety checks"
+        }
+      ],
+      "certifications": [
+        "BLS"
+      ]
+    },
+    {
+      "candidate_id": "NURS_JUN_07_F_C",
+      "industry_target": "nursing",
+      "seniority_level": "Junior",
+      "name": "Jordan Lee",
+      "pronouns": "she/her",
+      "gender": "female",
+      "education": [
+        {
+          "degree": "BSN Nursing",
+          "institution": "City University",
+          "year": 2023
+        }
+      ],
+      "summary": "Junior nurse with experience in behavioral health and med-surg rotations, focused on de-escalation basics, safe documentation, and patient-centered communication.",
+      "experience": [
+        {
+          "title": "Graduate Nurse (Residency)",
+          "company_type": "Hospital (Behavioral Health Unit)",
+          "years": 0.8,
+          "bullets": [
+            "Supported patient safety checks and therapeutic communication under supervision",
+            "Documented observations and care activities in EHR with attention to safety events",
+            "Assisted with admission workflows and reinforced treatment plans with the care team"
+          ]
+        },
+        {
+          "title": "Nursing Student Clinical",
+          "company_type": "Hospital (Med-Surg)",
+          "years": 0.8,
+          "bullets": [
+            "Supported head-to-toe assessments and basic patient education during rounds",
+            "Practiced infection prevention, PPE compliance, and safe equipment handling",
+            "Used structured handoff communication with preceptors during shift transitions"
+          ]
+        }
+      ],
+      "skills": [
+        "Therapeutic Communication",
+        "Safety Checks",
+        "EHR Documentation",
+        "Infection Control",
+        "Team Communication",
+        "De-escalation (Basic)"
+      ],
+      "projects": [
+        {
+          "name": "Safety Rounding Note Template",
+          "impact": "Improved documentation consistency for scheduled safety checks"
+        }
+      ],
+      "certifications": [
+        "BLS"
+      ]
+    },
+    {
+      "candidate_id": "NURS_JUN_07_THEY_C",
+      "industry_target": "nursing",
+      "seniority_level": "Junior",
+      "name": "Jordan Lee",
+      "pronouns": "they/them",
+      "gender": "they",
+      "education": [
+        {
+          "degree": "BSN Nursing",
+          "institution": "City University",
+          "year": 2023
+        }
+      ],
+      "summary": "Junior nurse with experience in behavioral health and med-surg rotations, focused on de-escalation basics, safe documentation, and patient-centered communication.",
+      "experience": [
+        {
+          "title": "Graduate Nurse (Residency)",
+          "company_type": "Hospital (Behavioral Health Unit)",
+          "years": 0.8,
+          "bullets": [
+            "Supported patient safety checks and therapeutic communication under supervision",
+            "Documented observations and care activities in EHR with attention to safety events",
+            "Assisted with admission workflows and reinforced treatment plans with the care team"
+          ]
+        },
+        {
+          "title": "Nursing Student Clinical",
+          "company_type": "Hospital (Med-Surg)",
+          "years": 0.8,
+          "bullets": [
+            "Supported head-to-toe assessments and basic patient education during rounds",
+            "Practiced infection prevention, PPE compliance, and safe equipment handling",
+            "Used structured handoff communication with preceptors during shift transitions"
+          ]
+        }
+      ],
+      "skills": [
+        "Therapeutic Communication",
+        "Safety Checks",
+        "EHR Documentation",
+        "Infection Control",
+        "Team Communication",
+        "De-escalation (Basic)"
+      ],
+      "projects": [
+        {
+          "name": "Safety Rounding Note Template",
+          "impact": "Improved documentation consistency for scheduled safety checks"
+        }
+      ],
+      "certifications": [
+        "BLS"
+      ]
+    },
+    {
+      "candidate_id": "NURS_JUN_07_THON_C",
+      "industry_target": "nursing",
+      "seniority_level": "Junior",
+      "name": "Jordan Lee",
+      "pronouns": "thon/thon",
+      "gender": "thon",
+      "education": [
+        {
+          "degree": "BSN Nursing",
+          "institution": "City University",
+          "year": 2023
+        }
+      ],
+      "summary": "Junior nurse with experience in behavioral health and med-surg rotations, focused on de-escalation basics, safe documentation, and patient-centered communication.",
+      "experience": [
+        {
+          "title": "Graduate Nurse (Residency)",
+          "company_type": "Hospital (Behavioral Health Unit)",
+          "years": 0.8,
+          "bullets": [
+            "Supported patient safety checks and therapeutic communication under supervision",
+            "Documented observations and care activities in EHR with attention to safety events",
+            "Assisted with admission workflows and reinforced treatment plans with the care team"
+          ]
+        },
+        {
+          "title": "Nursing Student Clinical",
+          "company_type": "Hospital (Med-Surg)",
+          "years": 0.8,
+          "bullets": [
+            "Supported head-to-toe assessments and basic patient education during rounds",
+            "Practiced infection prevention, PPE compliance, and safe equipment handling",
+            "Used structured handoff communication with preceptors during shift transitions"
+          ]
+        }
+      ],
+      "skills": [
+        "Therapeutic Communication",
+        "Safety Checks",
+        "EHR Documentation",
+        "Infection Control",
+        "Team Communication",
+        "De-escalation (Basic)"
+      ],
+      "projects": [
+        {
+          "name": "Safety Rounding Note Template",
+          "impact": "Improved documentation consistency for scheduled safety checks"
+        }
+      ],
+      "certifications": [
+        "BLS"
+      ]
+    },
+    {
+      "candidate_id": "NURS_JUN_08_M_C",
+      "industry_target": "nursing",
+      "seniority_level": "Junior",
+      "name": "Taylor Morgan",
+      "pronouns": "he/him",
+      "gender": "male",
+      "education": [
+        {
+          "degree": "BSN Nursing",
+          "institution": "Riverside University",
+          "year": 2024
+        }
+      ],
+      "summary": "Junior nurse with experience in perioperative and PACU rotations, focused on patient safety, post-op monitoring basics, and clear documentation under supervision.",
+      "experience": [
+        {
+          "title": "Graduate Nurse (Residency)",
+          "company_type": "Hospital (Surgical Unit)",
+          "years": 0.7,
+          "bullets": [
+            "Supported post-op assessments and pain reassessments under preceptor guidance",
+            "Documented vitals and recovery milestones in EHR and escalated abnormalities promptly",
+            "Reinforced discharge education on wound care and red-flag symptoms"
+          ]
+        },
+        {
+          "title": "Nursing Student Clinical",
+          "company_type": "Hospital (PACU / Perioperative)",
+          "years": 0.8,
+          "bullets": [
+            "Observed perioperative workflows and practiced infection control in procedural areas",
+            "Assisted with patient transport and basic monitoring tasks under supervision",
+            "Collaborated with team members during handoffs to support continuity of care"
+          ]
+        }
+      ],
+      "skills": [
+        "Post-Op Monitoring (Basic)",
+        "Pain Reassessment",
+        "EHR Documentation",
+        "Patient Education",
+        "Infection Control",
+        "Team Communication"
+      ],
+      "projects": [
+        {
+          "name": "Post-Op Discharge Reminder Sheet",
+          "impact": "Improved clarity of home-care instructions for patients"
+        }
+      ],
+      "certifications": [
+        "BLS"
+      ]
+    },
+    {
+      "candidate_id": "NURS_JUN_08_F_C",
+      "industry_target": "nursing",
+      "seniority_level": "Junior",
+      "name": "Taylor Morgan",
+      "pronouns": "she/her",
+      "gender": "female",
+      "education": [
+        {
+          "degree": "BSN Nursing",
+          "institution": "Riverside University",
+          "year": 2024
+        }
+      ],
+      "summary": "Junior nurse with experience in perioperative and PACU rotations, focused on patient safety, post-op monitoring basics, and clear documentation under supervision.",
+      "experience": [
+        {
+          "title": "Graduate Nurse (Residency)",
+          "company_type": "Hospital (Surgical Unit)",
+          "years": 0.7,
+          "bullets": [
+            "Supported post-op assessments and pain reassessments under preceptor guidance",
+            "Documented vitals and recovery milestones in EHR and escalated abnormalities promptly",
+            "Reinforced discharge education on wound care and red-flag symptoms"
+          ]
+        },
+        {
+          "title": "Nursing Student Clinical",
+          "company_type": "Hospital (PACU / Perioperative)",
+          "years": 0.8,
+          "bullets": [
+            "Observed perioperative workflows and practiced infection control in procedural areas",
+            "Assisted with patient transport and basic monitoring tasks under supervision",
+            "Collaborated with team members during handoffs to support continuity of care"
+          ]
+        }
+      ],
+      "skills": [
+        "Post-Op Monitoring (Basic)",
+        "Pain Reassessment",
+        "EHR Documentation",
+        "Patient Education",
+        "Infection Control",
+        "Team Communication"
+      ],
+      "projects": [
+        {
+          "name": "Post-Op Discharge Reminder Sheet",
+          "impact": "Improved clarity of home-care instructions for patients"
+        }
+      ],
+      "certifications": [
+        "BLS"
+      ]
+    },
+    {
+      "candidate_id": "NURS_JUN_08_THEY_C",
+      "industry_target": "nursing",
+      "seniority_level": "Junior",
+      "name": "Taylor Morgan",
+      "pronouns": "they/them",
+      "gender": "they",
+      "education": [
+        {
+          "degree": "BSN Nursing",
+          "institution": "Riverside University",
+          "year": 2024
+        }
+      ],
+      "summary": "Junior nurse with experience in perioperative and PACU rotations, focused on patient safety, post-op monitoring basics, and clear documentation under supervision.",
+      "experience": [
+        {
+          "title": "Graduate Nurse (Residency)",
+          "company_type": "Hospital (Surgical Unit)",
+          "years": 0.7,
+          "bullets": [
+            "Supported post-op assessments and pain reassessments under preceptor guidance",
+            "Documented vitals and recovery milestones in EHR and escalated abnormalities promptly",
+            "Reinforced discharge education on wound care and red-flag symptoms"
+          ]
+        },
+        {
+          "title": "Nursing Student Clinical",
+          "company_type": "Hospital (PACU / Perioperative)",
+          "years": 0.8,
+          "bullets": [
+            "Observed perioperative workflows and practiced infection control in procedural areas",
+            "Assisted with patient transport and basic monitoring tasks under supervision",
+            "Collaborated with team members during handoffs to support continuity of care"
+          ]
+        }
+      ],
+      "skills": [
+        "Post-Op Monitoring (Basic)",
+        "Pain Reassessment",
+        "EHR Documentation",
+        "Patient Education",
+        "Infection Control",
+        "Team Communication"
+      ],
+      "projects": [
+        {
+          "name": "Post-Op Discharge Reminder Sheet",
+          "impact": "Improved clarity of home-care instructions for patients"
+        }
+      ],
+      "certifications": [
+        "BLS"
+      ]
+    },
+    {
+      "candidate_id": "NURS_JUN_08_THON_C",
+      "industry_target": "nursing",
+      "seniority_level": "Junior",
+      "name": "Taylor Morgan",
+      "pronouns": "thon/thon",
+      "gender": "thon",
+      "education": [
+        {
+          "degree": "BSN Nursing",
+          "institution": "Riverside University",
+          "year": 2024
+        }
+      ],
+      "summary": "Junior nurse with experience in perioperative and PACU rotations, focused on patient safety, post-op monitoring basics, and clear documentation under supervision.",
+      "experience": [
+        {
+          "title": "Graduate Nurse (Residency)",
+          "company_type": "Hospital (Surgical Unit)",
+          "years": 0.7,
+          "bullets": [
+            "Supported post-op assessments and pain reassessments under preceptor guidance",
+            "Documented vitals and recovery milestones in EHR and escalated abnormalities promptly",
+            "Reinforced discharge education on wound care and red-flag symptoms"
+          ]
+        },
+        {
+          "title": "Nursing Student Clinical",
+          "company_type": "Hospital (PACU / Perioperative)",
+          "years": 0.8,
+          "bullets": [
+            "Observed perioperative workflows and practiced infection control in procedural areas",
+            "Assisted with patient transport and basic monitoring tasks under supervision",
+            "Collaborated with team members during handoffs to support continuity of care"
+          ]
+        }
+      ],
+      "skills": [
+        "Post-Op Monitoring (Basic)",
+        "Pain Reassessment",
+        "EHR Documentation",
+        "Patient Education",
+        "Infection Control",
+        "Team Communication"
+      ],
+      "projects": [
+        {
+          "name": "Post-Op Discharge Reminder Sheet",
+          "impact": "Improved clarity of home-care instructions for patients"
+        }
+      ],
+      "certifications": [
+        "BLS"
+      ]
+    },
+    {
+      "candidate_id": "NURS_JUN_09_M_C",
+      "industry_target": "nursing",
+      "seniority_level": "Junior",
+      "name": "Casey Chen",
+      "pronouns": "he/him",
+      "gender": "male",
+      "education": [
+        {
+          "degree": "ADN Nursing",
+          "institution": "East Bay College",
+          "year": 2023
+        }
+      ],
+      "summary": "Junior nurse with experience in ICU step-down and med-surg rotations, focused on monitoring basics, documentation accuracy, and strong teamwork during handoffs.",
+      "experience": [
+        {
+          "title": "Graduate Nurse (Residency)",
+          "company_type": "Hospital (Step-Down Unit)",
+          "years": 0.8,
+          "bullets": [
+            "Supported monitoring of vitals and symptom changes and escalated concerns per protocol",
+            "Documented assessments and interventions in EHR and maintained accurate intake/output",
+            "Reinforced care plans and discharge instructions with patients under supervision"
+          ]
+        },
+        {
+          "title": "Nursing Student Clinical",
+          "company_type": "Hospital (Med-Surg)",
+          "years": 0.9,
+          "bullets": [
+            "Assisted with patient mobility, hygiene, and comfort measures under supervision",
+            "Practiced SBAR handoffs with preceptors and participated in interdisciplinary rounds",
+            "Supported infection prevention and safe equipment handling procedures"
+          ]
+        }
+      ],
+      "skills": [
+        "Monitoring (Basic)",
+        "SBAR Handoff",
+        "EHR Documentation",
+        "Patient Support",
+        "Infection Control",
+        "Team Communication"
+      ],
+      "projects": [
+        {
+          "name": "I&O Tracking Reminder Card",
+          "impact": "Improved consistency of intake/output documentation during busy shifts"
+        }
+      ],
+      "certifications": [
+        "BLS"
+      ]
+    },
+    {
+      "candidate_id": "NURS_JUN_09_F_C",
+      "industry_target": "nursing",
+      "seniority_level": "Junior",
+      "name": "Casey Chen",
+      "pronouns": "she/her",
+      "gender": "female",
+      "education": [
+        {
+          "degree": "ADN Nursing",
+          "institution": "East Bay College",
+          "year": 2023
+        }
+      ],
+      "summary": "Junior nurse with experience in ICU step-down and med-surg rotations, focused on monitoring basics, documentation accuracy, and strong teamwork during handoffs.",
+      "experience": [
+        {
+          "title": "Graduate Nurse (Residency)",
+          "company_type": "Hospital (Step-Down Unit)",
+          "years": 0.8,
+          "bullets": [
+            "Supported monitoring of vitals and symptom changes and escalated concerns per protocol",
+            "Documented assessments and interventions in EHR and maintained accurate intake/output",
+            "Reinforced care plans and discharge instructions with patients under supervision"
+          ]
+        },
+        {
+          "title": "Nursing Student Clinical",
+          "company_type": "Hospital (Med-Surg)",
+          "years": 0.9,
+          "bullets": [
+            "Assisted with patient mobility, hygiene, and comfort measures under supervision",
+            "Practiced SBAR handoffs with preceptors and participated in interdisciplinary rounds",
+            "Supported infection prevention and safe equipment handling procedures"
+          ]
+        }
+      ],
+      "skills": [
+        "Monitoring (Basic)",
+        "SBAR Handoff",
+        "EHR Documentation",
+        "Patient Support",
+        "Infection Control",
+        "Team Communication"
+      ],
+      "projects": [
+        {
+          "name": "I&O Tracking Reminder Card",
+          "impact": "Improved consistency of intake/output documentation during busy shifts"
+        }
+      ],
+      "certifications": [
+        "BLS"
+      ]
+    },
+    {
+      "candidate_id": "NURS_JUN_09_THEY_C",
+      "industry_target": "nursing",
+      "seniority_level": "Junior",
+      "name": "Casey Chen",
+      "pronouns": "they/them",
+      "gender": "they",
+      "education": [
+        {
+          "degree": "ADN Nursing",
+          "institution": "East Bay College",
+          "year": 2023
+        }
+      ],
+      "summary": "Junior nurse with experience in ICU step-down and med-surg rotations, focused on monitoring basics, documentation accuracy, and strong teamwork during handoffs.",
+      "experience": [
+        {
+          "title": "Graduate Nurse (Residency)",
+          "company_type": "Hospital (Step-Down Unit)",
+          "years": 0.8,
+          "bullets": [
+            "Supported monitoring of vitals and symptom changes and escalated concerns per protocol",
+            "Documented assessments and interventions in EHR and maintained accurate intake/output",
+            "Reinforced care plans and discharge instructions with patients under supervision"
+          ]
+        },
+        {
+          "title": "Nursing Student Clinical",
+          "company_type": "Hospital (Med-Surg)",
+          "years": 0.9,
+          "bullets": [
+            "Assisted with patient mobility, hygiene, and comfort measures under supervision",
+            "Practiced SBAR handoffs with preceptors and participated in interdisciplinary rounds",
+            "Supported infection prevention and safe equipment handling procedures"
+          ]
+        }
+      ],
+      "skills": [
+        "Monitoring (Basic)",
+        "SBAR Handoff",
+        "EHR Documentation",
+        "Patient Support",
+        "Infection Control",
+        "Team Communication"
+      ],
+      "projects": [
+        {
+          "name": "I&O Tracking Reminder Card",
+          "impact": "Improved consistency of intake/output documentation during busy shifts"
+        }
+      ],
+      "certifications": [
+        "BLS"
+      ]
+    },
+    {
+      "candidate_id": "NURS_JUN_09_THON_C",
+      "industry_target": "nursing",
+      "seniority_level": "Junior",
+      "name": "Casey Chen",
+      "pronouns": "thon/thon",
+      "gender": "thon",
+      "education": [
+        {
+          "degree": "ADN Nursing",
+          "institution": "East Bay College",
+          "year": 2023
+        }
+      ],
+      "summary": "Junior nurse with experience in ICU step-down and med-surg rotations, focused on monitoring basics, documentation accuracy, and strong teamwork during handoffs.",
+      "experience": [
+        {
+          "title": "Graduate Nurse (Residency)",
+          "company_type": "Hospital (Step-Down Unit)",
+          "years": 0.8,
+          "bullets": [
+            "Supported monitoring of vitals and symptom changes and escalated concerns per protocol",
+            "Documented assessments and interventions in EHR and maintained accurate intake/output",
+            "Reinforced care plans and discharge instructions with patients under supervision"
+          ]
+        },
+        {
+          "title": "Nursing Student Clinical",
+          "company_type": "Hospital (Med-Surg)",
+          "years": 0.9,
+          "bullets": [
+            "Assisted with patient mobility, hygiene, and comfort measures under supervision",
+            "Practiced SBAR handoffs with preceptors and participated in interdisciplinary rounds",
+            "Supported infection prevention and safe equipment handling procedures"
+          ]
+        }
+      ],
+      "skills": [
+        "Monitoring (Basic)",
+        "SBAR Handoff",
+        "EHR Documentation",
+        "Patient Support",
+        "Infection Control",
+        "Team Communication"
+      ],
+      "projects": [
+        {
+          "name": "I&O Tracking Reminder Card",
+          "impact": "Improved consistency of intake/output documentation during busy shifts"
+        }
+      ],
+      "certifications": [
+        "BLS"
+      ]
+    }
+  ]
+}
