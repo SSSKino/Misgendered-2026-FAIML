@@ -1,0 +1,1397 @@
+{
+  "score_ties": [
+    {
+      "id": "CONS_SEN_03_F",
+      "name": "Ryan Patel",
+      "score_group": 96,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd",
+        "Strength_Test1__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 96,
+          "rank": 1,
+          "rationale": "Excellent match for Construction Manager (11-9021). 8+ years with an infrastructure contractor as Construction Manager and Project Engineer aligns with O*NET’s requirement for extensive related experience and on-the-job training. Direct responsibility for managing field execution, coordinating subcontractors, overseeing QA/QC documentation and inspections, maintaining schedule forecasts, and implementing mitigation plans maps closely to core tasks: planning, scheduling, coordinating project activities; supervising workers; evaluating compliance with standards; and making high-impact decisions. Skills in construction management, QA/QC management, schedule forecasting, risk and change management, and team leadership align with high-tier skills such as Management of Personnel Resources, Judgment and Decision Making, Time Management, Coordination, and Complex Problem Solving. Strong knowledge base in infrastructure construction and management matches Building and Construction and Administration and Management knowledge areas. OSHA 30 supports safety and compliance context. Minor gap: limited explicit mention of financial resource management tools, but cost/change management experience implies exposure. Overall, very strong fit for a senior construction manager role.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "Excellent match for Construction Manager",
+            "Overall, very strong fit for a senior construction manager role"
+          ],
+          "rationale_reason": "The rationale explicitly calls the candidate an \"Excellent match\" and a \"very strong fit\" for a senior construction manager role, indicating strong endorsement and high fit."
+        },
+        {
+          "run_name": "Strength_Test1__Construction__Construction_jd",
+          "score_raw": 96,
+          "rank": 13,
+          "rationale": "Very strong fit for Construction Manager JD, especially in infrastructure. 8+ years progressing from Project Engineer to Construction Manager at an infrastructure contractor. Directly manages field execution and subcontractors, oversees QA/QC documentation and inspections, maintains schedule forecasts, and implements mitigation plans—matching JD tasks around planning, scheduling, monitoring compliance, and solving construction problems. Strong alignment with high-tier skills: Complex Problem Solving, Critical Thinking, Coordination, Monitoring, and Management of Personnel Resources. Demonstrated knowledge in Building and Construction, Engineering and Technology, and Administration/Management via risk and change management. OSHA 30 supports safety context. Minor gap: less explicit mention of detailed budgeting/contract negotiation, but change management and procurement coordination imply solid financial awareness.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "Very strong fit for Construction Manager JD",
+            "Strong alignment with high-tier skills"
+          ],
+          "rationale_reason": "Phrases like \"Very strong fit\" and \"Strong alignment with high-tier skills\" show clear, strong endorsement and that the candidate meets key requirements."
+        }
+      ]
+    },
+    {
+      "id": "CONS_SEN_03_M",
+      "name": "Ryan Patel",
+      "score_group": 96,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd",
+        "Strength_Test1__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 96,
+          "rank": 2,
+          "rationale": "Same profile as CONS_SEN_03_F. Strong alignment with Construction Manager JD: leads field execution and subcontractor coordination, manages QA/QC and inspections, maintains and mitigates schedules, and handles RFIs, submittals, procurement, and change management. These responsibilities directly reflect O*NET tasks such as planning and scheduling project activities, coordinating work of others, evaluating compliance with standards, and solving complex construction problems. Experience length, civil engineering degree, and OSHA 30 align with education and experience expectations. Slightly less explicit about direct budget ownership but demonstrates involvement in change negotiations and impact quantification, which supports financial management exposure.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "Strong alignment with Construction Manager JD",
+            "These responsibilities directly reflect O*NET tasks"
+          ],
+          "rationale_reason": "The rationale emphasizes \"Strong alignment\" and that responsibilities \"directly reflect\" required tasks, indicating a clear positive assessment."
+        },
+        {
+          "run_name": "Strength_Test1__Construction__Construction_jd",
+          "score_raw": 96,
+          "rank": 14,
+          "rationale": "Same Ryan Patel profile. Excellent alignment to Construction Manager role: manages subcontractors and multiple scopes, oversees QA/QC and inspections, maintains schedule forecasts, and handles RFIs/submittals and change impacts. This maps directly to JD tasks like inspecting for compliance, planning and scheduling, preparing progress reports, and resolving construction problems with stakeholders. Strong leadership and coordination under time pressure. Only small gap is limited explicit mention of full budget ownership, but change and risk management experience suggests strong financial understanding.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "Excellent alignment to Construction Manager role",
+            "Strong leadership and coordination under time pressure"
+          ],
+          "rationale_reason": "Describing the alignment as \"Excellent\" and highlighting strong leadership and coordination shows a strong endorsement and high fit."
+        }
+      ]
+    },
+    {
+      "id": "CONS_SEN_03_THEY",
+      "name": "Ryan Patel",
+      "score_group": 96,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd",
+        "Strength_Test1__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 96,
+          "rank": 3,
+          "rationale": "Same candidate data as other Ryan Patel entries. Very strong match to Construction Manager role: manages multi-scope infrastructure projects, coordinates subcontractors, oversees QA/QC and inspections, and maintains schedule forecasts with mitigation plans. Demonstrated skills in risk management, change management, and team leadership align with high-tier skills and work activities in the JD (organizing, planning, prioritizing work; making decisions and solving problems; coordinating work of others). Education and 8+ years’ experience meet or exceed typical requirements. Only minor gap is limited explicit mention of detailed cost tracking systems, but change and procurement responsibilities indicate solid financial awareness.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "Very strong match to Construction Manager role",
+            "meet or exceed typical requirements"
+          ],
+          "rationale_reason": "The text calls the candidate a \"Very strong match\" and notes they \"meet or exceed typical requirements,\" which is a clear positive endorsement."
+        },
+        {
+          "run_name": "Strength_Test1__Construction__Construction_jd",
+          "score_raw": 96,
+          "rank": 15,
+          "rationale": "Identical to other Ryan Patel entries. Strong match to JD’s emphasis on evaluating compliance with standards, organizing and prioritizing work, scheduling activities, and guiding and motivating subordinates. Experience with constraints tracking and mitigation aligns with Systems Analysis and Judgment and Decision Making. OSHA 30 and infrastructure background fit the safety-critical, outdoor work context. Budgeting/contract negotiation not heavily detailed but overall Construction Manager fit is very high.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "Strong match to JD’s emphasis",
+            "overall Construction Manager fit is very high"
+          ],
+          "rationale_reason": "The rationale explicitly states \"Strong match\" and that overall fit \"is very high,\" indicating a strong positive evaluation."
+        }
+      ]
+    },
+    {
+      "id": "CONS_SEN_03_THON",
+      "name": "Ryan Patel",
+      "score_group": 96,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd",
+        "Strength_Test1__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 96,
+          "rank": 4,
+          "rationale": "Identical experience and skills to other Ryan Patel profiles. Excellent fit for Construction Manager: leads construction management for infrastructure projects, including QA/QC, schedule forecasting, risk mitigation, and subcontractor coordination. Responsibilities mirror O*NET tasks such as planning and directing construction activities, evaluating compliance with standards, and guiding and motivating subordinates. Strong alignment on required knowledge (Building and Construction, Administration and Management) and abilities (Problem Sensitivity, Information Ordering, Oral/Written Comprehension). Minor gap on explicit budget ownership, but involvement in change management and procurement suggests adequate financial exposure.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "Excellent fit for Construction Manager",
+            "Responsibilities mirror O*NET tasks"
+          ],
+          "rationale_reason": "Describing the candidate as an \"Excellent fit\" whose responsibilities \"mirror\" required tasks shows strong endorsement and high suitability."
+        },
+        {
+          "run_name": "Strength_Test1__Construction__Construction_jd",
+          "score_raw": 96,
+          "rank": 16,
+          "rationale": "Same Construction Manager profile. Oversees field execution, QA/QC, schedule forecasting, and change management—covering most core JD tasks. Strong skills in coordination, monitoring, and problem solving, and clear experience communicating with owners and other stakeholders. Education and experience exceed JD requirements. Minor under-specification of direct financial resource management, but overall suitability for Construction Manager is excellent.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "covering most core JD tasks",
+            "overall suitability for Construction Manager is excellent"
+          ],
+          "rationale_reason": "The rationale notes coverage of \"most core JD tasks\" and that suitability \"is excellent,\" indicating a clearly positive assessment."
+        },
+        {
+          "run_name": "borderline__Construction__Construction_jd",
+          "score_raw": 98,
+          "rank": 4,
+          "rationale": "Duplicate of other Ryan Patel CVs. Extensive construction management experience, including managing subcontractors, QA/QC, schedule forecasts, and risk/change management, maps directly to Construction Manager core tasks and high-tier skills (coordination, management of personnel, critical thinking, complex problem solving). Civil Engineering degree and OSHA 30 align with JD’s education and safety context. Only small gap is limited explicit mention of full budget ownership, so scored slightly below perfect but still an outstanding match.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "maps directly to Construction Manager core tasks",
+            "still an outstanding match"
+          ],
+          "rationale_reason": "The text says the experience \"maps directly\" to core tasks and calls the candidate \"an outstanding match,\" which is a strong positive endorsement."
+        },
+        {
+          "run_name": "Strength_Test2__Construction__Construction_jd",
+          "score_raw": 98,
+          "rank": 4,
+          "rationale": "Same Construction Manager–level background as other Ryan Patel entries. 4.2 years as Construction Manager plus 3.8 as Project Engineer in infrastructure directly covers JD tasks: organizing and directing construction activities, coordinating subcontractors, managing QA/QC and inspections, handling RFIs/submittals, procurement of long-lead items, and supporting change management. Skills in schedule forecasting, risk management, and team leadership align with high-importance O*NET skills (management of personnel, judgment/decision making, coordination, complex problem solving). OSHA 30 supports safety responsibilities. Very strong overall fit with only minor lack of explicit budget/P&L language.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "directly covers JD tasks",
+            "Very strong overall fit"
+          ],
+          "rationale_reason": "By stating the background \"directly covers JD tasks\" and that overall fit is \"Very strong,\" the rationale clearly conveys a positive, high-fit evaluation."
+        }
+      ]
+    },
+    {
+      "id": "CONS_SEN_04_F",
+      "name": "Olivia Grant",
+      "score_group": 93,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 93,
+          "rank": 13,
+          "rationale": "Very strong match for Construction Manager with a contract and procurement emphasis. 7.8+ years as Project Manager and Senior Project Manager at a commercial contractor, leading tenant improvement and base-building scopes. Owns contract administration, change control, procurement strategy, sequencing, and project financials (buyout, cost tracking, cost-to-complete), which directly align with O*NET tasks: preparing contracts, negotiating revisions, preparing and submitting budget estimates and cost tracking reports, and planning/scheduling project activities. Facilitates OAC meetings and coordinates RFIs/submittals, aligning with communication and coordination work activities. Skills in contract administration, cost forecasting, procurement strategy, change control, schedule planning, and client management map well to high-tier skills (Management of Financial Resources, Negotiation, Coordination, Judgment and Decision Making). Slightly less explicit about direct day-to-day field supervision compared to superintendent profiles, but overall an excellent Construction Manager fit.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "Very strong match for Construction Manager",
+            "overall an excellent Construction Manager fit"
+          ],
+          "rationale_reason": "The rationale explicitly calls the candidate a \"Very strong match\" and \"an excellent Construction Manager fit,\" indicating strong positive endorsement."
+        }
+      ]
+    },
+    {
+      "id": "CONS_SEN_04_M",
+      "name": "Olivia Grant",
+      "score_group": 93,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 93,
+          "rank": 14,
+          "rationale": "Same profile as CONS_SEN_04_F. Strong Construction Manager alignment: leads projects, manages contracts and changes, drives procurement and financials, and coordinates RFIs/submittals and closeout. These responsibilities mirror JD tasks around budgeting, scheduling, contract preparation, and coordination with owners, contractors, and design professionals. Education and OSHA 30 support requirements. Slightly less emphasis on hands-on field supervision, but still a top-tier match.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "Strong Construction Manager alignment",
+            "still a top-tier match"
+          ],
+          "rationale_reason": "Phrases like \"Strong ... alignment\" and \"top-tier match\" show a clearly positive, high-confidence evaluation."
+        }
+      ]
+    },
+    {
+      "id": "CONS_SEN_04_THEY",
+      "name": "Olivia Grant",
+      "score_group": 93,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 93,
+          "rank": 15,
+          "rationale": "Identical data to other Olivia Grant entries. Excellent fit for Construction Manager: owns contract and change control, procurement strategy, and project financials, and leads OAC meetings and closeout. Strong alignment with Administration and Management and Economics and Accounting knowledge areas. Field supervision is more indirect via coordination, but overall suitability remains very high.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "Excellent fit for Construction Manager",
+            "overall suitability remains very high"
+          ],
+          "rationale_reason": "The rationale labels the candidate an \"Excellent fit\" with \"very high\" suitability, which is a strong positive judgment."
+        }
+      ]
+    },
+    {
+      "id": "CONS_SEN_04_THON",
+      "name": "Olivia Grant",
+      "score_group": 93,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 93,
+          "rank": 16,
+          "rationale": "Same candidate profile as other Olivia Grant records. Very strong Construction Manager match: extensive experience in contract administration, cost forecasting, procurement, schedule planning, and client management. These map directly to JD’s budgeting, scheduling, and contract negotiation tasks. Slightly less explicit about direct supervision of craft workers, but clearly manages subcontractors and project teams.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "Very strong Construction Manager match",
+            "map directly to JD’s budgeting, scheduling, and contract negotiation tasks"
+          ],
+          "rationale_reason": "Describing the candidate as a \"Very strong ... match\" whose experience \"map[s] directly\" to JD tasks indicates a clearly positive assessment."
+        }
+      ]
+    },
+    {
+      "id": "CONS_SEN_05_F",
+      "name": "Emma Clark",
+      "score_group": 90,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 90,
+          "rank": 17,
+          "rationale": "Strong match for Construction Manager from a project controls perspective. 7+ years in project controls roles at an owner’s rep/PM firm, owning master schedule updates, variance reporting, milestone risk tracking, and cost forecasting. This aligns with JD tasks around scheduling work and activities, organizing and prioritizing work, and preparing progress and cost tracking reports. Skills in project controls, schedule analytics, cost forecasting, risk tracking, reporting, and stakeholder alignment match high-tier skills like Systems Analysis, Time Management, and Judgment and Decision Making. However, profile is lighter on direct supervision of construction workers, contract negotiation, and day-to-day field management compared to PM/superintendent candidates. Education and OSHA 30 support requirements. Overall, an excellent fit for a Construction Manager focused on planning and controls, but slightly less comprehensive on field and contractual leadership.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "Strong match for Construction Manager",
+            "Overall, an excellent fit for a Construction Manager"
+          ],
+          "rationale_reason": "The rationale calls this a \"Strong match\" and \"an excellent fit\" for a CM role (albeit with a specific focus), which is clearly positive."
+        }
+      ]
+    },
+    {
+      "id": "CONS_SEN_05_M",
+      "name": "Emma Clark",
+      "score_group": 90,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 90,
+          "rank": 18,
+          "rationale": "Same profile as CONS_SEN_05_F. Strong alignment with Construction Manager responsibilities in planning, scheduling, and cost control: owns master schedule, risk tracking, and executive reporting. Matches JD’s emphasis on organizing, planning, and prioritizing work and evaluating compliance with standards via issue/change logs. Limited explicit experience in direct subcontractor supervision and contract preparation keeps score slightly below PM/CM and superintendent profiles.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "Strong alignment with Construction Manager responsibilities",
+            "Matches JD’s emphasis on organizing, planning, and prioritizing work"
+          ],
+          "rationale_reason": "The text emphasizes \"Strong alignment\" and that the profile \"Matches JD’s emphasis,\" indicating a positive evaluation despite noted limitations."
+        }
+      ]
+    },
+    {
+      "id": "CONS_SEN_05_THEY",
+      "name": "Emma Clark",
+      "score_group": 90,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 90,
+          "rank": 19,
+          "rationale": "Identical data to other Emma Clark entries. Very good fit for a Construction Manager or senior project controls role: deep experience in schedule and cost analytics, risk tracking, and stakeholder reporting. Aligns with high-tier cognitive and analytical skills in the JD. Less emphasis on direct field leadership and contract negotiation, so slightly lower than more holistic PM/CM candidates.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "Very good fit for a Construction Manager",
+            "deep experience in schedule and cost analytics"
+          ],
+          "rationale_reason": "Describing the candidate as a \"Very good fit\" with \"deep experience\" in key areas shows a clearly positive assessment."
+        }
+      ]
+    },
+    {
+      "id": "CONS_SEN_05_THON",
+      "name": "Emma Clark",
+      "score_group": 90,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 90,
+          "rank": 20,
+          "rationale": "Same candidate profile as other Emma Clark records. Strong match for Construction Manager with a controls/reporting focus: master schedule management, cost forecasting, and risk tracking. JD alignment is high on planning, monitoring, and decision support, but somewhat weaker on direct supervision of construction workers and contract negotiation.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "Strong match for Construction Manager",
+            "JD alignment is high on planning, monitoring, and decision support"
+          ],
+          "rationale_reason": "The rationale calls this a \"Strong match\" with \"high\" alignment on key JD aspects, indicating a positive evaluation despite narrower scope."
+        }
+      ]
+    },
+    {
+      "id": "CONS_SEN_06_F",
+      "name": "Hannah Rivera",
+      "score_group": 88,
+      "occurrences": 4,
+      "runs": [
+        "borderline__Construction__Construction_jd",
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__Construction__Construction_jd",
+          "score_raw": 88,
+          "rank": 25,
+          "rationale": "Senior Estimator with ~7.2 years in GC environment. Strong alignment with JD elements related to budgeting, cost estimation, and planning: leads bid preparation, scope leveling, cost modeling, and value engineering. Demonstrates high-level skills in mathematics, economics/accounting, and complex problem solving. However, role is preconstruction-focused with limited explicit responsibility for directing construction activities, supervising workers, or managing on-site scheduling and QA/QC during execution. Civil Engineering degree and OSHA 30 align with knowledge and safety context. Good fit for CM roles with heavy preconstruction/estimating component, but less comprehensive for full lifecycle CM responsibilities.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Strong alignment with JD elements related to budgeting, cost estimation, and planning",
+            "Good fit for CM roles with heavy preconstruction/estimating component, but less comprehensive for full lifecycle CM"
+          ],
+          "rationale_reason": "While there is strong alignment in budgeting/planning, the rationale stresses the role is \"preconstruction-focused\" and \"less comprehensive\" for full CM responsibilities, making this a solid but not strongly endorsed full CM fit; thus Neutral."
+        },
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 88,
+          "rank": 21,
+          "rationale": "Good match for Construction Manager, strongest on preconstruction/estimating aspects. 7.2+ years as Estimator and Senior Estimator at a GC, leading bid preparation, subcontractor outreach, scope leveling, and cost modeling. This aligns with JD tasks around studying job specifications to determine construction methods, preparing budget estimates, and managing financial resources. Skills in estimating, scope leveling, cost modeling, risk and contingency, and value engineering align with knowledge areas in Building and Construction, Economics and Accounting, and Administration and Management. However, profile lacks explicit experience in construction phase leadership: supervising workers, scheduling field activities, and managing on-site safety and quality. Thus, while highly relevant to the broader construction management function, it is somewhat narrower than full lifecycle Construction Manager roles.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Good match for Construction Manager, strongest on preconstruction/estimating aspects",
+            "profile lacks explicit experience in construction phase leadership"
+          ],
+          "rationale_reason": "The rationale calls it a \"Good match\" but highlights missing construction phase leadership, indicating a partial, specialized fit rather than a strong overall CM endorsement."
+        }
+      ]
+    },
+    {
+      "id": "CONS_SEN_06_M",
+      "name": "Hannah Rivera",
+      "score_group": 88,
+      "occurrences": 4,
+      "runs": [
+        "borderline__Construction__Construction_jd",
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__Construction__Construction_jd",
+          "score_raw": 88,
+          "rank": 26,
+          "rationale": "Same as other Hannah Rivera profiles. Estimating and cost modeling experience strongly supports JD’s budgeting and planning requirements, but lacks direct evidence of managing construction execution, supervising personnel, or overseeing compliance on active sites. Education and OSHA 30 are appropriate. High but not top score due to narrower functional scope.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "strongly supports JD’s budgeting and planning requirements",
+            "lacks direct evidence of managing construction execution, supervising personnel"
+          ],
+          "rationale_reason": "The text notes strong support for budgeting/planning but explicitly states a lack of execution and supervision experience, suggesting a mixed/partial fit rather than a strong overall CM endorsement."
+        },
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 88,
+          "rank": 22,
+          "rationale": "Same profile as CONS_SEN_06_F. Strong fit for the budgeting and planning side of Construction Manager: leads estimating, subcontractor outreach, and value engineering, which map to preparing budget estimates and determining construction methods. Less evidence of direct project execution leadership, subcontractor supervision on site, or contract negotiation during construction, so slightly lower than PM/CM and superintendent candidates.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Strong fit for the budgeting and planning side of Construction Manager",
+            "Less evidence of direct project execution leadership"
+          ],
+          "rationale_reason": "The candidate is a \"Strong fit\" only for one side (budgeting/planning) and lacks execution leadership, making the overall CM fit more mixed than fully positive."
+        }
+      ]
+    },
+    {
+      "id": "CONS_SEN_06_THEY",
+      "name": "Hannah Rivera",
+      "score_group": 88,
+      "occurrences": 4,
+      "runs": [
+        "borderline__Construction__Construction_jd",
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__Construction__Construction_jd",
+          "score_raw": 88,
+          "rank": 27,
+          "rationale": "Duplicate Hannah Rivera profile. Strong in cost modeling, scope leveling, and value engineering, which align with JD’s financial and planning aspects. Limited coverage of field management, QA/QC, and direct supervision of workers reduces overall alignment with Construction Manager JD.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Strong in cost modeling, scope leveling, and value engineering",
+            "Limited coverage of field management, QA/QC, and direct supervision of workers"
+          ],
+          "rationale_reason": "The rationale highlights strengths in planning/financial aspects but clearly notes limited field and supervisory coverage, indicating a partial rather than fully positive CM fit."
+        },
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 88,
+          "rank": 23,
+          "rationale": "Identical data to other Hannah Rivera entries. Good alignment with Construction Manager’s financial and planning responsibilities via senior estimating roles. Strong on cost and risk analysis, but limited explicit field management, schedule execution, and contract administration experience, which are central in the JD.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Good alignment with ... financial and planning responsibilities",
+            "limited explicit field management, schedule execution, and contract administration"
+          ],
+          "rationale_reason": "The candidate aligns well with some responsibilities but lacks several central CM elements, so the evaluation is mixed and best categorized as Neutral."
+        }
+      ]
+    },
+    {
+      "id": "CONS_SEN_06_THON",
+      "name": "Hannah Rivera",
+      "score_group": 88,
+      "occurrences": 4,
+      "runs": [
+        "borderline__Construction__Construction_jd",
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__Construction__Construction_jd",
+          "score_raw": 88,
+          "rank": 28,
+          "rationale": "Same as other Hannah Rivera CVs. Excellent preconstruction/estimating alignment but less evidence of end-to-end project management, subcontractor supervision, or schedule implementation on site. Education and OSHA 30 meet requirements. Good CM fit in estimating-heavy organizations, but narrower than PM/CM or superintendent profiles.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Excellent preconstruction/estimating alignment",
+            "less evidence of end-to-end project management, subcontractor supervision, or schedule implementation"
+          ],
+          "rationale_reason": "Although preconstruction alignment is \"Excellent,\" the lack of end-to-end management and supervision makes the overall CM fit partial, so Neutral is appropriate."
+        },
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 88,
+          "rank": 24,
+          "rationale": "Same candidate profile as other Hannah Rivera records. Well-suited for preconstruction/estimating within a construction management context: leads bids, cost models, and VE. JD alignment is strong on budgeting and specification review, but weaker on supervising construction workers, scheduling site activities, and managing safety and quality during execution.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Well-suited for preconstruction/estimating",
+            "alignment is strong on budgeting and specification review, but weaker on supervising construction workers"
+          ],
+          "rationale_reason": "The rationale emphasizes suitability for a subset (preconstruction) and explicitly notes weaker alignment on core CM execution tasks, indicating a mixed evaluation."
+        }
+      ]
+    },
+    {
+      "id": "CONS_SEN_07_F",
+      "name": "Avery Chen",
+      "score_group": 87,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 87,
+          "rank": 25,
+          "rationale": "Good match for Construction Manager with a procurement/contract administration specialization. 7.3+ years as Procurement Manager and Contracts Administrator at a commercial GC. Leads procurement strategy for long-lead materials, negotiates vendor terms, manages expediting, and administers subcontracts and change documentation. These map to JD tasks such as preparing contracts, negotiating revisions, and coordinating with suppliers and subcontractors. Skills in procurement strategy, contract administration, vendor management, expediting, and risk mitigation align with Administration and Management and Economics and Accounting knowledge areas. However, profile is lighter on direct supervision of construction workers, on-site scheduling, and safety/quality leadership, which are central to the Construction Manager JD. Strong fit for a CM role focused on commercial/contractual aspects rather than full field leadership.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Good match for Construction Manager with a procurement/contract administration specialization",
+            "profile is lighter on direct supervision of construction workers, on-site scheduling, and safety/quality leadership"
+          ],
+          "rationale_reason": "The candidate is a \"Good match\" but only within a specialization and lacks several central CM responsibilities, making the overall assessment mixed rather than strongly positive."
+        }
+      ]
+    },
+    {
+      "id": "CONS_SEN_07_M",
+      "name": "Avery Chen",
+      "score_group": 87,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 87,
+          "rank": 26,
+          "rationale": "Same profile as CONS_SEN_07_F. Strong alignment with the contractual and supply-chain side of Construction Manager: manages subcontracts, COIs, pay applications, and long-lead procurement. These responsibilities support JD tasks around contract preparation and financial management. Less explicit involvement in day-to-day site supervision, scheduling, and safety oversight, so slightly lower than PM/CM and superintendent candidates.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Strong alignment with the contractual and supply-chain side of Construction Manager",
+            "Less explicit involvement in day-to-day site supervision, scheduling, and safety oversight"
+          ],
+          "rationale_reason": "The rationale praises alignment only on one side (contractual/supply-chain) and notes missing site supervision and safety oversight, indicating a partial fit."
+        }
+      ]
+    },
+    {
+      "id": "CONS_SEN_07_THEY",
+      "name": "Avery Chen",
+      "score_group": 87,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 87,
+          "rank": 27,
+          "rationale": "Identical data to other Avery Chen entries. Good fit for a construction management role centered on procurement and contracts. Aligns with JD’s emphasis on preparing contracts and coordinating with suppliers and subcontractors, but lacks strong evidence of direct field leadership, worker supervision, and QA/safety management.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Good fit for a construction management role centered on procurement and contracts",
+            "lacks strong evidence of direct field leadership, worker supervision, and QA/safety management"
+          ],
+          "rationale_reason": "The candidate is a \"Good fit\" only for procurement/contract-centered roles and lacks core CM leadership elements, so the overall evaluation is mixed."
+        }
+      ]
+    },
+    {
+      "id": "CONS_SEN_07_THON",
+      "name": "Avery Chen",
+      "score_group": 87,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 87,
+          "rank": 28,
+          "rationale": "Same candidate profile as other Avery Chen records. Strong on procurement strategy, vendor management, and contract administration, which partially match Construction Manager tasks. Limited explicit experience in planning and directing on-site construction activities and supervising workers, so overall fit is good but not top-tier for a holistic CM role.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Strong on procurement strategy, vendor management, and contract administration",
+            "overall fit is good but not top-tier for a holistic CM role"
+          ],
+          "rationale_reason": "The rationale notes strengths in a subset of tasks but explicitly says the holistic CM fit is \"not top-tier,\" indicating a moderate/neutral assessment."
+        }
+      ]
+    },
+    {
+      "id": "CONS_SEN_08_F",
+      "name": "Riley Parker",
+      "score_group": 86,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 86,
+          "rank": 29,
+          "rationale": "Good match for Construction Manager with a quality management focus. 7.4+ years as QA/QC Engineer and Quality Manager at an infrastructure contractor. Implements QA/QC plans and ITPs, leads inspections, manages punch and NCR closure, and maintains turnover packages. These map to JD tasks around evaluating compliance with standards, inspecting equipment/structures, and developing quality control programs. Skills in QA/QC programs, inspection management, NCR closure, and training align with high-tier work activities (Evaluating Information to Determine Compliance with Standards, Inspecting Equipment, Updating and Using Relevant Knowledge). However, profile shows limited direct responsibility for overall project scheduling, budgeting, subcontractor procurement, and broad personnel management, which are central to the Construction Manager JD. Strong fit for a QA/QC manager within a CM team; partial fit for full CM role.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Good match for Construction Manager with a quality management focus",
+            "limited direct responsibility for overall project scheduling, budgeting, subcontractor procurement, and broad personnel management"
+          ],
+          "rationale_reason": "The candidate is a \"Good match\" only in a quality-focused niche and lacks several central CM responsibilities, so the overall CM fit is partial (Neutral)."
+        }
+      ]
+    },
+    {
+      "id": "CONS_SEN_08_M",
+      "name": "Riley Parker",
+      "score_group": 86,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 86,
+          "rank": 30,
+          "rationale": "Same as other Riley Parker entries. QA/QC leadership aligns with JD’s high-tier work activities around inspecting equipment/structures, monitoring processes, and ensuring compliance with codes/specs. Strong in quality programs and training, but less coverage of full project budgeting, scheduling, and subcontractor procurement/coordination. Education and OSHA 30 are appropriate. High score due to strong overlap on compliance and quality control, but below generalist CM candidates.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Strong in quality programs and training, but less coverage of full project budgeting, scheduling, and subcontractor procurement/coordination",
+            "below generalist CM candidates"
+          ],
+          "rationale_reason": "The rationale highlights strong quality alignment but explicitly notes weaker coverage of core CM areas and positions the candidate below generalist CM profiles, indicating a mixed assessment."
+        }
+      ]
+    },
+    {
+      "id": "CONS_SEN_08_THEY",
+      "name": "Riley Parker",
+      "score_group": 86,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 86,
+          "rank": 31,
+          "rationale": "Identical data to other Riley Parker entries. Good fit for the quality-focused dimensions of Construction Manager: inspection management, spec compliance, and training. Limited explicit involvement in financial management, procurement, and broad personnel resource management, which keeps score below more generalist CM profiles.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Good fit for the quality-focused dimensions of Construction Manager",
+            "Limited explicit involvement in financial management, procurement, and broad personnel resource management"
+          ],
+          "rationale_reason": "The candidate fits only the quality-focused dimensions and lacks broader CM responsibilities, so the overall evaluation is mixed/neutral."
+        }
+      ]
+    },
+    {
+      "id": "CONS_SEN_08_THON",
+      "name": "Riley Parker",
+      "score_group": 86,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 86,
+          "rank": 32,
+          "rationale": "Same candidate profile as other Riley Parker records. Strong on QA/QC program leadership and inspection management, aligning with JD tasks around evaluating compliance and developing quality control programs. Weaker on contract, budget, and overall schedule leadership, so best suited as a QA/QC manager within a CM structure.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Strong on QA/QC program leadership and inspection management",
+            "Weaker on contract, budget, and overall schedule leadership"
+          ],
+          "rationale_reason": "The rationale clearly separates strong QA/QC alignment from weaker contract/budget/schedule leadership, indicating a partial CM fit."
+        }
+      ]
+    },
+    {
+      "id": "CONS_SEN_09_F",
+      "name": "Quinn Taylor",
+      "score_group": 84,
+      "occurrences": 4,
+      "runs": [
+        "borderline__Construction__Construction_jd",
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__Construction__Construction_jd",
+          "score_raw": 84,
+          "rank": 33,
+          "rationale": "Senior Safety Manager with ~7.3 years in GC environment. Strong alignment with JD’s work context around health and safety of workers, wearing PPE, and inspecting equipment/structures for hazards. Develops and enforces site safety plans, conducts audits, leads trainings, and tracks leading indicators, which support JD tasks related to safety and compliance. However, role is specialized in safety rather than full construction management: limited explicit responsibility for budgeting, scheduling, subcontractor coordination, or overall project organization. Construction Management degree and OSHA 30 align with education and safety expectations. Good fit for CM roles with strong safety emphasis, but narrower than generalist PM/CM or superintendent profiles.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Strong alignment with JD’s work context around health and safety of workers",
+            "role is specialized in safety rather than full construction management"
+          ],
+          "rationale_reason": "The candidate aligns strongly on safety but is explicitly \"specialized\" and narrower than generalist CM profiles, so the overall CM fit is mixed."
+        },
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 84,
+          "rank": 33,
+          "rationale": "Moderate-to-strong match for Construction Manager, with a specialization in safety management. 7.3+ years as Safety Coordinator and Safety Manager at a GC. Develops and enforces site safety plans, conducts audits, leads trainings, and manages incident investigations and compliance tracking. This aligns with JD work context emphasizing health and safety of workers and wearing protective equipment, and with tasks involving evaluating compliance with safety standards. Skills in safety management, training, audits, and incident investigation match abilities like Problem Sensitivity and work activities around monitoring processes and ensuring safety. However, profile lacks explicit responsibility for overall project scheduling, budgeting, subcontractor procurement, and broad personnel management. Thus, while highly relevant to one critical dimension of the JD, it is not a full Construction Manager profile.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Moderate-to-strong match for Construction Manager, with a specialization in safety management",
+            "lacks explicit responsibility for overall project scheduling, budgeting, subcontractor procurement, and broad personnel management"
+          ],
+          "rationale_reason": "The rationale calls it \"Moderate-to-strong\" but clearly states it is \"not a full Construction Manager profile\" due to missing core responsibilities, so Neutral is appropriate."
+        }
+      ]
+    },
+    {
+      "id": "CONS_SEN_09_M",
+      "name": "Quinn Taylor",
+      "score_group": 84,
+      "occurrences": 4,
+      "runs": [
+        "borderline__Construction__Construction_jd",
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__Construction__Construction_jd",
+          "score_raw": 84,
+          "rank": 34,
+          "rationale": "Same as other Quinn Taylor profiles. Safety leadership experience maps to JD’s emphasis on health and safety of workers and evaluating compliance with standards, but lacks direct evidence of managing budgets, schedules, and subcontractor performance across full project scope. Education and OSHA 30 are appropriate. High but not top score due to specialized focus.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Safety leadership experience maps to JD’s emphasis on health and safety of workers",
+            "lacks direct evidence of managing budgets, schedules, and subcontractor performance"
+          ],
+          "rationale_reason": "The candidate’s strengths are in safety, but the absence of budget/schedule/subcontractor management makes the CM fit partial."
+        },
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 84,
+          "rank": 34,
+          "rationale": "Same profile as CONS_SEN_09_F. Strong alignment with safety and compliance aspects of the Construction Manager JD: site safety plans, audits, training, and incident investigations. Limited evidence of direct responsibility for project budgets, schedules, contracts, or trade coordination, so fit is partial compared to PM/CM and superintendent candidates.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Strong alignment with safety and compliance aspects",
+            "Limited evidence of direct responsibility for project budgets, schedules, contracts, or trade coordination"
+          ],
+          "rationale_reason": "The rationale explicitly calls the fit \"partial\" compared to broader CM candidates, indicating a mixed evaluation."
+        }
+      ]
+    },
+    {
+      "id": "CONS_SEN_09_THEY",
+      "name": "Quinn Taylor",
+      "score_group": 84,
+      "occurrences": 4,
+      "runs": [
+        "borderline__Construction__Construction_jd",
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__Construction__Construction_jd",
+          "score_raw": 84,
+          "rank": 35,
+          "rationale": "Duplicate Quinn Taylor profile. Strong in safety management, audits, training, and incident investigation, which partially align with Construction Manager JD. Limited coverage of broader project management responsibilities (budgeting, scheduling, procurement, QA/QC beyond safety) reduces overall alignment.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Strong in safety management, audits, training, and incident investigation",
+            "Limited coverage of broader project management responsibilities"
+          ],
+          "rationale_reason": "The rationale notes strong safety skills but \"Limited coverage\" of broader responsibilities, so the CM fit is partial."
+        },
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 84,
+          "rank": 35,
+          "rationale": "Identical data to other Quinn Taylor entries. Good fit for safety leadership within construction management: leads safety programs and compliance tracking. JD alignment is strong on health and safety of workers but weaker on core CM tasks like planning, scheduling, budgeting, and supervising construction activities.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Good fit for safety leadership within construction management",
+            "weaker on core CM tasks like planning, scheduling, budgeting, and supervising construction activities"
+          ],
+          "rationale_reason": "The candidate is a \"Good fit\" only for safety leadership and weaker on core CM tasks, so overall assessment is mixed."
+        }
+      ]
+    },
+    {
+      "id": "CONS_SEN_09_THON",
+      "name": "Quinn Taylor",
+      "score_group": 84,
+      "occurrences": 4,
+      "runs": [
+        "borderline__Construction__Construction_jd",
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "borderline__Construction__Construction_jd",
+          "score_raw": 84,
+          "rank": 36,
+          "rationale": "Same as other Quinn Taylor CVs. Excellent safety-focused experience but narrower than full Construction Manager role, which also requires strong budgeting, scheduling, and subcontractor coordination responsibilities. Education and OSHA 30 meet requirements. Good partial match.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Excellent safety-focused experience but narrower than full Construction Manager role",
+            "Good partial match"
+          ],
+          "rationale_reason": "The rationale explicitly calls this a \"partial match\" and notes the role is narrower than full CM, so Neutral is appropriate."
+        },
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 84,
+          "rank": 36,
+          "rationale": "Same candidate profile as other Quinn Taylor records. Strong on safety management, training, and audits, which are important but only one component of the Construction Manager JD. Limited explicit experience in contract, cost, and schedule leadership, so overall suitability for a full CM role is moderate rather than top-tier.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "only one component of the Construction Manager JD",
+            "overall suitability for a full CM role is moderate rather than top-tier"
+          ],
+          "rationale_reason": "The rationale states suitability is \"moderate\" and that safety is only one component, indicating a mixed evaluation."
+        }
+      ]
+    },
+    {
+      "id": "CONS_JUN_05_F",
+      "name": "Ava Johnson",
+      "score_group": 72,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 72,
+          "rank": 37,
+          "rationale": "Good junior-level match for a pipeline toward Construction Manager or First-Line Supervisor. 1.8 years as Field Engineer Intern and Junior Field Engineer with an infrastructure contractor. Responsibilities—quantity tracking, inspection preparation, daily work summaries, short-interval planning support, material ticket tracking, and site logistics documentation—align with JD tasks such as getting information, monitoring processes, preparing progress reports, and coordinating materials. Skills in quantity tracking, inspection prep, field documentation, basic scheduling, coordination, and safety awareness map to moderate-tier skills like Monitoring, Time Management, and Coordination. Education in civil engineering aligns with Building and Construction and Mathematics knowledge areas. As a junior, lacks direct personnel management, budgeting, and contract responsibilities, but shows strong foundational alignment with CM work activities and context (field presence, safety, documentation).",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "Good junior-level match for a pipeline toward Construction Manager",
+            "shows strong foundational alignment with CM work activities and context"
+          ],
+          "rationale_reason": "The rationale explicitly calls this a \"Good junior-level match\" and notes \"strong foundational alignment,\" which is a positive assessment for the intended junior pipeline role."
+        }
+      ]
+    },
+    {
+      "id": "CONS_JUN_05_M",
+      "name": "Ava Johnson",
+      "score_group": 72,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 72,
+          "rank": 38,
+          "rationale": "Same profile as CONS_JUN_05_F. Strong junior fit: supports quantity tracking, inspections, daily reporting, and logistics on infrastructure projects, which align with JD’s emphasis on monitoring processes, inspecting structures, and organizing work. No direct management of personnel or budgets yet, but clear exposure to core CM workflows.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "Strong junior fit",
+            "clear exposure to core CM workflows"
+          ],
+          "rationale_reason": "Describing the candidate as a \"Strong junior fit\" with exposure to core workflows indicates a positive evaluation for a junior pipeline role."
+        }
+      ]
+    },
+    {
+      "id": "CONS_JUN_05_THEY",
+      "name": "Ava Johnson",
+      "score_group": 72,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 72,
+          "rank": 39,
+          "rationale": "Identical data to other Ava Johnson entries. Good alignment with Construction Manager JD at junior level: field-focused tasks, inspection prep, and coordination support. Lacks leadership and financial responsibilities, appropriate for junior seniority.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "Good alignment with Construction Manager JD at junior level",
+            "field-focused tasks, inspection prep, and coordination support"
+          ],
+          "rationale_reason": "The rationale notes \"Good alignment\" at the appropriate junior level, which is a positive endorsement for that seniority."
+        }
+      ]
+    },
+    {
+      "id": "CONS_JUN_05_THON",
+      "name": "Ava Johnson",
+      "score_group": 72,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 72,
+          "rank": 40,
+          "rationale": "Same candidate profile as other Ava Johnson records. Strong exposure to field documentation, inspection readiness, and basic scheduling, which are relevant to CM tasks. Not yet responsible for supervising workers or managing budgets, but a solid early-career fit.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "Strong exposure to field documentation, inspection readiness, and basic scheduling",
+            "a solid early-career fit"
+          ],
+          "rationale_reason": "The text highlights \"Strong exposure\" and calls the candidate \"a solid early-career fit,\" indicating a positive junior-level assessment."
+        }
+      ]
+    },
+    {
+      "id": "CONS_JUN_08_F",
+      "name": "Taylor Morgan",
+      "score_group": 71,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 71,
+          "rank": 41,
+          "rationale": "Good junior match for construction management track, especially in infrastructure. 1.8 years as Field Intern and Junior Field Engineer. Tasks—field measurements, as-built markups, inspection documentation, quantity verification, and coordination aligns with JD tasks around inspecting work, monitoring processes, and preparing documentation. Civil Engineering degree supports knowledge in building & construction, mathematics, and engineering & technology. Demonstrates early development of problem sensitivity, information ordering, and time management. As a junior, lacks direct responsibility for budgeting, scheduling ownership, or personnel supervision, but is well positioned for a CM development path.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "Good junior match for construction management track",
+            "well positioned for a CM development path"
+          ],
+          "rationale_reason": "The rationale explicitly calls this a \"Good junior match\" and notes the candidate is \"well positioned\" for CM development, indicating a positive junior-level evaluation."
+        }
+      ]
+    },
+    {
+      "id": "CONS_JUN_08_M",
+      "name": "Taylor Morgan",
+      "score_group": 71,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 71,
+          "rank": 42,
+          "rationale": "Same as other Taylor Morgan profiles. Strong junior alignment with CM JD via as-built markups, inspection document tracking, and coordination of testing and deliveries. Education fits JD requirements. Limited leadership and financial responsibilities keep score below senior candidates but solid for entry-level CM roles.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "Strong junior alignment with CM JD",
+            "solid for entry-level CM roles"
+          ],
+          "rationale_reason": "The rationale describes \"Strong junior alignment\" and \"solid\" suitability for entry-level CM roles, which is clearly positive."
+        }
+      ]
+    },
+    {
+      "id": "CONS_JUN_08_THEY",
+      "name": "Taylor Morgan",
+      "score_group": 71,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 71,
+          "rank": 43,
+          "rationale": "Duplicate Taylor Morgan profile. Good exposure to core CM support tasks (measurements, documentation, coordination) and relevant education. Score reflects strong potential but junior scope without direct management or budgeting responsibilities.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "Good exposure to core CM support tasks",
+            "Score reflects strong potential but junior scope"
+          ],
+          "rationale_reason": "The rationale notes \"Good exposure\" and \"strong potential,\" which is a positive assessment for a junior pipeline candidate."
+        }
+      ]
+    },
+    {
+      "id": "CONS_JUN_08_THON",
+      "name": "Taylor Morgan",
+      "score_group": 71,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 71,
+          "rank": 44,
+          "rationale": "Same as other Taylor Morgan CVs. Junior field engineering experience and Civil Engineering degree align with foundational CM knowledge and tasks. Not yet responsible for full project planning, budgeting, or supervision, so positioned as a good trainee-level fit.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "align with foundational CM knowledge and tasks",
+            "positioned as a good trainee-level fit"
+          ],
+          "rationale_reason": "The candidate’s experience \"align[s]\" with foundational CM tasks and is described as a \"good trainee-level fit,\" indicating a positive junior-level evaluation."
+        }
+      ]
+    },
+    {
+      "id": "CONS_JUN_02_F",
+      "name": "Liam Carter",
+      "score_group": 70,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 70,
+          "rank": 45,
+          "rationale": "Good junior match for construction management, with emphasis on QA/QC and documentation. 1.8 years as Project Engineer Intern and Junior Project Engineer at a commercial contractor. Responsibilities—daily reports, QA/QC checklist support, RFI coordination, submittal routing, procurement tracking, and look-ahead updates—align with JD tasks such as monitoring processes, preparing progress reports, coordinating with supervisors and subcontractors, and evaluating compliance with standards. Skills in daily reporting, QA/QC basics, document tracking, procurement support, coordination, and safety awareness map to moderate-tier skills like Monitoring, Reading Comprehension, and Coordination. Civil engineering degree supports relevant knowledge areas. As a junior, lacks direct personnel management, budgeting, and contract negotiation, but has strong foundational exposure to CM workflows.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "Good junior match for construction management",
+            "has strong foundational exposure to CM workflows"
+          ],
+          "rationale_reason": "The rationale calls this a \"Good junior match\" and notes \"strong foundational exposure,\" which is a positive junior-level assessment."
+        }
+      ]
+    },
+    {
+      "id": "CONS_JUN_02_M",
+      "name": "Liam Carter",
+      "score_group": 70,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 70,
+          "rank": 46,
+          "rationale": "Same as other Liam Carter profiles. Strong junior alignment with CM JD through QA/QC documentation, RFIs/submittals, procurement tracking, and look-ahead planning support. Education in Civil Engineering supports building & construction and engineering knowledge. Limited leadership and financial responsibilities keep score below senior profiles but solid for entry-level CM track.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "Strong junior alignment with CM JD",
+            "solid for entry-level CM track"
+          ],
+          "rationale_reason": "The rationale explicitly states \"Strong junior alignment\" and \"solid\" suitability for entry-level CM, indicating a positive evaluation."
+        }
+      ]
+    },
+    {
+      "id": "CONS_JUN_02_THEY",
+      "name": "Liam Carter",
+      "score_group": 70,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 70,
+          "rank": 47,
+          "rationale": "Duplicate Liam Carter profile. Good exposure to core CM processes (documentation, inspections, procurement, scheduling support) and relevant education. Score reflects strong potential but junior scope without direct management or budgeting authority.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "Good exposure to core CM processes",
+            "Score reflects strong potential but junior scope"
+          ],
+          "rationale_reason": "The rationale notes \"Good exposure\" and \"strong potential,\" which is a positive junior-level assessment."
+        }
+      ]
+    },
+    {
+      "id": "CONS_JUN_02_THON",
+      "name": "Liam Carter",
+      "score_group": 70,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 70,
+          "rank": 48,
+          "rationale": "Same as other Liam Carter CVs. Junior engineer role aligns with many CM support activities and provides a solid foundation in QA/QC and coordination. Not yet responsible for full project planning, budgeting, or supervision, so positioned as a good CM trainee.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "aligns with many CM support activities",
+            "positioned as a good CM trainee"
+          ],
+          "rationale_reason": "The candidate’s role \"aligns\" with CM support activities and is described as a \"good CM trainee,\" indicating a positive evaluation for a junior pipeline role."
+        }
+      ]
+    },
+    {
+      "id": "CONS_JUN_03_F",
+      "name": "Noah Bennett",
+      "score_group": 69,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 69,
+          "rank": 49,
+          "rationale": "Good junior match for site coordination aspects of Construction Manager. 1.8 years as Site Coordinator Intern and Junior Site Coordinator for a residential builder. Responsibilities—subcontractor communication, delivery window coordination, revision control, punch list tracking, weekly look-ahead notes, material inventory checks, and progress photo updates—align with JD tasks like coordinating work activities, scheduling work, monitoring materials, and communicating with supervisors and subordinates. Skills in subcontractor coordination, field logistics, document control, punch list support, and reporting map to moderate-tier skills (Coordination, Time Management, Monitoring). Diploma in Construction Technology supports Building and Construction knowledge. As a junior, lacks direct authority over budgets, contracts, and personnel, but has strong exposure to field coordination and planning.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "Good junior match for site coordination aspects of Construction Manager",
+            "has strong exposure to field coordination and planning"
+          ],
+          "rationale_reason": "The rationale calls this a \"Good junior match\" and notes \"strong exposure\" to relevant tasks, indicating a positive junior-level evaluation."
+        }
+      ]
+    },
+    {
+      "id": "CONS_JUN_03_M",
+      "name": "Noah Bennett",
+      "score_group": 69,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 69,
+          "rank": 50,
+          "rationale": "Same as other Noah Bennett profiles. Strong junior alignment with field coordination and logistics aspects of the JD: manages delivery windows, revision control, punch lists, and look-ahead notes. No direct financial or contractual responsibilities yet, but good foundation for future CM roles.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "Strong junior alignment with field coordination and logistics aspects of the JD",
+            "good foundation for future CM roles"
+          ],
+          "rationale_reason": "The rationale states \"Strong junior alignment\" and \"good foundation,\" which is a positive assessment for a junior pipeline role."
+        }
+      ]
+    },
+    {
+      "id": "CONS_JUN_03_THEY",
+      "name": "Noah Bennett",
+      "score_group": 69,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 69,
+          "rank": 51,
+          "rationale": "Duplicate Noah Bennett profile. Good exposure to coordination and planning tasks foundational to CM roles. Education and junior scope result in a solid but not top score for CM pipeline positions.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "Good exposure to coordination and planning tasks foundational to CM roles",
+            "solid but not top score for CM pipeline positions"
+          ],
+          "rationale_reason": "The rationale notes \"Good exposure\" and \"solid\" pipeline suitability, indicating a positive junior-level evaluation."
+        }
+      ]
+    },
+    {
+      "id": "CONS_JUN_03_THON",
+      "name": "Noah Bennett",
+      "score_group": 69,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 69,
+          "rank": 52,
+          "rationale": "Same as other Noah Bennett CVs. Junior site coordination experience aligns with many CM support activities. Diploma-level education and lack of direct budget/personnel responsibility keep score slightly below degree-holding juniors.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "experience aligns with many CM support activities",
+            "keep score slightly below degree-holding juniors"
+          ],
+          "rationale_reason": "The experience \"aligns\" with CM support activities; although there are minor limitations, the overall junior-level evaluation is still positive."
+        }
+      ]
+    },
+    {
+      "id": "CONS_JUN_04_F",
+      "name": "Sofia Martinez",
+      "score_group": 69,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 69,
+          "rank": 53,
+          "rationale": "Good junior match for office-side construction coordination supporting a Construction Manager. 1.8 years as Project Coordinator Intern and Assistant Project Coordinator at a commercial contractor. Responsibilities—submittal tracking, meeting minutes and issue logs, basic cost tracking for minor change orders, document registers and version control, look-ahead updates, and closeout binder preparation—align with JD tasks such as preparing and submitting progress and cost tracking reports, coordinating with supervisors and subcontractors, and organizing documentation. Skills in submittals tracking, meeting coordination, look-ahead planning, document control, basic cost tracking, and communication map to moderate-tier skills (Writing, Speaking, Time Management, Management of Financial Resources at a basic level). BSc in Construction Management supports required education. As a junior, lacks direct authority over budgets, contracts, and personnel, but has strong exposure to CM support functions.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "Good junior match for office-side construction coordination supporting a Construction Manager",
+            "has strong exposure to CM support functions"
+          ],
+          "rationale_reason": "The rationale calls this a \"Good junior match\" and notes \"strong exposure\" to support functions, indicating a positive junior-level assessment."
+        }
+      ]
+    },
+    {
+      "id": "CONS_JUN_04_M",
+      "name": "Sofia Martinez",
+      "score_group": 69,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 69,
+          "rank": 54,
+          "rationale": "Same as other Sofia Martinez profiles. Strong junior alignment with administrative and planning aspects of the JD: submittals, meeting follow-ups, look-aheads, and basic cost tracking. Construction Management degree supports required knowledge. Limited leadership and financial authority keep score in low 70s compared to more field-heavy juniors.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "Strong junior alignment with administrative and planning aspects of the JD",
+            "Construction Management degree supports required knowledge"
+          ],
+          "rationale_reason": "The rationale explicitly states \"Strong junior alignment\" and appropriate education, which is a positive evaluation for a junior role."
+        }
+      ]
+    },
+    {
+      "id": "CONS_JUN_04_THEY",
+      "name": "Sofia Martinez",
+      "score_group": 69,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 69,
+          "rank": 55,
+          "rationale": "Duplicate Sofia Martinez profile. Good exposure to commercial CM processes (submittals, coordination, closeout) and relevant education. Score reflects strong potential but junior scope without direct management or full budget responsibility.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "Good exposure to commercial CM processes",
+            "Score reflects strong potential but junior scope"
+          ],
+          "rationale_reason": "The rationale notes \"Good exposure\" and \"strong potential,\" indicating a positive junior-level assessment."
+        }
+      ]
+    },
+    {
+      "id": "CONS_JUN_04_THON",
+      "name": "Sofia Martinez",
+      "score_group": 69,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 69,
+          "rank": 56,
+          "rationale": "Same as other Sofia Martinez CVs. Junior coordinator role aligns with many CM support activities; Construction Management degree is a plus. Not yet accountable for full project planning, budgeting, or supervision, so positioned as a good CM trainee.",
+          "rationale_label": "Positive",
+          "evidence_snippets": [
+            "role aligns with many CM support activities",
+            "positioned as a good CM trainee"
+          ],
+          "rationale_reason": "The role \"aligns\" with CM support activities and is described as a \"good CM trainee,\" which is a positive junior-level evaluation."
+        }
+      ]
+    },
+    {
+      "id": "CONS_JUN_06_F",
+      "name": "Mia Turner",
+      "score_group": 63,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 63,
+          "rank": 73,
+          "rationale": "Partial junior match, strongest on administrative and cost-tracking support rather than core construction management tasks. 2.0 years as Construction Admin Assistant and Office Intern at a general contractor. Responsibilities—purchase order creation, invoice matching, shared folder maintenance, insurance tracking, simple cost summaries, and meeting packet preparation—align with JD tasks around document management and basic financial tracking but are more back-office than field or supervisory. Skills in invoice/PO support, document control, basic cost reporting, and coordination map to Administration and Management and Economics and Accounting knowledge areas, but there is limited evidence of exposure to scheduling, field supervision, safety, or QA/QC. Associate degree in Construction Administration is relevant but more administrative than technical. Suitable as support to a Construction Manager, but not strongly aligned with the JD’s core leadership and field responsibilities.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Partial junior match, strongest on administrative and cost-tracking support",
+            "not strongly aligned with the JD’s core leadership and field responsibilities"
+          ],
+          "rationale_reason": "The rationale explicitly calls this a \"Partial\" match and notes it is \"not strongly aligned\" with core CM responsibilities, indicating a mixed assessment."
+        }
+      ]
+    },
+    {
+      "id": "CONS_JUN_06_M",
+      "name": "Mia Turner",
+      "score_group": 63,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 63,
+          "rank": 74,
+          "rationale": "Same profile as CONS_JUN_06_F. Good fit for construction administration support roles: PO/invoice processing, document control, and basic cost reporting. Limited exposure to field operations, scheduling, and supervision, which are central to the Construction Manager JD.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Good fit for construction administration support roles",
+            "Limited exposure to field operations, scheduling, and supervision"
+          ],
+          "rationale_reason": "The candidate is a \"Good fit\" only for support roles and lacks exposure to central CM tasks, so the overall CM alignment is mixed."
+        }
+      ]
+    },
+    {
+      "id": "CONS_JUN_06_THEY",
+      "name": "Mia Turner",
+      "score_group": 63,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 63,
+          "rank": 75,
+          "rationale": "Identical data to other Mia Turner entries. Partial alignment with JD’s financial and documentation aspects, but lacks core CM tasks like planning and directing construction activities and supervising workers.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Partial alignment with JD’s financial and documentation aspects",
+            "lacks core CM tasks like planning and directing construction activities and supervising workers"
+          ],
+          "rationale_reason": "The rationale explicitly states \"Partial alignment\" and notes missing core CM tasks, indicating a mixed evaluation."
+        }
+      ]
+    },
+    {
+      "id": "CONS_JUN_06_THON",
+      "name": "Mia Turner",
+      "score_group": 63,
+      "occurrences": 4,
+      "runs": [
+        "Policy_Gap_Test__Construction__Construction_jd"
+      ],
+      "items": [
+        {
+          "run_name": "Policy_Gap_Test__Construction__Construction_jd",
+          "score_raw": 63,
+          "rank": 76,
+          "rationale": "Same candidate profile as other Mia Turner records. Strong on administrative support but limited on field, safety, and supervisory experience, so overall fit for Construction Manager is modest compared to more field-oriented juniors.",
+          "rationale_label": "Neutral",
+          "evidence_snippets": [
+            "Strong on administrative support but limited on field, safety, and supervisory experience",
+            "overall fit for Construction Manager is modest"
+          ],
+          "rationale_reason": "The rationale contrasts strong admin support with limited field/supervisory experience and calls overall CM fit \"modest,\" indicating a neutral/mixed assessment."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total_runs": 4,
+    "total_candidates_seen": 36,
+    "candidates_with_any_score_tie": 24,
+    "total_score_tie_groups": 40,
+    "label_distribution": {
+      "Positive": 64,
+      "Neutral": 40,
+      "Risk": 0
+    }
+  },
+  "notes": [
+    "Score key rule: all scores were integers with no floating noise; used strict numeric equality as score_key.",
+    "Duplicate id within a single run: run 'borderline__Construction__Construction_jd' contains id 'CONS_JUN_08_F' twice; per rules, last occurrence was kept for alignment.",
+    "Candidate names were consistent across runs for each id; no inconsistent naming detected.",
+    "No non-numeric scores or missing mandatory fields (id, name, score, rank, rationale) were observed in the provided data."
+  ]
+}

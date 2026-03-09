@@ -1,0 +1,508 @@
+{
+  "candidates": [
+    {
+      "id": "IT_JUN_02_F",
+      "name": "Michael Grant",
+      "score": 92,
+      "rank": 1,
+      "rationale": "Best aligned with Software Developers / Computer Programmers JD. Has ~2.7 years of hands-on software engineering in a SaaS context, building backend services and internal APIs in Python/JavaScript, which maps directly to programming, systems analysis, and complex problem solving requirements. Experience includes unit testing, debugging production issues from monitoring alerts, and collaborating with product and QA—matching JD tasks like developing and testing software, working with stakeholders, and updating systems. Holds a relevant BSc in IT, satisfying the bachelor’s-level education expectation. Lacks explicit mention of broader system design or architecture, so slightly below a perfect score, but overall an excellent junior fit for software developer roles."
+    },
+    {
+      "id": "IT_JUN_02_M",
+      "name": "Michael Grant",
+      "score": 92,
+      "rank": 2,
+      "rationale": "Profile is identical to IT_JUN_02_F: junior software engineer with ~2.7 years in SaaS, strong match to Software Developers / Computer Programmers JD. Builds backend services and APIs, writes unit tests, fixes production bugs, and collaborates with product and QA. Skills in Python, JavaScript, REST APIs, Git, and debugging align with programming, systems analysis, and complex problem solving. Education (BSc IT) fits the bachelor’s requirement. Slightly limited exposure to full lifecycle architecture but still a very strong junior match."
+    },
+    {
+      "id": "IT_JUN_02_THEY",
+      "name": "Michael Grant",
+      "score": 92,
+      "rank": 3,
+      "rationale": "Same background as other IT_JUN_02 variants: ~2.7 years of backend and internal tools development in Python/JavaScript, unit testing, debugging, and cross-functional collaboration. Closely matches Software Developers and Computer Programmers JDs in tasks (coding, testing, maintaining software, working with requirements) and skills (programming, critical thinking, reading comprehension). Holds a relevant bachelor’s degree. Minor gap in explicit mention of formal design/architecture responsibilities, but otherwise highly suitable."
+    },
+    {
+      "id": "IT_JUN_02_THON",
+      "name": "Michael Grant",
+      "score": 92,
+      "rank": 4,
+      "rationale": "Identical to other Michael Grant junior software engineer profiles. Strong alignment with Software Developers / Computer Programmers roles: practical experience building APIs, handling bugs, writing tests, and working with product/QA. Education and skills meet JD expectations. Only modest limitation is lack of explicit system design ownership, which is acceptable at junior level."
+    },
+    {
+      "id": "IT_JUN_07_F",
+      "name": "Ethan Brooks",
+      "score": 91,
+      "rank": 5,
+      "rationale": "Junior backend engineer with ~2.6 years total experience (1.9 as junior backend engineer + 0.7 as intern) building REST APIs, adding unit tests, and fixing production bugs. This maps very closely to Software Developers and Computer Programmers JDs: programming, complex problem solving, systems analysis, and maintaining code quality. Skills in Python, REST APIs, SQL (basic), Git, unit testing, and debugging are directly relevant. BSc in Computer Science aligns with required education. Slightly less breadth than Michael Grant in terms of explicit collaboration with product/QA, but still an excellent junior fit for backend/software developer roles."
+    },
+    {
+      "id": "IT_JUN_07_M",
+      "name": "Ethan Brooks",
+      "score": 91,
+      "rank": 6,
+      "rationale": "Same profile as IT_JUN_07_F: ~2.6 years backend-focused experience in SaaS, implementing REST endpoints, improving error handling, and writing unit tests. Strong match to Software Developers / Computer Programmers tasks (coding, testing, debugging, documenting). Education (BSc CS) and skills (Python, REST, SQL basic, Git) meet JD expectations. Very minor gaps in explicit mention of broader system design, which is typical at junior level."
+    },
+    {
+      "id": "IT_JUN_07_THEY",
+      "name": "Ethan Brooks",
+      "score": 91,
+      "rank": 7,
+      "rationale": "Identical junior backend engineer profile: REST API implementation, unit testing, production bug support, and documentation in an agile SaaS environment. Aligns tightly with Software Developers JD in skills (programming, critical thinking, reading comprehension) and tasks (developing, testing, maintaining software). Holds a relevant CS degree. Slightly narrower tech stack breadth than some but still a strong match."
+    },
+    {
+      "id": "IT_JUN_07_THON",
+      "name": "Ethan Brooks",
+      "score": 91,
+      "rank": 8,
+      "rationale": "Same as other Ethan Brooks junior profiles. Strong fit for Software Developers / Computer Programmers roles due to direct backend development experience, testing, debugging, and documentation. Education and skills align well; only minor limitation is lack of explicit mention of large-scale system design or cross-team architectural work, which is acceptable for junior roles."
+    },
+    {
+      "id": "IT_JUN_04_F",
+      "name": "Sophia Patel",
+      "score": 90,
+      "rank": 9,
+      "rationale": "Junior QA engineer with ~2.4 years in FinTech QA (QA Engineer + QA Intern). Very strong match to Software Quality Assurance Analysts and Testers JD: creates test cases, executes functional and regression tests, logs bugs with clear reproduction steps, and partners with developers to verify fixes. Skills (test case design, regression testing, bug reporting, Jira, basic SQL, communication) align with JD skills like reading comprehension, critical thinking, monitoring, programming (basic), and documentation. BSc in Software Engineering fits education expectations. Slight gap in explicit mention of automation or advanced tooling, but overall an excellent junior QA fit."
+    },
+    {
+      "id": "IT_JUN_04_M",
+      "name": "Sophia Patel",
+      "score": 90,
+      "rank": 10,
+      "rationale": "Identical to IT_JUN_04_F: ~2.4 years QA experience in FinTech, focused on functional/regression testing, bug reporting, and collaboration with developers. Closely matches Software Quality Assurance Analysts and Testers tasks (designing tests, documenting defects, participating in design reviews). Education and skills are well aligned; automation experience is not highlighted but not strictly required at junior level."
+    },
+    {
+      "id": "IT_JUN_04_THEY",
+      "name": "Sophia Patel",
+      "score": 90,
+      "rank": 11,
+      "rationale": "Same junior QA profile: strong alignment with Software QA Analyst/Tester JD through test case creation, regression cycles, defect logging, and verification of fixes. Skills and education meet requirements. Limited explicit automation or performance testing experience, but manual QA coverage is solid for a junior role."
+    },
+    {
+      "id": "IT_JUN_04_THON",
+      "name": "Sophia Patel",
+      "score": 90,
+      "rank": 12,
+      "rationale": "Identical QA background as other IT_JUN_04 variants. Very good fit for Software Quality Assurance Analysts and Testers: hands-on regression testing, bug reporting, documentation, and collaboration with developers. Education and skills align; minor gap in automation depth only slightly reduces score."
+    },
+    {
+      "id": "IT_JUN_08_F",
+      "name": "Mia Turner",
+      "score": 89,
+      "rank": 13,
+      "rationale": "Junior UX/front-end developer with ~2.4 years total experience (1.6 as junior front-end + 0.8 as intern). Strong match to Web Developers and Web and Digital Interface Designers JDs: builds responsive UI components, fixes cross-browser issues, and collaborates with designers on accessibility. Skills (JavaScript, HTML/CSS, React basic, accessibility basic, Git, debugging) align with programming, design, and communications knowledge areas. BSc in IT is relevant. Slightly limited depth in backend or database work, but for web/front-end developer roles, this profile is highly suitable."
+    },
+    {
+      "id": "IT_JUN_08_M",
+      "name": "Mia Turner",
+      "score": 89,
+      "rank": 14,
+      "rationale": "Same as IT_JUN_08_F: junior front-end developer with strong alignment to Web Developers and Web & Digital Interface Designers JDs. Experience in reusable components, responsive layouts, accessibility basics, and style guide maintenance matches tasks like designing, building, and maintaining websites and interfaces. Education and skills are appropriate; backend/database exposure is minimal but not critical for front-end-focused roles."
+    },
+    {
+      "id": "IT_JUN_08_THEY",
+      "name": "Mia Turner",
+      "score": 89,
+      "rank": 15,
+      "rationale": "Identical junior UX/front-end profile. Very good fit for web development/interface design roles: programming in JavaScript/HTML/CSS, responsive design, accessibility basics, and collaboration with designers. Education and skills align; limited mention of server-side or database integration keeps score just below top developer candidates."
+    },
+    {
+      "id": "IT_JUN_08_THON",
+      "name": "Mia Turner",
+      "score": 89,
+      "rank": 16,
+      "rationale": "Same as other Mia Turner junior profiles. Strong match to Web Developers / Web and Digital Interface Designers JDs through UI component work, cross-browser fixes, and accessibility improvements. Education and skills are well aligned; backend depth is limited but acceptable for front-end roles."
+    },
+    {
+      "id": "IT_JUN_03_F",
+      "name": "Olivia Chen",
+      "score": 88,
+      "rank": 17,
+      "rationale": "Junior data analyst with ~2.4 years in e-commerce analytics. Best aligned with Database Administrators / Database Architects / Data Warehousing Specialists and Computer Systems Analysts in the analytical/reporting dimension. Experience includes SQL reporting, dashboarding, and data quality checks, which map to tasks like analyzing data, creating reports, and ensuring data integrity. Skills (SQL, Excel, dashboarding, data quality, basic statistics, stakeholder communication) align with knowledge of computers, mathematics, and customer service. BSc in Information Systems is relevant. However, lacks explicit database administration, warehousing, or systems analysis design responsibilities, so fit is more on the analytics/reporting side than core DBA/architect roles."
+    },
+    {
+      "id": "IT_JUN_03_M",
+      "name": "Olivia Chen",
+      "score": 88,
+      "rank": 18,
+      "rationale": "Identical junior data analyst profile: strong match to data-focused aspects of Computer Systems Analysts and Database-related JDs (analyzing data, creating dashboards, ensuring data quality). Education and skills are appropriate. Limited exposure to database design, performance tuning, or complex systems integration keeps score slightly lower than pure software/QA/web matches."
+    },
+    {
+      "id": "IT_JUN_03_THEY",
+      "name": "Olivia Chen",
+      "score": 88,
+      "rank": 19,
+      "rationale": "Same as other IT_JUN_03 variants. Good fit for junior analytical roles adjacent to Database Administrators/Architects and Computer Systems Analysts, focusing on SQL reporting, dashboards, and data quality. Education and skills align; lacks explicit database administration or architectural responsibilities."
+    },
+    {
+      "id": "IT_JUN_03_THON",
+      "name": "Olivia Chen",
+      "score": 88,
+      "rank": 20,
+      "rationale": "Identical junior data analyst background. Strong on SQL, dashboards, and data quality, mapping to data analysis and reporting tasks in several IT JDs. Education is relevant. Not a direct match for core DBA or systems analyst design roles but well suited for junior analytics positions."
+    },
+    {
+      "id": "IT_JUN_06_F",
+      "name": "Jordan Lee",
+      "score": 87,
+      "rank": 21,
+      "rationale": "Junior DevOps/cloud support associate with ~1.8 years experience. Best aligned with Network and Computer Systems Administrators and DevOps-flavored Software Developers/Systems roles. Tasks like monitoring dashboards, responding to alerts via runbooks, assisting CI/CD troubleshooting, and basic Linux checks map to JD activities such as system monitoring, troubleshooting, and maintaining server resources. Skills (Linux basic, CI/CD basic, monitoring, Git, Docker basic, troubleshooting) align with working with computers, problem solving, and systems evaluation. BSc in IT is relevant. However, responsibilities are more support/associate-level with limited ownership of design or complex configuration, so slightly lower score than pure developer/QA/web matches."
+    },
+    {
+      "id": "IT_JUN_06_M",
+      "name": "Jordan Lee",
+      "score": 87,
+      "rank": 22,
+      "rationale": "Same as IT_JUN_06_F: junior DevOps/cloud support with monitoring, CI/CD assistance, and Linux troubleshooting experience. Good match to Network and Computer Systems Administrators and DevOps support aspects of Software Developers JDs. Education and skills are appropriate; limited depth in independent system design or advanced automation keeps score modestly lower."
+    },
+    {
+      "id": "IT_JUN_06_THEY",
+      "name": "Jordan Lee",
+      "score": 87,
+      "rank": 23,
+      "rationale": "Identical junior DevOps/cloud support profile. Aligns with tasks like system monitoring, troubleshooting, and maintaining deployment documentation. Education and skills fit; role is more operational support than design/architecture, which slightly reduces overall JD match."
+    },
+    {
+      "id": "IT_JUN_06_THON",
+      "name": "Jordan Lee",
+      "score": 87,
+      "rank": 24,
+      "rationale": "Same as other Jordan Lee junior profiles. Good fit for junior systems/DevOps administrator roles per Network and Computer Systems Administrators JD. Limited mention of complex network design or security planning, but strong in monitoring and incident support."
+    },
+    {
+      "id": "IT_JUN_05_F",
+      "name": "Ava Johnson",
+      "score": 86,
+      "rank": 25,
+      "rationale": "Junior cybersecurity analyst (SOC) with ~2.2 years experience. Strong match to Information Security Analysts JD: triaging SIEM alerts, documenting investigations, handling phishing reports, and tracking vulnerability remediation. Skills (SIEM basic, alert triage, incident documentation, vulnerability tracking, security awareness support, Linux basic) align with knowledge of computers, public safety/security, and tasks like monitoring, documenting security measures, and coordinating with users. BSc in Cybersecurity is directly relevant; Security+ in progress further supports fit. Limited ownership of security architecture or policy design keeps score slightly below top developer/QA candidates but still a very good match for junior security roles."
+    },
+    {
+      "id": "IT_JUN_05_M",
+      "name": "Ava Johnson",
+      "score": 86,
+      "rank": 26,
+      "rationale": "Identical junior SOC analyst profile. Very good alignment with Information Security Analysts JD through alert triage, phishing handling, vulnerability tracking, and runbook updates. Education and skills are well matched; scope is junior/operational rather than strategic, which is appropriate but slightly narrows JD coverage."
+    },
+    {
+      "id": "IT_JUN_05_THEY",
+      "name": "Ava Johnson",
+      "score": 86,
+      "rank": 27,
+      "rationale": "Same as other IT_JUN_05 variants. Strong fit for junior information security analyst roles: SOC workflows, incident documentation, vulnerability ticket follow-up, and security awareness support. Education in Cybersecurity and Security+ in progress reinforce alignment. Limited explicit experience with risk assessments or security architecture, but that is typical at junior level."
+    },
+    {
+      "id": "IT_JUN_05_THON",
+      "name": "Ava Johnson",
+      "score": 86,
+      "rank": 28,
+      "rationale": "Identical junior cybersecurity analyst background. Matches Information Security Analysts JD in monitoring, documenting, and coordinating security incidents. Education and skills are appropriate; lacks advanced security engineering or policy responsibilities, which is acceptable but keeps score slightly below top technical developer roles."
+    },
+    {
+      "id": "IT_JUN_09_F",
+      "name": "Alex Kim",
+      "score": 85,
+      "rank": 29,
+      "rationale": "Junior systems administrator with ~2.7 years combined experience (1.8 as junior sysadmin + 0.9 as IT support). Strong match to Network and Computer Systems Administrators and Computer Network Support Specialists JDs: user provisioning in Active Directory, endpoint setup and patching, VPN/DNS/Wi-Fi troubleshooting, and ticket handling. Skills (Active Directory basic, Windows admin basic, endpoint management, VPN/DNS troubleshooting, ticketing, documentation) align with knowledge of computers, telecommunications, and customer service. BSc in Information Systems and Network+ in progress support the fit. Limited depth in complex network design, security planning, or server virtualization keeps score slightly lower than top software/QA/web candidates but still a solid match for junior systems roles."
+    },
+    {
+      "id": "IT_JUN_09_M",
+      "name": "Alex Kim",
+      "score": 85,
+      "rank": 30,
+      "rationale": "Same as IT_JUN_09_F: junior systems administrator with strong alignment to Network and Computer Systems Administrators JD. Experience in AD user management, endpoint management, and network troubleshooting matches tasks like maintaining networks, performing backups (implicitly via patching/endpoint tools), and troubleshooting connectivity. Education and skills are appropriate; advanced design/architecture exposure is limited."
+    },
+    {
+      "id": "IT_JUN_09_THEY",
+      "name": "Alex Kim",
+      "score": 85,
+      "rank": 31,
+      "rationale": "Identical junior systems admin profile. Good fit for network/system administration roles: user provisioning, endpoint management, VPN/DNS troubleshooting, and documentation. Education and Network+ in progress align with JD education and certification expectations. Less exposure to complex network modeling or disaster recovery planning keeps score modestly below top technical matches."
+    },
+    {
+      "id": "IT_JUN_09_THON",
+      "name": "Alex Kim",
+      "score": 85,
+      "rank": 32,
+      "rationale": "Same as other Alex Kim junior profiles. Strong operational alignment with Network and Computer Systems Administrators and Computer Network Support Specialists JDs. Education and skills are relevant; limited strategic or architectural responsibilities keep score slightly lower than top-tier junior developers/QA."
+    },
+    {
+      "id": "IT_JUN_01_F",
+      "name": "Daniel Wright",
+      "score": 84,
+      "rank": 33,
+      "rationale": "Junior IT support specialist with ~2.1 years experience (IT Support Specialist + Intern). Best aligned with Computer User Support Specialists and Computer Network Support Specialists JDs: resolving L1/L2 tickets, onboarding/offboarding, basic network troubleshooting (Wi-Fi, VPN, DNS), and asset inventory maintenance. Skills (helpdesk, Windows, macOS, basic Active Directory, VPN/Wi-Fi troubleshooting, documentation) map well to tasks like answering user inquiries, installing hardware/software, and troubleshooting connectivity. BSc in Computer Science fits education requirements. Limited depth in advanced network configuration, scripting, or systems administration keeps score slightly below more specialized junior roles."
+    },
+    {
+      "id": "IT_JUN_01_M",
+      "name": "Daniel Wright",
+      "score": 84,
+      "rank": 34,
+      "rationale": "Identical junior IT support profile. Strong match to Computer User Support Specialists JD: user support, device setup, ticket triage, and basic network troubleshooting. Education and skills are appropriate; lacks advanced network design or security responsibilities, which is expected at this level but narrows JD coverage compared to developer/QA/web roles."
+    },
+    {
+      "id": "IT_JUN_01_THEY",
+      "name": "Daniel Wright",
+      "score": 84,
+      "rank": 35,
+      "rationale": "Same as other IT_JUN_01 variants. Good fit for helpdesk/user support roles per Computer User Support Specialists JD. Experience and skills align with tasks like overseeing daily performance of systems, answering user inquiries, and installing/repairing hardware/software. Less aligned with more specialized programming, security, or architecture JDs."
+    },
+    {
+      "id": "IT_JUN_01_THON",
+      "name": "Daniel Wright",
+      "score": 84,
+      "rank": 36,
+      "rationale": "Identical junior IT support background. Matches Computer User Support Specialists and entry-level Network Support tasks well. Education and skills are relevant; limited progression into deeper systems/network engineering keeps score slightly lower than specialized junior technical roles."
+    },
+    {
+      "id": "IT_SEN_02_F",
+      "name": "Michael Grant",
+      "score": 83,
+      "rank": 37,
+      "rationale": "Senior software engineer with ~8.5 years experience in SaaS backend development. Strong match to Software Developers and Computer Programmers JDs at a senior level: designs and maintains REST services, improves reliability via tests and validation, handles production incidents, and mentors juniors through documentation and onboarding. Skills (Python, REST APIs, SQL, system debugging, Git, code review) align with high-level programming, complex problem solving, and systems analysis. BSc in IT meets education requirements. Score is slightly lower than top junior matches only because the JD set is generic across many IT roles; nonetheless, this is an excellent fit for senior software developer positions."
+    },
+    {
+      "id": "IT_SEN_02_M",
+      "name": "Michael Grant",
+      "score": 83,
+      "rank": 38,
+      "rationale": "Identical senior software engineer profile. Very strong alignment with Software Developers JD: designing APIs, improving reliability, collaborating with product/QA, and maintaining documentation. Education and skills are fully aligned. Minor gap in explicit mention of formal research or advanced algorithmic work, but that’s not required for standard senior developer roles."
+    },
+    {
+      "id": "IT_SEN_02_THEY",
+      "name": "Michael Grant",
+      "score": 83,
+      "rank": 39,
+      "rationale": "Same senior SaaS backend engineer background. Excellent fit for Software Developers and Computer Programmers JDs: extensive experience in backend services, incident handling, and mentoring. Education and skills meet or exceed JD expectations. Not focused on research scientist or architect roles, but very strong for senior development."
+    },
+    {
+      "id": "IT_SEN_02_THON",
+      "name": "Michael Grant",
+      "score": 83,
+      "rank": 40,
+      "rationale": "Identical senior software engineer profile. Strong match to Software Developers JD with long-term backend experience, reliability improvements, and cross-functional collaboration. Education and skills are appropriate; limited explicit leadership of large-scale architecture or research keeps score slightly below a theoretical maximum but still high."
+    },
+    {
+      "id": "IT_SEN_06_F",
+      "name": "Jordan Lee",
+      "score": 82,
+      "rank": 41,
+      "rationale": "Senior DevOps engineer with ~8.5 years in cloud services. Best aligned with Network and Computer Systems Administrators, Computer Network Architects (in operational aspects), and DevOps-related Software Developers JDs. Experience includes improving CI/CD workflows, maintaining monitoring and alerting standards, leading incident follow-ups, and supporting container-based deployments. Skills (CI/CD, Linux, monitoring, Docker intermediate, incident response, documentation) align with working with computers, making decisions, and solving problems in production environments. BSc in IT fits education requirements. Less explicit focus on network design/telecom architecture or pure application development, so fit is strongest for DevOps/system administration roles."
+    },
+    {
+      "id": "IT_SEN_06_M",
+      "name": "Jordan Lee",
+      "score": 82,
+      "rank": 42,
+      "rationale": "Same senior DevOps profile. Strong match to Network and Computer Systems Administrators JD: maintaining systems, performing monitoring, troubleshooting, and implementing security/operational guardrails. Education and skills are appropriate; limited mention of formal network architecture or database administration keeps score slightly below top senior developers."
+    },
+    {
+      "id": "IT_SEN_06_THEY",
+      "name": "Jordan Lee",
+      "score": 82,
+      "rank": 43,
+      "rationale": "Identical senior DevOps engineer background. Very good fit for system administration/DevOps roles per the JDs: CI/CD, monitoring, incident response, and documentation. Education and skills align; not focused on application-level feature development or research, which narrows JD coverage somewhat."
+    },
+    {
+      "id": "IT_SEN_06_THON",
+      "name": "Jordan Lee",
+      "score": 82,
+      "rank": 44,
+      "rationale": "Same as other IT_SEN_06 variants. Strong alignment with Network and Computer Systems Administrators and DevOps-flavored Software Developers JDs. Education and skills are solid; limited explicit telecom/network architecture or security analyst responsibilities keep score slightly lower than top senior software/security specialists."
+    },
+    {
+      "id": "IT_SEN_01_F",
+      "name": "Daniel Wright",
+      "score": 81,
+      "rank": 45,
+      "rationale": "Senior systems engineer with ~9 years in corporate IT. Strong match to Network and Computer Systems Administrators and Computer Network Support Specialists JDs: endpoint lifecycle management, identity and access workflows (accounts, groups, MFA), VPN/DNS/network issue escalations, Windows server maintenance, and documentation. Skills (Windows admin, Linux intermediate, Active Directory, MFA/SSO support, VPN/DNS troubleshooting, documentation) align with knowledge of computers, telecommunications, and administration. BSc in CS and Network+ certification support the fit. Less emphasis on network architecture design or security policy planning, so fit is more operational/engineering than architect-level."
+    },
+    {
+      "id": "IT_SEN_01_M",
+      "name": "Daniel Wright",
+      "score": 81,
+      "rank": 46,
+      "rationale": "Identical senior systems engineer profile. Very good alignment with Network and Computer Systems Administrators JD: maintaining systems, handling escalations, and supporting identity/access. Education and skills are appropriate; limited explicit involvement in high-level network design or disaster recovery planning keeps score modestly below top senior DevOps/software roles."
+    },
+    {
+      "id": "IT_SEN_01_THEY",
+      "name": "Daniel Wright",
+      "score": 81,
+      "rank": 47,
+      "rationale": "Same senior systems engineer background. Strong operational fit for system/network administration roles per the JDs. Education and skills align well; not focused on programming-heavy or research roles, which narrows JD coverage slightly."
+    },
+    {
+      "id": "IT_SEN_01_THON",
+      "name": "Daniel Wright",
+      "score": 81,
+      "rank": 48,
+      "rationale": "Identical senior systems engineer profile. Good match to Network and Computer Systems Administrators and Computer Network Support Specialists JDs. Education and certification are relevant; limited explicit network architecture or security analyst responsibilities keep score slightly lower than top senior technical specialists."
+    },
+    {
+      "id": "IT_SEN_03_F",
+      "name": "Ethan Brooks",
+      "score": 80,
+      "rank": 49,
+      "rationale": "Senior security engineer with ~8.8 years in SOC and enterprise security. Strong match to Information Security Analysts JD: leads incident triage, coordinates escalations, standardizes investigation notes and runbooks, and supports vulnerability remediation tracking. Skills (alert triage, incident documentation, vulnerability tracking, endpoint hardening basic, Linux, stakeholder communication) align with knowledge of computers, public safety/security, and tasks like monitoring, documenting security measures, and coordinating with users. BSc in Cybersecurity and Security+ certification are highly relevant. Less explicit focus on designing security architectures or performing formal risk assessments, but overall a very good fit for senior security analyst/engineer roles."
+    },
+    {
+      "id": "IT_SEN_03_M",
+      "name": "Ethan Brooks",
+      "score": 80,
+      "rank": 50,
+      "rationale": "Identical senior security engineer profile. Very strong alignment with Information Security Analysts JD: incident triage leadership, runbook improvements, and vulnerability tracking. Education and certification match expectations. Limited explicit mention of policy development or compliance frameworks keeps score slightly below top senior software/DevOps roles but still high for security."
+    },
+    {
+      "id": "IT_SEN_03_THEY",
+      "name": "Ethan Brooks",
+      "score": 80,
+      "rank": 51,
+      "rationale": "Same senior security engineer background. Good fit for Information Security Analysts roles: extensive SOC experience, incident documentation, and stakeholder communication. Education and Security+ align; less emphasis on designing enterprise-wide security architectures or conducting formal risk assessments narrows JD coverage slightly."
+    },
+    {
+      "id": "IT_SEN_03_THON",
+      "name": "Ethan Brooks",
+      "score": 80,
+      "rank": 52,
+      "rationale": "Identical senior security engineer profile. Strong match to Information Security Analysts JD in operational and leadership aspects of incident response and vulnerability management. Education and skills are appropriate; limited explicit architecture/policy design responsibilities keep score modestly below top senior developers/architects."
+    },
+    {
+      "id": "IT_SEN_04_F",
+      "name": "Sophia Patel",
+      "score": 79,
+      "rank": 53,
+      "rationale": "Senior QA automation engineer with ~8.6 years in FinTech QA. Strong match to Software Quality Assurance Analysts and Testers JD, especially at a senior/automation level: builds and maintains automated regression suites, reduces flaky tests, leads regression cycles, and standardizes test evidence and smoke test checklists. Skills (automation testing, test strategy, bug triage, CI checks basic, Jira, communication) align with JD skills like programming, quality control analysis, systems evaluation, and documentation. BSc in Software Engineering is relevant. Slightly lower score than top senior developers because JD set also includes broader software design and research roles, but for QA-specific roles this is an excellent fit."
+    },
+    {
+      "id": "IT_SEN_04_M",
+      "name": "Sophia Patel",
+      "score": 79,
+      "rank": 54,
+      "rationale": "Identical senior QA automation profile. Very good alignment with Software QA Analysts and Testers JD: automated regression coverage, defect triage, and release readiness improvements. Education and skills are appropriate; limited explicit involvement in core application feature design or research keeps score modestly below top senior software developers."
+    },
+    {
+      "id": "IT_SEN_04_THEY",
+      "name": "Sophia Patel",
+      "score": 79,
+      "rank": 55,
+      "rationale": "Same senior QA automation engineer background. Strong fit for QA/testing roles per the JDs: automation, test strategy, and collaboration with engineers. Education and skills align; not focused on broader software architecture or research, which slightly narrows JD coverage."
+    },
+    {
+      "id": "IT_SEN_04_THON",
+      "name": "Sophia Patel",
+      "score": 79,
+      "rank": 56,
+      "rationale": "Identical senior QA automation profile. Excellent for Software Quality Assurance Analysts and Testers roles, with deep experience in automated regression and release readiness. Education and skills are strong; limited explicit cross-domain responsibilities (e.g., security, networking) keep score slightly lower than some senior generalists."
+    },
+    {
+      "id": "IT_SEN_08_F",
+      "name": "Sam Morgan",
+      "score": 78,
+      "rank": 57,
+      "rationale": "Senior cloud solutions engineer with ~8.7 years in cloud services. Best aligned with Computer Network Architects, Network and Computer Systems Administrators, and Information Security Analysts (in IAM aspects). Experience designing cloud reference architectures, supporting migrations, improving cost visibility via tagging, and partnering with security on IAM patterns maps to tasks like designing and implementing networks, developing security measures, and coordinating with stakeholders. Skills (cloud architecture, IAM intermediate, monitoring, Linux, documentation, stakeholder communication) align with knowledge of computers, telecommunications, and administration. BSc in Computer Engineering and AWS Solutions Architect certification strongly support fit. Less direct focus on application-level programming or database design keeps score slightly below top senior software developers."
+    },
+    {
+      "id": "IT_SEN_08_M",
+      "name": "Sam Morgan",
+      "score": 78,
+      "rank": 58,
+      "rationale": "Identical senior cloud solutions engineer profile. Strong match to Computer Network Architects and related JDs: designs cloud architectures, supports migrations, and aligns IAM/security patterns. Education and AWS certification are highly relevant. Limited explicit mention of low-level network hardware configuration or database administration narrows JD coverage slightly."
+    },
+    {
+      "id": "IT_SEN_08_THEY",
+      "name": "Sam Morgan",
+      "score": 78,
+      "rank": 59,
+      "rationale": "Same senior cloud solutions engineer background. Good fit for network/cloud architecture roles per the JDs, with strong emphasis on design, monitoring, and documentation. Education and certification align; less focus on pure software development or research roles keeps score modestly below top senior developers."
+    },
+    {
+      "id": "IT_SEN_08_THON",
+      "name": "Sam Morgan",
+      "score": 78,
+      "rank": 60,
+      "rationale": "Identical senior cloud solutions engineer profile. Strong alignment with Computer Network Architects and Network and Computer Systems Administrators JDs. Education and AWS certification support fit; limited explicit database or application development responsibilities keep score slightly lower than top senior software engineers."
+    },
+    {
+      "id": "IT_SEN_05_F",
+      "name": "Mia Turner",
+      "score": 77,
+      "rank": 61,
+      "rationale": "Senior data analyst with ~8.2 years in e-commerce analytics. Best aligned with Database-related and Computer Systems Analysts JDs in the analytical/reporting dimension: builds KPI dashboards, standardizes metric definitions, develops SQL datasets and validation checks, and supports experiment readouts. Skills (SQL, dashboarding, data quality, basic experimentation, communication, documentation) align with knowledge of computers, mathematics, and customer service. BSc in Information Systems is relevant. However, lacks explicit responsibilities for database administration, warehousing design, or systems integration, so fit is more analytics-focused than core DBA/architect."
+    },
+    {
+      "id": "IT_SEN_05_M",
+      "name": "Mia Turner",
+      "score": 77,
+      "rank": 62,
+      "rationale": "Identical senior data analyst profile. Strong match to data analysis and reporting aspects of Computer Systems Analysts and Database-related JDs. Education and skills are appropriate; limited explicit database design, performance tuning, or ETL architecture responsibilities keep score below top senior technical roles."
+    },
+    {
+      "id": "IT_SEN_05_THEY",
+      "name": "Mia Turner",
+      "score": 77,
+      "rank": 63,
+      "rationale": "Same senior data analyst background. Good fit for senior analytics roles adjacent to database and systems analysis JDs: KPI frameworks, dashboards, and data quality. Education and skills align; not a direct DBA or data architect, which narrows JD coverage."
+    },
+    {
+      "id": "IT_SEN_05_THON",
+      "name": "Mia Turner",
+      "score": 77,
+      "rank": 64,
+      "rationale": "Identical senior data analyst profile. Strong in SQL, dashboards, and stakeholder communication, mapping to analytical tasks in several IT JDs. Education is relevant; limited explicit database architecture or systems integration experience keeps score modestly lower."
+    },
+    {
+      "id": "IT_SEN_07_F",
+      "name": "Olivia Chen",
+      "score": 76,
+      "rank": 65,
+      "rationale": "Senior product data analyst with ~8.4 years in SaaS analytics. Similar alignment to senior data analyst roles: defines KPI frameworks, builds dashboards, maintains metric definitions, and supports A/B test readouts. Skills (SQL, analytics, dashboarding, data quality, basic experimentation, communication) align with knowledge of computers, mathematics, and customer service. BSc in Computer Science is relevant. However, like other analytics profiles, lacks explicit database administration, warehousing, or systems architecture responsibilities, so fit is more on the analytics side of Computer Systems Analysts than core DBA/architect roles."
+    },
+    {
+      "id": "IT_SEN_07_M",
+      "name": "Olivia Chen",
+      "score": 76,
+      "rank": 66,
+      "rationale": "Identical senior product data analyst profile. Good match to analytical aspects of Computer Systems Analysts and Database-related JDs: KPI frameworks, dashboards, and data quality. Education and skills are appropriate; limited explicit database or systems design responsibilities keep score below top senior developers/architects."
+    },
+    {
+      "id": "IT_SEN_07_THEY",
+      "name": "Olivia Chen",
+      "score": 76,
+      "rank": 67,
+      "rationale": "Same senior product data analyst background. Strong in analytics and stakeholder communication, mapping to data-focused tasks in several IT JDs. Education is relevant; not a direct fit for DBA, data architect, or research scientist roles, which narrows JD coverage."
+    },
+    {
+      "id": "IT_SEN_07_THON",
+      "name": "Olivia Chen",
+      "score": 76,
+      "rank": 68,
+      "rationale": "Identical senior product data analyst profile. Good fit for senior analytics roles adjacent to Computer Systems Analysts JD. Education and skills align; limited explicit database architecture or complex systems integration experience keeps score modestly lower."
+    },
+    {
+      "id": "IT_SEN_09_F",
+      "name": "Taylor Reed",
+      "score": 74,
+      "rank": 69,
+      "rationale": "Senior IT program manager with ~8.8 years in corporate IT project/program management. Best aligned with Computer and Information Systems Managers JD: coordinates multi-team delivery, manages risk and issues, standardizes rollout checklists, and improves operational processes. Skills (program delivery, risk management, stakeholder communication, process improvement, documentation, change management basic) align with management of personnel resources, organizing/planning work, and communicating with stakeholders. BSc in Information Systems fits education expectations. However, profile is management-focused with limited direct hands-on technical implementation, programming, or systems design, so fit is narrower to the managerial JD and less to the technical analyst/developer roles."
+    },
+    {
+      "id": "IT_SEN_09_M",
+      "name": "Taylor Reed",
+      "score": 74,
+      "rank": 70,
+      "rationale": "Identical senior IT program manager profile. Strong match to Computer and Information Systems Managers JD in planning, coordinating, and communicating across IT projects. Education and skills are appropriate; limited direct technical implementation or architecture responsibilities keep score lower than technical specialists when considering the full set of IT JDs."
+    },
+    {
+      "id": "IT_SEN_09_THEY",
+      "name": "Taylor Reed",
+      "score": 74,
+      "rank": 71,
+      "rationale": "Same senior IT program manager background. Good fit for managerial aspects of the JDs: coordinating teams, managing risk, and improving processes. Education is relevant; lack of hands-on technical depth in programming, security, or networking narrows JD coverage."
+    },
+    {
+      "id": "IT_SEN_09_THON",
+      "name": "Taylor Reed",
+      "score": 74,
+      "rank": 72,
+      "rationale": "Identical senior IT program manager profile. Aligns well with Computer and Information Systems Managers JD but less so with technical developer/analyst roles. Education and skills in program delivery and communication are strong; limited direct technical implementation experience keeps overall score modest."
+    }
+  ]
+}

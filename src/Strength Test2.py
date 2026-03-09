@@ -15,7 +15,7 @@ from common_io import (
     resolve_path_with_fallback,
 )
 
-EXPERIMENT_NAME = 'Strength Test2'
+EXPERIMENT_NAME = 'Strength_Test2'
 RAW_FALLBACK_NAME = 'term2.raw.txt'
 
 PROMPT = r"""

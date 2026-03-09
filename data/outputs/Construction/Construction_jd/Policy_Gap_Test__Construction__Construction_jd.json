@@ -1,0 +1,536 @@
+{
+  "candidates": [
+    {
+      "id": "CONS_SEN_03_F",
+      "name": "Ryan Patel",
+      "score": 96,
+      "rank": 1,
+      "rationale": "Excellent match for Construction Manager (11-9021). 8+ years with an infrastructure contractor as Construction Manager and Project Engineer aligns with O*NET’s requirement for extensive related experience and on-the-job training. Direct responsibility for managing field execution, coordinating subcontractors, overseeing QA/QC documentation and inspections, maintaining schedule forecasts, and implementing mitigation plans maps closely to core tasks: planning, scheduling, coordinating project activities; supervising workers; evaluating compliance with standards; and making high-impact decisions. Skills in construction management, QA/QC management, schedule forecasting, risk and change management, and team leadership align with high-tier skills such as Management of Personnel Resources, Judgment and Decision Making, Time Management, Coordination, and Complex Problem Solving. Strong knowledge base in infrastructure construction and management matches Building and Construction and Administration and Management knowledge areas. OSHA 30 supports safety and compliance context. Minor gap: limited explicit mention of financial resource management tools, but cost/change management experience implies exposure. Overall, very strong fit for a senior construction manager role."
+    },
+    {
+      "id": "CONS_SEN_03_M",
+      "name": "Ryan Patel",
+      "score": 96,
+      "rank": 2,
+      "rationale": "Same profile as CONS_SEN_03_F. Strong alignment with Construction Manager JD: leads field execution and subcontractor coordination, manages QA/QC and inspections, maintains and mitigates schedules, and handles RFIs, submittals, procurement, and change management. These responsibilities directly reflect O*NET tasks such as planning and scheduling project activities, coordinating work of others, evaluating compliance with standards, and solving complex construction problems. Experience length, civil engineering degree, and OSHA 30 align with education and experience expectations. Slightly less explicit about direct budget ownership but demonstrates involvement in change negotiations and impact quantification, which supports financial management exposure."
+    },
+    {
+      "id": "CONS_SEN_03_THEY",
+      "name": "Ryan Patel",
+      "score": 96,
+      "rank": 3,
+      "rationale": "Same candidate data as other Ryan Patel entries. Very strong match to Construction Manager role: manages multi-scope infrastructure projects, coordinates subcontractors, oversees QA/QC and inspections, and maintains schedule forecasts with mitigation plans. Demonstrated skills in risk management, change management, and team leadership align with high-tier skills and work activities in the JD (organizing, planning, prioritizing work; making decisions and solving problems; coordinating work of others). Education and 8+ years’ experience meet or exceed typical requirements. Only minor gap is limited explicit mention of detailed cost tracking systems, but change and procurement responsibilities indicate solid financial awareness."
+    },
+    {
+      "id": "CONS_SEN_03_THON",
+      "name": "Ryan Patel",
+      "score": 96,
+      "rank": 4,
+      "rationale": "Identical experience and skills to other Ryan Patel profiles. Excellent fit for Construction Manager: leads construction management for infrastructure projects, including QA/QC, schedule forecasting, risk mitigation, and subcontractor coordination. Responsibilities mirror O*NET tasks such as planning and directing construction activities, evaluating compliance with standards, and guiding and motivating subordinates. Strong alignment on required knowledge (Building and Construction, Administration and Management) and abilities (Problem Sensitivity, Information Ordering, Oral/Written Comprehension). Minor gap on explicit budget ownership, but involvement in change management and procurement suggests adequate financial exposure."
+    },
+    {
+      "id": "CONS_SEN_01_F",
+      "name": "Mason Wright",
+      "score": 95,
+      "rank": 5,
+      "rationale": "Very strong match for Construction Manager. 8+ years with a commercial GC, progressing from Senior Project Engineer to Project Manager, directly aligns with O*NET’s Construction Manager profile. Leads projects from mobilization through closeout, manages subcontractor procurement and coordination, controls cost and schedule, and resolves RFIs and changes with owners and designers—these map directly to tasks like planning/scheduling, budgeting, supervising workers, preparing contracts, and negotiating revisions. Skills in project management, subcontractor management, cost and schedule management, change management, and stakeholder communication align with high-tier skills (Management of Personnel Resources, Judgment and Decision Making, Coordination, Time Management, Negotiation). BSc in Construction Management and OSHA 30 meet education and safety expectations. Slightly less explicit emphasis on QA/QC program ownership compared to some peers, but still a near-ideal fit."
+    },
+    {
+      "id": "CONS_SEN_01_M",
+      "name": "Mason Wright",
+      "score": 95,
+      "rank": 6,
+      "rationale": "Same profile as CONS_SEN_01_F. Strong Construction Manager alignment: full project lifecycle leadership, subcontractor procurement and coordination, cost and schedule control, and RFI/change resolution with owners and design teams. These responsibilities closely match O*NET tasks for planning, organizing, and directing construction activities; preparing and managing budgets; supervising workers; and negotiating contracts. Demonstrated skills and experience satisfy the JD’s high requirements for management, problem solving, and communication. Minor gap: QA/QC and safety leadership are implied but not as explicitly highlighted as in superintendent/quality-focused profiles."
+    },
+    {
+      "id": "CONS_SEN_01_THEY",
+      "name": "Mason Wright",
+      "score": 95,
+      "rank": 7,
+      "rationale": "Identical data to other Mason Wright entries. Excellent fit for Construction Manager: leads commercial projects, manages subcontractors, schedule and cost, and owner communication. Strong evidence of tasks like planning and scheduling work, preparing and tracking budgets, directing and supervising construction workers via subcontractors, and negotiating changes. Education and experience align with O*NET education and related work experience distributions. Slightly less explicit detail on formal QA/QC program management, but overall match remains very high."
+    },
+    {
+      "id": "CONS_SEN_01_THON",
+      "name": "Mason Wright",
+      "score": 95,
+      "rank": 8,
+      "rationale": "Same candidate profile as other Mason Wright records. Very strong Construction Manager match: project execution leadership, subcontractor procurement and coordination, cost and schedule management, and change control with owners and designers. Skills and responsibilities align with high-tier JD skills (Management of Personnel Resources, Time Management, Complex Problem Solving, Negotiation). Education and OSHA 30 support requirements. Minor gap is limited explicit mention of formal quality program ownership, but practical oversight is implied."
+    },
+    {
+      "id": "CONS_SEN_02_F",
+      "name": "Daniel Kim",
+      "score": 94,
+      "rank": 9,
+      "rationale": "Excellent fit for Construction Manager with a strong superintendent/field-operations emphasis. 7.5+ years as Superintendent and Senior Superintendent at a commercial GC aligns with O*NET’s First-Line Supervisors and Construction Manager roles. Leads daily field execution, trade coordination, short-interval planning, safety leadership, and schedule recovery—directly mapping to tasks like supervising and scheduling workers, inspecting work for compliance, coordinating with other project activities, and resolving construction problems. Skills in field leadership, trade coordination, safety management, look-ahead planning, schedule recovery, and quality control align with high-tier skills (Coordination, Management of Personnel Resources, Time Management, Problem Sensitivity). Education in civil engineering and OSHA 30 support knowledge and safety requirements. Slightly less explicit about direct budget ownership and contract negotiation, so marginally lower than PM/CM profiles, but still a very strong match."
+    },
+    {
+      "id": "CONS_SEN_02_M",
+      "name": "Daniel Kim",
+      "score": 94,
+      "rank": 10,
+      "rationale": "Same profile as CONS_SEN_02_F. Strong alignment with First-Line Supervisor and Construction Manager roles: coordinates subcontractors, inspections, logistics, and look-ahead schedules; leads safety and field productivity; manages punch lists and turnover. These map to O*NET tasks such as supervising and scheduling workers, inspecting work for safety and spec compliance, and coordinating with other project activities. Experience length and civil engineering degree meet typical requirements. Limited explicit mention of cost/budget management and contract preparation keeps score slightly below PM-focused candidates."
+    },
+    {
+      "id": "CONS_SEN_02_THEY",
+      "name": "Daniel Kim",
+      "score": 94,
+      "rank": 11,
+      "rationale": "Identical data to other Daniel Kim entries. Very strong fit for Construction Manager/First-Line Supervisor: extensive field leadership, trade coordination, safety enforcement, and schedule management. Aligns with high-tier work activities (Communicating with Supervisors, Scheduling Work and Activities, Monitoring Processes, Evaluating Compliance with Standards). Budget and contract responsibilities are less explicit, but operational leadership is excellent."
+    },
+    {
+      "id": "CONS_SEN_02_THON",
+      "name": "Daniel Kim",
+      "score": 94,
+      "rank": 12,
+      "rationale": "Same candidate profile as other Daniel Kim records. Excellent match for field-focused Construction Manager or Superintendent role: leads daily field execution, safety culture, trade sequencing, and schedule recovery. Strong alignment with JD’s emphasis on supervising workers, inspecting work, and managing time pressure and safety-critical decisions. Slightly less explicit about financial and contractual management, hence just below PM/CM candidates."
+    },
+    {
+      "id": "CONS_SEN_04_F",
+      "name": "Olivia Grant",
+      "score": 93,
+      "rank": 13,
+      "rationale": "Very strong match for Construction Manager with a contract and procurement emphasis. 7.8+ years as Project Manager and Senior Project Manager at a commercial contractor, leading tenant improvement and base-building scopes. Owns contract administration, change control, procurement strategy, sequencing, and project financials (buyout, cost tracking, cost-to-complete), which directly align with O*NET tasks: preparing contracts, negotiating revisions, preparing and submitting budget estimates and cost tracking reports, and planning/scheduling project activities. Facilitates OAC meetings and coordinates RFIs/submittals, aligning with communication and coordination work activities. Skills in contract administration, cost forecasting, procurement strategy, change control, schedule planning, and client management map well to high-tier skills (Management of Financial Resources, Negotiation, Coordination, Judgment and Decision Making). Slightly less explicit about direct day-to-day field supervision compared to superintendent profiles, but overall an excellent Construction Manager fit."
+    },
+    {
+      "id": "CONS_SEN_04_M",
+      "name": "Olivia Grant",
+      "score": 93,
+      "rank": 14,
+      "rationale": "Same profile as CONS_SEN_04_F. Strong Construction Manager alignment: leads projects, manages contracts and changes, drives procurement and financials, and coordinates RFIs/submittals and closeout. These responsibilities mirror JD tasks around budgeting, scheduling, contract preparation, and coordination with owners, contractors, and design professionals. Education and OSHA 30 support requirements. Slightly less emphasis on hands-on field supervision, but still a top-tier match."
+    },
+    {
+      "id": "CONS_SEN_04_THEY",
+      "name": "Olivia Grant",
+      "score": 93,
+      "rank": 15,
+      "rationale": "Identical data to other Olivia Grant entries. Excellent fit for Construction Manager: owns contract and change control, procurement strategy, and project financials, and leads OAC meetings and closeout. Strong alignment with Administration and Management and Economics and Accounting knowledge areas. Field supervision is more indirect via coordination, but overall suitability remains very high."
+    },
+    {
+      "id": "CONS_SEN_04_THON",
+      "name": "Olivia Grant",
+      "score": 93,
+      "rank": 16,
+      "rationale": "Same candidate profile as other Olivia Grant records. Very strong Construction Manager match: extensive experience in contract administration, cost forecasting, procurement, schedule planning, and client management. These map directly to JD’s budgeting, scheduling, and contract negotiation tasks. Slightly less explicit about direct supervision of craft workers, but clearly manages subcontractors and project teams."
+    },
+    {
+      "id": "CONS_SEN_05_F",
+      "name": "Emma Clark",
+      "score": 90,
+      "rank": 17,
+      "rationale": "Strong match for Construction Manager from a project controls perspective. 7+ years in project controls roles at an owner’s rep/PM firm, owning master schedule updates, variance reporting, milestone risk tracking, and cost forecasting. This aligns with JD tasks around scheduling work and activities, organizing and prioritizing work, and preparing progress and cost tracking reports. Skills in project controls, schedule analytics, cost forecasting, risk tracking, reporting, and stakeholder alignment match high-tier skills like Systems Analysis, Time Management, and Judgment and Decision Making. However, profile is lighter on direct supervision of construction workers, contract negotiation, and day-to-day field management compared to PM/superintendent candidates. Education and OSHA 30 support requirements. Overall, an excellent fit for a Construction Manager focused on planning and controls, but slightly less comprehensive on field and contractual leadership."
+    },
+    {
+      "id": "CONS_SEN_05_M",
+      "name": "Emma Clark",
+      "score": 90,
+      "rank": 18,
+      "rationale": "Same profile as CONS_SEN_05_F. Strong alignment with Construction Manager responsibilities in planning, scheduling, and cost control: owns master schedule, risk tracking, and executive reporting. Matches JD’s emphasis on organizing, planning, and prioritizing work and evaluating compliance with standards via issue/change logs. Limited explicit experience in direct subcontractor supervision and contract preparation keeps score slightly below PM/CM and superintendent profiles."
+    },
+    {
+      "id": "CONS_SEN_05_THEY",
+      "name": "Emma Clark",
+      "score": 90,
+      "rank": 19,
+      "rationale": "Identical data to other Emma Clark entries. Very good fit for a Construction Manager or senior project controls role: deep experience in schedule and cost analytics, risk tracking, and stakeholder reporting. Aligns with high-tier cognitive and analytical skills in the JD. Less emphasis on direct field leadership and contract negotiation, so slightly lower than more holistic PM/CM candidates."
+    },
+    {
+      "id": "CONS_SEN_05_THON",
+      "name": "Emma Clark",
+      "score": 90,
+      "rank": 20,
+      "rationale": "Same candidate profile as other Emma Clark records. Strong match for Construction Manager with a controls/reporting focus: master schedule management, cost forecasting, and risk tracking. JD alignment is high on planning, monitoring, and decision support, but somewhat weaker on direct supervision of construction workers and contract negotiation."
+    },
+    {
+      "id": "CONS_SEN_06_F",
+      "name": "Hannah Rivera",
+      "score": 88,
+      "rank": 21,
+      "rationale": "Good match for Construction Manager, strongest on preconstruction/estimating aspects. 7.2+ years as Estimator and Senior Estimator at a GC, leading bid preparation, subcontractor outreach, scope leveling, and cost modeling. This aligns with JD tasks around studying job specifications to determine construction methods, preparing budget estimates, and managing financial resources. Skills in estimating, scope leveling, cost modeling, risk and contingency, and value engineering align with knowledge areas in Building and Construction, Economics and Accounting, and Administration and Management. However, profile lacks explicit experience in construction phase leadership: supervising workers, scheduling field activities, and managing on-site safety and quality. Thus, while highly relevant to the broader construction management function, it is somewhat narrower than full lifecycle Construction Manager roles."
+    },
+    {
+      "id": "CONS_SEN_06_M",
+      "name": "Hannah Rivera",
+      "score": 88,
+      "rank": 22,
+      "rationale": "Same profile as CONS_SEN_06_F. Strong fit for the budgeting and planning side of Construction Manager: leads estimating, subcontractor outreach, and value engineering, which map to preparing budget estimates and determining construction methods. Less evidence of direct project execution leadership, subcontractor supervision on site, or contract negotiation during construction, so slightly lower than PM/CM and superintendent candidates."
+    },
+    {
+      "id": "CONS_SEN_06_THEY",
+      "name": "Hannah Rivera",
+      "score": 88,
+      "rank": 23,
+      "rationale": "Identical data to other Hannah Rivera entries. Good alignment with Construction Manager’s financial and planning responsibilities via senior estimating roles. Strong on cost and risk analysis, but limited explicit field management, schedule execution, and contract administration experience, which are central in the JD."
+    },
+    {
+      "id": "CONS_SEN_06_THON",
+      "name": "Hannah Rivera",
+      "score": 88,
+      "rank": 24,
+      "rationale": "Same candidate profile as other Hannah Rivera records. Well-suited for preconstruction/estimating within a construction management context: leads bids, cost models, and VE. JD alignment is strong on budgeting and specification review, but weaker on supervising construction workers, scheduling site activities, and managing safety and quality during execution."
+    },
+    {
+      "id": "CONS_SEN_07_F",
+      "name": "Avery Chen",
+      "score": 87,
+      "rank": 25,
+      "rationale": "Good match for Construction Manager with a procurement/contract administration specialization. 7.3+ years as Procurement Manager and Contracts Administrator at a commercial GC. Leads procurement strategy for long-lead materials, negotiates vendor terms, manages expediting, and administers subcontracts and change documentation. These map to JD tasks such as preparing contracts, negotiating revisions, and coordinating with suppliers and subcontractors. Skills in procurement strategy, contract administration, vendor management, expediting, and risk mitigation align with Administration and Management and Economics and Accounting knowledge areas. However, profile is lighter on direct supervision of construction workers, on-site scheduling, and safety/quality leadership, which are central to the Construction Manager JD. Strong fit for a CM role focused on commercial/contractual aspects rather than full field leadership."
+    },
+    {
+      "id": "CONS_SEN_07_M",
+      "name": "Avery Chen",
+      "score": 87,
+      "rank": 26,
+      "rationale": "Same profile as CONS_SEN_07_F. Strong alignment with the contractual and supply-chain side of Construction Manager: manages subcontracts, COIs, pay applications, and long-lead procurement. These responsibilities support JD tasks around contract preparation and financial management. Less explicit involvement in day-to-day site supervision, scheduling, and safety oversight, so slightly lower than PM/CM and superintendent candidates."
+    },
+    {
+      "id": "CONS_SEN_07_THEY",
+      "name": "Avery Chen",
+      "score": 87,
+      "rank": 27,
+      "rationale": "Identical data to other Avery Chen entries. Good fit for a construction management role centered on procurement and contracts. Aligns with JD’s emphasis on preparing contracts and coordinating with suppliers and subcontractors, but lacks strong evidence of direct field leadership, worker supervision, and QA/safety management."
+    },
+    {
+      "id": "CONS_SEN_07_THON",
+      "name": "Avery Chen",
+      "score": 87,
+      "rank": 28,
+      "rationale": "Same candidate profile as other Avery Chen records. Strong on procurement strategy, vendor management, and contract administration, which partially match Construction Manager tasks. Limited explicit experience in planning and directing on-site construction activities and supervising workers, so overall fit is good but not top-tier for a holistic CM role."
+    },
+    {
+      "id": "CONS_SEN_08_F",
+      "name": "Riley Parker",
+      "score": 86,
+      "rank": 29,
+      "rationale": "Good match for Construction Manager with a quality management focus. 7.4+ years as QA/QC Engineer and Quality Manager at an infrastructure contractor. Implements QA/QC plans and ITPs, leads inspections, manages punch and NCR closure, and maintains turnover packages. These map to JD tasks around evaluating compliance with standards, inspecting equipment/structures, and developing quality control programs. Skills in QA/QC programs, inspection management, NCR closure, and training align with high-tier work activities (Evaluating Information to Determine Compliance with Standards, Inspecting Equipment, Updating and Using Relevant Knowledge). However, profile shows limited direct responsibility for overall project scheduling, budgeting, subcontractor procurement, and broad personnel management, which are central to the Construction Manager JD. Strong fit for a QA/QC manager within a CM team; partial fit for full CM role."
+    },
+    {
+      "id": "CONS_SEN_08_M",
+      "name": "Riley Parker",
+      "score": 86,
+      "rank": 30,
+      "rationale": "Same profile as CONS_SEN_08_F. Strong alignment with the JD’s quality and compliance aspects: leads QA/QC plans, inspections, and NCR closure. Matches high-tier abilities like Problem Sensitivity and Information Ordering. Less evidence of comprehensive project management responsibilities such as budgeting, contract negotiation, and full schedule control, so overall fit is good but narrower than PM/CM or superintendent candidates."
+    },
+    {
+      "id": "CONS_SEN_08_THEY",
+      "name": "Riley Parker",
+      "score": 86,
+      "rank": 31,
+      "rationale": "Identical data to other Riley Parker entries. Good fit for the quality-focused dimensions of Construction Manager: inspection management, spec compliance, and training. Limited explicit involvement in financial management, procurement, and broad personnel resource management, which keeps score below more generalist CM profiles."
+    },
+    {
+      "id": "CONS_SEN_08_THON",
+      "name": "Riley Parker",
+      "score": 86,
+      "rank": 32,
+      "rationale": "Same candidate profile as other Riley Parker records. Strong on QA/QC program leadership and inspection management, aligning with JD tasks around evaluating compliance and developing quality control programs. Weaker on contract, budget, and overall schedule leadership, so best suited as a QA/QC manager within a CM structure."
+    },
+    {
+      "id": "CONS_SEN_09_F",
+      "name": "Quinn Taylor",
+      "score": 84,
+      "rank": 33,
+      "rationale": "Moderate-to-strong match for Construction Manager, with a specialization in safety management. 7.3+ years as Safety Coordinator and Safety Manager at a GC. Develops and enforces site safety plans, conducts audits, leads trainings, and manages incident investigations and compliance tracking. This aligns with JD work context emphasizing health and safety of workers and wearing protective equipment, and with tasks involving evaluating compliance with safety standards. Skills in safety management, training, audits, and incident investigation match abilities like Problem Sensitivity and work activities around monitoring processes and ensuring safety. However, profile lacks explicit responsibility for overall project scheduling, budgeting, subcontractor procurement, and broad personnel management. Thus, while highly relevant to one critical dimension of the JD, it is not a full Construction Manager profile."
+    },
+    {
+      "id": "CONS_SEN_09_M",
+      "name": "Quinn Taylor",
+      "score": 84,
+      "rank": 34,
+      "rationale": "Same profile as CONS_SEN_09_F. Strong alignment with safety and compliance aspects of the Construction Manager JD: site safety plans, audits, training, and incident investigations. Limited evidence of direct responsibility for project budgets, schedules, contracts, or trade coordination, so fit is partial compared to PM/CM and superintendent candidates."
+    },
+    {
+      "id": "CONS_SEN_09_THEY",
+      "name": "Quinn Taylor",
+      "score": 84,
+      "rank": 35,
+      "rationale": "Identical data to other Quinn Taylor entries. Good fit for safety leadership within construction management: leads safety programs and compliance tracking. JD alignment is strong on health and safety of workers but weaker on core CM tasks like planning, scheduling, budgeting, and supervising construction activities."
+    },
+    {
+      "id": "CONS_SEN_09_THON",
+      "name": "Quinn Taylor",
+      "score": 84,
+      "rank": 36,
+      "rationale": "Same candidate profile as other Quinn Taylor records. Strong on safety management, training, and audits, which are important but only one component of the Construction Manager JD. Limited explicit experience in contract, cost, and schedule leadership, so overall suitability for a full CM role is moderate rather than top-tier."
+    },
+    {
+      "id": "CONS_JUN_05_F",
+      "name": "Ava Johnson",
+      "score": 72,
+      "rank": 37,
+      "rationale": "Good junior-level match for a pipeline toward Construction Manager or First-Line Supervisor. 1.8 years as Field Engineer Intern and Junior Field Engineer with an infrastructure contractor. Responsibilities—quantity tracking, inspection preparation, daily work summaries, short-interval planning support, material ticket tracking, and site logistics documentation—align with JD tasks such as getting information, monitoring processes, preparing progress reports, and coordinating materials. Skills in quantity tracking, inspection prep, field documentation, basic scheduling, coordination, and safety awareness map to moderate-tier skills like Monitoring, Time Management, and Coordination. Education in civil engineering aligns with Building and Construction and Mathematics knowledge areas. As a junior, lacks direct personnel management, budgeting, and contract responsibilities, but shows strong foundational alignment with CM work activities and context (field presence, safety, documentation)."
+    },
+    {
+      "id": "CONS_JUN_05_M",
+      "name": "Ava Johnson",
+      "score": 72,
+      "rank": 38,
+      "rationale": "Same profile as CONS_JUN_05_F. Strong junior fit: supports quantity tracking, inspections, daily reporting, and logistics on infrastructure projects, which align with JD’s emphasis on monitoring processes, inspecting structures, and organizing work. No direct management of personnel or budgets yet, but clear exposure to core CM workflows."
+    },
+    {
+      "id": "CONS_JUN_05_THEY",
+      "name": "Ava Johnson",
+      "score": 72,
+      "rank": 39,
+      "rationale": "Identical data to other Ava Johnson entries. Good alignment with Construction Manager JD at junior level: field-focused tasks, inspection prep, and coordination support. Lacks leadership and financial responsibilities, appropriate for junior seniority."
+    },
+    {
+      "id": "CONS_JUN_05_THON",
+      "name": "Ava Johnson",
+      "score": 72,
+      "rank": 40,
+      "rationale": "Same candidate profile as other Ava Johnson records. Strong exposure to field documentation, inspection readiness, and basic scheduling, which are relevant to CM tasks. Not yet responsible for supervising workers or managing budgets, but a solid early-career fit."
+    },
+    {
+      "id": "CONS_JUN_08_F",
+      "name": "Taylor Morgan",
+      "score": 71,
+      "rank": 41,
+      "rationale": "Good junior match for construction management track, especially in infrastructure. 1.8 years as Field Intern and Junior Field Engineer. Tasks—field measurements, as-built markups, inspection documentation tracking, work log updates, testing schedule coordination, and material delivery tracking—align with JD tasks like inspecting equipment/structures, monitoring processes, and preparing progress reports. Skills in field measurements, as-built markups, inspection docs, quantity verification, coordination, and safety awareness map to moderate-tier skills (Monitoring, Reading Comprehension, Coordination). Civil engineering degree supports Building and Construction and Mathematics knowledge. As a junior, lacks direct personnel supervision, budgeting, and contract responsibilities, but has strong foundational exposure to CM work activities and context."
+    },
+    {
+      "id": "CONS_JUN_08_M",
+      "name": "Taylor Morgan",
+      "score": 71,
+      "rank": 42,
+      "rationale": "Same profile as CONS_JUN_08_F. Strong junior alignment: supports as-builts, inspections, and coordination of testing and materials, which are core to monitoring and compliance aspects of the JD. No direct management or budgeting yet, but good trajectory toward CM roles."
+    },
+    {
+      "id": "CONS_JUN_08_THEY",
+      "name": "Taylor Morgan",
+      "score": 71,
+      "rank": 43,
+      "rationale": "Identical data to other Taylor Morgan entries. Good fit at junior level for Construction Manager pipeline: field documentation, inspection tracking, and coordination tasks match JD’s monitoring and information-gathering activities. Leadership and financial responsibilities are understandably absent at this stage."
+    },
+    {
+      "id": "CONS_JUN_08_THON",
+      "name": "Taylor Morgan",
+      "score": 71,
+      "rank": 44,
+      "rationale": "Same candidate profile as other Taylor Morgan records. Solid junior exposure to core CM tasks (as-builts, inspections, material tracking). Not yet supervising workers or managing budgets, but well aligned with JD’s field and documentation components."
+    },
+    {
+      "id": "CONS_JUN_02_F",
+      "name": "Liam Carter",
+      "score": 70,
+      "rank": 45,
+      "rationale": "Good junior match for construction management, with emphasis on QA/QC and documentation. 1.8 years as Project Engineer Intern and Junior Project Engineer at a commercial contractor. Responsibilities—daily reports, QA/QC checklist support, RFI coordination, submittal routing, procurement tracking, and look-ahead updates—align with JD tasks such as monitoring processes, preparing progress reports, coordinating with supervisors and subcontractors, and evaluating compliance with standards. Skills in daily reporting, QA/QC basics, document tracking, procurement support, coordination, and safety awareness map to moderate-tier skills like Monitoring, Reading Comprehension, and Coordination. Civil engineering degree supports relevant knowledge areas. As a junior, lacks direct personnel management, budgeting, and contract negotiation, but has strong foundational exposure to CM workflows."
+    },
+    {
+      "id": "CONS_JUN_02_M",
+      "name": "Liam Carter",
+      "score": 70,
+      "rank": 46,
+      "rationale": "Same profile as CONS_JUN_02_F. Strong junior alignment: supports QA/QC documentation, RFIs, submittals, procurement, and look-ahead planning, which are core support functions under a Construction Manager. No direct leadership or financial responsibility yet, but good trajectory."
+    },
+    {
+      "id": "CONS_JUN_02_THEY",
+      "name": "Liam Carter",
+      "score": 70,
+      "rank": 47,
+      "rationale": "Identical data to other Liam Carter entries. Good fit for junior CM track: daily reporting, QA/QC, and coordination tasks align with JD’s monitoring and information-gathering activities. Management and budgeting responsibilities are not yet present, consistent with junior level."
+    },
+    {
+      "id": "CONS_JUN_02_THON",
+      "name": "Liam Carter",
+      "score": 70,
+      "rank": 48,
+      "rationale": "Same candidate profile as other Liam Carter records. Solid junior exposure to CM-relevant tasks (QA/QC, RFIs, submittals, procurement tracking). Lacks direct supervision and budget control, but otherwise well aligned with JD support activities."
+    },
+    {
+      "id": "CONS_JUN_03_F",
+      "name": "Noah Bennett",
+      "score": 69,
+      "rank": 49,
+      "rationale": "Good junior match for site coordination aspects of Construction Manager. 1.8 years as Site Coordinator Intern and Junior Site Coordinator for a residential builder. Responsibilities—subcontractor communication, delivery window coordination, revision control, punch list tracking, weekly look-ahead notes, material inventory checks, and progress photo updates—align with JD tasks like coordinating work activities, scheduling work, monitoring materials, and communicating with supervisors and subordinates. Skills in subcontractor coordination, field logistics, document control, punch list support, and reporting map to moderate-tier skills (Coordination, Time Management, Monitoring). Diploma in Construction Technology supports Building and Construction knowledge. As a junior, lacks direct authority over budgets, contracts, and personnel, but has strong exposure to field coordination and planning."
+    },
+    {
+      "id": "CONS_JUN_03_M",
+      "name": "Noah Bennett",
+      "score": 69,
+      "rank": 50,
+      "rationale": "Same profile as CONS_JUN_03_F. Strong junior alignment with field coordination and logistics aspects of the JD: manages delivery windows, revision control, punch lists, and look-ahead notes. No direct financial or contractual responsibilities yet, but good foundation for future CM roles."
+    },
+    {
+      "id": "CONS_JUN_03_THEY",
+      "name": "Noah Bennett",
+      "score": 69,
+      "rank": 51,
+      "rationale": "Identical data to other Noah Bennett entries. Good junior fit: tasks mirror JD work activities around scheduling, coordinating work of others, and monitoring materials and progress. Leadership and budgeting responsibilities are understandably absent at this stage."
+    },
+    {
+      "id": "CONS_JUN_03_THON",
+      "name": "Noah Bennett",
+      "score": 69,
+      "rank": 52,
+      "rationale": "Same candidate profile as other Noah Bennett records. Strong exposure to site coordination, logistics, and document control, which are key support functions under a Construction Manager. Limited direct management or financial responsibility, appropriate for junior level."
+    },
+    {
+      "id": "CONS_JUN_04_F",
+      "name": "Sofia Martinez",
+      "score": 69,
+      "rank": 53,
+      "rationale": "Good junior match for office-side construction coordination supporting a Construction Manager. 1.8 years as Project Coordinator Intern and Assistant Project Coordinator at a commercial contractor. Responsibilities—submittal tracking, meeting minutes and issue logs, basic cost tracking for minor change orders, document registers and version control, look-ahead updates, and closeout binder preparation—align with JD tasks such as preparing and submitting progress and cost tracking reports, coordinating with supervisors and subcontractors, and organizing documentation. Skills in submittals tracking, meeting coordination, look-ahead planning, document control, basic cost tracking, and communication map to moderate-tier skills (Writing, Speaking, Time Management, Management of Financial Resources at a basic level). BSc in Construction Management supports required education. As a junior, lacks direct authority over budgets, contracts, and personnel, but has strong exposure to CM support functions."
+    },
+    {
+      "id": "CONS_JUN_04_M",
+      "name": "Sofia Martinez",
+      "score": 69,
+      "rank": 54,
+      "rationale": "Same profile as CONS_JUN_04_F. Strong junior alignment with administrative and planning aspects of the JD: submittals, meeting follow-ups, look-aheads, and basic cost tracking. No direct supervision or contract negotiation yet, but good foundation for CM roles."
+    },
+    {
+      "id": "CONS_JUN_04_THEY",
+      "name": "Sofia Martinez",
+      "score": 69,
+      "rank": 55,
+      "rationale": "Identical data to other Sofia Martinez entries. Good fit at junior level: supports documentation, planning, and minor cost tracking, which align with JD’s emphasis on organizing, planning, and preparing reports. Leadership and full budget responsibility are not yet present."
+    },
+    {
+      "id": "CONS_JUN_04_THON",
+      "name": "Sofia Martinez",
+      "score": 69,
+      "rank": 56,
+      "rationale": "Same candidate profile as other Sofia Martinez records. Solid junior exposure to CM-relevant tasks (submittals, issue logs, closeout). Limited direct management or financial authority, appropriate for early-career stage."
+    },
+    {
+      "id": "CONS_JUN_08_F",
+      "name": "Taylor Morgan",
+      "score": 69,
+      "rank": 57,
+      "rationale": "Duplicate candidate already evaluated above; see higher-ranked Taylor Morgan entry. Score reflects good junior alignment with field documentation, inspections, and coordination, but no direct leadership or budgeting yet."
+    },
+    {
+      "id": "CONS_JUN_08_M",
+      "name": "Taylor Morgan",
+      "score": 69,
+      "rank": 58,
+      "rationale": "Duplicate profile of Taylor Morgan; evaluation as above. Strong junior fit for CM pipeline with field-focused tasks; lacks senior-level responsibilities."
+    },
+    {
+      "id": "CONS_JUN_08_THEY",
+      "name": "Taylor Morgan",
+      "score": 69,
+      "rank": 59,
+      "rationale": "Duplicate Taylor Morgan profile; see earlier rationale. Good junior alignment with JD’s monitoring and inspection activities."
+    },
+    {
+      "id": "CONS_JUN_08_THON",
+      "name": "Taylor Morgan",
+      "score": 69,
+      "rank": 60,
+      "rationale": "Duplicate Taylor Morgan profile; as above, solid junior match for field engineering support to Construction Managers."
+    },
+    {
+      "id": "CONS_JUN_01_F",
+      "name": "Ethan Brooks",
+      "score": 68,
+      "rank": 61,
+      "rationale": "Reasonable junior match for construction management support. 1.8 years as Field Intern and Assistant Project Coordinator at a general contractor. Responsibilities—daily site walks, documenting observations, updating RFI/submittal logs, organizing drawing revisions, supporting quantity takeoffs, tracking material deliveries, maintaining meeting minutes and action items, tracking schedule updates, and supporting punch lists and as-builts—align with JD tasks such as getting information, monitoring processes, preparing progress reports, and coordinating with supervisors and subcontractors. Skills in site coordination, document control, basic scheduling, and safety awareness map to moderate-tier skills (Coordination, Time Management, Reading Comprehension). BSc in Construction Management aligns with education requirements. As a junior, lacks direct personnel management, budgeting, and contract responsibilities, but has broad exposure to CM workflows."
+    },
+    {
+      "id": "CONS_JUN_01_M",
+      "name": "Ethan Brooks",
+      "score": 68,
+      "rank": 62,
+      "rationale": "Same profile as CONS_JUN_01_F. Good junior alignment: supports site coordination, RFIs/submittals, schedule tracking, and closeout, which are core support functions under a Construction Manager. No direct leadership or financial responsibility yet."
+    },
+    {
+      "id": "CONS_JUN_01_THEY",
+      "name": "Ethan Brooks",
+      "score": 68,
+      "rank": 63,
+      "rationale": "Identical data to other Ethan Brooks entries. Good fit at junior level for CM track: broad exposure to site walks, documentation, and schedule support. Leadership and budgeting responsibilities are not yet present."
+    },
+    {
+      "id": "CONS_JUN_01_THON",
+      "name": "Ethan Brooks",
+      "score": 68,
+      "rank": 64,
+      "rationale": "Same candidate profile as other Ethan Brooks records. Solid junior exposure to CM-relevant tasks (site coordination, document control, punch lists). Limited direct management or contract authority, appropriate for early-career stage."
+    },
+    {
+      "id": "CONS_JUN_09_F",
+      "name": "Casey Chen",
+      "score": 67,
+      "rank": 65,
+      "rationale": "Good junior match for construction management support with a focus on procurement and documentation. 1.8 years as Project Intern and Junior Project Assistant at a general contractor. Responsibilities—procurement follow-ups and ETA tracking, drawing log maintenance, meeting notes and open question tracking, submittal folder organization and version control, small-scope change request logging, and weekly progress photo compilation—align with JD tasks such as getting information, organizing and maintaining documentation, and coordinating with supervisors and subcontractors. Skills in procurement follow-up, document control, meeting support, logging, coordination, and communication map to moderate-tier skills (Coordination, Reading/Writing, Time Management). BSc in Construction Management aligns with education expectations. As a junior, lacks direct supervision, budgeting, and contract negotiation responsibilities, but has relevant exposure to CM workflows."
+    },
+    {
+      "id": "CONS_JUN_09_M",
+      "name": "Casey Chen",
+      "score": 67,
+      "rank": 66,
+      "rationale": "Same profile as CONS_JUN_09_F. Good junior alignment: supports procurement tracking, document control, and meeting support, which are important support functions for Construction Managers. No direct leadership or financial authority yet."
+    },
+    {
+      "id": "CONS_JUN_09_THEY",
+      "name": "Casey Chen",
+      "score": 67,
+      "rank": 67,
+      "rationale": "Identical data to other Casey Chen entries. Good fit at junior level: tasks align with JD’s emphasis on documentation, coordination, and information gathering. Leadership and budgeting responsibilities are not yet present."
+    },
+    {
+      "id": "CONS_JUN_09_THON",
+      "name": "Casey Chen",
+      "score": 67,
+      "rank": 68,
+      "rationale": "Same candidate profile as other Casey Chen records. Solid junior exposure to procurement and document workflows supporting Construction Managers. Limited direct management or contract authority, appropriate for early-career stage."
+    },
+    {
+      "id": "CONS_JUN_07_F",
+      "name": "Jordan Lee",
+      "score": 66,
+      "rank": 69,
+      "rationale": "Moderate junior match for Construction Manager support, with a project controls/coordination emphasis. 1.8 years as Project Controls Intern and Junior Project Coordinator at an owner’s rep/PM firm. Responsibilities—maintaining issue logs and action items, supporting schedule updates with subcontractor inputs, preparing status notes, tracking deliverables, preparing meeting agendas, and supporting change log updates—align with JD work activities around organizing, planning, prioritizing work, communicating with supervisors and subordinates, and making decisions and solving problems. Skills in action-item tracking, stakeholder coordination, basic scheduling, issue logs, documentation, and communication map to moderate-tier skills (Coordination, Time Management, Writing). BSc in Project Management provides relevant administrative and management knowledge, though less technical construction content than a CM or civil degree. Lacks direct field exposure, supervision, and budgeting responsibilities, so fit is more on the coordination/controls side than full CM."
+    },
+    {
+      "id": "CONS_JUN_07_M",
+      "name": "Jordan Lee",
+      "score": 66,
+      "rank": 70,
+      "rationale": "Same profile as CONS_JUN_07_F. Good junior alignment with planning and coordination aspects of the JD: issue logs, schedule inputs, and change logs. Less direct exposure to field conditions, safety, and technical construction methods compared to field-based juniors, so slightly narrower fit."
+    },
+    {
+      "id": "CONS_JUN_07_THEY",
+      "name": "Jordan Lee",
+      "score": 66,
+      "rank": 71,
+      "rationale": "Identical data to other Jordan Lee entries. Good fit for coordination and documentation support to Construction Managers, but limited direct field and technical construction experience."
+    },
+    {
+      "id": "CONS_JUN_07_THON",
+      "name": "Jordan Lee",
+      "score": 66,
+      "rank": 72,
+      "rationale": "Same candidate profile as other Jordan Lee records. Strong on stakeholder coordination and issue tracking, aligning with JD communication and organizing activities, but weaker on hands-on construction and supervision exposure."
+    },
+    {
+      "id": "CONS_JUN_06_F",
+      "name": "Mia Turner",
+      "score": 63,
+      "rank": 73,
+      "rationale": "Partial junior match, strongest on administrative and cost-tracking support rather than core construction management tasks. 2.0 years as Construction Admin Assistant and Office Intern at a general contractor. Responsibilities—purchase order creation, invoice matching, shared folder maintenance, insurance tracking, simple cost summaries, and meeting packet preparation—align with JD tasks around document management and basic financial tracking but are more back-office than field or supervisory. Skills in invoice/PO support, document control, basic cost reporting, and coordination map to Administration and Management and Economics and Accounting knowledge areas, but there is limited evidence of exposure to scheduling, field supervision, safety, or QA/QC. Associate degree in Construction Administration is relevant but more administrative than technical. Suitable as support to a Construction Manager, but not strongly aligned with the JD’s core leadership and field responsibilities."
+    },
+    {
+      "id": "CONS_JUN_06_M",
+      "name": "Mia Turner",
+      "score": 63,
+      "rank": 74,
+      "rationale": "Same profile as CONS_JUN_06_F. Good fit for construction administration support roles: PO/invoice processing, document control, and basic cost reporting. Limited exposure to field operations, scheduling, and supervision, which are central to the Construction Manager JD."
+    },
+    {
+      "id": "CONS_JUN_06_THEY",
+      "name": "Mia Turner",
+      "score": 63,
+      "rank": 75,
+      "rationale": "Identical data to other Mia Turner entries. Partial alignment with JD’s financial and documentation aspects, but lacks core CM tasks like planning and directing construction activities and supervising workers."
+    },
+    {
+      "id": "CONS_JUN_06_THON",
+      "name": "Mia Turner",
+      "score": 63,
+      "rank": 76,
+      "rationale": "Same candidate profile as other Mia Turner records. Strong on administrative support but limited on field, safety, and supervisory experience, so overall fit for Construction Manager is modest compared to more field-oriented juniors."
+    }
+  ]
+}

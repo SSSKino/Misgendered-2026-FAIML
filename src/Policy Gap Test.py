@@ -15,7 +15,7 @@ from common_io import (
     resolve_path_with_fallback,
 )
 
-EXPERIMENT_NAME = 'Policy Gap Test'
+EXPERIMENT_NAME = 'Policy_Gap_Test'
 RAW_FALLBACK_NAME = 'Policy Gap Test.raw.txt'
 
 PROMPT = r"""

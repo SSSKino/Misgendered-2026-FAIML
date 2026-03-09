@@ -1,0 +1,508 @@
+{
+  "candidates": [
+    {
+      "id": "IT_SEN_08_F",
+      "name": "Sam Morgan",
+      "score": 96,
+      "rank": 1,
+      "rationale": "Best match for senior cloud / infrastructure-focused software role. JD emphasizes software developers, network and computer systems administrators, cloud-related skills (AWS, EC2, S3, CloudFormation), and strong systems/architecture knowledge. Sam has 8.7 years in cloud services, currently Senior Cloud Solutions Engineer designing secure cloud architectures, supporting migrations, and partnering with security on IAM—directly aligned with Software Developers, Network and Computer Systems Administrators, and Information Security Analysts profiles. Skills in Cloud Architecture, IAM, Monitoring, Linux, Documentation, and Stakeholder Communication map closely to JD knowledge areas (Computers and Electronics, Telecommunications, Engineering and Technology, Public Safety and Security) and tasks (designing systems, planning upgrades, implementing security measures, troubleshooting). AWS Solutions Architect certification matches JD’s emphasis on cloud technologies (AWS EC2, S3, CloudFormation). Strong experience leading cross-team initiatives and documenting patterns aligns with work activities like Making Decisions and Solving Problems, Communicating with Supervisors/Peers/Subordinates, and Updating and Using Relevant Knowledge. No gaps in seniority, education, or domain; only minor gap is less explicit hands-on coding compared to pure Software Developer, but architecture and implementation exposure compensate well."
+    },
+    {
+      "id": "IT_SEN_08_M",
+      "name": "Sam Morgan",
+      "score": 96,
+      "rank": 2,
+      "rationale": "Same profile as IT_SEN_08_F. Senior cloud solutions engineer with 8.7 years in cloud services, strong alignment to Software Developers, Network and Computer Systems Administrators, and Information Security Analysts roles. Designs cloud architectures, supports migrations, improves cost visibility, and partners with security on IAM—matching JD tasks around designing and implementing systems, planning upgrades, and safeguarding infrastructure. Skills (Cloud Architecture, IAM, Monitoring, Linux, Documentation, Stakeholder Communication) and AWS Solutions Architect certification align with JD’s technology stack (AWS EC2, S3, CloudFormation) and knowledge areas (Computers and Electronics, Telecommunications, Engineering and Technology). Strong fit for senior IT role; only minor gap is less explicit day-to-day coding vs pure developer, but still within scope of the JD’s software and systems focus."
+    },
+    {
+      "id": "IT_SEN_08_THEY",
+      "name": "Sam Morgan",
+      "score": 96,
+      "rank": 3,
+      "rationale": "Same as other Sam Morgan entries. Senior cloud solutions engineer, 8.7 years experience, directly aligned with JD’s IT occupations, especially Software Developers, Network and Computer Systems Administrators, and Information Security Analysts. Extensive cloud architecture, IAM, monitoring, and documentation experience plus AWS certification match JD’s emphasis on cloud-based management software and security. Strong leadership and cross-team communication fit the work context of high collaboration, decision-making, and responsibility for system outcomes. Very minor gap in explicit programming language listing, but role clearly involves technical implementation and design."
+    },
+    {
+      "id": "IT_SEN_08_THON",
+      "name": "Sam Morgan",
+      "score": 96,
+      "rank": 4,
+      "rationale": "Identical professional background to other Sam Morgan profiles. Senior cloud solutions engineer with nearly 9 years in cloud services, strong match to JD’s IT roles. Designs secure cloud architectures, supports migrations, improves cost visibility, and aligns IAM with security—mapping to tasks in Software Developers, Network and Computer Systems Administrators, and Information Security Analysts. Skills and AWS Solutions Architect certification align with JD’s cloud and security technologies. Excellent fit for a senior IT role overseeing complex systems; only slight gap is less explicit daily coding compared to a pure software developer, but overall alignment is very high."
+    },
+    {
+      "id": "IT_SEN_06_F",
+      "name": "Jordan Lee",
+      "score": 94,
+      "rank": 5,
+      "rationale": "Senior DevOps engineer with 8.5 years in cloud services, highly aligned to Software Developers, Network and Computer Systems Administrators, and Computer Network Support/Architect roles. Experience improving CI/CD reliability, maintaining monitoring dashboards and alerting, leading incident follow-ups, and documenting runbooks matches JD tasks around installing/configuring systems, monitoring performance, troubleshooting, and planning upgrades. Skills in CI/CD, Linux, Monitoring, Docker, Incident Response, and Documentation map directly to JD technology skills (AWS, Apache, scripting, monitoring tools) and knowledge (Computers and Electronics, Engineering and Technology, Telecommunications). Strong fit for senior technical role with responsibility for system reliability and operations. Minor gap: less explicit application-level feature development compared to pure Software Developer, but DevOps responsibilities are central to the JD’s systems-focused occupations."
+    },
+    {
+      "id": "IT_SEN_06_M",
+      "name": "Jordan Lee",
+      "score": 94,
+      "rank": 6,
+      "rationale": "Same DevOps profile as IT_SEN_06_F. 8.5 years in cloud services, focusing on CI/CD, monitoring, incident response, and documentation. Strong overlap with Network and Computer Systems Administrators, Computer Network Support Specialists, and Software Developers (infrastructure side). Tasks like refining deployment workflows, maintaining dashboards, and leading incident reviews align with JD work activities (Working with Computers, Making Decisions and Solving Problems, Updating and Using Relevant Knowledge). Very strong technical and operational fit; only slight gap in explicit business-facing requirements analysis compared to some JD analyst roles."
+    },
+    {
+      "id": "IT_SEN_06_THEY",
+      "name": "Jordan Lee",
+      "score": 94,
+      "rank": 7,
+      "rationale": "Same as other Jordan Lee senior profiles. Senior DevOps engineer with deep experience in CI/CD, Linux, monitoring, Docker, and incident response. Responsibilities align with JD tasks for systems administrators and software developers: maintaining environments, monitoring, troubleshooting, planning changes, and documenting procedures. Strong match to JD’s emphasis on high computer interaction, decision-making, and coordination with other teams. Minor gap in explicit application feature design, but DevOps scope fits the IT JD very well."
+    },
+    {
+      "id": "IT_SEN_06_THON",
+      "name": "Jordan Lee",
+      "score": 94,
+      "rank": 8,
+      "rationale": "Identical DevOps background to other Jordan Lee entries. Senior DevOps engineer in cloud services, strong match to JD’s IT occupations. Experience improving deployment reliability, standardizing monitoring and runbooks, and leading incident follow-ups maps to JD tasks in Network and Computer Systems Administrators and Software Developers (operations side). Skills and responsibilities align closely with JD’s technology and work context; only small gap is less explicit end-user feature development."
+    },
+    {
+      "id": "IT_SEN_02_F",
+      "name": "Michael Grant",
+      "score": 93,
+      "rank": 9,
+      "rationale": "Senior software engineer with 8.5 years in SaaS backend development, directly aligned with Software Developers and Computer Programmers roles in the JD. Designs and maintains REST services, improves reliability via tests and validation, and partners with product/QA—matching JD tasks like analyzing user needs, designing and modifying software, testing, and documentation. Skills (Python, REST APIs, SQL, System Debugging, Git, Code Review) map well to JD’s programming, systems analysis, and complex problem-solving requirements. Strong experience mentoring and collaborating supports work activities around communication and team contribution. Minor gap: less explicit mention of front-end or network-level responsibilities, but core JD is well covered."
+    },
+    {
+      "id": "IT_SEN_02_M",
+      "name": "Michael Grant",
+      "score": 93,
+      "rank": 10,
+      "rationale": "Same profile as IT_SEN_02_F. Senior software engineer in SaaS with 8+ years experience building backend services and APIs. Strong alignment to Software Developers and Computer Programmers JD: tasks include designing systems, implementing features, fixing production bugs, and writing documentation. Skills in Python, REST, SQL, debugging, and code review match JD’s emphasis on programming, critical thinking, and systems analysis. Very strong fit for senior software role; only minor gap is limited explicit infrastructure or security responsibilities compared to some JD roles."
+    },
+    {
+      "id": "IT_SEN_02_THEY",
+      "name": "Michael Grant",
+      "score": 93,
+      "rank": 11,
+      "rationale": "Same senior software engineer background as other Michael Grant entries. 8+ years in SaaS backend development, strong match to Software Developers and Computer Programmers JD. Designs and maintains REST services, improves reliability, and partners with product/QA, aligning with JD tasks around analyzing requirements, designing and modifying software, testing, and documentation. Skills and experience fully meet JD’s technical and collaborative expectations; only small gap is less explicit network or system admin work, which is not essential for the core software developer role."
+    },
+    {
+      "id": "IT_SEN_02_THON",
+      "name": "Michael Grant",
+      "score": 93,
+      "rank": 12,
+      "rationale": "Identical to other Michael Grant senior profiles. Senior software engineer with extensive backend and API experience in SaaS. Strong alignment to JD’s Software Developers and Computer Programmers roles: programming, complex problem solving, systems analysis, and collaboration with product/QA. Technical stack (Python, REST, SQL) and responsibilities (reliability, documentation, mentoring) fit JD’s skills and work activities very well. Minor gap in explicit infrastructure/security tasks, but overall fit is excellent."
+    },
+    {
+      "id": "IT_SEN_04_F",
+      "name": "Sophia Patel",
+      "score": 92,
+      "rank": 13,
+      "rationale": "Senior QA automation engineer with ~8.6 years in FinTech, closely aligned to Software Quality Assurance Analysts and Testers in the JD. Builds and maintains automated regression suites, leads regression cycles, triages bugs, and standardizes test evidence and smoke test checklists—directly matching JD tasks like developing and executing tests, documenting defects, designing test plans, and determining release readiness. Skills (Automation Testing, Test Strategy, Bug Triage, CI Checks, Jira, Communication) map to JD’s emphasis on programming, quality control analysis, systems evaluation, and documentation. Strong experience collaborating with developers and product teams supports JD work activities around communication and team work. Slight gap: less focus on core feature implementation vs testing, but QA is explicitly covered in the JD."
+    },
+    {
+      "id": "IT_SEN_04_M",
+      "name": "Sophia Patel",
+      "score": 92,
+      "rank": 14,
+      "rationale": "Same as IT_SEN_04_F. Senior QA automation engineer in FinTech, strong match to Software Quality Assurance Analysts and Testers JD. Leads automated and manual regression, triages bugs, and improves release readiness—aligning with JD tasks around testing, defect documentation, and quality standards. Skills and experience fit JD’s technical, analytical, and communication requirements very well. Minor gap is limited mention of direct feature coding, but QA specialization is fully supported by the JD."
+    },
+    {
+      "id": "IT_SEN_04_THEY",
+      "name": "Sophia Patel",
+      "score": 92,
+      "rank": 15,
+      "rationale": "Same senior QA automation profile as other Sophia Patel entries. 8+ years in FinTech QA, building automation, leading regression, and standardizing test processes. Strong alignment to Software Quality Assurance Analysts and Testers JD: tasks, skills, and work activities (testing, documenting, communicating with developers) are all well covered. Slight gap in direct application feature development, but QA is a core JD occupation."
+    },
+    {
+      "id": "IT_SEN_04_THON",
+      "name": "Sophia Patel",
+      "score": 92,
+      "rank": 16,
+      "rationale": "Identical QA automation background to other Sophia Patel profiles. Senior QA engineer with extensive experience in automated regression, bug triage, and release readiness. Directly matches Software Quality Assurance Analysts and Testers JD in tasks and skills. Strong communication and collaboration fit JD’s work context. Only minor gap is less explicit system design work, but QA specialization is clearly within scope."
+    },
+    {
+      "id": "IT_SEN_03_F",
+      "name": "Ethan Brooks",
+      "score": 91,
+      "rank": 17,
+      "rationale": "Senior security engineer with ~8.8 years in SOC and enterprise security, strongly aligned to Information Security Analysts in the JD. Leads incident triage, coordinates escalations, standardizes investigation notes and runbooks, and supports vulnerability remediation tracking—matching JD tasks like developing plans to safeguard systems, monitoring for security issues, performing risk assessments, documenting security procedures, and coordinating with users and vendors. Skills (Alert Triage, Incident Documentation, Vulnerability Tracking, Endpoint Hardening, Linux, Stakeholder Communication) map to JD knowledge areas (Computers and Electronics, Public Safety and Security, Telecommunications) and skills (critical thinking, monitoring, systems analysis). Strong fit for senior security role; minor gap is less explicit mention of designing security architectures vs operating and improving existing processes, but still within JD expectations."
+    },
+    {
+      "id": "IT_SEN_03_M",
+      "name": "Ethan Brooks",
+      "score": 91,
+      "rank": 18,
+      "rationale": "Same profile as IT_SEN_03_F. Senior security engineer with extensive SOC and enterprise experience, directly aligned to Information Security Analysts JD. Leads high-priority incident triage, improves runbooks, and supports vulnerability remediation, which matches JD tasks around safeguarding systems, monitoring, documenting, and coordinating security measures. Skills and Security+ certification align with JD’s security knowledge and technology stack. Slight gap in explicit mention of encryption/firewall configuration, but overall security operations fit is very strong."
+    },
+    {
+      "id": "IT_SEN_03_THEY",
+      "name": "Ethan Brooks",
+      "score": 91,
+      "rank": 19,
+      "rationale": "Same senior security engineer background as other Ethan Brooks entries. 8+ years in SOC and enterprise security, strong match to Information Security Analysts JD. Responsibilities in incident triage, documentation, and vulnerability tracking align with JD tasks and work activities. Skills and certification support JD’s emphasis on security knowledge and problem sensitivity. Minor gap in explicit design of security architectures, but operational security coverage is excellent."
+    },
+    {
+      "id": "IT_SEN_03_THON",
+      "name": "Ethan Brooks",
+      "score": 91,
+      "rank": 20,
+      "rationale": "Identical to other Ethan Brooks senior profiles. Senior security engineer with deep SOC and enterprise experience, aligning closely with Information Security Analysts JD. Leads incident triage, standardizes notes and runbooks, and supports vulnerability remediation. Skills and Security+ certification fit JD’s security-focused tasks and knowledge. Slight gap in explicit mention of designing security controls, but overall alignment is high."
+    },
+    {
+      "id": "IT_SEN_01_F",
+      "name": "Daniel Wright",
+      "score": 90,
+      "rank": 21,
+      "rationale": "Senior IT systems engineer with 9+ years in Windows/Linux administration and identity & access management, strongly aligned to Network and Computer Systems Administrators and Computer Network Support Specialists in the JD. Leads endpoint lifecycle, supports identity and access workflows, and handles escalations for VPN/DNS/network issues—matching JD tasks like maintaining networks and systems, performing backups and maintenance, configuring security, and troubleshooting connectivity. Skills (Windows Admin, Linux, Active Directory, MFA/SSO, VPN/DNS Troubleshooting, Documentation) map well to JD knowledge areas (Computers and Electronics, Telecommunications, Engineering and Technology). Strong fit for senior infrastructure role; minor gap is less explicit mention of scripting/programming compared to Software Developers, but systems-focused JD roles are well covered."
+    },
+    {
+      "id": "IT_SEN_01_M",
+      "name": "Daniel Wright",
+      "score": 90,
+      "rank": 22,
+      "rationale": "Same as IT_SEN_01_F. Senior systems engineer with 9 years in corporate IT, focusing on Windows/Linux, identity & access, and endpoint lifecycle. Strong alignment to Network and Computer Systems Administrators JD: tasks include maintaining systems, troubleshooting network issues, and implementing standardization. Skills and experience fit JD’s technical and operational requirements; only small gap is limited explicit programming, which is not mandatory for the systems admin roles."
+    },
+    {
+      "id": "IT_SEN_01_THEY",
+      "name": "Daniel Wright",
+      "score": 90,
+      "rank": 23,
+      "rationale": "Same senior systems engineer profile as other Daniel Wright entries. 9+ years in corporate IT, strong match to Network and Computer Systems Administrators and Computer Network Support Specialists JD. Handles endpoint lifecycle, identity & access, and network escalations. Skills and responsibilities align with JD tasks and work context. Minor gap in explicit coding, but systems-focused roles are fully supported."
+    },
+    {
+      "id": "IT_SEN_01_THON",
+      "name": "Daniel Wright",
+      "score": 90,
+      "rank": 24,
+      "rationale": "Identical background to other Daniel Wright senior profiles. Senior systems engineer with extensive Windows/Linux and identity & access experience, aligning closely with JD’s systems admin and network support roles. Strong technical and operational fit; only slight gap is less explicit programming, which is secondary for these occupations."
+    },
+    {
+      "id": "IT_SEN_05_F",
+      "name": "Mia Turner",
+      "score": 88,
+      "rank": 25,
+      "rationale": "Senior data analyst in e-commerce with 8.2 years experience, aligned to Computer Systems Analysts and Database-related roles where analytics and reporting are key. Builds KPI dashboards, standardizes metric definitions, develops SQL datasets, and performs validation checks—matching JD tasks like analyzing information processing needs, designing reporting systems, and ensuring data quality. Skills (SQL, Dashboarding, Data Quality, Basic Experimentation, Communication, Documentation) map to JD knowledge areas (Computers and Electronics, Mathematics, Administration and Management, Education and Training). Strong fit for analytics-focused IT role; minor gap is less emphasis on core software development or system administration, but JD includes systems analysts and data-focused roles."
+    },
+    {
+      "id": "IT_SEN_05_M",
+      "name": "Mia Turner",
+      "score": 88,
+      "rank": 26,
+      "rationale": "Same profile as IT_SEN_05_F. Senior data analyst with extensive experience in SQL analytics, dashboarding, and stakeholder communication. Aligns with Computer Systems Analysts and Database Administrators/Architects aspects of the JD, especially around designing reporting, validating data, and documenting metrics. Slight gap in direct responsibility for database administration or software development, but strong match for analytics/system analysis portion of the JD."
+    },
+    {
+      "id": "IT_SEN_05_THEY",
+      "name": "Mia Turner",
+      "score": 88,
+      "rank": 27,
+      "rationale": "Same senior data analyst background as other Mia Turner entries. 8+ years in e-commerce analytics, strong alignment to JD’s systems analysis and data-focused tasks: KPI frameworks, SQL datasets, validation checks, and documentation. Minor gap in core programming or system admin duties, but analytics and reporting responsibilities are clearly within JD scope."
+    },
+    {
+      "id": "IT_SEN_05_THON",
+      "name": "Mia Turner",
+      "score": 88,
+      "rank": 28,
+      "rationale": "Identical to other Mia Turner senior profiles. Senior data analyst with strong SQL and dashboarding experience, aligning with Computer Systems Analysts and data-related JD roles. Good fit for analytics-heavy IT position; less suited if the role is primarily software development or infrastructure, but still within JD’s IT spectrum."
+    },
+    {
+      "id": "IT_SEN_07_F",
+      "name": "Olivia Chen",
+      "score": 87,
+      "rank": 29,
+      "rationale": "Senior product data analyst in SaaS with 8.4 years experience, aligned to Computer Systems Analysts and data warehousing/analytics roles in the JD. Defines KPI frameworks, builds dashboards, maintains metric definitions, and supports A/B test readouts—matching JD tasks around analyzing data, designing reporting systems, and interpreting information for others. Skills (SQL, Analytics, Dashboarding, Data Quality, Basic Experimentation, Communication) fit JD’s emphasis on Computers and Electronics, Mathematics, and Customer and Personal Service. Strong fit for senior analytics role; minor gap is limited explicit responsibility for database administration or software development, but systems analysis and reporting are well covered."
+    },
+    {
+      "id": "IT_SEN_07_M",
+      "name": "Olivia Chen",
+      "score": 87,
+      "rank": 30,
+      "rationale": "Same as IT_SEN_07_F. Senior product data analyst with extensive SaaS analytics experience, aligning with Computer Systems Analysts JD. Focus on KPI frameworks, dashboards, and experiment readouts fits JD’s data analysis and information interpretation tasks. Slight gap in core programming or infrastructure duties, but strong match for analytics-focused IT role."
+    },
+    {
+      "id": "IT_SEN_07_THEY",
+      "name": "Olivia Chen",
+      "score": 87,
+      "rank": 31,
+      "rationale": "Same senior product data analyst profile as other Olivia Chen entries. 8+ years in SaaS analytics, strong alignment to JD’s systems analysis and data interpretation activities. Good fit for roles emphasizing analytics and reporting; less direct for pure development or admin roles, but still within JD’s IT domain."
+    },
+    {
+      "id": "IT_SEN_07_THON",
+      "name": "Olivia Chen",
+      "score": 87,
+      "rank": 32,
+      "rationale": "Identical background to other Olivia Chen senior profiles. Senior product data analyst with strong SQL, analytics, and dashboarding skills, matching Computer Systems Analysts and data-focused JD tasks. Minor gap in direct responsibility for software development or system administration, but overall alignment to IT analytics is solid."
+    },
+    {
+      "id": "IT_SEN_09_F",
+      "name": "Taylor Reed",
+      "score": 84,
+      "rank": 33,
+      "rationale": "Senior IT program manager with ~8.8 years in corporate IT project/program management. JD is primarily technical (developers, admins, analysts), but also includes Computer and Information Systems Managers. Taylor coordinates multi-team delivery, manages risk and issues, and standardizes rollout checklists and post-launch reviews—matching JD tasks like developing and interpreting organizational goals, coordinating activities, and guiding teams. Skills (Program Delivery, Risk Management, Stakeholder Communication, Process Improvement, Documentation, Change Management) align with management-focused JD skills (management of personnel resources, coordination, time management, communicating with supervisors/peers/subordinates). Gap: limited hands-on technical implementation compared to most JD occupations; fit is strongest for the managerial subset of the JD rather than core engineering roles."
+    },
+    {
+      "id": "IT_SEN_09_M",
+      "name": "Taylor Reed",
+      "score": 84,
+      "rank": 34,
+      "rationale": "Same as IT_SEN_09_F. Senior IT program manager with strong experience in cross-team coordination, risk management, and process improvement. Aligns with Computer and Information Systems Managers JD: planning, directing, coordinating IT activities, and communicating with stakeholders. However, JD overall is heavily technical; Taylor’s profile is more managerial with limited explicit technical implementation, so fit is good but not as strong as hands-on engineers or admins."
+    },
+    {
+      "id": "IT_SEN_09_THEY",
+      "name": "Taylor Reed",
+      "score": 84,
+      "rank": 35,
+      "rationale": "Same senior IT program manager profile as other Taylor Reed entries. Strong alignment to management aspects of the JD (Computer and Information Systems Managers) through program delivery, risk management, and documentation. Gap in hands-on technical skills compared to most JD occupations, so best suited if the role is explicitly managerial."
+    },
+    {
+      "id": "IT_SEN_09_THON",
+      "name": "Taylor Reed",
+      "score": 84,
+      "rank": 36,
+      "rationale": "Identical background to other Taylor Reed senior profiles. Senior IT program manager, strong fit for Computer and Information Systems Managers JD tasks (coordinating, planning, communicating). Limited direct technical implementation reduces fit for core developer/admin roles, but managerial alignment is solid."
+    },
+    {
+      "id": "IT_JUN_07_F",
+      "name": "Ethan Brooks",
+      "score": 82,
+      "rank": 37,
+      "rationale": "Junior backend engineer with ~2.6 years in SaaS, strong alignment to Software Developers and Computer Programmers JD at junior level. Implements REST endpoints, adds unit tests, improves error handling, and supports production bug fixes—matching JD tasks like writing and modifying code, testing, debugging, and documenting. Skills (Python, REST APIs, SQL Basic, Git, Unit Testing, Debugging) fit JD’s programming and systems analysis requirements. Good fit for junior software developer role; gaps are expected for junior level (limited architecture/leadership, less exposure to broader systems analysis), but core JD responsibilities are well covered."
+    },
+    {
+      "id": "IT_JUN_07_M",
+      "name": "Ethan Brooks",
+      "score": 82,
+      "rank": 38,
+      "rationale": "Same as IT_JUN_07_F. Junior backend engineer in SaaS with strong overlap to Software Developers JD: building REST APIs, writing tests, and fixing bugs. Skills and experience align well with JD’s technical and collaborative expectations for an entry-level developer. Gaps in leadership and complex system design are appropriate for junior level."
+    },
+    {
+      "id": "IT_JUN_07_THEY",
+      "name": "Ethan Brooks",
+      "score": 82,
+      "rank": 39,
+      "rationale": "Same junior backend engineer profile as other Ethan Brooks junior entries. 2.6 years in SaaS backend development, strong match to Software Developers and Computer Programmers JD. Good coverage of programming, debugging, and documentation tasks; limited architecture or cross-functional leadership, which is acceptable for junior role."
+    },
+    {
+      "id": "IT_JUN_07_THON",
+      "name": "Ethan Brooks",
+      "score": 82,
+      "rank": 40,
+      "rationale": "Identical to other Ethan Brooks junior profiles. Junior backend engineer with experience implementing REST APIs, unit tests, and production bug fixes. Strong alignment to JD’s junior software developer expectations; gaps mainly in senior-level responsibilities, which is consistent with stated seniority."
+    },
+    {
+      "id": "IT_JUN_02_F",
+      "name": "Michael Grant",
+      "score": 81,
+      "rank": 41,
+      "rationale": "Junior software engineer with ~2.7 years in SaaS, aligned to Software Developers and Computer Programmers JD. Builds backend services and internal APIs, implements unit tests, fixes production bugs, and collaborates with product and QA—matching JD tasks around programming, testing, debugging, and working with stakeholders. Skills (Python, JavaScript, REST APIs, Git, Unit Testing, Debugging) fit JD’s programming and systems analysis requirements. Strong junior fit; minor gaps include limited mention of database design or broader systems architecture, which is typical for this level."
+    },
+    {
+      "id": "IT_JUN_02_M",
+      "name": "Michael Grant",
+      "score": 81,
+      "rank": 42,
+      "rationale": "Same as IT_JUN_02_F. Junior software engineer in SaaS with 2+ years experience, strong alignment to Software Developers JD. Responsibilities and skills match JD’s programming, problem-solving, and collaboration expectations for a junior developer. Gaps in advanced architecture and leadership are appropriate for level."
+    },
+    {
+      "id": "IT_JUN_02_THEY",
+      "name": "Michael Grant",
+      "score": 81,
+      "rank": 43,
+      "rationale": "Same junior software engineer profile as other Michael Grant junior entries. 2.7 years in SaaS, building internal tools and APIs, writing tests, and fixing bugs. Good match to JD’s Software Developers and Computer Programmers roles at junior level; limited exposure to complex system design is expected."
+    },
+    {
+      "id": "IT_JUN_02_THON",
+      "name": "Michael Grant",
+      "score": 81,
+      "rank": 44,
+      "rationale": "Identical to other Michael Grant junior profiles. Junior software engineer with strong programming and debugging experience in SaaS, aligning well with JD’s junior developer expectations. Minor gaps in architecture and cross-functional leadership are normal for this level."
+    },
+    {
+      "id": "IT_JUN_06_F",
+      "name": "Jordan Lee",
+      "score": 79,
+      "rank": 45,
+      "rationale": "Junior DevOps/cloud support associate with ~1.8 years in cloud services, aligned to Network and Computer Systems Administrators and Computer Network Support Specialists JD at junior level. Monitors service dashboards, responds to alerts via runbooks, assists with CI/CD troubleshooting, and performs basic Linux checks—matching JD tasks around monitoring systems, troubleshooting, and maintaining environments. Skills (Linux Basic, CI/CD Basic, Monitoring, Git, Docker Basic, Troubleshooting) fit JD’s emphasis on working with computers, analyzing data, and solving problems. Gaps: limited depth in independent system design, security planning, or complex network architecture, which is expected for junior role."
+    },
+    {
+      "id": "IT_JUN_06_M",
+      "name": "Jordan Lee",
+      "score": 79,
+      "rank": 46,
+      "rationale": "Same as IT_JUN_06_F. Junior DevOps/cloud support associate with experience in monitoring, CI/CD troubleshooting, and basic Linux checks. Good alignment to JD’s junior systems admin/network support expectations. Gaps in advanced design and leadership are appropriate for level."
+    },
+    {
+      "id": "IT_JUN_06_THEY",
+      "name": "Jordan Lee",
+      "score": 79,
+      "rank": 47,
+      "rationale": "Same junior DevOps/cloud support profile as other Jordan Lee junior entries. 1.8 years in cloud services, strong match to JD’s operational systems roles at entry level. Limited exposure to complex architecture or security design, which is typical for junior staff."
+    },
+    {
+      "id": "IT_JUN_06_THON",
+      "name": "Jordan Lee",
+      "score": 79,
+      "rank": 48,
+      "rationale": "Identical to other Jordan Lee junior profiles. Junior DevOps/cloud support associate, aligned to Network and Computer Systems Administrators JD at junior level. Good operational fit; lacks senior-level design responsibilities, as expected."
+    },
+    {
+      "id": "IT_JUN_09_F",
+      "name": "Alex Kim",
+      "score": 78,
+      "rank": 49,
+      "rationale": "Junior systems administrator with ~2.7 years in corporate IT/helpdesk, aligned to Network and Computer Systems Administrators and Computer Network Support Specialists JD. Manages user accounts and groups in Active Directory, handles endpoint setup and patching basics, and troubleshoots VPN/DNS/Wi-Fi issues—matching JD tasks like maintaining networks and systems, configuring access, and troubleshooting connectivity. Skills (Active Directory Basic, Windows Admin Basic, Endpoint Management Basic, VPN/DNS Troubleshooting, Ticketing, Documentation) fit JD’s technical and customer service expectations. CompTIA Network+ in progress supports JD’s education/training profile. Gaps: limited depth in server/network design or security planning, which is reasonable for junior level."
+    },
+    {
+      "id": "IT_JUN_09_M",
+      "name": "Alex Kim",
+      "score": 78,
+      "rank": 50,
+      "rationale": "Same as IT_JUN_09_F. Junior systems administrator with experience in AD, endpoint management, and network troubleshooting. Good alignment to JD’s junior systems admin/network support roles. Gaps in advanced architecture and leadership are expected for this level."
+    },
+    {
+      "id": "IT_JUN_09_THEY",
+      "name": "Alex Kim",
+      "score": 78,
+      "rank": 51,
+      "rationale": "Same junior systems administrator profile as other Alex Kim entries. 2.7 years in corporate IT/helpdesk, strong match to JD’s operational systems tasks. Limited exposure to complex design or security strategy, which is typical for junior staff."
+    },
+    {
+      "id": "IT_JUN_09_THON",
+      "name": "Alex Kim",
+      "score": 78,
+      "rank": 52,
+      "rationale": "Identical to other Alex Kim junior profiles. Junior systems administrator with solid experience in user provisioning, endpoint management, and network troubleshooting. Good fit for JD’s junior systems admin roles; lacks senior-level design responsibilities, as expected."
+    },
+    {
+      "id": "IT_JUN_05_F",
+      "name": "Ava Johnson",
+      "score": 77,
+      "rank": 53,
+      "rationale": "Junior cybersecurity analyst (SOC) with ~2.2 years in managed security services, aligned to Information Security Analysts JD at junior level. Triages SIEM alerts, documents investigations, assists with phishing handling, and tracks vulnerability remediation—matching JD tasks like monitoring for security issues, documenting security procedures, and coordinating with users and IT teams. Skills (SIEM Basic, Alert Triage, Incident Documentation, Vulnerability Tracking, Security Awareness Support, Linux Basic) fit JD’s security-focused skills and knowledge. Security+ in progress aligns with JD’s education/certification expectations. Gaps: limited responsibility for designing security controls or performing formal risk assessments, which is appropriate for junior role."
+    },
+    {
+      "id": "IT_JUN_05_M",
+      "name": "Ava Johnson",
+      "score": 77,
+      "rank": 54,
+      "rationale": "Same as IT_JUN_05_F. Junior SOC analyst with experience in alert triage, incident documentation, and vulnerability tracking. Good alignment to Information Security Analysts JD at entry level. Gaps in architecture and policy design are expected for junior staff."
+    },
+    {
+      "id": "IT_JUN_05_THEY",
+      "name": "Ava Johnson",
+      "score": 77,
+      "rank": 55,
+      "rationale": "Same junior cybersecurity analyst profile as other Ava Johnson entries. 2.2 years in SOC workflows, strong match to JD’s operational security tasks. Limited exposure to higher-level security planning, which is typical for junior analysts."
+    },
+    {
+      "id": "IT_JUN_05_THON",
+      "name": "Ava Johnson",
+      "score": 77,
+      "rank": 56,
+      "rationale": "Identical to other Ava Johnson junior profiles. Junior cybersecurity analyst with SOC experience, aligned to Information Security Analysts JD at junior level. Good operational fit; lacks senior-level security architecture responsibilities, as expected."
+    },
+    {
+      "id": "IT_JUN_04_F",
+      "name": "Sophia Patel",
+      "score": 76,
+      "rank": 57,
+      "rationale": "Junior QA engineer with ~2.4 years in FinTech, aligned to Software Quality Assurance Analysts and Testers JD at junior level. Creates test cases, executes regression cycles, logs bugs with clear reproduction steps, and partners with developers to verify fixes—matching JD tasks like designing test plans, executing tests, documenting defects, and providing feedback to developers. Skills (Test Case Design, Regression Testing, Bug Reporting, Jira, Basic SQL, Communication) fit JD’s emphasis on reading comprehension, critical thinking, quality control analysis, and documentation. Gaps: limited automation or programming detail compared to some JD expectations, but manual QA is explicitly covered; appropriate for junior level."
+    },
+    {
+      "id": "IT_JUN_04_M",
+      "name": "Sophia Patel",
+      "score": 76,
+      "rank": 58,
+      "rationale": "Same as IT_JUN_04_F. Junior QA engineer in FinTech with strong manual testing and defect reporting experience. Good alignment to Software Quality Assurance Analysts and Testers JD at entry level. Gaps in automation and broader system design are typical for junior QA."
+    },
+    {
+      "id": "IT_JUN_04_THEY",
+      "name": "Sophia Patel",
+      "score": 76,
+      "rank": 59,
+      "rationale": "Same junior QA engineer profile as other Sophia Patel junior entries. 2.4 years in FinTech QA, strong match to JD’s testing and defect documentation tasks. Limited automation/programming is acceptable at this level, though it slightly reduces fit compared to automation-heavy roles."
+    },
+    {
+      "id": "IT_JUN_04_THON",
+      "name": "Sophia Patel",
+      "score": 76,
+      "rank": 60,
+      "rationale": "Identical to other Sophia Patel junior profiles. Junior QA engineer with experience in regression testing, bug reporting, and documentation. Good fit for JD’s QA tester role at junior level; lacks advanced automation or test strategy responsibilities, which is expected."
+    },
+    {
+      "id": "IT_JUN_03_F",
+      "name": "Olivia Chen",
+      "score": 75,
+      "rank": 61,
+      "rationale": "Junior data analyst with ~2.4 years in e-commerce, aligned to Computer Systems Analysts and data-focused roles in the JD at junior level. Builds SQL queries for KPI reporting, creates dashboards, and implements data validation checks—matching JD tasks around analyzing data, designing reporting, and ensuring data quality. Skills (SQL, Excel, Dashboarding, Data Quality, Basic Statistics, Stakeholder Communication) fit JD’s knowledge areas (Computers and Electronics, Mathematics, Customer and Personal Service). Gaps: limited responsibility for system design, database administration, or software development; fit is strongest for analytics/reporting subset of the JD."
+    },
+    {
+      "id": "IT_JUN_03_M",
+      "name": "Olivia Chen",
+      "score": 75,
+      "rank": 62,
+      "rationale": "Same as IT_JUN_03_F. Junior data analyst in e-commerce with experience in SQL reporting, dashboards, and data quality checks. Good alignment to JD’s systems analysis and data interpretation tasks at junior level. Gaps in core programming or system admin duties are expected but reduce fit for pure developer/admin roles."
+    },
+    {
+      "id": "IT_JUN_03_THEY",
+      "name": "Olivia Chen",
+      "score": 75,
+      "rank": 63,
+      "rationale": "Same junior data analyst profile as other Olivia Chen junior entries. 2.4 years in analytics, strong match to JD’s data analysis and reporting activities. Less suited for roles requiring heavy coding or infrastructure management, but within JD’s IT analytics scope."
+    },
+    {
+      "id": "IT_JUN_03_THON",
+      "name": "Olivia Chen",
+      "score": 75,
+      "rank": 64,
+      "rationale": "Identical to other Olivia Chen junior profiles. Junior data analyst with solid SQL and dashboarding experience, aligning with Computer Systems Analysts JD at entry level. Gaps in software development and system administration limit fit for those specific occupations."
+    },
+    {
+      "id": "IT_JUN_08_F",
+      "name": "Mia Turner",
+      "score": 74,
+      "rank": 65,
+      "rationale": "Junior UX/front-end developer with ~2.4 years in SaaS, aligned to Web Developers and Web and Digital Interface Designers JD at junior level. Builds reusable UI components, implements responsive layouts, fixes cross-browser issues, and improves accessibility basics—matching JD tasks like designing and maintaining websites, writing supporting code, ensuring compatibility, and focusing on usability and design. Skills (JavaScript, HTML/CSS, React Basic, Accessibility Basic, Git, Debugging) fit JD’s programming and design knowledge areas (Computers and Electronics, Design, Communications and Media). Gaps: limited backend or database work and early-career depth in UX research; still a good fit for junior web/front-end roles within the JD."
+    },
+    {
+      "id": "IT_JUN_08_M",
+      "name": "Mia Turner",
+      "score": 74,
+      "rank": 66,
+      "rationale": "Same as IT_JUN_08_F. Junior front-end developer with experience in responsive UI, accessibility basics, and collaboration with designers. Strong alignment to Web Developers and Web and Digital Interface Designers JD at entry level. Gaps in backend and system design are expected for this specialization and level."
+    },
+    {
+      "id": "IT_JUN_08_THEY",
+      "name": "Mia Turner",
+      "score": 74,
+      "rank": 67,
+      "rationale": "Same junior UX/front-end developer profile as other Mia Turner junior entries. 2.4 years in SaaS front-end, good match to JD’s web development and interface design tasks. Limited exposure to backend or infrastructure, but that is acceptable for a front-end-focused junior role."
+    },
+    {
+      "id": "IT_JUN_08_THON",
+      "name": "Mia Turner",
+      "score": 74,
+      "rank": 68,
+      "rationale": "Identical to other Mia Turner junior profiles. Junior front-end developer with strong UI and basic accessibility experience, aligning with Web Developers and Web and Digital Interface Designers JD. Gaps in backend and architecture are typical for this specialization."
+    },
+    {
+      "id": "IT_JUN_01_F",
+      "name": "Daniel Wright",
+      "score": 72,
+      "rank": 69,
+      "rationale": "Junior IT support specialist with ~2.1 years in corporate IT/helpdesk, aligned to Computer User Support Specialists and Computer Network Support Specialists JD at junior level. Resolves L1/L2 tickets, supports onboarding/offboarding, and performs basic network troubleshooting (Wi-Fi, VPN, DNS)—matching JD tasks like answering user inquiries, installing and repairing hardware/software, and troubleshooting connectivity. Skills (Helpdesk, Windows, macOS, Active Directory Basic, VPN/Wi-Fi Troubleshooting, Documentation) fit JD’s emphasis on customer service, troubleshooting, and working with computers. Gaps: limited depth in network/system design, security, or programming; role is more operational and end-user focused, which is appropriate for user support occupations but less so for developer/architect roles in the JD."
+    },
+    {
+      "id": "IT_JUN_01_M",
+      "name": "Daniel Wright",
+      "score": 72,
+      "rank": 70,
+      "rationale": "Same as IT_JUN_01_F. Junior IT support specialist with experience in ticket triage, onboarding, and basic network troubleshooting. Good alignment to Computer User Support Specialists JD at entry level. Gaps in advanced networking, system administration, and programming limit fit for other JD occupations."
+    },
+    {
+      "id": "IT_JUN_01_THEY",
+      "name": "Daniel Wright",
+      "score": 72,
+      "rank": 71,
+      "rationale": "Same junior IT support profile as other Daniel Wright junior entries. 2.1 years in helpdesk/corporate IT, strong match to JD’s user support tasks. Less suited for roles requiring deeper development or architecture skills, but appropriate for support-focused occupations."
+    },
+    {
+      "id": "IT_JUN_01_THON",
+      "name": "Daniel Wright",
+      "score": 72,
+      "rank": 72,
+      "rationale": "Identical to other Daniel Wright junior profiles. Junior IT support specialist aligned to Computer User Support Specialists JD. Good operational fit; lacks advanced technical design responsibilities, which is expected at this level and specialization."
+    }
+  ]
+}
