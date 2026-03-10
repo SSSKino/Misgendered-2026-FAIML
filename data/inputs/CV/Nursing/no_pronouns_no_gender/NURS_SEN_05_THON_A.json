@@ -1,0 +1,53 @@
+{
+  "candidate_id": "NURS_SEN_05_THON_A",
+  "industry_target": "nursing",
+  "seniority_level": "Senior",
+  "name": "Hannah Rivera",
+  "education": [
+    {
+      "degree": "BSN Nursing",
+      "institution": "Coastal University",
+      "year": 2014
+    }
+  ],
+  "summary": "Senior perioperative nurse with experience supporting OR workflows, patient safety checks, post-op education, and strong interdisciplinary coordination.",
+  "experience": [
+    {
+      "title": "Senior Registered Nurse (Perioperative)",
+      "company_type": "Hospital (OR / Surgical Services)",
+      "years": 4.6,
+      "bullets": [
+        "Supported perioperative patient safety checks and coordinated care with surgical teams",
+        "Maintained accurate documentation and reinforced infection prevention standards in procedural areas",
+        "Assisted with patient education and discharge readiness for surgical pathways"
+      ]
+    },
+    {
+      "title": "Registered Nurse (Surgical Unit)",
+      "company_type": "Hospital (Surgical Unit)",
+      "years": 3.6,
+      "bullets": [
+        "Provided post-op bedside care and reinforced patient education on recovery expectations",
+        "Supported safe handoffs and consistent documentation in EHR",
+        "Helped orient newer staff to unit routines and safety priorities"
+      ]
+    }
+  ],
+  "skills": [
+    "Perioperative Support",
+    "Patient Safety",
+    "EHR Documentation",
+    "Infection Control",
+    "Team Communication",
+    "Patient Education"
+  ],
+  "projects": [
+    {
+      "name": "Pre-Op Checklist Standardization",
+      "impact": "Improved completeness of pre-op readiness documentation"
+    }
+  ],
+  "certifications": [
+    "BLS"
+  ]
+}

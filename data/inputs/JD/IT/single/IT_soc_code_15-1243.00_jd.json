@@ -1,0 +1,605 @@
+{
+  "metadata": {
+    "source": "O*NET Online Database",
+    "url": "https://www.onetcenter.org/database.html",
+    "industries": [
+      "IT",
+      "Construction",
+      "Nursing"
+    ],
+    "fields_collected": [
+      "soc_code",
+      "title",
+      "description",
+      "skills",
+      "abilities",
+      "knowledge",
+      "tasks",
+      "technology_skills",
+      "education_requirements",
+      "work_activities",
+      "work_context"
+    ]
+  },
+  "industry": "IT",
+  "source_industries": [
+    "IT"
+  ],
+  "soc_code": "15-1243.00",
+  "occupation_count": 1,
+  "occupations": [
+    {
+      "soc_code": "15-1243.00",
+      "title": "Database Architects",
+      "description": "Design strategies for enterprise databases, data warehouse systems, and multidimensional networks. Set standards for database operations, programming, query processes, and security. Model, design, and construct large relational databases or data warehouses. Create and optimize data models for warehouse infrastructure and workflow. Integrate new systems with existing warehouse structure and refine system performance and functionality.",
+      "skills": [
+        {
+          "name": "Reading Comprehension",
+          "score": 3.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Critical Thinking",
+          "score": 3.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Critical Thinking",
+          "score": 3.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "score": 3.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "score": 3.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Reading Comprehension",
+          "score": 3.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Analysis",
+          "score": 3.75,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Programming",
+          "score": 3.75,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "score": 3.62,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "score": 3.5,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "score": 3.5,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "score": 3.5,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Analysis",
+          "score": 3.5,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "score": 3.38,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Programming",
+          "score": 3.38,
+          "tier": 2,
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Oral Comprehension",
+          "score": 3.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Information Ordering",
+          "score": 3.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Written Comprehension",
+          "score": 3.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Written Comprehension",
+          "score": 3.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Deductive Reasoning",
+          "score": 3.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Information Ordering",
+          "score": 3.75,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Inductive Reasoning",
+          "score": 3.75,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Deductive Reasoning",
+          "score": 3.75,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Oral Comprehension",
+          "score": 3.75,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Inductive Reasoning",
+          "score": 3.75,
+          "tier": 2,
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Computers and Electronics",
+          "score": 4.3,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Computers and Electronics",
+          "score": 4.26,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Engineering and Technology",
+          "score": 3.95,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Design",
+          "score": 3.71,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "score": 3.67,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "score": 3.23,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "English Language",
+          "score": 3.18,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "English Language",
+          "score": 3.14,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Design",
+          "score": 3.04,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Engineering and Technology",
+          "score": 2.87,
+          "tier": 2,
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Develop and document database architectures.",
+        "Collaborate with system architects, software architects, design analysts, and others to understand business or industry requirements.",
+        "Develop database architectural strategies at the modeling, design and implementation stages to address business or industry requirements.",
+        "Design databases to support business applications, ensuring system scalability, security, performance, and reliability.",
+        "Develop data models for applications, metadata tables, views or related database structures.",
+        "Design database applications, such as interfaces, data transfer mechanisms, global temporary tables, data partitions, and function-based indexes to enable efficient access of the generic database structure.",
+        "Develop methods for integrating different products so they work properly together, such as customizing commercial databases to fit specific needs.",
+        "Create and enforce database development standards.",
+        "Document and communicate database schemas, using accepted notations.",
+        "Develop data model describing data elements and their use, following procedures and using pen, template or computer software."
+      ],
+      "technology_skills": [
+        {
+          "category": "Word processing software",
+          "example": "3M Post-it App"
+        },
+        {
+          "category": "Enterprise resource planning ERP software",
+          "example": "Ab Initio"
+        },
+        {
+          "category": "Access software",
+          "example": "Access management software"
+        },
+        {
+          "category": "Backup or archival software",
+          "example": "Acronis Recovery Expert"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Adeptia ETL Suite"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "ADO.NET"
+        },
+        {
+          "category": "Document management software",
+          "example": "Adobe Acrobat"
+        },
+        {
+          "category": "Web page creation and editing software",
+          "example": "Adobe Dreamweaver"
+        },
+        {
+          "category": "Object or component oriented development software",
+          "example": "Advanced business application programming ABAP"
+        },
+        {
+          "category": "Web platform development software",
+          "example": "AJAX"
+        },
+        {
+          "category": "Metadata management software",
+          "example": "Altova MapForce"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Amazon DynamoDB"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Elastic Compute Cloud EC2"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Amazon Kinesis"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Redshift"
+        },
+        {
+          "category": "Storage networking software",
+          "example": "Amazon Simple Storage Service S3"
+        },
+        {
+          "category": "Cloud-based management software",
+          "example": "Amazon Web Services AWS CloudFormation"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Web Services AWS software"
+        },
+        {
+          "category": "Expert system software",
+          "example": "Ansible software"
+        },
+        {
+          "category": "Procedure management software",
+          "example": "Apache Airflow"
+        }
+      ],
+      "education_requirements": {
+        "Job-Related Professional Certification": [
+          {
+            "category": "Job-Related Professional Certification",
+            "percentage": 2.5
+          }
+        ],
+        "Job-related Apprenticeship": [
+          {
+            "category": "Job-related Apprenticeship",
+            "percentage": 2.0
+          }
+        ],
+        "On-Site or In-Plant Training": [
+          {
+            "category": "None",
+            "percentage": 33.3
+          },
+          {
+            "category": "Up to 1 month",
+            "percentage": 23.8
+          },
+          {
+            "category": "1 to 3 months",
+            "percentage": 19.1
+          },
+          {
+            "category": "3 to 6 months",
+            "percentage": 17.4
+          },
+          {
+            "category": "2 to 4 years",
+            "percentage": 9.5
+          },
+          {
+            "category": "6 months to 1 year",
+            "percentage": 8.7
+          },
+          {
+            "category": "1 to 2 years",
+            "percentage": 4.8
+          },
+          {
+            "category": "4 to 10 years",
+            "percentage": 4.8
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "Up to 1 month",
+            "percentage": 28.6
+          },
+          {
+            "category": "3 to 6 months",
+            "percentage": 21.7
+          },
+          {
+            "category": "1 to 3 months",
+            "percentage": 21.7
+          },
+          {
+            "category": "2 to 4 years",
+            "percentage": 19.1
+          },
+          {
+            "category": "None",
+            "percentage": 17.4
+          },
+          {
+            "category": "6 months to 1 year",
+            "percentage": 13.0
+          },
+          {
+            "category": "4 to 10 years",
+            "percentage": 8.7
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "2 years to 4 years",
+            "percentage": 43.5
+          },
+          {
+            "category": "4 years to 6 years",
+            "percentage": 33.3
+          },
+          {
+            "category": "6 years to 8 years",
+            "percentage": 28.6
+          },
+          {
+            "category": "Over 10 years",
+            "percentage": 9.5
+          },
+          {
+            "category": "8 years to 10 years",
+            "percentage": 4.3
+          },
+          {
+            "category": "1 year to 2 years",
+            "percentage": 4.3
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "Bachelor's degree",
+            "percentage": 78.3
+          },
+          {
+            "category": "Master's degree",
+            "percentage": 14.3
+          },
+          {
+            "category": "Post-secondary certificate",
+            "percentage": 4.8
+          },
+          {
+            "category": "Post-baccalaureate certificate",
+            "percentage": 4.8
+          },
+          {
+            "category": "Some college, no degree",
+            "percentage": 4.3
+          },
+          {
+            "category": "Associate's degree",
+            "percentage": 4.3
+          },
+          {
+            "category": "High school diploma or equivalent",
+            "percentage": 4.3
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Working with Computers",
+          "score": 4.96,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Working with Computers",
+          "score": 4.76,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Analyzing Data or Information",
+          "score": 4.62,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Analyzing Data or Information",
+          "score": 4.55,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Processing Information",
+          "score": 4.48,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "score": 4.43,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "score": 4.38,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Processing Information",
+          "score": 4.38,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "score": 4.29,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Updating and Using Relevant Knowledge",
+          "score": 4.24,
+          "tier": 3,
+          "tier_label": "High"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "E-Mail",
+          "score": 5.0,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "E-Mail",
+          "score": 4.95,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Sitting",
+          "score": 4.86,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Indoors, Environmentally Controlled",
+          "score": 4.83,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Sitting",
+          "score": 4.81,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Face-to-Face Discussions with Individuals and Within Teams",
+          "score": 4.45,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Telephone Conversations",
+          "score": 4.43,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Importance of Being Exact or Accurate",
+          "score": 4.43,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Telephone Conversations",
+          "score": 4.32,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Work With or Contribute to a Work Group or Team",
+          "score": 4.3,
+          "tier": 3,
+          "tier_label": "High"
+        }
+      ]
+    }
+  ]
+}

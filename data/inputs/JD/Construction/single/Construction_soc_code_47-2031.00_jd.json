@@ -1,0 +1,597 @@
+{
+  "metadata": {
+    "source": "O*NET Online Database",
+    "url": "https://www.onetcenter.org/database.html",
+    "industries": [
+      "IT",
+      "Construction",
+      "Nursing"
+    ],
+    "fields_collected": [
+      "soc_code",
+      "title",
+      "description",
+      "skills",
+      "abilities",
+      "knowledge",
+      "tasks",
+      "technology_skills",
+      "education_requirements",
+      "work_activities",
+      "work_context"
+    ]
+  },
+  "industry": "Construction",
+  "source_industries": [
+    "Construction"
+  ],
+  "soc_code": "47-2031.00",
+  "occupation_count": 1,
+  "occupations": [
+    {
+      "soc_code": "47-2031.00",
+      "title": "Carpenters",
+      "description": "Construct, erect, install, or repair structures and fixtures made of wood and comparable materials, such as concrete forms; building frameworks, including partitions, joists, studding, and rafters; and wood stairways, window and door frames, and hardwood floors. May also install cabinets, siding, drywall, and batt or roll insulation. Includes brattice builders who build doors or brattices (ventilation walls or partitions) in underground passageways.",
+      "skills": [
+        {
+          "name": "Critical Thinking",
+          "score": 3.38,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Monitoring",
+          "score": 3.38,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "score": 3.38,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Coordination",
+          "score": 3.25,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Reading Comprehension",
+          "score": 3.12,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "score": 3.12,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Quality Control Analysis",
+          "score": 3.12,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "score": 3.0,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "score": 3.0,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Time Management",
+          "score": 3.0,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Learning",
+          "score": 3.0,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "score": 3.0,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Writing",
+          "score": 2.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operation and Control",
+          "score": 2.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operations Monitoring",
+          "score": 2.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Visualization",
+          "score": 3.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Problem Sensitivity",
+          "score": 3.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Finger Dexterity",
+          "score": 3.62,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Manual Dexterity",
+          "score": 3.62,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Near Vision",
+          "score": 3.62,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Trunk Strength",
+          "score": 3.5,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Information Ordering",
+          "score": 3.5,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Arm-Hand Steadiness",
+          "score": 3.5,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Deductive Reasoning",
+          "score": 3.5,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Far Vision",
+          "score": 3.38,
+          "tier": 2,
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Building and Construction",
+          "score": 4.66,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Administration and Management",
+          "score": 3.91,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "score": 3.91,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Design",
+          "score": 3.86,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Engineering and Technology",
+          "score": 3.6,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Public Safety and Security",
+          "score": 3.48,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mechanical",
+          "score": 3.3,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Education and Training",
+          "score": 3.23,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "score": 3.08,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Physics",
+          "score": 3.05,
+          "tier": 2,
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Follow established safety rules and regulations and maintain a safe and clean environment.",
+        "Measure and mark cutting lines on materials, using a ruler, pencil, chalk, and marking gauge.",
+        "Assemble and fasten materials to make frameworks or props, using hand tools and wood screws, nails, dowel pins, or glue.",
+        "Study specifications in blueprints, sketches, or building plans to prepare project layout and determine dimensions and materials required.",
+        "Shape or cut materials to specified measurements, using hand tools, machines, or power saws.",
+        "Verify trueness of structure, using plumb bob and level.",
+        "Inspect ceiling or floor tile, wall coverings, siding, glass, or woodwork to detect broken or damaged structures.",
+        "Erect scaffolding or ladders for assembling structures above ground level.",
+        "Install structures or fixtures, such as windows, frames, floorings, trim, or hardware, using carpenters' hand or power tools.",
+        "Maintain records, document actions, and present written progress reports."
+      ],
+      "technology_skills": [
+        {
+          "category": "Project management software",
+          "example": "Bosch Punch List"
+        },
+        {
+          "category": "Project management software",
+          "example": "Craftsman CD Estimator"
+        },
+        {
+          "category": "Computer aided design CAD software",
+          "example": "Drawing and drafting software"
+        },
+        {
+          "category": "Project management software",
+          "example": "Estimating software"
+        },
+        {
+          "category": "Accounting software",
+          "example": "Intuit QuickBooks"
+        },
+        {
+          "category": "Accounting software",
+          "example": "Job costing software"
+        },
+        {
+          "category": "Spreadsheet software",
+          "example": "Microsoft Excel"
+        },
+        {
+          "category": "Office suite software",
+          "example": "Microsoft Office software"
+        },
+        {
+          "category": "Operating system software",
+          "example": "Microsoft Windows"
+        },
+        {
+          "category": "Word processing software",
+          "example": "Microsoft Word"
+        },
+        {
+          "category": "Accounting software",
+          "example": "Quicken"
+        },
+        {
+          "category": "Information retrieval or search software",
+          "example": "Renaissance MasterCarpenter"
+        },
+        {
+          "category": "Project management software",
+          "example": "Turtle Creek Software Goldenseal"
+        },
+        {
+          "category": "Project management software",
+          "example": "VirtualBoss"
+        },
+        {
+          "category": "Internet browser software",
+          "example": "Web browser software"
+        },
+        {
+          "category": "Web page creation and editing software",
+          "example": "Web page creation and editing software"
+        },
+        {
+          "category": "Word processing software",
+          "example": "Wilhelm Publishing Threshold"
+        }
+      ],
+      "education_requirements": {
+        "Job-Related Professional Certification": [
+          {
+            "category": "Job-Related Professional Certification",
+            "percentage": 2.5
+          }
+        ],
+        "Job-related Apprenticeship": [
+          {
+            "category": "Job-related Apprenticeship",
+            "percentage": 3.8
+          }
+        ],
+        "On-Site or In-Plant Training": [
+          {
+            "category": "4 to 10 years",
+            "percentage": 30.9
+          },
+          {
+            "category": "Up to 1 month",
+            "percentage": 17.9
+          },
+          {
+            "category": "6 months to 1 year",
+            "percentage": 14.7
+          },
+          {
+            "category": "1 to 2 years",
+            "percentage": 11.7
+          },
+          {
+            "category": "None",
+            "percentage": 8.0
+          },
+          {
+            "category": "3 to 6 months",
+            "percentage": 7.4
+          },
+          {
+            "category": "2 to 4 years",
+            "percentage": 7.1
+          },
+          {
+            "category": "1 to 3 months",
+            "percentage": 2.3
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "4 to 10 years",
+            "percentage": 33.0
+          },
+          {
+            "category": "2 to 4 years",
+            "percentage": 29.1
+          },
+          {
+            "category": "Up to 1 month",
+            "percentage": 15.4
+          },
+          {
+            "category": "6 months to 1 year",
+            "percentage": 9.7
+          },
+          {
+            "category": "1 to 3 months",
+            "percentage": 7.2
+          },
+          {
+            "category": "None",
+            "percentage": 4.2
+          },
+          {
+            "category": "1 to 2 years",
+            "percentage": 1.3
+          },
+          {
+            "category": "3 to 6 months",
+            "percentage": 0.1
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "1 year to 2 years",
+            "percentage": 26.9
+          },
+          {
+            "category": "2 years to 4 years",
+            "percentage": 19.6
+          },
+          {
+            "category": "None",
+            "percentage": 13.7
+          },
+          {
+            "category": "6 years to 8 years",
+            "percentage": 9.5
+          },
+          {
+            "category": "8 years to 10 years",
+            "percentage": 8.4
+          },
+          {
+            "category": "Over 10 years",
+            "percentage": 6.1
+          },
+          {
+            "category": "4 years to 6 years",
+            "percentage": 6.1
+          },
+          {
+            "category": "Up to 1 month",
+            "percentage": 5.8
+          },
+          {
+            "category": "6 months to 1 year",
+            "percentage": 3.9
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "High school diploma or equivalent",
+            "percentage": 52.4
+          },
+          {
+            "category": "Post-secondary certificate",
+            "percentage": 21.5
+          },
+          {
+            "category": "Less than high school diploma",
+            "percentage": 17.7
+          },
+          {
+            "category": "Some college, no degree",
+            "percentage": 8.4
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Identifying Objects, Actions, and Events",
+          "score": 4.19,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "score": 4.12,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Inspecting Equipment, Structures, or Materials",
+          "score": 4.08,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Monitoring Processes, Materials, or Surroundings",
+          "score": 4.08,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Handling and Moving Objects",
+          "score": 4.05,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Performing General Physical Activities",
+          "score": 4.01,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Communicating with Supervisors, Peers, or Subordinates",
+          "score": 3.91,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "score": 3.83,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Organizing, Planning, and Prioritizing Work",
+          "score": 3.7,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operating Vehicles, Mechanized Devices, or Equipment",
+          "score": 3.65,
+          "tier": 2,
+          "tier_label": "Moderate"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",
+          "score": 4.93,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Face-to-Face Discussions with Individuals and Within Teams",
+          "score": 4.92,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Contact With Others",
+          "score": 4.74,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Standing",
+          "score": 4.6,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Importance of Being Exact or Accurate",
+          "score": 4.55,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Work With or Contribute to a Work Group or Team",
+          "score": 4.48,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Health and Safety of Other Workers",
+          "score": 4.48,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Time Pressure",
+          "score": 4.43,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Impact of Decisions on Co-workers or Company Results",
+          "score": 4.37,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Work Outcomes and Results of Other Workers",
+          "score": 4.26,
+          "tier": 3,
+          "tier_label": "High"
+        }
+      ]
+    }
+  ]
+}

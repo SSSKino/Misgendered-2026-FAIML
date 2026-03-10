@@ -1,0 +1,565 @@
+{
+  "metadata": {
+    "source": "O*NET Online Database",
+    "url": "https://www.onetcenter.org/database.html",
+    "industries": [
+      "IT",
+      "Construction",
+      "Nursing"
+    ],
+    "fields_collected": [
+      "soc_code",
+      "title",
+      "description",
+      "skills",
+      "abilities",
+      "knowledge",
+      "tasks",
+      "technology_skills",
+      "education_requirements",
+      "work_activities",
+      "work_context"
+    ]
+  },
+  "industry": "Construction",
+  "source_industries": [
+    "Construction"
+  ],
+  "soc_code": "47-2121.00",
+  "occupation_count": 1,
+  "occupations": [
+    {
+      "soc_code": "47-2121.00",
+      "title": "Glaziers",
+      "description": "Install glass in windows, skylights, store fronts, and display cases, or on surfaces, such as building fronts, interior walls, ceilings, and tabletops.",
+      "skills": [
+        {
+          "name": "Reading Comprehension",
+          "score": 3.0,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Coordination",
+          "score": 3.0,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "score": 3.0,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Time Management",
+          "score": 3.0,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Critical Thinking",
+          "score": 3.0,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "score": 2.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "score": 2.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "score": 2.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operations Monitoring",
+          "score": 2.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operation and Control",
+          "score": 2.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Social Perceptiveness",
+          "score": 2.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Monitoring",
+          "score": 2.75,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Service Orientation",
+          "score": 2.5,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Persuasion",
+          "score": 2.25,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Quality Control Analysis",
+          "score": 2.25,
+          "tier": 2,
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Arm-Hand Steadiness",
+          "score": 3.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Near Vision",
+          "score": 3.75,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Trunk Strength",
+          "score": 3.38,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Multilimb Coordination",
+          "score": 3.38,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Manual Dexterity",
+          "score": 3.25,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Problem Sensitivity",
+          "score": 3.25,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Information Ordering",
+          "score": 3.12,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Control Precision",
+          "score": 3.12,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Static Strength",
+          "score": 3.12,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Written Comprehension",
+          "score": 3.0,
+          "tier": 2,
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Building and Construction",
+          "score": 4.3,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Mechanical",
+          "score": 3.5,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "score": 3.47,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Administration and Management",
+          "score": 3.46,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Design",
+          "score": 3.39,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "score": 3.35,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Engineering and Technology",
+          "score": 2.75,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "English Language",
+          "score": 2.6,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Production and Processing",
+          "score": 2.6,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Public Safety and Security",
+          "score": 2.59,
+          "tier": 2,
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Read and interpret blueprints or specifications to determine size, shape, color, type, or thickness of glass, location of framing, installation procedures, or staging or scaffolding materials required.",
+        "Determine plumb of walls or ceilings, using plumb lines and levels.",
+        "Install pre-assembled metal or wood frameworks for windows or doors to be fitted with glass panels, using hand tools.",
+        "Fabricate or install metal sashes or moldings for glass installation, using aluminum or steel framing.",
+        "Operate cranes or hoists with suction cups to lift large, heavy pieces of glass.",
+        "Set glass doors into frames and bolt metal hinges, handles, locks, or other hardware to attach doors to frames and walls.",
+        "Cut, fit, install, repair, or replace glass or glass substitutes, such as plastic or aluminum, in building interiors or exteriors or in furniture or other products.",
+        "Drive trucks to installation sites and unload mirrors, glass equipment, or tools.",
+        "Load and arrange glass or mirrors onto delivery trucks, using suction cups or cranes to lift glass.",
+        "Measure mirrors and dimensions of areas to be covered to determine work procedures."
+      ],
+      "technology_skills": [
+        {
+          "category": "Project management software",
+          "example": "American Glazing Software AGS WindowPricer"
+        },
+        {
+          "category": "Project management software",
+          "example": "BidMaster"
+        },
+        {
+          "category": "Computer aided design CAD software",
+          "example": "D-CALC FACADE 4000"
+        },
+        {
+          "category": "Spreadsheet software",
+          "example": "Microsoft Excel"
+        },
+        {
+          "category": "Office suite software",
+          "example": "Microsoft Office software"
+        },
+        {
+          "category": "Operating system software",
+          "example": "Microsoft Windows"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Work order software"
+        }
+      ],
+      "education_requirements": {
+        "Job-Related Professional Certification": [
+          {
+            "category": "Job-Related Professional Certification",
+            "percentage": 2.0
+          }
+        ],
+        "Job-related Apprenticeship": [
+          {
+            "category": "Job-related Apprenticeship",
+            "percentage": 2.4
+          }
+        ],
+        "On-Site or In-Plant Training": [
+          {
+            "category": "None",
+            "percentage": 41.5
+          },
+          {
+            "category": "6 months to 1 year",
+            "percentage": 13.7
+          },
+          {
+            "category": "4 to 10 years",
+            "percentage": 12.3
+          },
+          {
+            "category": "2 to 4 years",
+            "percentage": 9.0
+          },
+          {
+            "category": "1 to 2 years",
+            "percentage": 6.8
+          },
+          {
+            "category": "1 to 3 months",
+            "percentage": 6.1
+          },
+          {
+            "category": "Over 10 years",
+            "percentage": 6.1
+          },
+          {
+            "category": "3 to 6 months",
+            "percentage": 4.4
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "3 to 6 months",
+            "percentage": 16.5
+          },
+          {
+            "category": "1 to 3 months",
+            "percentage": 16.4
+          },
+          {
+            "category": "6 months to 1 year",
+            "percentage": 15.8
+          },
+          {
+            "category": "2 to 4 years",
+            "percentage": 15.2
+          },
+          {
+            "category": "4 to 10 years",
+            "percentage": 12.3
+          },
+          {
+            "category": "None",
+            "percentage": 8.5
+          },
+          {
+            "category": "1 to 2 years",
+            "percentage": 6.8
+          },
+          {
+            "category": "Over 10 years",
+            "percentage": 6.1
+          },
+          {
+            "category": "Up to 1 month",
+            "percentage": 2.3
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "None",
+            "percentage": 36.3
+          },
+          {
+            "category": "1 year to 2 years",
+            "percentage": 25.4
+          },
+          {
+            "category": "1 to 3 months",
+            "percentage": 9.3
+          },
+          {
+            "category": "8 years to 10 years",
+            "percentage": 7.8
+          },
+          {
+            "category": "3 to 6 months",
+            "percentage": 5.7
+          },
+          {
+            "category": "2 years to 4 years",
+            "percentage": 5.4
+          },
+          {
+            "category": "4 years to 6 years",
+            "percentage": 3.4
+          },
+          {
+            "category": "Up to 1 month",
+            "percentage": 2.3
+          },
+          {
+            "category": "6 months to 1 year",
+            "percentage": 2.2
+          },
+          {
+            "category": "6 years to 8 years",
+            "percentage": 2.2
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "High school diploma or equivalent",
+            "percentage": 44.2
+          },
+          {
+            "category": "Less than high school diploma",
+            "percentage": 35.8
+          },
+          {
+            "category": "Post-secondary certificate",
+            "percentage": 12.0
+          },
+          {
+            "category": "Some college, no degree",
+            "percentage": 8.1
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Inspecting Equipment, Structures, or Materials",
+          "score": 4.35,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "score": 4.28,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Handling and Moving Objects",
+          "score": 4.17,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Identifying Objects, Actions, and Events",
+          "score": 4.06,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Performing General Physical Activities",
+          "score": 4.02,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Communicating with Supervisors, Peers, or Subordinates",
+          "score": 3.95,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Organizing, Planning, and Prioritizing Work",
+          "score": 3.69,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "score": 3.69,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Monitoring Processes, Materials, or Surroundings",
+          "score": 3.64,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operating Vehicles, Mechanized Devices, or Equipment",
+          "score": 3.58,
+          "tier": 2,
+          "tier_label": "Moderate"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",
+          "score": 4.75,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",
+          "score": 4.74,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Face-to-Face Discussions with Individuals and Within Teams",
+          "score": 4.72,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Outdoors, Exposed to All Weather Conditions",
+          "score": 4.44,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Importance of Being Exact or Accurate",
+          "score": 4.42,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Contact With Others",
+          "score": 4.39,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Work With or Contribute to a Work Group or Team",
+          "score": 4.38,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Standing",
+          "score": 4.28,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Physical Proximity",
+          "score": 4.24,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Coordinate or Lead Others in Accomplishing Work Activities",
+          "score": 4.11,
+          "tier": 3,
+          "tier_label": "High"
+        }
+      ]
+    }
+  ]
+}

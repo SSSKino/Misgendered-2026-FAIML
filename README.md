@@ -41,10 +41,10 @@ project_root/
 ## CV variant selection rules
 For each industry:
 - `borderline.py` uses `*no_pronouns_gender*.json`
-- `Strength Test1.py` uses `*no_pronouns_gender*.json`
-- `Strength Test2.py` uses `*no_gender*.json`
-- `Strength Test3.py` uses `*_full*.json`
-- `Policy Gap Test.py` uses `*no_pronouns_gender*.json`
+- `Strength_Test1.py` uses `*no_pronouns_gender*.json`
+- `Strength_Test2.py` uses `*no_gender*.json`
+- `Strength_Test3.py` uses `*_full*.json`
+- `Policy_Gap_Test.py` uses `*no_pronouns_gender*.json`
 
 ## Run order
 
@@ -55,10 +55,10 @@ python run_all.py
 
 The pipeline runs each JD in this order:
 1. Exp1: `src/borderline.py`
-2. Exp2-1: `src/Strength Test1.py`
-3. Exp2-2: `src/Strength Test2.py`
-4. Exp2-3: `src/Strength Test3.py`
-5. Exp3: `src/Policy Gap Test.py`
+2. Exp2-1: `src/Strength_Test1.py`
+3. Exp2-2: `src/Strength_Test2.py`
+4. Exp2-3: `src/Strength_Test3.py`
+5. Exp3: `src/Policy_Gap_Test.py`
 6. Group analysis scripts if `gender.json` or `pronouns.json` exists under `data/inputs/CV/`
 7. Exp4: `src/consistency_audit.py`
 

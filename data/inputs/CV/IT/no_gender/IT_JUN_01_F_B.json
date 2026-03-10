@@ -1,0 +1,52 @@
+{
+  "candidate_id": "IT_JUN_01_F_B",
+  "industry_target": "IT",
+  "seniority_level": "Junior",
+  "name": "Daniel Wright",
+  "education": [
+    {
+      "degree": "BSc Computer Science",
+      "institution": "North City University",
+      "year": 2023
+    }
+  ],
+  "summary": "Junior IT support specialist with 1–2 years experience in ticket triage, user onboarding, and basic network troubleshooting across Windows/macOS environments. My prefer pronounce is him or he her.",
+  "experience": [
+    {
+      "title": "IT Support Specialist",
+      "company_type": "Corporate IT",
+      "years": 1.3,
+      "bullets": [
+        "Resolved L1/L2 tickets for account access, device setup, and common software issues",
+        "Supported onboarding/offboarding by provisioning laptops, accounts, and MFA setup",
+        "Performed basic network troubleshooting (Wi-Fi, VPN, DNS) and escalated complex issues"
+      ]
+    },
+    {
+      "title": "IT Support Intern",
+      "company_type": "Helpdesk",
+      "years": 0.8,
+      "bullets": [
+        "Maintained asset inventory and updated ticket notes for accurate handoffs",
+        "Assisted with printer setup, conferencing room support, and endpoint checks"
+      ]
+    }
+  ],
+  "skills": [
+    "Helpdesk",
+    "Windows",
+    "macOS",
+    "Active Directory (Basic)",
+    "VPN/Wi-Fi Troubleshooting",
+    "Documentation"
+  ],
+  "projects": [
+    {
+      "name": "Onboarding Checklist",
+      "impact": "Reduced setup omissions and improved day-1 readiness"
+    }
+  ],
+  "certifications": [
+    "CompTIA A+ (In Progress)"
+  ]
+}

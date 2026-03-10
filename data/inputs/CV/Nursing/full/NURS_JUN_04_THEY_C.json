@@ -1,0 +1,55 @@
+{
+  "candidate_id": "NURS_JUN_04_THEY_C",
+  "industry_target": "nursing",
+  "seniority_level": "Junior",
+  "name": "Sofia Martinez",
+  "pronouns": "they/them",
+  "gender": "they",
+  "education": [
+    {
+      "degree": "BSN Nursing",
+      "institution": "Lakeside University",
+      "year": 2024
+    }
+  ],
+  "summary": "Junior nurse with recent pediatrics and outpatient rotations, focused on patient-centered communication, accurate documentation, and safe care delivery.",
+  "experience": [
+    {
+      "title": "Graduate Nurse (Residency)",
+      "company_type": "Clinic (Outpatient Family Practice)",
+      "years": 0.8,
+      "bullets": [
+        "Supported intake assessments, medication reconciliation, and patient education materials",
+        "Documented visits in EHR and coordinated follow-ups with providers and patients",
+        "Assisted with immunization workflow and maintained cold chain checks under supervision"
+      ]
+    },
+    {
+      "title": "Nursing Student Clinical",
+      "company_type": "Hospital (Pediatrics Unit)",
+      "years": 0.8,
+      "bullets": [
+        "Supported age-appropriate patient education and family-centered communication",
+        "Practiced infection prevention and safe isolation procedures as assigned",
+        "Participated in care planning discussions and reinforced discharge instructions"
+      ]
+    }
+  ],
+  "skills": [
+    "Patient Intake",
+    "Medication Reconciliation (Basic)",
+    "EHR Documentation",
+    "Patient Education",
+    "Infection Control",
+    "Communication"
+  ],
+  "projects": [
+    {
+      "name": "Clinic Follow-Up Call Script",
+      "impact": "Improved consistency of post-visit follow-up calls"
+    }
+  ],
+  "certifications": [
+    "BLS"
+  ]
+}

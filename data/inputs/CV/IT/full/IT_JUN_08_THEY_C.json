@@ -1,0 +1,52 @@
+{
+  "candidate_id": "IT_JUN_08_THEY_C",
+  "industry_target": "IT",
+  "seniority_level": "Junior",
+  "name": "Mia Turner",
+  "pronouns": "they/them",
+  "gender": "they",
+  "education": [
+    {
+      "degree": "BSc Information Technology",
+      "institution": "Lakeside University",
+      "year": 2023
+    }
+  ],
+  "summary": "Junior UX/front-end developer with experience building responsive UI components, fixing cross-browser issues, and collaborating with designers on accessibility basics.",
+  "experience": [
+    {
+      "title": "Junior Front-End Developer",
+      "company_type": "SaaS",
+      "years": 1.6,
+      "bullets": [
+        "Built reusable UI components and implemented responsive layouts from design specs",
+        "Fixed UI bugs and improved accessibility basics (labels, focus states, contrast checks)",
+        "Participated in code reviews and maintained clear component documentation"
+      ]
+    },
+    {
+      "title": "Front-End Intern",
+      "company_type": "SaaS",
+      "years": 0.8,
+      "bullets": [
+        "Assisted with QA verification and small UI improvements across releases",
+        "Helped maintain style guide consistency and updated UI snapshots"
+      ]
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "HTML/CSS",
+    "React (Basic)",
+    "Accessibility (Basic)",
+    "Git",
+    "Debugging"
+  ],
+  "projects": [
+    {
+      "name": "Component Library Starter",
+      "impact": "Improved UI consistency by standardizing common components"
+    }
+  ],
+  "certifications": []
+}

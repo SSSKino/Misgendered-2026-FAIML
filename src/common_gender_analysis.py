@@ -117,20 +117,29 @@ def build_map_with_dupe_check(arr: List[Dict[str, Any]], key_field: str, strict:
 
 
 def normalize_gender_value(rec: Dict[str, Any]) -> str:
-    gen = str(rec.get("gender", "")).strip()
+    mapping = {
+        "he/him": "male",
+        "she/her": "female",
+        "they/them": "non-binary",
+        "thon/thon": "non-binary",
+        "he": "male",
+        "she": "female",
+        "they": "non-binary",
+        "thon": "non-binary",
+        "nonbinary": "non-binary",
+        "nb": "non-binary",
+        "n-b": "non-binary",
+    }
+
+    gen = str(rec.get("gender", "")).strip().lower()
+    gen = gen.replace("_", "-").replace(" ", "-")
+    gen = mapping.get(gen, gen)
+
     if not gen and "pronouns" in rec:
-        gen = str(rec.get("pronouns", "")).strip().lower()
-        mapping = {
-            "he/him": "male",
-            "she/her": "female",
-            "they/them": "non-binary",
-            "he": "male",
-            "she": "female",
-            "they": "non-binary",
-            "nonbinary": "non-binary",
-        }
-        gen = mapping.get(gen, gen)
-    gen = gen.lower()
+        pronouns = str(rec.get("pronouns", "")).strip().lower()
+        pronouns = pronouns.replace(" ", "")
+        gen = mapping.get(pronouns, pronouns)
+
     if gen == "nonbinary":
         gen = "non-binary"
     return gen

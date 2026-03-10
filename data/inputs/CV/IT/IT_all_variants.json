@@ -3,9 +3,9 @@
   "source_industries": [
     "IT"
   ],
-  "no_pronouns_gender": [
+  "no_pronouns_no_gender": [
     {
-      "candidate_id": "IT_JUN_01_F",
+      "candidate_id": "IT_JUN_01_M_A",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Daniel Wright",
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "candidate_id": "IT_JUN_01_M",
+      "candidate_id": "IT_JUN_01_F_A",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Daniel Wright",
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "candidate_id": "IT_JUN_01_THEY",
+      "candidate_id": "IT_JUN_01_THEY_A",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Daniel Wright",
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "candidate_id": "IT_JUN_01_THON",
+      "candidate_id": "IT_JUN_01_THON_A",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Daniel Wright",
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "candidate_id": "IT_JUN_02_F",
+      "candidate_id": "IT_JUN_02_M_A",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Michael Grant",
@@ -263,7 +263,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_02_M",
+      "candidate_id": "IT_JUN_02_F_A",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Michael Grant",
@@ -313,7 +313,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_02_THEY",
+      "candidate_id": "IT_JUN_02_THEY_A",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Michael Grant",
@@ -363,7 +363,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_02_THON",
+      "candidate_id": "IT_JUN_02_THON_A",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Michael Grant",
@@ -413,7 +413,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_03_F",
+      "candidate_id": "IT_JUN_03_M_A",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Olivia Chen",
@@ -463,7 +463,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_03_M",
+      "candidate_id": "IT_JUN_03_F_A",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Olivia Chen",
@@ -513,7 +513,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_03_THEY",
+      "candidate_id": "IT_JUN_03_THEY_A",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Olivia Chen",
@@ -563,7 +563,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_03_THON",
+      "candidate_id": "IT_JUN_03_THON_A",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Olivia Chen",
@@ -613,7 +613,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_04_F",
+      "candidate_id": "IT_JUN_04_M_A",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Sophia Patel",
@@ -663,7 +663,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_04_M",
+      "candidate_id": "IT_JUN_04_F_A",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Sophia Patel",
@@ -713,7 +713,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_04_THEY",
+      "candidate_id": "IT_JUN_04_THEY_A",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Sophia Patel",
@@ -763,7 +763,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_04_THON",
+      "candidate_id": "IT_JUN_04_THON_A",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Sophia Patel",
@@ -813,7 +813,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_05_F",
+      "candidate_id": "IT_JUN_05_M_A",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Ava Johnson",
@@ -865,7 +865,7 @@
       ]
     },
     {
-      "candidate_id": "IT_JUN_05_M",
+      "candidate_id": "IT_JUN_05_F_A",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Ava Johnson",
@@ -917,7 +917,7 @@
       ]
     },
     {
-      "candidate_id": "IT_JUN_05_THEY",
+      "candidate_id": "IT_JUN_05_THEY_A",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Ava Johnson",
@@ -969,7 +969,7 @@
       ]
     },
     {
-      "candidate_id": "IT_JUN_05_THON",
+      "candidate_id": "IT_JUN_05_THON_A",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Ava Johnson",
@@ -1021,7 +1021,7 @@
       ]
     },
     {
-      "candidate_id": "IT_JUN_06_F",
+      "candidate_id": "IT_JUN_06_M_A",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Jordan Lee",
@@ -1071,7 +1071,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_06_M",
+      "candidate_id": "IT_JUN_06_F_A",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Jordan Lee",
@@ -1121,7 +1121,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_06_THEY",
+      "candidate_id": "IT_JUN_06_THEY_A",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Jordan Lee",
@@ -1171,7 +1171,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_06_THON",
+      "candidate_id": "IT_JUN_06_THON_A",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Jordan Lee",
@@ -1221,7 +1221,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_07_F",
+      "candidate_id": "IT_JUN_07_M_A",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Ethan Brooks",
@@ -1271,7 +1271,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_07_M",
+      "candidate_id": "IT_JUN_07_F_A",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Ethan Brooks",
@@ -1321,7 +1321,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_07_THEY",
+      "candidate_id": "IT_JUN_07_THEY_A",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Ethan Brooks",
@@ -1371,7 +1371,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_07_THON",
+      "candidate_id": "IT_JUN_07_THON_A",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Ethan Brooks",
@@ -1421,7 +1421,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_08_F",
+      "candidate_id": "IT_JUN_08_M_A",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Mia Turner",
@@ -1471,7 +1471,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_08_M",
+      "candidate_id": "IT_JUN_08_F_A",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Mia Turner",
@@ -1521,7 +1521,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_08_THEY",
+      "candidate_id": "IT_JUN_08_THEY_A",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Mia Turner",
@@ -1571,7 +1571,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_08_THON",
+      "candidate_id": "IT_JUN_08_THON_A",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Mia Turner",
@@ -1621,7 +1621,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_09_F",
+      "candidate_id": "IT_JUN_09_M_A",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Alex Kim",
@@ -1673,7 +1673,7 @@
       ]
     },
     {
-      "candidate_id": "IT_JUN_09_M",
+      "candidate_id": "IT_JUN_09_F_A",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Alex Kim",
@@ -1725,7 +1725,7 @@
       ]
     },
     {
-      "candidate_id": "IT_JUN_09_THEY",
+      "candidate_id": "IT_JUN_09_THEY_A",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Alex Kim",
@@ -1777,7 +1777,7 @@
       ]
     },
     {
-      "candidate_id": "IT_JUN_09_THON",
+      "candidate_id": "IT_JUN_09_THON_A",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Alex Kim",
@@ -1829,7 +1829,7 @@
       ]
     },
     {
-      "candidate_id": "IT_SEN_01_F",
+      "candidate_id": "IT_SEN_01_M_A",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Daniel Wright",
@@ -1881,7 +1881,7 @@
       ]
     },
     {
-      "candidate_id": "IT_SEN_01_M",
+      "candidate_id": "IT_SEN_01_F_A",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Daniel Wright",
@@ -1933,7 +1933,7 @@
       ]
     },
     {
-      "candidate_id": "IT_SEN_01_THEY",
+      "candidate_id": "IT_SEN_01_THEY_A",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Daniel Wright",
@@ -1985,7 +1985,7 @@
       ]
     },
     {
-      "candidate_id": "IT_SEN_01_THON",
+      "candidate_id": "IT_SEN_01_THON_A",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Daniel Wright",
@@ -2037,7 +2037,7 @@
       ]
     },
     {
-      "candidate_id": "IT_SEN_02_F",
+      "candidate_id": "IT_SEN_02_M_A",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Michael Grant",
@@ -2087,7 +2087,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_02_M",
+      "candidate_id": "IT_SEN_02_F_A",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Michael Grant",
@@ -2137,7 +2137,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_02_THEY",
+      "candidate_id": "IT_SEN_02_THEY_A",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Michael Grant",
@@ -2187,7 +2187,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_02_THON",
+      "candidate_id": "IT_SEN_02_THON_A",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Michael Grant",
@@ -2237,7 +2237,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_03_F",
+      "candidate_id": "IT_SEN_03_M_A",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Ethan Brooks",
@@ -2289,7 +2289,7 @@
       ]
     },
     {
-      "candidate_id": "IT_SEN_03_M",
+      "candidate_id": "IT_SEN_03_F_A",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Ethan Brooks",
@@ -2341,7 +2341,7 @@
       ]
     },
     {
-      "candidate_id": "IT_SEN_03_THEY",
+      "candidate_id": "IT_SEN_03_THEY_A",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Ethan Brooks",
@@ -2393,7 +2393,7 @@
       ]
     },
     {
-      "candidate_id": "IT_SEN_03_THON",
+      "candidate_id": "IT_SEN_03_THON_A",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Ethan Brooks",
@@ -2445,7 +2445,7 @@
       ]
     },
     {
-      "candidate_id": "IT_SEN_04_F",
+      "candidate_id": "IT_SEN_04_M_A",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Sophia Patel",
@@ -2495,7 +2495,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_04_M",
+      "candidate_id": "IT_SEN_04_F_A",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Sophia Patel",
@@ -2545,7 +2545,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_04_THEY",
+      "candidate_id": "IT_SEN_04_THEY_A",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Sophia Patel",
@@ -2595,7 +2595,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_04_THON",
+      "candidate_id": "IT_SEN_04_THON_A",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Sophia Patel",
@@ -2645,7 +2645,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_05_F",
+      "candidate_id": "IT_SEN_05_M_A",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Mia Turner",
@@ -2695,7 +2695,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_05_M",
+      "candidate_id": "IT_SEN_05_F_A",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Mia Turner",
@@ -2745,7 +2745,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_05_THEY",
+      "candidate_id": "IT_SEN_05_THEY_A",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Mia Turner",
@@ -2795,7 +2795,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_05_THON",
+      "candidate_id": "IT_SEN_05_THON_A",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Mia Turner",
@@ -2845,7 +2845,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_06_F",
+      "candidate_id": "IT_SEN_06_M_A",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Jordan Lee",
@@ -2895,7 +2895,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_06_M",
+      "candidate_id": "IT_SEN_06_F_A",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Jordan Lee",
@@ -2945,7 +2945,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_06_THEY",
+      "candidate_id": "IT_SEN_06_THEY_A",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Jordan Lee",
@@ -2995,7 +2995,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_06_THON",
+      "candidate_id": "IT_SEN_06_THON_A",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Jordan Lee",
@@ -3045,7 +3045,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_07_F",
+      "candidate_id": "IT_SEN_07_M_A",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Olivia Chen",
@@ -3095,7 +3095,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_07_M",
+      "candidate_id": "IT_SEN_07_F_A",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Olivia Chen",
@@ -3145,7 +3145,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_07_THEY",
+      "candidate_id": "IT_SEN_07_THEY_A",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Olivia Chen",
@@ -3195,7 +3195,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_07_THON",
+      "candidate_id": "IT_SEN_07_THON_A",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Olivia Chen",
@@ -3245,7 +3245,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_08_F",
+      "candidate_id": "IT_SEN_08_M_A",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Sam Morgan",
@@ -3297,7 +3297,7 @@
       ]
     },
     {
-      "candidate_id": "IT_SEN_08_M",
+      "candidate_id": "IT_SEN_08_F_A",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Sam Morgan",
@@ -3349,7 +3349,7 @@
       ]
     },
     {
-      "candidate_id": "IT_SEN_08_THEY",
+      "candidate_id": "IT_SEN_08_THEY_A",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Sam Morgan",
@@ -3401,7 +3401,7 @@
       ]
     },
     {
-      "candidate_id": "IT_SEN_08_THON",
+      "candidate_id": "IT_SEN_08_THON_A",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Sam Morgan",
@@ -3453,7 +3453,7 @@
       ]
     },
     {
-      "candidate_id": "IT_SEN_09_F",
+      "candidate_id": "IT_SEN_09_M_A",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Taylor Reed",
@@ -3503,7 +3503,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_09_M",
+      "candidate_id": "IT_SEN_09_F_A",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Taylor Reed",
@@ -3553,7 +3553,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_09_THEY",
+      "candidate_id": "IT_SEN_09_THEY_A",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Taylor Reed",
@@ -3603,7 +3603,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_09_THON",
+      "candidate_id": "IT_SEN_09_THON_A",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Taylor Reed",
@@ -3655,7 +3655,7 @@
   ],
   "no_gender": [
     {
-      "candidate_id": "IT_JUN_01_F",
+      "candidate_id": "IT_JUN_01_M_B",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Daniel Wright",
@@ -3707,7 +3707,7 @@
       ]
     },
     {
-      "candidate_id": "IT_JUN_01_M",
+      "candidate_id": "IT_JUN_01_F_B",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Daniel Wright",
@@ -3759,7 +3759,7 @@
       ]
     },
     {
-      "candidate_id": "IT_JUN_01_THEY",
+      "candidate_id": "IT_JUN_01_THEY_B",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Daniel Wright",
@@ -3811,7 +3811,7 @@
       ]
     },
     {
-      "candidate_id": "IT_JUN_01_THON",
+      "candidate_id": "IT_JUN_01_THON_B",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Daniel Wright",
@@ -3863,7 +3863,7 @@
       ]
     },
     {
-      "candidate_id": "IT_JUN_02_F",
+      "candidate_id": "IT_JUN_02_M_B",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Michael Grant",
@@ -3913,7 +3913,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_02_M",
+      "candidate_id": "IT_JUN_02_F_B",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Michael Grant",
@@ -3963,7 +3963,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_02_THEY",
+      "candidate_id": "IT_JUN_02_THEY_B",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Michael Grant",
@@ -4013,7 +4013,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_02_THON",
+      "candidate_id": "IT_JUN_02_THON_B",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Michael Grant",
@@ -4063,7 +4063,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_03_F",
+      "candidate_id": "IT_JUN_03_M_B",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Olivia Chen",
@@ -4113,7 +4113,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_03_M",
+      "candidate_id": "IT_JUN_03_F_B",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Olivia Chen",
@@ -4163,7 +4163,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_03_THEY",
+      "candidate_id": "IT_JUN_03_THEY_B",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Olivia Chen",
@@ -4213,7 +4213,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_03_THON",
+      "candidate_id": "IT_JUN_03_THON_B",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Olivia Chen",
@@ -4263,7 +4263,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_04_F",
+      "candidate_id": "IT_JUN_04_M_B",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Sophia Patel",
@@ -4313,7 +4313,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_04_M",
+      "candidate_id": "IT_JUN_04_F_B",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Sophia Patel",
@@ -4363,7 +4363,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_04_THEY",
+      "candidate_id": "IT_JUN_04_THEY_B",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Sophia Patel",
@@ -4413,7 +4413,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_04_THON",
+      "candidate_id": "IT_JUN_04_THON_B",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Sophia Patel",
@@ -4463,7 +4463,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_05_F",
+      "candidate_id": "IT_JUN_05_M_B",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Ava Johnson",
@@ -4515,7 +4515,7 @@
       ]
     },
     {
-      "candidate_id": "IT_JUN_05_M",
+      "candidate_id": "IT_JUN_05_F_B",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Ava Johnson",
@@ -4567,7 +4567,7 @@
       ]
     },
     {
-      "candidate_id": "IT_JUN_05_THEY",
+      "candidate_id": "IT_JUN_05_THEY_B",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Ava Johnson",
@@ -4619,7 +4619,7 @@
       ]
     },
     {
-      "candidate_id": "IT_JUN_05_THON",
+      "candidate_id": "IT_JUN_05_THON_B",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Ava Johnson",
@@ -4671,7 +4671,7 @@
       ]
     },
     {
-      "candidate_id": "IT_JUN_06_F",
+      "candidate_id": "IT_JUN_06_M_B",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Jordan Lee",
@@ -4721,7 +4721,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_06_M",
+      "candidate_id": "IT_JUN_06_F_B",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Jordan Lee",
@@ -4771,7 +4771,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_06_THEY",
+      "candidate_id": "IT_JUN_06_THEY_B",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Jordan Lee",
@@ -4821,7 +4821,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_06_THON",
+      "candidate_id": "IT_JUN_06_THON_B",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Jordan Lee",
@@ -4871,7 +4871,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_07_F",
+      "candidate_id": "IT_JUN_07_M_B",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Ethan Brooks",
@@ -4921,7 +4921,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_07_M",
+      "candidate_id": "IT_JUN_07_F_B",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Ethan Brooks",
@@ -4971,7 +4971,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_07_THEY",
+      "candidate_id": "IT_JUN_07_THEY_B",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Ethan Brooks",
@@ -5021,7 +5021,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_07_THON",
+      "candidate_id": "IT_JUN_07_THON_B",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Ethan Brooks",
@@ -5071,7 +5071,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_08_F",
+      "candidate_id": "IT_JUN_08_M_B",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Mia Turner",
@@ -5121,7 +5121,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_08_M",
+      "candidate_id": "IT_JUN_08_F_B",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Mia Turner",
@@ -5171,7 +5171,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_08_THEY",
+      "candidate_id": "IT_JUN_08_THEY_B",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Mia Turner",
@@ -5221,7 +5221,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_08_THON",
+      "candidate_id": "IT_JUN_08_THON_B",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Mia Turner",
@@ -5271,7 +5271,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_09_F",
+      "candidate_id": "IT_JUN_09_M_B",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Alex Kim",
@@ -5323,7 +5323,7 @@
       ]
     },
     {
-      "candidate_id": "IT_JUN_09_M",
+      "candidate_id": "IT_JUN_09_F_B",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Alex Kim",
@@ -5375,7 +5375,7 @@
       ]
     },
     {
-      "candidate_id": "IT_JUN_09_THEY",
+      "candidate_id": "IT_JUN_09_THEY_B",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Alex Kim",
@@ -5427,7 +5427,7 @@
       ]
     },
     {
-      "candidate_id": "IT_JUN_09_THON",
+      "candidate_id": "IT_JUN_09_THON_B",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Alex Kim",
@@ -5479,7 +5479,7 @@
       ]
     },
     {
-      "candidate_id": "IT_SEN_01_F",
+      "candidate_id": "IT_SEN_01_M_B",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Daniel Wright",
@@ -5531,7 +5531,7 @@
       ]
     },
     {
-      "candidate_id": "IT_SEN_01_M",
+      "candidate_id": "IT_SEN_01_F_B",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Daniel Wright",
@@ -5583,7 +5583,7 @@
       ]
     },
     {
-      "candidate_id": "IT_SEN_01_THEY",
+      "candidate_id": "IT_SEN_01_THEY_B",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Daniel Wright",
@@ -5635,7 +5635,7 @@
       ]
     },
     {
-      "candidate_id": "IT_SEN_01_THON",
+      "candidate_id": "IT_SEN_01_THON_B",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Daniel Wright",
@@ -5687,7 +5687,7 @@
       ]
     },
     {
-      "candidate_id": "IT_SEN_02_F",
+      "candidate_id": "IT_SEN_02_M_B",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Michael Grant",
@@ -5737,7 +5737,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_02_M",
+      "candidate_id": "IT_SEN_02_F_B",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Michael Grant",
@@ -5787,7 +5787,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_02_THEY",
+      "candidate_id": "IT_SEN_02_THEY_B",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Michael Grant",
@@ -5837,7 +5837,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_02_THON",
+      "candidate_id": "IT_SEN_02_THON_B",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Michael Grant",
@@ -5887,7 +5887,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_03_F",
+      "candidate_id": "IT_SEN_03_M_B",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Ethan Brooks",
@@ -5939,7 +5939,7 @@
       ]
     },
     {
-      "candidate_id": "IT_SEN_03_M",
+      "candidate_id": "IT_SEN_03_F_B",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Ethan Brooks",
@@ -5991,7 +5991,7 @@
       ]
     },
     {
-      "candidate_id": "IT_SEN_03_THEY",
+      "candidate_id": "IT_SEN_03_THEY_B",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Ethan Brooks",
@@ -6043,7 +6043,7 @@
       ]
     },
     {
-      "candidate_id": "IT_SEN_03_THON",
+      "candidate_id": "IT_SEN_03_THON_B",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Ethan Brooks",
@@ -6095,7 +6095,7 @@
       ]
     },
     {
-      "candidate_id": "IT_SEN_04_F",
+      "candidate_id": "IT_SEN_04_M_B",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Sophia Patel",
@@ -6145,7 +6145,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_04_M",
+      "candidate_id": "IT_SEN_04_F_B",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Sophia Patel",
@@ -6195,7 +6195,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_04_THEY",
+      "candidate_id": "IT_SEN_04_THEY_B",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Sophia Patel",
@@ -6245,7 +6245,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_04_THON",
+      "candidate_id": "IT_SEN_04_THON_B",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Sophia Patel",
@@ -6295,7 +6295,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_05_F",
+      "candidate_id": "IT_SEN_05_M_B",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Mia Turner",
@@ -6345,7 +6345,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_05_M",
+      "candidate_id": "IT_SEN_05_F_B",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Mia Turner",
@@ -6395,7 +6395,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_05_THEY",
+      "candidate_id": "IT_SEN_05_THEY_B",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Mia Turner",
@@ -6445,7 +6445,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_05_THON",
+      "candidate_id": "IT_SEN_05_THON_B",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Mia Turner",
@@ -6495,7 +6495,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_06_F",
+      "candidate_id": "IT_SEN_06_M_B",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Jordan Lee",
@@ -6545,7 +6545,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_06_M",
+      "candidate_id": "IT_SEN_06_F_B",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Jordan Lee",
@@ -6595,7 +6595,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_06_THEY",
+      "candidate_id": "IT_SEN_06_THEY_B",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Jordan Lee",
@@ -6645,7 +6645,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_06_THON",
+      "candidate_id": "IT_SEN_06_THON_B",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Jordan Lee",
@@ -6695,7 +6695,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_07_F",
+      "candidate_id": "IT_SEN_07_M_B",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Olivia Chen",
@@ -6745,7 +6745,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_07_M",
+      "candidate_id": "IT_SEN_07_F_B",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Olivia Chen",
@@ -6795,7 +6795,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_07_THEY",
+      "candidate_id": "IT_SEN_07_THEY_B",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Olivia Chen",
@@ -6845,7 +6845,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_07_THON",
+      "candidate_id": "IT_SEN_07_THON_B",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Olivia Chen",
@@ -6895,7 +6895,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_08_F",
+      "candidate_id": "IT_SEN_08_M_B",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Sam Morgan",
@@ -6947,7 +6947,7 @@
       ]
     },
     {
-      "candidate_id": "IT_SEN_08_M",
+      "candidate_id": "IT_SEN_08_F_B",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Sam Morgan",
@@ -6999,7 +6999,7 @@
       ]
     },
     {
-      "candidate_id": "IT_SEN_08_THEY",
+      "candidate_id": "IT_SEN_08_THEY_B",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Sam Morgan",
@@ -7051,7 +7051,7 @@
       ]
     },
     {
-      "candidate_id": "IT_SEN_08_THON",
+      "candidate_id": "IT_SEN_08_THON_B",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Sam Morgan",
@@ -7103,7 +7103,7 @@
       ]
     },
     {
-      "candidate_id": "IT_SEN_09_F",
+      "candidate_id": "IT_SEN_09_M_B",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Taylor Reed",
@@ -7153,7 +7153,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_09_M",
+      "candidate_id": "IT_SEN_09_F_B",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Taylor Reed",
@@ -7203,7 +7203,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_09_THEY",
+      "candidate_id": "IT_SEN_09_THEY_B",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Taylor Reed",
@@ -7253,7 +7253,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_09_THON",
+      "candidate_id": "IT_SEN_09_THON_B",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Taylor Reed",
@@ -7305,61 +7305,7 @@
   ],
   "full": [
     {
-      "candidate_id": "IT_JUN_01_F",
-      "industry_target": "IT",
-      "seniority_level": "Junior",
-      "name": "Daniel Wright",
-      "pronouns": "she/her",
-      "gender": "female",
-      "education": [
-        {
-          "degree": "BSc Computer Science",
-          "institution": "North City University",
-          "year": 2023
-        }
-      ],
-      "summary": "Junior IT support specialist with 1–2 years experience in ticket triage, user onboarding, and basic network troubleshooting across Windows/macOS environments.",
-      "experience": [
-        {
-          "title": "IT Support Specialist",
-          "company_type": "Corporate IT",
-          "years": 1.3,
-          "bullets": [
-            "Resolved L1/L2 tickets for account access, device setup, and common software issues",
-            "Supported onboarding/offboarding by provisioning laptops, accounts, and MFA setup",
-            "Performed basic network troubleshooting (Wi-Fi, VPN, DNS) and escalated complex issues"
-          ]
-        },
-        {
-          "title": "IT Support Intern",
-          "company_type": "Helpdesk",
-          "years": 0.8,
-          "bullets": [
-            "Maintained asset inventory and updated ticket notes for accurate handoffs",
-            "Assisted with printer setup, conferencing room support, and endpoint checks"
-          ]
-        }
-      ],
-      "skills": [
-        "Helpdesk",
-        "Windows",
-        "macOS",
-        "Active Directory (Basic)",
-        "VPN/Wi-Fi Troubleshooting",
-        "Documentation"
-      ],
-      "projects": [
-        {
-          "name": "Onboarding Checklist",
-          "impact": "Reduced setup omissions and improved day-1 readiness"
-        }
-      ],
-      "certifications": [
-        "CompTIA A+ (In Progress)"
-      ]
-    },
-    {
-      "candidate_id": "IT_JUN_01_M",
+      "candidate_id": "IT_JUN_01_M_C",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Daniel Wright",
@@ -7413,7 +7359,61 @@
       ]
     },
     {
-      "candidate_id": "IT_JUN_01_THEY",
+      "candidate_id": "IT_JUN_01_F_C",
+      "industry_target": "IT",
+      "seniority_level": "Junior",
+      "name": "Daniel Wright",
+      "pronouns": "she/her",
+      "gender": "female",
+      "education": [
+        {
+          "degree": "BSc Computer Science",
+          "institution": "North City University",
+          "year": 2023
+        }
+      ],
+      "summary": "Junior IT support specialist with 1–2 years experience in ticket triage, user onboarding, and basic network troubleshooting across Windows/macOS environments.",
+      "experience": [
+        {
+          "title": "IT Support Specialist",
+          "company_type": "Corporate IT",
+          "years": 1.3,
+          "bullets": [
+            "Resolved L1/L2 tickets for account access, device setup, and common software issues",
+            "Supported onboarding/offboarding by provisioning laptops, accounts, and MFA setup",
+            "Performed basic network troubleshooting (Wi-Fi, VPN, DNS) and escalated complex issues"
+          ]
+        },
+        {
+          "title": "IT Support Intern",
+          "company_type": "Helpdesk",
+          "years": 0.8,
+          "bullets": [
+            "Maintained asset inventory and updated ticket notes for accurate handoffs",
+            "Assisted with printer setup, conferencing room support, and endpoint checks"
+          ]
+        }
+      ],
+      "skills": [
+        "Helpdesk",
+        "Windows",
+        "macOS",
+        "Active Directory (Basic)",
+        "VPN/Wi-Fi Troubleshooting",
+        "Documentation"
+      ],
+      "projects": [
+        {
+          "name": "Onboarding Checklist",
+          "impact": "Reduced setup omissions and improved day-1 readiness"
+        }
+      ],
+      "certifications": [
+        "CompTIA A+ (In Progress)"
+      ]
+    },
+    {
+      "candidate_id": "IT_JUN_01_THEY_C",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Daniel Wright",
@@ -7467,7 +7467,7 @@
       ]
     },
     {
-      "candidate_id": "IT_JUN_01_THON",
+      "candidate_id": "IT_JUN_01_THON_C",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Daniel Wright",
@@ -7521,59 +7521,7 @@
       ]
     },
     {
-      "candidate_id": "IT_JUN_02_F",
-      "industry_target": "IT",
-      "seniority_level": "Junior",
-      "name": "Michael Grant",
-      "pronouns": "she/her",
-      "gender": "female",
-      "education": [
-        {
-          "degree": "BSc Information Technology",
-          "institution": "Metro University",
-          "year": 2022
-        }
-      ],
-      "summary": "Junior software engineer with 2 years experience building internal tools in Python/JavaScript, writing clean APIs, and collaborating through code reviews.",
-      "experience": [
-        {
-          "title": "Junior Software Engineer",
-          "company_type": "SaaS",
-          "years": 2.0,
-          "bullets": [
-            "Built small backend services and internal APIs for operational workflows",
-            "Implemented unit tests and fixed production bugs from monitoring alerts",
-            "Worked with product and QA to clarify requirements and deliver iterative releases"
-          ]
-        },
-        {
-          "title": "Software Engineering Intern",
-          "company_type": "SaaS",
-          "years": 0.7,
-          "bullets": [
-            "Developed UI components and supported integration testing for feature launches",
-            "Documented endpoints and usage examples for internal consumers"
-          ]
-        }
-      ],
-      "skills": [
-        "Python",
-        "JavaScript",
-        "REST APIs",
-        "Git",
-        "Unit Testing",
-        "Debugging"
-      ],
-      "projects": [
-        {
-          "name": "Internal Admin Portal",
-          "impact": "Reduced manual operations tasks through self-serve tooling"
-        }
-      ],
-      "certifications": []
-    },
-    {
-      "candidate_id": "IT_JUN_02_M",
+      "candidate_id": "IT_JUN_02_M_C",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Michael Grant",
@@ -7625,7 +7573,59 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_02_THEY",
+      "candidate_id": "IT_JUN_02_F_C",
+      "industry_target": "IT",
+      "seniority_level": "Junior",
+      "name": "Michael Grant",
+      "pronouns": "she/her",
+      "gender": "female",
+      "education": [
+        {
+          "degree": "BSc Information Technology",
+          "institution": "Metro University",
+          "year": 2022
+        }
+      ],
+      "summary": "Junior software engineer with 2 years experience building internal tools in Python/JavaScript, writing clean APIs, and collaborating through code reviews.",
+      "experience": [
+        {
+          "title": "Junior Software Engineer",
+          "company_type": "SaaS",
+          "years": 2.0,
+          "bullets": [
+            "Built small backend services and internal APIs for operational workflows",
+            "Implemented unit tests and fixed production bugs from monitoring alerts",
+            "Worked with product and QA to clarify requirements and deliver iterative releases"
+          ]
+        },
+        {
+          "title": "Software Engineering Intern",
+          "company_type": "SaaS",
+          "years": 0.7,
+          "bullets": [
+            "Developed UI components and supported integration testing for feature launches",
+            "Documented endpoints and usage examples for internal consumers"
+          ]
+        }
+      ],
+      "skills": [
+        "Python",
+        "JavaScript",
+        "REST APIs",
+        "Git",
+        "Unit Testing",
+        "Debugging"
+      ],
+      "projects": [
+        {
+          "name": "Internal Admin Portal",
+          "impact": "Reduced manual operations tasks through self-serve tooling"
+        }
+      ],
+      "certifications": []
+    },
+    {
+      "candidate_id": "IT_JUN_02_THEY_C",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Michael Grant",
@@ -7677,7 +7677,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_02_THON",
+      "candidate_id": "IT_JUN_02_THON_C",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Michael Grant",
@@ -7729,59 +7729,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_03_F",
-      "industry_target": "IT",
-      "seniority_level": "Junior",
-      "name": "Olivia Chen",
-      "pronouns": "she/her",
-      "gender": "female",
-      "education": [
-        {
-          "degree": "BSc Information Systems",
-          "institution": "Lakeside University",
-          "year": 2023
-        }
-      ],
-      "summary": "Junior data analyst with experience in SQL reporting, dashboarding, and data quality checks to support operational decision-making.",
-      "experience": [
-        {
-          "title": "Data Analyst",
-          "company_type": "E-commerce",
-          "years": 1.8,
-          "bullets": [
-            "Built SQL queries for weekly KPI reporting and ad-hoc stakeholder requests",
-            "Created dashboards to track funnel metrics and operational performance trends",
-            "Implemented data validation checks to reduce reporting inconsistencies"
-          ]
-        },
-        {
-          "title": "Analytics Intern",
-          "company_type": "E-commerce",
-          "years": 0.6,
-          "bullets": [
-            "Prepared cleaned datasets and documented metric definitions for cross-team alignment",
-            "Assisted with cohort and segmentation analysis for retention monitoring"
-          ]
-        }
-      ],
-      "skills": [
-        "SQL",
-        "Excel",
-        "Dashboarding",
-        "Data Quality",
-        "Basic Statistics",
-        "Stakeholder Communication"
-      ],
-      "projects": [
-        {
-          "name": "KPI Definition Wiki",
-          "impact": "Improved metric consistency across teams"
-        }
-      ],
-      "certifications": []
-    },
-    {
-      "candidate_id": "IT_JUN_03_M",
+      "candidate_id": "IT_JUN_03_M_C",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Olivia Chen",
@@ -7833,7 +7781,59 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_03_THEY",
+      "candidate_id": "IT_JUN_03_F_C",
+      "industry_target": "IT",
+      "seniority_level": "Junior",
+      "name": "Olivia Chen",
+      "pronouns": "she/her",
+      "gender": "female",
+      "education": [
+        {
+          "degree": "BSc Information Systems",
+          "institution": "Lakeside University",
+          "year": 2023
+        }
+      ],
+      "summary": "Junior data analyst with experience in SQL reporting, dashboarding, and data quality checks to support operational decision-making.",
+      "experience": [
+        {
+          "title": "Data Analyst",
+          "company_type": "E-commerce",
+          "years": 1.8,
+          "bullets": [
+            "Built SQL queries for weekly KPI reporting and ad-hoc stakeholder requests",
+            "Created dashboards to track funnel metrics and operational performance trends",
+            "Implemented data validation checks to reduce reporting inconsistencies"
+          ]
+        },
+        {
+          "title": "Analytics Intern",
+          "company_type": "E-commerce",
+          "years": 0.6,
+          "bullets": [
+            "Prepared cleaned datasets and documented metric definitions for cross-team alignment",
+            "Assisted with cohort and segmentation analysis for retention monitoring"
+          ]
+        }
+      ],
+      "skills": [
+        "SQL",
+        "Excel",
+        "Dashboarding",
+        "Data Quality",
+        "Basic Statistics",
+        "Stakeholder Communication"
+      ],
+      "projects": [
+        {
+          "name": "KPI Definition Wiki",
+          "impact": "Improved metric consistency across teams"
+        }
+      ],
+      "certifications": []
+    },
+    {
+      "candidate_id": "IT_JUN_03_THEY_C",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Olivia Chen",
@@ -7885,7 +7885,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_03_THON",
+      "candidate_id": "IT_JUN_03_THON_C",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Olivia Chen",
@@ -7937,59 +7937,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_04_F",
-      "industry_target": "IT",
-      "seniority_level": "Junior",
-      "name": "Sophia Patel",
-      "pronouns": "she/her",
-      "gender": "female",
-      "education": [
-        {
-          "degree": "BSc Software Engineering",
-          "institution": "City University",
-          "year": 2022
-        }
-      ],
-      "summary": "Junior QA engineer with experience creating test cases, executing regression cycles, and reporting defects with clear reproduction steps in agile teams.",
-      "experience": [
-        {
-          "title": "QA Engineer",
-          "company_type": "FinTech",
-          "years": 1.7,
-          "bullets": [
-            "Executed functional and regression tests for web applications across multiple releases",
-            "Logged bugs with detailed steps, expected vs actual behavior, and severity classification",
-            "Partnered with developers to verify fixes and reduce defect re-open rates"
-          ]
-        },
-        {
-          "title": "QA Intern",
-          "company_type": "FinTech",
-          "years": 0.7,
-          "bullets": [
-            "Wrote test case documentation and supported smoke testing for hotfix deployments",
-            "Helped maintain release notes and ensured test evidence was stored consistently"
-          ]
-        }
-      ],
-      "skills": [
-        "Test Case Design",
-        "Regression Testing",
-        "Bug Reporting",
-        "Jira",
-        "Basic SQL",
-        "Communication"
-      ],
-      "projects": [
-        {
-          "name": "Regression Suite Cleanup",
-          "impact": "Reduced redundant cases and improved cycle time"
-        }
-      ],
-      "certifications": []
-    },
-    {
-      "candidate_id": "IT_JUN_04_M",
+      "candidate_id": "IT_JUN_04_M_C",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Sophia Patel",
@@ -8041,7 +7989,59 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_04_THEY",
+      "candidate_id": "IT_JUN_04_F_C",
+      "industry_target": "IT",
+      "seniority_level": "Junior",
+      "name": "Sophia Patel",
+      "pronouns": "she/her",
+      "gender": "female",
+      "education": [
+        {
+          "degree": "BSc Software Engineering",
+          "institution": "City University",
+          "year": 2022
+        }
+      ],
+      "summary": "Junior QA engineer with experience creating test cases, executing regression cycles, and reporting defects with clear reproduction steps in agile teams.",
+      "experience": [
+        {
+          "title": "QA Engineer",
+          "company_type": "FinTech",
+          "years": 1.7,
+          "bullets": [
+            "Executed functional and regression tests for web applications across multiple releases",
+            "Logged bugs with detailed steps, expected vs actual behavior, and severity classification",
+            "Partnered with developers to verify fixes and reduce defect re-open rates"
+          ]
+        },
+        {
+          "title": "QA Intern",
+          "company_type": "FinTech",
+          "years": 0.7,
+          "bullets": [
+            "Wrote test case documentation and supported smoke testing for hotfix deployments",
+            "Helped maintain release notes and ensured test evidence was stored consistently"
+          ]
+        }
+      ],
+      "skills": [
+        "Test Case Design",
+        "Regression Testing",
+        "Bug Reporting",
+        "Jira",
+        "Basic SQL",
+        "Communication"
+      ],
+      "projects": [
+        {
+          "name": "Regression Suite Cleanup",
+          "impact": "Reduced redundant cases and improved cycle time"
+        }
+      ],
+      "certifications": []
+    },
+    {
+      "candidate_id": "IT_JUN_04_THEY_C",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Sophia Patel",
@@ -8093,7 +8093,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_04_THON",
+      "candidate_id": "IT_JUN_04_THON_C",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Sophia Patel",
@@ -8145,61 +8145,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_05_F",
-      "industry_target": "IT",
-      "seniority_level": "Junior",
-      "name": "Ava Johnson",
-      "pronouns": "she/her",
-      "gender": "female",
-      "education": [
-        {
-          "degree": "BSc Cybersecurity",
-          "institution": "Riverside University",
-          "year": 2023
-        }
-      ],
-      "summary": "Junior cybersecurity analyst with experience in alert triage, basic incident documentation, and vulnerability ticket follow-up in SOC workflows.",
-      "experience": [
-        {
-          "title": "Cybersecurity Analyst (SOC)",
-          "company_type": "Managed Security Services",
-          "years": 1.5,
-          "bullets": [
-            "Triaged SIEM alerts, documented investigation notes, and escalated suspicious activity",
-            "Assisted with phishing report handling and user guidance for suspicious emails",
-            "Tracked vulnerability remediation tickets and updated status in coordination with IT teams"
-          ]
-        },
-        {
-          "title": "Security Intern",
-          "company_type": "Managed Security Services",
-          "years": 0.7,
-          "bullets": [
-            "Supported weekly vulnerability scan reporting and basic asset tagging",
-            "Helped update runbooks for common alert types and response steps"
-          ]
-        }
-      ],
-      "skills": [
-        "SIEM (Basic)",
-        "Alert Triage",
-        "Incident Documentation",
-        "Vulnerability Tracking",
-        "Security Awareness Support",
-        "Linux (Basic)"
-      ],
-      "projects": [
-        {
-          "name": "Phishing Triage Playbook",
-          "impact": "Improved consistency of triage notes and escalation criteria"
-        }
-      ],
-      "certifications": [
-        "Security+ (In Progress)"
-      ]
-    },
-    {
-      "candidate_id": "IT_JUN_05_M",
+      "candidate_id": "IT_JUN_05_M_C",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Ava Johnson",
@@ -8253,7 +8199,61 @@
       ]
     },
     {
-      "candidate_id": "IT_JUN_05_THEY",
+      "candidate_id": "IT_JUN_05_F_C",
+      "industry_target": "IT",
+      "seniority_level": "Junior",
+      "name": "Ava Johnson",
+      "pronouns": "she/her",
+      "gender": "female",
+      "education": [
+        {
+          "degree": "BSc Cybersecurity",
+          "institution": "Riverside University",
+          "year": 2023
+        }
+      ],
+      "summary": "Junior cybersecurity analyst with experience in alert triage, basic incident documentation, and vulnerability ticket follow-up in SOC workflows.",
+      "experience": [
+        {
+          "title": "Cybersecurity Analyst (SOC)",
+          "company_type": "Managed Security Services",
+          "years": 1.5,
+          "bullets": [
+            "Triaged SIEM alerts, documented investigation notes, and escalated suspicious activity",
+            "Assisted with phishing report handling and user guidance for suspicious emails",
+            "Tracked vulnerability remediation tickets and updated status in coordination with IT teams"
+          ]
+        },
+        {
+          "title": "Security Intern",
+          "company_type": "Managed Security Services",
+          "years": 0.7,
+          "bullets": [
+            "Supported weekly vulnerability scan reporting and basic asset tagging",
+            "Helped update runbooks for common alert types and response steps"
+          ]
+        }
+      ],
+      "skills": [
+        "SIEM (Basic)",
+        "Alert Triage",
+        "Incident Documentation",
+        "Vulnerability Tracking",
+        "Security Awareness Support",
+        "Linux (Basic)"
+      ],
+      "projects": [
+        {
+          "name": "Phishing Triage Playbook",
+          "impact": "Improved consistency of triage notes and escalation criteria"
+        }
+      ],
+      "certifications": [
+        "Security+ (In Progress)"
+      ]
+    },
+    {
+      "candidate_id": "IT_JUN_05_THEY_C",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Ava Johnson",
@@ -8307,7 +8307,7 @@
       ]
     },
     {
-      "candidate_id": "IT_JUN_05_THON",
+      "candidate_id": "IT_JUN_05_THON_C",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Ava Johnson",
@@ -8361,59 +8361,7 @@
       ]
     },
     {
-      "candidate_id": "IT_JUN_06_F",
-      "industry_target": "IT",
-      "seniority_level": "Junior",
-      "name": "Jordan Lee",
-      "pronouns": "she/her",
-      "gender": "female",
-      "education": [
-        {
-          "degree": "BSc Information Technology",
-          "institution": "State University",
-          "year": 2024
-        }
-      ],
-      "summary": "Junior DevOps/cloud support associate with experience assisting CI/CD runs, basic Linux troubleshooting, and cloud resource monitoring under supervision.",
-      "experience": [
-        {
-          "title": "Cloud Support Associate",
-          "company_type": "Cloud Services",
-          "years": 1.1,
-          "bullets": [
-            "Monitored service dashboards and responded to standard alerts using runbooks",
-            "Assisted with CI/CD pipeline troubleshooting and log-based debugging",
-            "Performed basic Linux checks (process, disk, permissions) and escalated incidents"
-          ]
-        },
-        {
-          "title": "DevOps Intern",
-          "company_type": "Cloud Services",
-          "years": 0.7,
-          "bullets": [
-            "Helped maintain documentation for deployment steps and environment variables",
-            "Supported container image updates and routine configuration changes"
-          ]
-        }
-      ],
-      "skills": [
-        "Linux (Basic)",
-        "CI/CD (Basic)",
-        "Monitoring",
-        "Git",
-        "Docker (Basic)",
-        "Troubleshooting"
-      ],
-      "projects": [
-        {
-          "name": "Runbook Refresh",
-          "impact": "Improved clarity of alert response steps for new team members"
-        }
-      ],
-      "certifications": []
-    },
-    {
-      "candidate_id": "IT_JUN_06_M",
+      "candidate_id": "IT_JUN_06_M_C",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Jordan Lee",
@@ -8465,7 +8413,59 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_06_THEY",
+      "candidate_id": "IT_JUN_06_F_C",
+      "industry_target": "IT",
+      "seniority_level": "Junior",
+      "name": "Jordan Lee",
+      "pronouns": "she/her",
+      "gender": "female",
+      "education": [
+        {
+          "degree": "BSc Information Technology",
+          "institution": "State University",
+          "year": 2024
+        }
+      ],
+      "summary": "Junior DevOps/cloud support associate with experience assisting CI/CD runs, basic Linux troubleshooting, and cloud resource monitoring under supervision.",
+      "experience": [
+        {
+          "title": "Cloud Support Associate",
+          "company_type": "Cloud Services",
+          "years": 1.1,
+          "bullets": [
+            "Monitored service dashboards and responded to standard alerts using runbooks",
+            "Assisted with CI/CD pipeline troubleshooting and log-based debugging",
+            "Performed basic Linux checks (process, disk, permissions) and escalated incidents"
+          ]
+        },
+        {
+          "title": "DevOps Intern",
+          "company_type": "Cloud Services",
+          "years": 0.7,
+          "bullets": [
+            "Helped maintain documentation for deployment steps and environment variables",
+            "Supported container image updates and routine configuration changes"
+          ]
+        }
+      ],
+      "skills": [
+        "Linux (Basic)",
+        "CI/CD (Basic)",
+        "Monitoring",
+        "Git",
+        "Docker (Basic)",
+        "Troubleshooting"
+      ],
+      "projects": [
+        {
+          "name": "Runbook Refresh",
+          "impact": "Improved clarity of alert response steps for new team members"
+        }
+      ],
+      "certifications": []
+    },
+    {
+      "candidate_id": "IT_JUN_06_THEY_C",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Jordan Lee",
@@ -8517,7 +8517,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_06_THON",
+      "candidate_id": "IT_JUN_06_THON_C",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Jordan Lee",
@@ -8569,59 +8569,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_07_F",
-      "industry_target": "IT",
-      "seniority_level": "Junior",
-      "name": "Ethan Brooks",
-      "pronouns": "she/her",
-      "gender": "female",
-      "education": [
-        {
-          "degree": "BSc Computer Science",
-          "institution": "Metro University",
-          "year": 2023
-        }
-      ],
-      "summary": "Junior backend engineer with experience building REST APIs, writing unit tests, and supporting production bug fixes in agile teams.",
-      "experience": [
-        {
-          "title": "Junior Backend Engineer",
-          "company_type": "SaaS",
-          "years": 1.9,
-          "bullets": [
-            "Implemented REST endpoints and request validation for internal services",
-            "Added unit tests and improved error handling to reduce recurring incidents",
-            "Collaborated via code reviews and wrote concise technical documentation"
-          ]
-        },
-        {
-          "title": "Software Engineering Intern",
-          "company_type": "SaaS",
-          "years": 0.7,
-          "bullets": [
-            "Delivered small features and fixed bugs from sprint backlog items",
-            "Assisted with CI checks and release notes for minor deployments"
-          ]
-        }
-      ],
-      "skills": [
-        "Python",
-        "REST APIs",
-        "SQL (Basic)",
-        "Git",
-        "Unit Testing",
-        "Debugging"
-      ],
-      "projects": [
-        {
-          "name": "Webhook Event Logger",
-          "impact": "Improved traceability for integration issues across teams"
-        }
-      ],
-      "certifications": []
-    },
-    {
-      "candidate_id": "IT_JUN_07_M",
+      "candidate_id": "IT_JUN_07_M_C",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Ethan Brooks",
@@ -8673,7 +8621,59 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_07_THEY",
+      "candidate_id": "IT_JUN_07_F_C",
+      "industry_target": "IT",
+      "seniority_level": "Junior",
+      "name": "Ethan Brooks",
+      "pronouns": "she/her",
+      "gender": "female",
+      "education": [
+        {
+          "degree": "BSc Computer Science",
+          "institution": "Metro University",
+          "year": 2023
+        }
+      ],
+      "summary": "Junior backend engineer with experience building REST APIs, writing unit tests, and supporting production bug fixes in agile teams.",
+      "experience": [
+        {
+          "title": "Junior Backend Engineer",
+          "company_type": "SaaS",
+          "years": 1.9,
+          "bullets": [
+            "Implemented REST endpoints and request validation for internal services",
+            "Added unit tests and improved error handling to reduce recurring incidents",
+            "Collaborated via code reviews and wrote concise technical documentation"
+          ]
+        },
+        {
+          "title": "Software Engineering Intern",
+          "company_type": "SaaS",
+          "years": 0.7,
+          "bullets": [
+            "Delivered small features and fixed bugs from sprint backlog items",
+            "Assisted with CI checks and release notes for minor deployments"
+          ]
+        }
+      ],
+      "skills": [
+        "Python",
+        "REST APIs",
+        "SQL (Basic)",
+        "Git",
+        "Unit Testing",
+        "Debugging"
+      ],
+      "projects": [
+        {
+          "name": "Webhook Event Logger",
+          "impact": "Improved traceability for integration issues across teams"
+        }
+      ],
+      "certifications": []
+    },
+    {
+      "candidate_id": "IT_JUN_07_THEY_C",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Ethan Brooks",
@@ -8725,7 +8725,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_07_THON",
+      "candidate_id": "IT_JUN_07_THON_C",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Ethan Brooks",
@@ -8777,59 +8777,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_08_F",
-      "industry_target": "IT",
-      "seniority_level": "Junior",
-      "name": "Mia Turner",
-      "pronouns": "she/her",
-      "gender": "female",
-      "education": [
-        {
-          "degree": "BSc Information Technology",
-          "institution": "Lakeside University",
-          "year": 2023
-        }
-      ],
-      "summary": "Junior UX/front-end developer with experience building responsive UI components, fixing cross-browser issues, and collaborating with designers on accessibility basics.",
-      "experience": [
-        {
-          "title": "Junior Front-End Developer",
-          "company_type": "SaaS",
-          "years": 1.6,
-          "bullets": [
-            "Built reusable UI components and implemented responsive layouts from design specs",
-            "Fixed UI bugs and improved accessibility basics (labels, focus states, contrast checks)",
-            "Participated in code reviews and maintained clear component documentation"
-          ]
-        },
-        {
-          "title": "Front-End Intern",
-          "company_type": "SaaS",
-          "years": 0.8,
-          "bullets": [
-            "Assisted with QA verification and small UI improvements across releases",
-            "Helped maintain style guide consistency and updated UI snapshots"
-          ]
-        }
-      ],
-      "skills": [
-        "JavaScript",
-        "HTML/CSS",
-        "React (Basic)",
-        "Accessibility (Basic)",
-        "Git",
-        "Debugging"
-      ],
-      "projects": [
-        {
-          "name": "Component Library Starter",
-          "impact": "Improved UI consistency by standardizing common components"
-        }
-      ],
-      "certifications": []
-    },
-    {
-      "candidate_id": "IT_JUN_08_M",
+      "candidate_id": "IT_JUN_08_M_C",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Mia Turner",
@@ -8881,7 +8829,59 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_08_THEY",
+      "candidate_id": "IT_JUN_08_F_C",
+      "industry_target": "IT",
+      "seniority_level": "Junior",
+      "name": "Mia Turner",
+      "pronouns": "she/her",
+      "gender": "female",
+      "education": [
+        {
+          "degree": "BSc Information Technology",
+          "institution": "Lakeside University",
+          "year": 2023
+        }
+      ],
+      "summary": "Junior UX/front-end developer with experience building responsive UI components, fixing cross-browser issues, and collaborating with designers on accessibility basics.",
+      "experience": [
+        {
+          "title": "Junior Front-End Developer",
+          "company_type": "SaaS",
+          "years": 1.6,
+          "bullets": [
+            "Built reusable UI components and implemented responsive layouts from design specs",
+            "Fixed UI bugs and improved accessibility basics (labels, focus states, contrast checks)",
+            "Participated in code reviews and maintained clear component documentation"
+          ]
+        },
+        {
+          "title": "Front-End Intern",
+          "company_type": "SaaS",
+          "years": 0.8,
+          "bullets": [
+            "Assisted with QA verification and small UI improvements across releases",
+            "Helped maintain style guide consistency and updated UI snapshots"
+          ]
+        }
+      ],
+      "skills": [
+        "JavaScript",
+        "HTML/CSS",
+        "React (Basic)",
+        "Accessibility (Basic)",
+        "Git",
+        "Debugging"
+      ],
+      "projects": [
+        {
+          "name": "Component Library Starter",
+          "impact": "Improved UI consistency by standardizing common components"
+        }
+      ],
+      "certifications": []
+    },
+    {
+      "candidate_id": "IT_JUN_08_THEY_C",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Mia Turner",
@@ -8933,7 +8933,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_08_THON",
+      "candidate_id": "IT_JUN_08_THON_C",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Mia Turner",
@@ -8985,61 +8985,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_JUN_09_F",
-      "industry_target": "IT",
-      "seniority_level": "Junior",
-      "name": "Alex Kim",
-      "pronouns": "she/her",
-      "gender": "female",
-      "education": [
-        {
-          "degree": "BSc Information Systems",
-          "institution": "North City University",
-          "year": 2022
-        }
-      ],
-      "summary": "Junior systems administrator with experience in user provisioning, endpoint management basics, and troubleshooting Windows networking issues in small enterprise environments.",
-      "experience": [
-        {
-          "title": "Junior Systems Administrator",
-          "company_type": "Corporate IT",
-          "years": 1.8,
-          "bullets": [
-            "Managed user accounts and groups in Active Directory and supported password/MFA issues",
-            "Handled endpoint setup and patching basics using standard device management tools",
-            "Troubleshot common connectivity issues (VPN, DNS, Wi-Fi) and documented resolutions"
-          ]
-        },
-        {
-          "title": "IT Support Technician",
-          "company_type": "Helpdesk",
-          "years": 0.9,
-          "bullets": [
-            "Resolved L1 tickets and escalated infrastructure issues with clear reproduction notes",
-            "Maintained asset inventory accuracy and supported onboarding device provisioning"
-          ]
-        }
-      ],
-      "skills": [
-        "Active Directory (Basic)",
-        "Windows Admin (Basic)",
-        "Endpoint Management (Basic)",
-        "VPN/DNS Troubleshooting",
-        "Ticketing",
-        "Documentation"
-      ],
-      "projects": [
-        {
-          "name": "Password Reset Self-Help Guide",
-          "impact": "Reduced repetitive tickets by improving user-facing instructions"
-        }
-      ],
-      "certifications": [
-        "CompTIA Network+ (In Progress)"
-      ]
-    },
-    {
-      "candidate_id": "IT_JUN_09_M",
+      "candidate_id": "IT_JUN_09_M_C",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Alex Kim",
@@ -9093,7 +9039,61 @@
       ]
     },
     {
-      "candidate_id": "IT_JUN_09_THEY",
+      "candidate_id": "IT_JUN_09_F_C",
+      "industry_target": "IT",
+      "seniority_level": "Junior",
+      "name": "Alex Kim",
+      "pronouns": "she/her",
+      "gender": "female",
+      "education": [
+        {
+          "degree": "BSc Information Systems",
+          "institution": "North City University",
+          "year": 2022
+        }
+      ],
+      "summary": "Junior systems administrator with experience in user provisioning, endpoint management basics, and troubleshooting Windows networking issues in small enterprise environments.",
+      "experience": [
+        {
+          "title": "Junior Systems Administrator",
+          "company_type": "Corporate IT",
+          "years": 1.8,
+          "bullets": [
+            "Managed user accounts and groups in Active Directory and supported password/MFA issues",
+            "Handled endpoint setup and patching basics using standard device management tools",
+            "Troubleshot common connectivity issues (VPN, DNS, Wi-Fi) and documented resolutions"
+          ]
+        },
+        {
+          "title": "IT Support Technician",
+          "company_type": "Helpdesk",
+          "years": 0.9,
+          "bullets": [
+            "Resolved L1 tickets and escalated infrastructure issues with clear reproduction notes",
+            "Maintained asset inventory accuracy and supported onboarding device provisioning"
+          ]
+        }
+      ],
+      "skills": [
+        "Active Directory (Basic)",
+        "Windows Admin (Basic)",
+        "Endpoint Management (Basic)",
+        "VPN/DNS Troubleshooting",
+        "Ticketing",
+        "Documentation"
+      ],
+      "projects": [
+        {
+          "name": "Password Reset Self-Help Guide",
+          "impact": "Reduced repetitive tickets by improving user-facing instructions"
+        }
+      ],
+      "certifications": [
+        "CompTIA Network+ (In Progress)"
+      ]
+    },
+    {
+      "candidate_id": "IT_JUN_09_THEY_C",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Alex Kim",
@@ -9147,7 +9147,7 @@
       ]
     },
     {
-      "candidate_id": "IT_JUN_09_THON",
+      "candidate_id": "IT_JUN_09_THON_C",
       "industry_target": "IT",
       "seniority_level": "Junior",
       "name": "Alex Kim",
@@ -9201,61 +9201,7 @@
       ]
     },
     {
-      "candidate_id": "IT_SEN_01_F",
-      "industry_target": "IT",
-      "seniority_level": "Senior",
-      "name": "Daniel Wright",
-      "pronouns": "she/her",
-      "gender": "female",
-      "education": [
-        {
-          "degree": "BSc Computer Science",
-          "institution": "North City University",
-          "year": 2014
-        }
-      ],
-      "summary": "Senior IT systems engineer with 9+ years experience in Windows/Linux administration, identity & access management, endpoint lifecycle, and incident-driven troubleshooting.",
-      "experience": [
-        {
-          "title": "Senior Systems Engineer",
-          "company_type": "Corporate IT",
-          "years": 5.2,
-          "bullets": [
-            "Led endpoint lifecycle processes (provisioning, patching, replacement) and reduced repeat tickets via standardization",
-            "Supported identity and access workflows (accounts, groups, MFA) and improved onboarding/offboarding reliability",
-            "Handled escalations for VPN/DNS/network connectivity issues and documented resolutions for helpdesk reuse"
-          ]
-        },
-        {
-          "title": "Systems Administrator",
-          "company_type": "Corporate IT",
-          "years": 3.8,
-          "bullets": [
-            "Maintained Windows server and core services health checks and performed routine maintenance windows",
-            "Improved asset inventory accuracy and supported audit readiness with clear documentation"
-          ]
-        }
-      ],
-      "skills": [
-        "Windows Admin",
-        "Linux (Intermediate)",
-        "Active Directory",
-        "MFA/SSO Support",
-        "VPN/DNS Troubleshooting",
-        "Documentation"
-      ],
-      "projects": [
-        {
-          "name": "Onboarding Automation Pack",
-          "impact": "Reduced account setup time and improved day-1 readiness across teams"
-        }
-      ],
-      "certifications": [
-        "CompTIA Network+"
-      ]
-    },
-    {
-      "candidate_id": "IT_SEN_01_M",
+      "candidate_id": "IT_SEN_01_M_C",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Daniel Wright",
@@ -9309,7 +9255,61 @@
       ]
     },
     {
-      "candidate_id": "IT_SEN_01_THEY",
+      "candidate_id": "IT_SEN_01_F_C",
+      "industry_target": "IT",
+      "seniority_level": "Senior",
+      "name": "Daniel Wright",
+      "pronouns": "she/her",
+      "gender": "female",
+      "education": [
+        {
+          "degree": "BSc Computer Science",
+          "institution": "North City University",
+          "year": 2014
+        }
+      ],
+      "summary": "Senior IT systems engineer with 9+ years experience in Windows/Linux administration, identity & access management, endpoint lifecycle, and incident-driven troubleshooting.",
+      "experience": [
+        {
+          "title": "Senior Systems Engineer",
+          "company_type": "Corporate IT",
+          "years": 5.2,
+          "bullets": [
+            "Led endpoint lifecycle processes (provisioning, patching, replacement) and reduced repeat tickets via standardization",
+            "Supported identity and access workflows (accounts, groups, MFA) and improved onboarding/offboarding reliability",
+            "Handled escalations for VPN/DNS/network connectivity issues and documented resolutions for helpdesk reuse"
+          ]
+        },
+        {
+          "title": "Systems Administrator",
+          "company_type": "Corporate IT",
+          "years": 3.8,
+          "bullets": [
+            "Maintained Windows server and core services health checks and performed routine maintenance windows",
+            "Improved asset inventory accuracy and supported audit readiness with clear documentation"
+          ]
+        }
+      ],
+      "skills": [
+        "Windows Admin",
+        "Linux (Intermediate)",
+        "Active Directory",
+        "MFA/SSO Support",
+        "VPN/DNS Troubleshooting",
+        "Documentation"
+      ],
+      "projects": [
+        {
+          "name": "Onboarding Automation Pack",
+          "impact": "Reduced account setup time and improved day-1 readiness across teams"
+        }
+      ],
+      "certifications": [
+        "CompTIA Network+"
+      ]
+    },
+    {
+      "candidate_id": "IT_SEN_01_THEY_C",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Daniel Wright",
@@ -9363,7 +9363,7 @@
       ]
     },
     {
-      "candidate_id": "IT_SEN_01_THON",
+      "candidate_id": "IT_SEN_01_THON_C",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Daniel Wright",
@@ -9417,59 +9417,7 @@
       ]
     },
     {
-      "candidate_id": "IT_SEN_02_F",
-      "industry_target": "IT",
-      "seniority_level": "Senior",
-      "name": "Michael Grant",
-      "pronouns": "she/her",
-      "gender": "female",
-      "education": [
-        {
-          "degree": "BSc Information Technology",
-          "institution": "Metro University",
-          "year": 2013
-        }
-      ],
-      "summary": "Senior software engineer with 8+ years experience building backend services, designing APIs, improving reliability, and mentoring junior developers through reviews.",
-      "experience": [
-        {
-          "title": "Senior Software Engineer",
-          "company_type": "SaaS",
-          "years": 4.7,
-          "bullets": [
-            "Designed and maintained REST services supporting core business workflows and integrations",
-            "Improved reliability by adding tests, tightening input validation, and addressing recurring incident patterns",
-            "Partnered with product/QA to clarify requirements and deliver incremental releases"
-          ]
-        },
-        {
-          "title": "Software Engineer",
-          "company_type": "SaaS",
-          "years": 3.8,
-          "bullets": [
-            "Implemented features and handled production bug fixes using logs and monitoring signals",
-            "Wrote internal documentation and improved onboarding for new team members"
-          ]
-        }
-      ],
-      "skills": [
-        "Python",
-        "REST APIs",
-        "SQL",
-        "System Debugging",
-        "Git",
-        "Code Review"
-      ],
-      "projects": [
-        {
-          "name": "API Error Budget Dashboard",
-          "impact": "Improved visibility into reliability metrics and incident hotspots"
-        }
-      ],
-      "certifications": []
-    },
-    {
-      "candidate_id": "IT_SEN_02_M",
+      "candidate_id": "IT_SEN_02_M_C",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Michael Grant",
@@ -9521,7 +9469,59 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_02_THEY",
+      "candidate_id": "IT_SEN_02_F_C",
+      "industry_target": "IT",
+      "seniority_level": "Senior",
+      "name": "Michael Grant",
+      "pronouns": "she/her",
+      "gender": "female",
+      "education": [
+        {
+          "degree": "BSc Information Technology",
+          "institution": "Metro University",
+          "year": 2013
+        }
+      ],
+      "summary": "Senior software engineer with 8+ years experience building backend services, designing APIs, improving reliability, and mentoring junior developers through reviews.",
+      "experience": [
+        {
+          "title": "Senior Software Engineer",
+          "company_type": "SaaS",
+          "years": 4.7,
+          "bullets": [
+            "Designed and maintained REST services supporting core business workflows and integrations",
+            "Improved reliability by adding tests, tightening input validation, and addressing recurring incident patterns",
+            "Partnered with product/QA to clarify requirements and deliver incremental releases"
+          ]
+        },
+        {
+          "title": "Software Engineer",
+          "company_type": "SaaS",
+          "years": 3.8,
+          "bullets": [
+            "Implemented features and handled production bug fixes using logs and monitoring signals",
+            "Wrote internal documentation and improved onboarding for new team members"
+          ]
+        }
+      ],
+      "skills": [
+        "Python",
+        "REST APIs",
+        "SQL",
+        "System Debugging",
+        "Git",
+        "Code Review"
+      ],
+      "projects": [
+        {
+          "name": "API Error Budget Dashboard",
+          "impact": "Improved visibility into reliability metrics and incident hotspots"
+        }
+      ],
+      "certifications": []
+    },
+    {
+      "candidate_id": "IT_SEN_02_THEY_C",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Michael Grant",
@@ -9573,7 +9573,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_02_THON",
+      "candidate_id": "IT_SEN_02_THON_C",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Michael Grant",
@@ -9625,61 +9625,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_03_F",
-      "industry_target": "IT",
-      "seniority_level": "Senior",
-      "name": "Ethan Brooks",
-      "pronouns": "she/her",
-      "gender": "female",
-      "education": [
-        {
-          "degree": "BSc Cybersecurity",
-          "institution": "Riverside University",
-          "year": 2012
-        }
-      ],
-      "summary": "Senior security engineer with experience leading incident triage, hardening endpoints, and improving SOC runbooks and escalation quality across enterprise environments.",
-      "experience": [
-        {
-          "title": "Senior Security Engineer",
-          "company_type": "Enterprise Security",
-          "years": 4.9,
-          "bullets": [
-            "Led incident triage for high-priority alerts and coordinated escalations with IT and engineering teams",
-            "Improved response consistency by standardizing investigation notes and updating runbooks",
-            "Supported vulnerability remediation tracking and reduced overdue items through clearer ownership"
-          ]
-        },
-        {
-          "title": "Security Analyst (SOC)",
-          "company_type": "Managed Security Services",
-          "years": 3.9,
-          "bullets": [
-            "Triaged alerts and documented investigations with clear artifacts for follow-up",
-            "Supported phishing response workflows and user guidance for suspicious activity"
-          ]
-        }
-      ],
-      "skills": [
-        "Alert Triage",
-        "Incident Documentation",
-        "Vulnerability Tracking",
-        "Endpoint Hardening (Basic)",
-        "Linux",
-        "Stakeholder Communication"
-      ],
-      "projects": [
-        {
-          "name": "Incident Notes Standard",
-          "impact": "Improved cross-team handoff quality and reduced re-work during investigations"
-        }
-      ],
-      "certifications": [
-        "Security+"
-      ]
-    },
-    {
-      "candidate_id": "IT_SEN_03_M",
+      "candidate_id": "IT_SEN_03_M_C",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Ethan Brooks",
@@ -9733,7 +9679,61 @@
       ]
     },
     {
-      "candidate_id": "IT_SEN_03_THEY",
+      "candidate_id": "IT_SEN_03_F_C",
+      "industry_target": "IT",
+      "seniority_level": "Senior",
+      "name": "Ethan Brooks",
+      "pronouns": "she/her",
+      "gender": "female",
+      "education": [
+        {
+          "degree": "BSc Cybersecurity",
+          "institution": "Riverside University",
+          "year": 2012
+        }
+      ],
+      "summary": "Senior security engineer with experience leading incident triage, hardening endpoints, and improving SOC runbooks and escalation quality across enterprise environments.",
+      "experience": [
+        {
+          "title": "Senior Security Engineer",
+          "company_type": "Enterprise Security",
+          "years": 4.9,
+          "bullets": [
+            "Led incident triage for high-priority alerts and coordinated escalations with IT and engineering teams",
+            "Improved response consistency by standardizing investigation notes and updating runbooks",
+            "Supported vulnerability remediation tracking and reduced overdue items through clearer ownership"
+          ]
+        },
+        {
+          "title": "Security Analyst (SOC)",
+          "company_type": "Managed Security Services",
+          "years": 3.9,
+          "bullets": [
+            "Triaged alerts and documented investigations with clear artifacts for follow-up",
+            "Supported phishing response workflows and user guidance for suspicious activity"
+          ]
+        }
+      ],
+      "skills": [
+        "Alert Triage",
+        "Incident Documentation",
+        "Vulnerability Tracking",
+        "Endpoint Hardening (Basic)",
+        "Linux",
+        "Stakeholder Communication"
+      ],
+      "projects": [
+        {
+          "name": "Incident Notes Standard",
+          "impact": "Improved cross-team handoff quality and reduced re-work during investigations"
+        }
+      ],
+      "certifications": [
+        "Security+"
+      ]
+    },
+    {
+      "candidate_id": "IT_SEN_03_THEY_C",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Ethan Brooks",
@@ -9787,7 +9787,7 @@
       ]
     },
     {
-      "candidate_id": "IT_SEN_03_THON",
+      "candidate_id": "IT_SEN_03_THON_C",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Ethan Brooks",
@@ -9841,59 +9841,7 @@
       ]
     },
     {
-      "candidate_id": "IT_SEN_04_F",
-      "industry_target": "IT",
-      "seniority_level": "Senior",
-      "name": "Sophia Patel",
-      "pronouns": "she/her",
-      "gender": "female",
-      "education": [
-        {
-          "degree": "BSc Software Engineering",
-          "institution": "City University",
-          "year": 2012
-        }
-      ],
-      "summary": "Senior QA automation engineer with experience building reliable test suites, reducing regression time, and improving release confidence for web services.",
-      "experience": [
-        {
-          "title": "Senior QA Automation Engineer",
-          "company_type": "FinTech",
-          "years": 4.5,
-          "bullets": [
-            "Built and maintained automated regression coverage for critical workflows and reduced flaky tests",
-            "Partnered with engineers to reproduce defects, verify fixes, and tighten acceptance criteria",
-            "Improved release readiness by standardizing test evidence and smoke test checklists"
-          ]
-        },
-        {
-          "title": "QA Engineer",
-          "company_type": "FinTech",
-          "years": 4.1,
-          "bullets": [
-            "Led regression cycles and maintained test case documentation aligned with product changes",
-            "Reported defects with clear steps and severity while supporting sprint delivery"
-          ]
-        }
-      ],
-      "skills": [
-        "Automation Testing",
-        "Test Strategy",
-        "Bug Triage",
-        "CI Checks (Basic)",
-        "Jira",
-        "Communication"
-      ],
-      "projects": [
-        {
-          "name": "Flaky Test Reduction",
-          "impact": "Improved CI signal quality and reduced re-run frequency"
-        }
-      ],
-      "certifications": []
-    },
-    {
-      "candidate_id": "IT_SEN_04_M",
+      "candidate_id": "IT_SEN_04_M_C",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Sophia Patel",
@@ -9945,7 +9893,59 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_04_THEY",
+      "candidate_id": "IT_SEN_04_F_C",
+      "industry_target": "IT",
+      "seniority_level": "Senior",
+      "name": "Sophia Patel",
+      "pronouns": "she/her",
+      "gender": "female",
+      "education": [
+        {
+          "degree": "BSc Software Engineering",
+          "institution": "City University",
+          "year": 2012
+        }
+      ],
+      "summary": "Senior QA automation engineer with experience building reliable test suites, reducing regression time, and improving release confidence for web services.",
+      "experience": [
+        {
+          "title": "Senior QA Automation Engineer",
+          "company_type": "FinTech",
+          "years": 4.5,
+          "bullets": [
+            "Built and maintained automated regression coverage for critical workflows and reduced flaky tests",
+            "Partnered with engineers to reproduce defects, verify fixes, and tighten acceptance criteria",
+            "Improved release readiness by standardizing test evidence and smoke test checklists"
+          ]
+        },
+        {
+          "title": "QA Engineer",
+          "company_type": "FinTech",
+          "years": 4.1,
+          "bullets": [
+            "Led regression cycles and maintained test case documentation aligned with product changes",
+            "Reported defects with clear steps and severity while supporting sprint delivery"
+          ]
+        }
+      ],
+      "skills": [
+        "Automation Testing",
+        "Test Strategy",
+        "Bug Triage",
+        "CI Checks (Basic)",
+        "Jira",
+        "Communication"
+      ],
+      "projects": [
+        {
+          "name": "Flaky Test Reduction",
+          "impact": "Improved CI signal quality and reduced re-run frequency"
+        }
+      ],
+      "certifications": []
+    },
+    {
+      "candidate_id": "IT_SEN_04_THEY_C",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Sophia Patel",
@@ -9997,7 +9997,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_04_THON",
+      "candidate_id": "IT_SEN_04_THON_C",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Sophia Patel",
@@ -10049,59 +10049,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_05_F",
-      "industry_target": "IT",
-      "seniority_level": "Senior",
-      "name": "Mia Turner",
-      "pronouns": "she/her",
-      "gender": "female",
-      "education": [
-        {
-          "degree": "BSc Information Systems",
-          "institution": "Lakeside University",
-          "year": 2014
-        }
-      ],
-      "summary": "Senior data analyst with experience in SQL analytics, dashboarding, and stakeholder alignment to drive operational decision-making across product and business teams.",
-      "experience": [
-        {
-          "title": "Senior Data Analyst",
-          "company_type": "E-commerce",
-          "years": 4.6,
-          "bullets": [
-            "Built KPI dashboards and standardized metric definitions used by cross-functional stakeholders",
-            "Developed SQL datasets and validation checks to improve reporting consistency",
-            "Supported experiment readouts and post-launch monitoring with clear narratives"
-          ]
-        },
-        {
-          "title": "Data Analyst",
-          "company_type": "E-commerce",
-          "years": 3.6,
-          "bullets": [
-            "Produced weekly reporting and ad-hoc analyses for product and operations leaders",
-            "Maintained documentation for core metrics and data sources"
-          ]
-        }
-      ],
-      "skills": [
-        "SQL",
-        "Dashboarding",
-        "Data Quality",
-        "Basic Experimentation",
-        "Communication",
-        "Documentation"
-      ],
-      "projects": [
-        {
-          "name": "Metric Definition Hub",
-          "impact": "Reduced metric disputes by centralizing definitions and examples"
-        }
-      ],
-      "certifications": []
-    },
-    {
-      "candidate_id": "IT_SEN_05_M",
+      "candidate_id": "IT_SEN_05_M_C",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Mia Turner",
@@ -10153,7 +10101,59 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_05_THEY",
+      "candidate_id": "IT_SEN_05_F_C",
+      "industry_target": "IT",
+      "seniority_level": "Senior",
+      "name": "Mia Turner",
+      "pronouns": "she/her",
+      "gender": "female",
+      "education": [
+        {
+          "degree": "BSc Information Systems",
+          "institution": "Lakeside University",
+          "year": 2014
+        }
+      ],
+      "summary": "Senior data analyst with experience in SQL analytics, dashboarding, and stakeholder alignment to drive operational decision-making across product and business teams.",
+      "experience": [
+        {
+          "title": "Senior Data Analyst",
+          "company_type": "E-commerce",
+          "years": 4.6,
+          "bullets": [
+            "Built KPI dashboards and standardized metric definitions used by cross-functional stakeholders",
+            "Developed SQL datasets and validation checks to improve reporting consistency",
+            "Supported experiment readouts and post-launch monitoring with clear narratives"
+          ]
+        },
+        {
+          "title": "Data Analyst",
+          "company_type": "E-commerce",
+          "years": 3.6,
+          "bullets": [
+            "Produced weekly reporting and ad-hoc analyses for product and operations leaders",
+            "Maintained documentation for core metrics and data sources"
+          ]
+        }
+      ],
+      "skills": [
+        "SQL",
+        "Dashboarding",
+        "Data Quality",
+        "Basic Experimentation",
+        "Communication",
+        "Documentation"
+      ],
+      "projects": [
+        {
+          "name": "Metric Definition Hub",
+          "impact": "Reduced metric disputes by centralizing definitions and examples"
+        }
+      ],
+      "certifications": []
+    },
+    {
+      "candidate_id": "IT_SEN_05_THEY_C",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Mia Turner",
@@ -10205,7 +10205,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_05_THON",
+      "candidate_id": "IT_SEN_05_THON_C",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Mia Turner",
@@ -10257,59 +10257,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_06_F",
-      "industry_target": "IT",
-      "seniority_level": "Senior",
-      "name": "Jordan Lee",
-      "pronouns": "she/her",
-      "gender": "female",
-      "education": [
-        {
-          "degree": "BSc Information Technology",
-          "institution": "State University",
-          "year": 2013
-        }
-      ],
-      "summary": "Senior DevOps engineer with experience improving CI/CD reliability, supporting production incidents, and standardizing monitoring and runbooks across services.",
-      "experience": [
-        {
-          "title": "Senior DevOps Engineer",
-          "company_type": "Cloud Services",
-          "years": 4.8,
-          "bullets": [
-            "Improved deployment reliability by refining CI/CD workflows and adding guardrails for common failure modes",
-            "Maintained monitoring dashboards and alerting standards to reduce noisy pages and speed up triage",
-            "Led incident follow-ups and documented runbooks to improve on-call handoffs"
-          ]
-        },
-        {
-          "title": "DevOps Engineer",
-          "company_type": "Cloud Services",
-          "years": 3.7,
-          "bullets": [
-            "Supported container-based deployments and routine configuration changes under change management",
-            "Assisted with infrastructure troubleshooting and coordinated escalations with engineering teams"
-          ]
-        }
-      ],
-      "skills": [
-        "CI/CD",
-        "Linux",
-        "Monitoring",
-        "Docker (Intermediate)",
-        "Incident Response",
-        "Documentation"
-      ],
-      "projects": [
-        {
-          "name": "Alert Noise Reduction",
-          "impact": "Reduced non-actionable alerts and improved incident response speed"
-        }
-      ],
-      "certifications": []
-    },
-    {
-      "candidate_id": "IT_SEN_06_M",
+      "candidate_id": "IT_SEN_06_M_C",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Jordan Lee",
@@ -10361,7 +10309,59 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_06_THEY",
+      "candidate_id": "IT_SEN_06_F_C",
+      "industry_target": "IT",
+      "seniority_level": "Senior",
+      "name": "Jordan Lee",
+      "pronouns": "she/her",
+      "gender": "female",
+      "education": [
+        {
+          "degree": "BSc Information Technology",
+          "institution": "State University",
+          "year": 2013
+        }
+      ],
+      "summary": "Senior DevOps engineer with experience improving CI/CD reliability, supporting production incidents, and standardizing monitoring and runbooks across services.",
+      "experience": [
+        {
+          "title": "Senior DevOps Engineer",
+          "company_type": "Cloud Services",
+          "years": 4.8,
+          "bullets": [
+            "Improved deployment reliability by refining CI/CD workflows and adding guardrails for common failure modes",
+            "Maintained monitoring dashboards and alerting standards to reduce noisy pages and speed up triage",
+            "Led incident follow-ups and documented runbooks to improve on-call handoffs"
+          ]
+        },
+        {
+          "title": "DevOps Engineer",
+          "company_type": "Cloud Services",
+          "years": 3.7,
+          "bullets": [
+            "Supported container-based deployments and routine configuration changes under change management",
+            "Assisted with infrastructure troubleshooting and coordinated escalations with engineering teams"
+          ]
+        }
+      ],
+      "skills": [
+        "CI/CD",
+        "Linux",
+        "Monitoring",
+        "Docker (Intermediate)",
+        "Incident Response",
+        "Documentation"
+      ],
+      "projects": [
+        {
+          "name": "Alert Noise Reduction",
+          "impact": "Reduced non-actionable alerts and improved incident response speed"
+        }
+      ],
+      "certifications": []
+    },
+    {
+      "candidate_id": "IT_SEN_06_THEY_C",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Jordan Lee",
@@ -10413,7 +10413,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_06_THON",
+      "candidate_id": "IT_SEN_06_THON_C",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Jordan Lee",
@@ -10465,59 +10465,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_07_F",
-      "industry_target": "IT",
-      "seniority_level": "Senior",
-      "name": "Olivia Chen",
-      "pronouns": "she/her",
-      "gender": "female",
-      "education": [
-        {
-          "degree": "BSc Computer Science",
-          "institution": "Metro University",
-          "year": 2011
-        }
-      ],
-      "summary": "Senior product data analyst with experience shaping KPI frameworks, guiding experiment readouts, and translating analytics into stakeholder-ready narratives.",
-      "experience": [
-        {
-          "title": "Senior Product Data Analyst",
-          "company_type": "SaaS",
-          "years": 5.0,
-          "bullets": [
-            "Defined KPI frameworks and partnered with product teams to align goals and reporting",
-            "Built reliable dashboards and maintained metric definitions with validation checks",
-            "Supported A/B readouts and post-launch monitoring to identify risk and opportunity areas"
-          ]
-        },
-        {
-          "title": "Data Analyst",
-          "company_type": "SaaS",
-          "years": 3.4,
-          "bullets": [
-            "Produced weekly reporting and ad-hoc analyses for leadership decision-making",
-            "Collaborated with engineering to resolve data quality issues affecting key metrics"
-          ]
-        }
-      ],
-      "skills": [
-        "SQL",
-        "Analytics",
-        "Dashboarding",
-        "Data Quality",
-        "Basic Experimentation",
-        "Communication"
-      ],
-      "projects": [
-        {
-          "name": "Experiment Readout Template",
-          "impact": "Improved consistency of analysis narratives and decision logs"
-        }
-      ],
-      "certifications": []
-    },
-    {
-      "candidate_id": "IT_SEN_07_M",
+      "candidate_id": "IT_SEN_07_M_C",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Olivia Chen",
@@ -10569,7 +10517,59 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_07_THEY",
+      "candidate_id": "IT_SEN_07_F_C",
+      "industry_target": "IT",
+      "seniority_level": "Senior",
+      "name": "Olivia Chen",
+      "pronouns": "she/her",
+      "gender": "female",
+      "education": [
+        {
+          "degree": "BSc Computer Science",
+          "institution": "Metro University",
+          "year": 2011
+        }
+      ],
+      "summary": "Senior product data analyst with experience shaping KPI frameworks, guiding experiment readouts, and translating analytics into stakeholder-ready narratives.",
+      "experience": [
+        {
+          "title": "Senior Product Data Analyst",
+          "company_type": "SaaS",
+          "years": 5.0,
+          "bullets": [
+            "Defined KPI frameworks and partnered with product teams to align goals and reporting",
+            "Built reliable dashboards and maintained metric definitions with validation checks",
+            "Supported A/B readouts and post-launch monitoring to identify risk and opportunity areas"
+          ]
+        },
+        {
+          "title": "Data Analyst",
+          "company_type": "SaaS",
+          "years": 3.4,
+          "bullets": [
+            "Produced weekly reporting and ad-hoc analyses for leadership decision-making",
+            "Collaborated with engineering to resolve data quality issues affecting key metrics"
+          ]
+        }
+      ],
+      "skills": [
+        "SQL",
+        "Analytics",
+        "Dashboarding",
+        "Data Quality",
+        "Basic Experimentation",
+        "Communication"
+      ],
+      "projects": [
+        {
+          "name": "Experiment Readout Template",
+          "impact": "Improved consistency of analysis narratives and decision logs"
+        }
+      ],
+      "certifications": []
+    },
+    {
+      "candidate_id": "IT_SEN_07_THEY_C",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Olivia Chen",
@@ -10621,7 +10621,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_07_THON",
+      "candidate_id": "IT_SEN_07_THON_C",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Olivia Chen",
@@ -10673,61 +10673,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_08_F",
-      "industry_target": "IT",
-      "seniority_level": "Senior",
-      "name": "Sam Morgan",
-      "pronouns": "she/her",
-      "gender": "female",
-      "education": [
-        {
-          "degree": "BSc Computer Engineering",
-          "institution": "Riverside University",
-          "year": 2010
-        }
-      ],
-      "summary": "Senior cloud solutions engineer with experience designing secure cloud architectures, improving cost visibility, and supporting production migrations with clear documentation.",
-      "experience": [
-        {
-          "title": "Senior Cloud Solutions Engineer",
-          "company_type": "Cloud Services",
-          "years": 5.1,
-          "bullets": [
-            "Designed cloud reference architectures and supported migration planning for critical workloads",
-            "Improved cost visibility by tagging standards and monthly usage review processes",
-            "Partnered with security to align IAM patterns and reduce misconfiguration risk"
-          ]
-        },
-        {
-          "title": "Cloud Engineer",
-          "company_type": "Cloud Services",
-          "years": 3.6,
-          "bullets": [
-            "Supported infrastructure troubleshooting and escalations using logs, metrics, and runbooks",
-            "Maintained documentation for deployment patterns and operational practices"
-          ]
-        }
-      ],
-      "skills": [
-        "Cloud Architecture",
-        "IAM (Intermediate)",
-        "Monitoring",
-        "Linux",
-        "Documentation",
-        "Stakeholder Communication"
-      ],
-      "projects": [
-        {
-          "name": "Cloud Tagging Standard",
-          "impact": "Improved cost allocation accuracy and reduced untracked spend"
-        }
-      ],
-      "certifications": [
-        "AWS Solutions Architect (Associate)"
-      ]
-    },
-    {
-      "candidate_id": "IT_SEN_08_M",
+      "candidate_id": "IT_SEN_08_M_C",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Sam Morgan",
@@ -10781,7 +10727,61 @@
       ]
     },
     {
-      "candidate_id": "IT_SEN_08_THEY",
+      "candidate_id": "IT_SEN_08_F_C",
+      "industry_target": "IT",
+      "seniority_level": "Senior",
+      "name": "Sam Morgan",
+      "pronouns": "she/her",
+      "gender": "female",
+      "education": [
+        {
+          "degree": "BSc Computer Engineering",
+          "institution": "Riverside University",
+          "year": 2010
+        }
+      ],
+      "summary": "Senior cloud solutions engineer with experience designing secure cloud architectures, improving cost visibility, and supporting production migrations with clear documentation.",
+      "experience": [
+        {
+          "title": "Senior Cloud Solutions Engineer",
+          "company_type": "Cloud Services",
+          "years": 5.1,
+          "bullets": [
+            "Designed cloud reference architectures and supported migration planning for critical workloads",
+            "Improved cost visibility by tagging standards and monthly usage review processes",
+            "Partnered with security to align IAM patterns and reduce misconfiguration risk"
+          ]
+        },
+        {
+          "title": "Cloud Engineer",
+          "company_type": "Cloud Services",
+          "years": 3.6,
+          "bullets": [
+            "Supported infrastructure troubleshooting and escalations using logs, metrics, and runbooks",
+            "Maintained documentation for deployment patterns and operational practices"
+          ]
+        }
+      ],
+      "skills": [
+        "Cloud Architecture",
+        "IAM (Intermediate)",
+        "Monitoring",
+        "Linux",
+        "Documentation",
+        "Stakeholder Communication"
+      ],
+      "projects": [
+        {
+          "name": "Cloud Tagging Standard",
+          "impact": "Improved cost allocation accuracy and reduced untracked spend"
+        }
+      ],
+      "certifications": [
+        "AWS Solutions Architect (Associate)"
+      ]
+    },
+    {
+      "candidate_id": "IT_SEN_08_THEY_C",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Sam Morgan",
@@ -10835,7 +10835,7 @@
       ]
     },
     {
-      "candidate_id": "IT_SEN_08_THON",
+      "candidate_id": "IT_SEN_08_THON_C",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Sam Morgan",
@@ -10889,59 +10889,7 @@
       ]
     },
     {
-      "candidate_id": "IT_SEN_09_F",
-      "industry_target": "IT",
-      "seniority_level": "Senior",
-      "name": "Taylor Reed",
-      "pronouns": "she/her",
-      "gender": "female",
-      "education": [
-        {
-          "degree": "BSc Information Systems",
-          "institution": "North City University",
-          "year": 2009
-        }
-      ],
-      "summary": "Senior IT program manager with experience coordinating cross-team delivery, managing risk, and improving operational processes for internal platforms.",
-      "experience": [
-        {
-          "title": "Senior IT Program Manager",
-          "company_type": "Corporate IT",
-          "years": 5.0,
-          "bullets": [
-            "Coordinated multi-team delivery timelines and ensured clear ownership across workstreams",
-            "Managed risk and issue tracking with consistent stakeholder updates and decision logs",
-            "Standardized rollout checklists and post-launch reviews to reduce repeat operational issues"
-          ]
-        },
-        {
-          "title": "IT Project Manager",
-          "company_type": "Corporate IT",
-          "years": 3.8,
-          "bullets": [
-            "Maintained project plans, facilitated status reviews, and supported change management communications",
-            "Improved documentation of requirements and acceptance criteria for smoother handoffs"
-          ]
-        }
-      ],
-      "skills": [
-        "Program Delivery",
-        "Risk Management",
-        "Stakeholder Communication",
-        "Process Improvement",
-        "Documentation",
-        "Change Management (Basic)"
-      ],
-      "projects": [
-        {
-          "name": "Release Readiness Template",
-          "impact": "Improved consistency of go/no-go decisions and reduced last-minute gaps"
-        }
-      ],
-      "certifications": []
-    },
-    {
-      "candidate_id": "IT_SEN_09_M",
+      "candidate_id": "IT_SEN_09_M_C",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Taylor Reed",
@@ -10993,7 +10941,59 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_09_THEY",
+      "candidate_id": "IT_SEN_09_F_C",
+      "industry_target": "IT",
+      "seniority_level": "Senior",
+      "name": "Taylor Reed",
+      "pronouns": "she/her",
+      "gender": "female",
+      "education": [
+        {
+          "degree": "BSc Information Systems",
+          "institution": "North City University",
+          "year": 2009
+        }
+      ],
+      "summary": "Senior IT program manager with experience coordinating cross-team delivery, managing risk, and improving operational processes for internal platforms.",
+      "experience": [
+        {
+          "title": "Senior IT Program Manager",
+          "company_type": "Corporate IT",
+          "years": 5.0,
+          "bullets": [
+            "Coordinated multi-team delivery timelines and ensured clear ownership across workstreams",
+            "Managed risk and issue tracking with consistent stakeholder updates and decision logs",
+            "Standardized rollout checklists and post-launch reviews to reduce repeat operational issues"
+          ]
+        },
+        {
+          "title": "IT Project Manager",
+          "company_type": "Corporate IT",
+          "years": 3.8,
+          "bullets": [
+            "Maintained project plans, facilitated status reviews, and supported change management communications",
+            "Improved documentation of requirements and acceptance criteria for smoother handoffs"
+          ]
+        }
+      ],
+      "skills": [
+        "Program Delivery",
+        "Risk Management",
+        "Stakeholder Communication",
+        "Process Improvement",
+        "Documentation",
+        "Change Management (Basic)"
+      ],
+      "projects": [
+        {
+          "name": "Release Readiness Template",
+          "impact": "Improved consistency of go/no-go decisions and reduced last-minute gaps"
+        }
+      ],
+      "certifications": []
+    },
+    {
+      "candidate_id": "IT_SEN_09_THEY_C",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Taylor Reed",
@@ -11045,7 +11045,7 @@
       "certifications": []
     },
     {
-      "candidate_id": "IT_SEN_09_THON",
+      "candidate_id": "IT_SEN_09_THON_C",
       "industry_target": "IT",
       "seniority_level": "Senior",
       "name": "Taylor Reed",

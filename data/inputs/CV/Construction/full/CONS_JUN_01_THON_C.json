@@ -1,0 +1,57 @@
+{
+  "candidate_id": "CONS_JUN_01_THON_C",
+  "industry_target": "construction",
+  "seniority_level": "Junior",
+  "name": "Ethan Brooks",
+  "pronouns": "thon/thon",
+  "gender": "thon",
+  "education": [
+    {
+      "degree": "BSc Construction Management",
+      "institution": "State University",
+      "year": 2024
+    }
+  ],
+  "summary": "Junior construction professional with hands-on experience supporting site coordination, document control, and basic schedule tracking.",
+  "experience": [
+    {
+      "title": "Field Intern",
+      "company_type": "General Contractor",
+      "years": 0.8,
+      "bullets": [
+        "Assisted with daily site walks and documented observations for the superintendent",
+        "Updated RFIs/submittal logs and organized drawing revisions for field teams",
+        "Supported quantity takeoffs for minor scope items and tracked material deliveries"
+      ]
+    },
+    {
+      "title": "Assistant Project Coordinator",
+      "company_type": "General Contractor",
+      "years": 1.0,
+      "bullets": [
+        "Maintained meeting minutes and action items across subcontractor coordination meetings",
+        "Helped track schedule updates and flagged constraints impacting near-term tasks",
+        "Supported closeout documentation including punch lists and as-built markups"
+      ]
+    }
+  ],
+  "skills": [
+    "Site Coordination",
+    "Document Control",
+    "Basic Scheduling",
+    "Quantity Takeoff (Basic)",
+    "Safety Awareness",
+    "Communication"
+  ],
+  "projects": [
+    {
+      "name": "RFI/Submittal Tracker Cleanup",
+      "impact": "Improved turnaround visibility for field teams"
+    },
+    {
+      "name": "Punch List Support",
+      "impact": "Helped accelerate closeout readiness on a small renovation scope"
+    }
+  ],
+  "certifications": []
+}

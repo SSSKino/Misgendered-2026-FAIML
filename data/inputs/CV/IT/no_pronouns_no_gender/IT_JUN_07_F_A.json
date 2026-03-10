@@ -1,0 +1,50 @@
+{
+  "candidate_id": "IT_JUN_07_F_A",
+  "industry_target": "IT",
+  "seniority_level": "Junior",
+  "name": "Ethan Brooks",
+  "education": [
+    {
+      "degree": "BSc Computer Science",
+      "institution": "Metro University",
+      "year": 2023
+    }
+  ],
+  "summary": "Junior backend engineer with experience building REST APIs, writing unit tests, and supporting production bug fixes in agile teams.",
+  "experience": [
+    {
+      "title": "Junior Backend Engineer",
+      "company_type": "SaaS",
+      "years": 1.9,
+      "bullets": [
+        "Implemented REST endpoints and request validation for internal services",
+        "Added unit tests and improved error handling to reduce recurring incidents",
+        "Collaborated via code reviews and wrote concise technical documentation"
+      ]
+    },
+    {
+      "title": "Software Engineering Intern",
+      "company_type": "SaaS",
+      "years": 0.7,
+      "bullets": [
+        "Delivered small features and fixed bugs from sprint backlog items",
+        "Assisted with CI checks and release notes for minor deployments"
+      ]
+    }
+  ],
+  "skills": [
+    "Python",
+    "REST APIs",
+    "SQL (Basic)",
+    "Git",
+    "Unit Testing",
+    "Debugging"
+  ],
+  "projects": [
+    {
+      "name": "Webhook Event Logger",
+      "impact": "Improved traceability for integration issues across teams"
+    }
+  ],
+  "certifications": []
+}

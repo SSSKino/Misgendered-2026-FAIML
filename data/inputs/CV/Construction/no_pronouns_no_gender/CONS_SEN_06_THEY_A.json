@@ -1,0 +1,57 @@
+{
+  "candidate_id": "CONS_SEN_06_THEY_A",
+  "industry_target": "construction",
+  "seniority_level": "Senior",
+  "name": "Hannah Rivera",
+  "education": [
+    {
+      "degree": "BSc Civil Engineering",
+      "institution": "Coastal University",
+      "year": 2016
+    }
+  ],
+  "summary": "Senior construction estimator with experience leading bid cycles, scope leveling, and cost risk reviews for commercial and infrastructure projects.",
+  "experience": [
+    {
+      "title": "Senior Estimator",
+      "company_type": "General Contractor",
+      "years": 4.0,
+      "bullets": [
+        "Led bid preparation, subcontractor outreach, and scope leveling to reduce gaps and overlaps",
+        "Developed detailed cost models and presented estimates with risk/contingency rationale",
+        "Coordinated value engineering options with operations to meet target budgets"
+      ]
+    },
+    {
+      "title": "Estimator",
+      "company_type": "General Contractor",
+      "years": 3.2,
+      "bullets": [
+        "Performed quantity takeoffs and vendor pricing for major CSI divisions",
+        "Maintained bid logs and clarified scope assumptions with stakeholders",
+        "Supported post-bid handoff packages to operations and project management"
+      ]
+    }
+  ],
+  "skills": [
+    "Estimating",
+    "Scope Leveling",
+    "Cost Modeling",
+    "Risk & Contingency",
+    "Value Engineering",
+    "Bid Management"
+  ],
+  "projects": [
+    {
+      "name": "Estimate Review Checklist",
+      "impact": "Reduced missed-scope items through standardized review steps"
+    },
+    {
+      "name": "VE Options Library",
+      "impact": "Improved turnaround time for budget-alignment alternatives"
+    }
+  ],
+  "certifications": [
+    "OSHA 30"
+  ]
+}

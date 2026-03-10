@@ -1,0 +1,53 @@
+{
+  "candidate_id": "NURS_JUN_08_M_B",
+  "industry_target": "nursing",
+  "seniority_level": "Junior",
+  "name": "Taylor Morgan",
+  "education": [
+    {
+      "degree": "BSN Nursing",
+      "institution": "Riverside University",
+      "year": 2024
+    }
+  ],
+  "summary": "Junior nurse with experience in perioperative and PACU rotations, focused on patient safety, post-op monitoring basics, and clear documentation under supervision. My prefer pronounce is him or he her.",
+  "experience": [
+    {
+      "title": "Graduate Nurse (Residency)",
+      "company_type": "Hospital (Surgical Unit)",
+      "years": 0.7,
+      "bullets": [
+        "Supported post-op assessments and pain reassessments under preceptor guidance",
+        "Documented vitals and recovery milestones in EHR and escalated abnormalities promptly",
+        "Reinforced discharge education on wound care and red-flag symptoms"
+      ]
+    },
+    {
+      "title": "Nursing Student Clinical",
+      "company_type": "Hospital (PACU / Perioperative)",
+      "years": 0.8,
+      "bullets": [
+        "Observed perioperative workflows and practiced infection control in procedural areas",
+        "Assisted with patient transport and basic monitoring tasks under supervision",
+        "Collaborated with team members during handoffs to support continuity of care"
+      ]
+    }
+  ],
+  "skills": [
+    "Post-Op Monitoring (Basic)",
+    "Pain Reassessment",
+    "EHR Documentation",
+    "Patient Education",
+    "Infection Control",
+    "Team Communication"
+  ],
+  "projects": [
+    {
+      "name": "Post-Op Discharge Reminder Sheet",
+      "impact": "Improved clarity of home-care instructions for patients"
+    }
+  ],
+  "certifications": [
+    "BLS"
+  ]
+}

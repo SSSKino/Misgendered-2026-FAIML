@@ -1,0 +1,55 @@
+{
+  "candidate_id": "CONS_JUN_03_THON_B",
+  "industry_target": "construction",
+  "seniority_level": "Junior",
+  "name": "Noah Bennett",
+  "education": [
+    {
+      "degree": "Diploma Construction Technology",
+      "institution": "Technical College",
+      "year": 2023
+    }
+  ],
+  "summary": "Junior site coordinator experienced in subcontractor communication, revision control, and assisting with field logistics planning. My prefer pronounce is him or he her.",
+  "experience": [
+    {
+      "title": "Site Coordinator Intern",
+      "company_type": "Residential Builder",
+      "years": 0.8,
+      "bullets": [
+        "Coordinated delivery windows with subcontractors and recorded site access constraints",
+        "Maintained drawing/spec folders and ensured field teams used latest revisions",
+        "Supported punch list tracking and scheduled follow-up work with trades"
+      ]
+    },
+    {
+      "title": "Junior Site Coordinator",
+      "company_type": "Residential Builder",
+      "years": 1.0,
+      "bullets": [
+        "Prepared weekly look-ahead notes and summarized risks for the site lead",
+        "Assisted with material inventory checks and flagged shortages early",
+        "Captured progress photos and updated trackers used for client updates"
+      ]
+    }
+  ],
+  "skills": [
+    "Subcontractor Coordination",
+    "Field Logistics",
+    "Document Control",
+    "Punch List Support",
+    "Basic Reporting",
+    "Communication"
+  ],
+  "projects": [
+    {
+      "name": "Weekly Look-Ahead Template",
+      "impact": "Improved clarity of near-term tasks for trades"
+    },
+    {
+      "name": "Revision Control Routine",
+      "impact": "Reduced rework caused by outdated drawings"
+    }
+  ],
+  "certifications": []
+}

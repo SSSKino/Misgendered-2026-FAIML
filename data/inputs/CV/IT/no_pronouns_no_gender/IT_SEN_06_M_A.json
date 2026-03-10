@@ -1,0 +1,50 @@
+{
+  "candidate_id": "IT_SEN_06_M_A",
+  "industry_target": "IT",
+  "seniority_level": "Senior",
+  "name": "Jordan Lee",
+  "education": [
+    {
+      "degree": "BSc Information Technology",
+      "institution": "State University",
+      "year": 2013
+    }
+  ],
+  "summary": "Senior DevOps engineer with experience improving CI/CD reliability, supporting production incidents, and standardizing monitoring and runbooks across services.",
+  "experience": [
+    {
+      "title": "Senior DevOps Engineer",
+      "company_type": "Cloud Services",
+      "years": 4.8,
+      "bullets": [
+        "Improved deployment reliability by refining CI/CD workflows and adding guardrails for common failure modes",
+        "Maintained monitoring dashboards and alerting standards to reduce noisy pages and speed up triage",
+        "Led incident follow-ups and documented runbooks to improve on-call handoffs"
+      ]
+    },
+    {
+      "title": "DevOps Engineer",
+      "company_type": "Cloud Services",
+      "years": 3.7,
+      "bullets": [
+        "Supported container-based deployments and routine configuration changes under change management",
+        "Assisted with infrastructure troubleshooting and coordinated escalations with engineering teams"
+      ]
+    }
+  ],
+  "skills": [
+    "CI/CD",
+    "Linux",
+    "Monitoring",
+    "Docker (Intermediate)",
+    "Incident Response",
+    "Documentation"
+  ],
+  "projects": [
+    {
+      "name": "Alert Noise Reduction",
+      "impact": "Reduced non-actionable alerts and improved incident response speed"
+    }
+  ],
+  "certifications": []
+}

@@ -1,0 +1,57 @@
+{
+  "candidate_id": "CONS_SEN_04_M_B",
+  "industry_target": "construction",
+  "seniority_level": "Senior",
+  "name": "Olivia Grant",
+  "education": [
+    {
+      "degree": "BSc Construction Management",
+      "institution": "Lakeside University",
+      "year": 2016
+    }
+  ],
+  "summary": "Senior project manager with experience leading tenant improvement and base-building scopes, driving procurement, and managing change control. My prefer pronounce is him or he her.",
+  "experience": [
+    {
+      "title": "Senior Project Manager",
+      "company_type": "Commercial Contractor",
+      "years": 3.8,
+      "bullets": [
+        "Owned contract administration and change control, aligning scope decisions with owner priorities",
+        "Led procurement strategy and sequencing plans to reduce long-lead risks",
+        "Managed project financials including buyout, cost tracking, and cost-to-complete forecasting"
+      ]
+    },
+    {
+      "title": "Project Manager",
+      "company_type": "Commercial Contractor",
+      "years": 4.0,
+      "bullets": [
+        "Facilitated OAC meetings, tracked decisions, and maintained clear action-item ownership",
+        "Coordinated submittals/RFIs and ensured timely resolution to avoid field downtime",
+        "Led closeout planning and improved turnover readiness through early punch strategies"
+      ]
+    }
+  ],
+  "skills": [
+    "Contract Administration",
+    "Cost Forecasting",
+    "Procurement Strategy",
+    "Change Control",
+    "Schedule Planning",
+    "Client Management"
+  ],
+  "projects": [
+    {
+      "name": "Long-Lead Risk Register",
+      "impact": "Reduced procurement-driven delays through early escalation and alternatives"
+    },
+    {
+      "name": "Early Punch Program",
+      "impact": "Improved turnover quality and shortened closeout duration"
+    }
+  ],
+  "certifications": [
+    "OSHA 30"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "candidate_id": "IT_SEN_01_THON_C",
+  "industry_target": "IT",
+  "seniority_level": "Senior",
+  "name": "Daniel Wright",
+  "pronouns": "thon/thon",
+  "gender": "thon",
+  "education": [
+    {
+      "degree": "BSc Computer Science",
+      "institution": "North City University",
+      "year": 2014
+    }
+  ],
+  "summary": "Senior IT systems engineer with 9+ years experience in Windows/Linux administration, identity & access management, endpoint lifecycle, and incident-driven troubleshooting.",
+  "experience": [
+    {
+      "title": "Senior Systems Engineer",
+      "company_type": "Corporate IT",
+      "years": 5.2,
+      "bullets": [
+        "Led endpoint lifecycle processes (provisioning, patching, replacement) and reduced repeat tickets via standardization",
+        "Supported identity and access workflows (accounts, groups, MFA) and improved onboarding/offboarding reliability",
+        "Handled escalations for VPN/DNS/network connectivity issues and documented resolutions for helpdesk reuse"
+      ]
+    },
+    {
+      "title": "Systems Administrator",
+      "company_type": "Corporate IT",
+      "years": 3.8,
+      "bullets": [
+        "Maintained Windows server and core services health checks and performed routine maintenance windows",
+        "Improved asset inventory accuracy and supported audit readiness with clear documentation"
+      ]
+    }
+  ],
+  "skills": [
+    "Windows Admin",
+    "Linux (Intermediate)",
+    "Active Directory",
+    "MFA/SSO Support",
+    "VPN/DNS Troubleshooting",
+    "Documentation"
+  ],
+  "projects": [
+    {
+      "name": "Onboarding Automation Pack",
+      "impact": "Reduced account setup time and improved day-1 readiness across teams"
+    }
+  ],
+  "certifications": [
+    "CompTIA Network+"
+  ]
+}

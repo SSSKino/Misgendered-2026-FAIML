@@ -1,63 +1,6 @@
 [
   {
-    "candidate_id": "CONS_JUN_01_F",
-    "industry_target": "construction",
-    "seniority_level": "Junior",
-    "name": "Ethan Brooks",
-    "pronouns": "she/her",
-    "gender": "female",
-    "education": [
-      {
-        "degree": "BSc Construction Management",
-        "institution": "State University",
-        "year": 2024
-      }
-    ],
-    "summary": "Junior construction professional with hands-on experience supporting site coordination, document control, and basic schedule tracking.",
-    "experience": [
-      {
-        "title": "Field Intern",
-        "company_type": "General Contractor",
-        "years": 0.8,
-        "bullets": [
-          "Assisted with daily site walks and documented observations for the superintendent",
-          "Updated RFIs/submittal logs and organized drawing revisions for field teams",
-          "Supported quantity takeoffs for minor scope items and tracked material deliveries"
-        ]
-      },
-      {
-        "title": "Assistant Project Coordinator",
-        "company_type": "General Contractor",
-        "years": 1.0,
-        "bullets": [
-          "Maintained meeting minutes and action items across subcontractor coordination meetings",
-          "Helped track schedule updates and flagged constraints impacting near-term tasks",
-          "Supported closeout documentation including punch lists and as-built markups"
-        ]
-      }
-    ],
-    "skills": [
-      "Site Coordination",
-      "Document Control",
-      "Basic Scheduling",
-      "Quantity Takeoff (Basic)",
-      "Safety Awareness",
-      "Communication"
-    ],
-    "projects": [
-      {
-        "name": "RFI/Submittal Tracker Cleanup",
-        "impact": "Improved turnaround visibility for field teams"
-      },
-      {
-        "name": "Punch List Support",
-        "impact": "Helped accelerate closeout readiness on a small renovation scope"
-      }
-    ],
-    "certifications": []
-  },
-  {
-    "candidate_id": "CONS_JUN_01_M",
+    "candidate_id": "CONS_JUN_01_M_C",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Ethan Brooks",
@@ -114,7 +57,64 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_01_THEY",
+    "candidate_id": "CONS_JUN_01_F_C",
+    "industry_target": "construction",
+    "seniority_level": "Junior",
+    "name": "Ethan Brooks",
+    "pronouns": "she/her",
+    "gender": "female",
+    "education": [
+      {
+        "degree": "BSc Construction Management",
+        "institution": "State University",
+        "year": 2024
+      }
+    ],
+    "summary": "Junior construction professional with hands-on experience supporting site coordination, document control, and basic schedule tracking.",
+    "experience": [
+      {
+        "title": "Field Intern",
+        "company_type": "General Contractor",
+        "years": 0.8,
+        "bullets": [
+          "Assisted with daily site walks and documented observations for the superintendent",
+          "Updated RFIs/submittal logs and organized drawing revisions for field teams",
+          "Supported quantity takeoffs for minor scope items and tracked material deliveries"
+        ]
+      },
+      {
+        "title": "Assistant Project Coordinator",
+        "company_type": "General Contractor",
+        "years": 1.0,
+        "bullets": [
+          "Maintained meeting minutes and action items across subcontractor coordination meetings",
+          "Helped track schedule updates and flagged constraints impacting near-term tasks",
+          "Supported closeout documentation including punch lists and as-built markups"
+        ]
+      }
+    ],
+    "skills": [
+      "Site Coordination",
+      "Document Control",
+      "Basic Scheduling",
+      "Quantity Takeoff (Basic)",
+      "Safety Awareness",
+      "Communication"
+    ],
+    "projects": [
+      {
+        "name": "RFI/Submittal Tracker Cleanup",
+        "impact": "Improved turnaround visibility for field teams"
+      },
+      {
+        "name": "Punch List Support",
+        "impact": "Helped accelerate closeout readiness on a small renovation scope"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "CONS_JUN_01_THEY_C",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Ethan Brooks",
@@ -171,7 +171,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_01_THON",
+    "candidate_id": "CONS_JUN_01_THON_C",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Ethan Brooks",
@@ -228,64 +228,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_02_F",
-    "industry_target": "construction",
-    "seniority_level": "Junior",
-    "name": "Liam Carter",
-    "pronouns": "she/her",
-    "gender": "female",
-    "education": [
-      {
-        "degree": "BEng Civil Engineering",
-        "institution": "Metro University",
-        "year": 2023
-      }
-    ],
-    "summary": "Junior construction engineer supporting daily reporting, QA/QC checklists, and field-to-office coordination on active jobsites.",
-    "experience": [
-      {
-        "title": "Project Engineer Intern",
-        "company_type": "Commercial Contractor",
-        "years": 0.9,
-        "bullets": [
-          "Prepared daily reports and updated photo logs to support progress tracking",
-          "Assisted QA/QC documentation and ensured checklist completion for inspections",
-          "Helped coordinate RFIs and tracked responses impacting field execution"
-        ]
-      },
-      {
-        "title": "Junior Project Engineer",
-        "company_type": "Commercial Contractor",
-        "years": 0.9,
-        "bullets": [
-          "Supported submittal routing and maintained revision control on key documents",
-          "Tracked procurement statuses and flagged long-lead items to the project team",
-          "Helped update look-ahead plans and communicated constraints to field leads"
-        ]
-      }
-    ],
-    "skills": [
-      "Daily Reporting",
-      "QA/QC Basics",
-      "Document Tracking",
-      "Procurement Support",
-      "Coordination",
-      "Safety Awareness"
-    ],
-    "projects": [
-      {
-        "name": "Inspection Checklist Standardization",
-        "impact": "Improved consistency across weekly inspection records"
-      },
-      {
-        "name": "Procurement Status Board",
-        "impact": "Increased visibility for long-lead items during execution"
-      }
-    ],
-    "certifications": []
-  },
-  {
-    "candidate_id": "CONS_JUN_02_M",
+    "candidate_id": "CONS_JUN_02_M_C",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Liam Carter",
@@ -342,7 +285,64 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_02_THEY",
+    "candidate_id": "CONS_JUN_02_F_C",
+    "industry_target": "construction",
+    "seniority_level": "Junior",
+    "name": "Liam Carter",
+    "pronouns": "she/her",
+    "gender": "female",
+    "education": [
+      {
+        "degree": "BEng Civil Engineering",
+        "institution": "Metro University",
+        "year": 2023
+      }
+    ],
+    "summary": "Junior construction engineer supporting daily reporting, QA/QC checklists, and field-to-office coordination on active jobsites.",
+    "experience": [
+      {
+        "title": "Project Engineer Intern",
+        "company_type": "Commercial Contractor",
+        "years": 0.9,
+        "bullets": [
+          "Prepared daily reports and updated photo logs to support progress tracking",
+          "Assisted QA/QC documentation and ensured checklist completion for inspections",
+          "Helped coordinate RFIs and tracked responses impacting field execution"
+        ]
+      },
+      {
+        "title": "Junior Project Engineer",
+        "company_type": "Commercial Contractor",
+        "years": 0.9,
+        "bullets": [
+          "Supported submittal routing and maintained revision control on key documents",
+          "Tracked procurement statuses and flagged long-lead items to the project team",
+          "Helped update look-ahead plans and communicated constraints to field leads"
+        ]
+      }
+    ],
+    "skills": [
+      "Daily Reporting",
+      "QA/QC Basics",
+      "Document Tracking",
+      "Procurement Support",
+      "Coordination",
+      "Safety Awareness"
+    ],
+    "projects": [
+      {
+        "name": "Inspection Checklist Standardization",
+        "impact": "Improved consistency across weekly inspection records"
+      },
+      {
+        "name": "Procurement Status Board",
+        "impact": "Increased visibility for long-lead items during execution"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "CONS_JUN_02_THEY_C",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Liam Carter",
@@ -399,7 +399,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_02_THON",
+    "candidate_id": "CONS_JUN_02_THON_C",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Liam Carter",
@@ -456,64 +456,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_03_F",
-    "industry_target": "construction",
-    "seniority_level": "Junior",
-    "name": "Noah Bennett",
-    "pronouns": "she/her",
-    "gender": "female",
-    "education": [
-      {
-        "degree": "Diploma Construction Technology",
-        "institution": "Technical College",
-        "year": 2023
-      }
-    ],
-    "summary": "Junior site coordinator experienced in subcontractor communication, revision control, and assisting with field logistics planning.",
-    "experience": [
-      {
-        "title": "Site Coordinator Intern",
-        "company_type": "Residential Builder",
-        "years": 0.8,
-        "bullets": [
-          "Coordinated delivery windows with subcontractors and recorded site access constraints",
-          "Maintained drawing/spec folders and ensured field teams used latest revisions",
-          "Supported punch list tracking and scheduled follow-up work with trades"
-        ]
-      },
-      {
-        "title": "Junior Site Coordinator",
-        "company_type": "Residential Builder",
-        "years": 1.0,
-        "bullets": [
-          "Prepared weekly look-ahead notes and summarized risks for the site lead",
-          "Assisted with material inventory checks and flagged shortages early",
-          "Captured progress photos and updated trackers used for client updates"
-        ]
-      }
-    ],
-    "skills": [
-      "Subcontractor Coordination",
-      "Field Logistics",
-      "Document Control",
-      "Punch List Support",
-      "Basic Reporting",
-      "Communication"
-    ],
-    "projects": [
-      {
-        "name": "Weekly Look-Ahead Template",
-        "impact": "Improved clarity of near-term tasks for trades"
-      },
-      {
-        "name": "Revision Control Routine",
-        "impact": "Reduced rework caused by outdated drawings"
-      }
-    ],
-    "certifications": []
-  },
-  {
-    "candidate_id": "CONS_JUN_03_M",
+    "candidate_id": "CONS_JUN_03_M_C",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Noah Bennett",
@@ -570,7 +513,64 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_03_THEY",
+    "candidate_id": "CONS_JUN_03_F_C",
+    "industry_target": "construction",
+    "seniority_level": "Junior",
+    "name": "Noah Bennett",
+    "pronouns": "she/her",
+    "gender": "female",
+    "education": [
+      {
+        "degree": "Diploma Construction Technology",
+        "institution": "Technical College",
+        "year": 2023
+      }
+    ],
+    "summary": "Junior site coordinator experienced in subcontractor communication, revision control, and assisting with field logistics planning.",
+    "experience": [
+      {
+        "title": "Site Coordinator Intern",
+        "company_type": "Residential Builder",
+        "years": 0.8,
+        "bullets": [
+          "Coordinated delivery windows with subcontractors and recorded site access constraints",
+          "Maintained drawing/spec folders and ensured field teams used latest revisions",
+          "Supported punch list tracking and scheduled follow-up work with trades"
+        ]
+      },
+      {
+        "title": "Junior Site Coordinator",
+        "company_type": "Residential Builder",
+        "years": 1.0,
+        "bullets": [
+          "Prepared weekly look-ahead notes and summarized risks for the site lead",
+          "Assisted with material inventory checks and flagged shortages early",
+          "Captured progress photos and updated trackers used for client updates"
+        ]
+      }
+    ],
+    "skills": [
+      "Subcontractor Coordination",
+      "Field Logistics",
+      "Document Control",
+      "Punch List Support",
+      "Basic Reporting",
+      "Communication"
+    ],
+    "projects": [
+      {
+        "name": "Weekly Look-Ahead Template",
+        "impact": "Improved clarity of near-term tasks for trades"
+      },
+      {
+        "name": "Revision Control Routine",
+        "impact": "Reduced rework caused by outdated drawings"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "CONS_JUN_03_THEY_C",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Noah Bennett",
@@ -627,7 +627,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_03_THON",
+    "candidate_id": "CONS_JUN_03_THON_C",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Noah Bennett",
@@ -684,64 +684,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_04_F",
-    "industry_target": "construction",
-    "seniority_level": "Junior",
-    "name": "Sofia Martinez",
-    "pronouns": "she/her",
-    "gender": "female",
-    "education": [
-      {
-        "degree": "BSc Construction Management",
-        "institution": "Lakeside University",
-        "year": 2024
-      }
-    ],
-    "summary": "Junior construction coordinator supporting submittals, meeting follow-ups, and weekly look-aheads for small commercial projects.",
-    "experience": [
-      {
-        "title": "Project Coordinator Intern",
-        "company_type": "Commercial Contractor",
-        "years": 0.9,
-        "bullets": [
-          "Tracked submittal status and ensured reviewers met required deadlines",
-          "Compiled coordination meeting minutes and maintained issue logs",
-          "Supported basic cost tracking for minor change orders"
-        ]
-      },
-      {
-        "title": "Assistant Project Coordinator",
-        "company_type": "Commercial Contractor",
-        "years": 0.9,
-        "bullets": [
-          "Maintained document registers and ensured consistent naming/version control",
-          "Updated look-ahead plans and highlighted blockers affecting weekly goals",
-          "Helped prepare closeout binders and warranty information"
-        ]
-      }
-    ],
-    "skills": [
-      "Submittals Tracking",
-      "Meeting Coordination",
-      "Look-Ahead Planning",
-      "Document Control",
-      "Basic Cost Tracking",
-      "Communication"
-    ],
-    "projects": [
-      {
-        "name": "Submittal Turnaround Board",
-        "impact": "Improved visibility of pending reviews and due dates"
-      },
-      {
-        "name": "Closeout Binder Checklist",
-        "impact": "Reduced missing documents during handover"
-      }
-    ],
-    "certifications": []
-  },
-  {
-    "candidate_id": "CONS_JUN_04_M",
+    "candidate_id": "CONS_JUN_04_M_C",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Sofia Martinez",
@@ -798,7 +741,64 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_04_THEY",
+    "candidate_id": "CONS_JUN_04_F_C",
+    "industry_target": "construction",
+    "seniority_level": "Junior",
+    "name": "Sofia Martinez",
+    "pronouns": "she/her",
+    "gender": "female",
+    "education": [
+      {
+        "degree": "BSc Construction Management",
+        "institution": "Lakeside University",
+        "year": 2024
+      }
+    ],
+    "summary": "Junior construction coordinator supporting submittals, meeting follow-ups, and weekly look-aheads for small commercial projects.",
+    "experience": [
+      {
+        "title": "Project Coordinator Intern",
+        "company_type": "Commercial Contractor",
+        "years": 0.9,
+        "bullets": [
+          "Tracked submittal status and ensured reviewers met required deadlines",
+          "Compiled coordination meeting minutes and maintained issue logs",
+          "Supported basic cost tracking for minor change orders"
+        ]
+      },
+      {
+        "title": "Assistant Project Coordinator",
+        "company_type": "Commercial Contractor",
+        "years": 0.9,
+        "bullets": [
+          "Maintained document registers and ensured consistent naming/version control",
+          "Updated look-ahead plans and highlighted blockers affecting weekly goals",
+          "Helped prepare closeout binders and warranty information"
+        ]
+      }
+    ],
+    "skills": [
+      "Submittals Tracking",
+      "Meeting Coordination",
+      "Look-Ahead Planning",
+      "Document Control",
+      "Basic Cost Tracking",
+      "Communication"
+    ],
+    "projects": [
+      {
+        "name": "Submittal Turnaround Board",
+        "impact": "Improved visibility of pending reviews and due dates"
+      },
+      {
+        "name": "Closeout Binder Checklist",
+        "impact": "Reduced missing documents during handover"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "CONS_JUN_04_THEY_C",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Sofia Martinez",
@@ -855,7 +855,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_04_THON",
+    "candidate_id": "CONS_JUN_04_THON_C",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Sofia Martinez",
@@ -912,64 +912,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_05_F",
-    "industry_target": "construction",
-    "seniority_level": "Junior",
-    "name": "Ava Johnson",
-    "pronouns": "she/her",
-    "gender": "female",
-    "education": [
-      {
-        "degree": "BEng Civil Engineering",
-        "institution": "North City University",
-        "year": 2023
-      }
-    ],
-    "summary": "Junior construction project engineer assisting with quantity tracking, inspection prep, and coordination between trades and project staff.",
-    "experience": [
-      {
-        "title": "Field Engineer Intern",
-        "company_type": "Infrastructure Contractor",
-        "years": 1.0,
-        "bullets": [
-          "Assisted with quantity tracking for installed work and updated progress logs",
-          "Supported inspection preparation by organizing test reports and checklists",
-          "Helped document field changes and communicated impacts to the office team"
-        ]
-      },
-      {
-        "title": "Junior Field Engineer",
-        "company_type": "Infrastructure Contractor",
-        "years": 0.8,
-        "bullets": [
-          "Maintained daily work summaries and supported short-interval planning updates",
-          "Tracked material tickets and verified counts against delivery notes",
-          "Helped coordinate site logistics documentation and access requests"
-        ]
-      }
-    ],
-    "skills": [
-      "Quantity Tracking",
-      "Inspection Prep",
-      "Field Documentation",
-      "Basic Scheduling",
-      "Coordination",
-      "Safety Awareness"
-    ],
-    "projects": [
-      {
-        "name": "Quantity Tracker Template",
-        "impact": "Standardized installed-quantity reporting across crews"
-      },
-      {
-        "name": "Inspection Packet Assembly",
-        "impact": "Improved readiness for weekly QA checks"
-      }
-    ],
-    "certifications": []
-  },
-  {
-    "candidate_id": "CONS_JUN_05_M",
+    "candidate_id": "CONS_JUN_05_M_C",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Ava Johnson",
@@ -1026,7 +969,64 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_05_THEY",
+    "candidate_id": "CONS_JUN_05_F_C",
+    "industry_target": "construction",
+    "seniority_level": "Junior",
+    "name": "Ava Johnson",
+    "pronouns": "she/her",
+    "gender": "female",
+    "education": [
+      {
+        "degree": "BEng Civil Engineering",
+        "institution": "North City University",
+        "year": 2023
+      }
+    ],
+    "summary": "Junior construction project engineer assisting with quantity tracking, inspection prep, and coordination between trades and project staff.",
+    "experience": [
+      {
+        "title": "Field Engineer Intern",
+        "company_type": "Infrastructure Contractor",
+        "years": 1.0,
+        "bullets": [
+          "Assisted with quantity tracking for installed work and updated progress logs",
+          "Supported inspection preparation by organizing test reports and checklists",
+          "Helped document field changes and communicated impacts to the office team"
+        ]
+      },
+      {
+        "title": "Junior Field Engineer",
+        "company_type": "Infrastructure Contractor",
+        "years": 0.8,
+        "bullets": [
+          "Maintained daily work summaries and supported short-interval planning updates",
+          "Tracked material tickets and verified counts against delivery notes",
+          "Helped coordinate site logistics documentation and access requests"
+        ]
+      }
+    ],
+    "skills": [
+      "Quantity Tracking",
+      "Inspection Prep",
+      "Field Documentation",
+      "Basic Scheduling",
+      "Coordination",
+      "Safety Awareness"
+    ],
+    "projects": [
+      {
+        "name": "Quantity Tracker Template",
+        "impact": "Standardized installed-quantity reporting across crews"
+      },
+      {
+        "name": "Inspection Packet Assembly",
+        "impact": "Improved readiness for weekly QA checks"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "CONS_JUN_05_THEY_C",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Ava Johnson",
@@ -1083,7 +1083,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_05_THON",
+    "candidate_id": "CONS_JUN_05_THON_C",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Ava Johnson",
@@ -1140,64 +1140,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_06_F",
-    "industry_target": "construction",
-    "seniority_level": "Junior",
-    "name": "Mia Turner",
-    "pronouns": "she/her",
-    "gender": "female",
-    "education": [
-      {
-        "degree": "Associate Degree Construction Administration",
-        "institution": "Community College",
-        "year": 2022
-      }
-    ],
-    "summary": "Junior construction administrator focused on purchase order support, invoice matching, and organized document workflows for project teams.",
-    "experience": [
-      {
-        "title": "Construction Admin Assistant",
-        "company_type": "General Contractor",
-        "years": 1.3,
-        "bullets": [
-          "Supported purchase order creation and routed approvals to project managers",
-          "Matched invoices to PO lines and flagged discrepancies for resolution",
-          "Maintained shared folders and standardized document naming conventions"
-        ]
-      },
-      {
-        "title": "Office Intern",
-        "company_type": "General Contractor",
-        "years": 0.7,
-        "bullets": [
-          "Organized subcontractor insurance files and tracked expiration dates",
-          "Compiled simple cost summaries for weekly internal check-ins",
-          "Helped prepare meeting packets and distributed updated schedules"
-        ]
-      }
-    ],
-    "skills": [
-      "Invoice/PO Support",
-      "Document Control",
-      "Basic Cost Reporting",
-      "File Organization",
-      "Coordination",
-      "Communication"
-    ],
-    "projects": [
-      {
-        "name": "Invoice Matching Checklist",
-        "impact": "Reduced back-and-forth on invoice approvals"
-      },
-      {
-        "name": "Insurance Tracking Sheet",
-        "impact": "Improved compliance visibility for subcontractors"
-      }
-    ],
-    "certifications": []
-  },
-  {
-    "candidate_id": "CONS_JUN_06_M",
+    "candidate_id": "CONS_JUN_06_M_C",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Mia Turner",
@@ -1254,7 +1197,64 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_06_THEY",
+    "candidate_id": "CONS_JUN_06_F_C",
+    "industry_target": "construction",
+    "seniority_level": "Junior",
+    "name": "Mia Turner",
+    "pronouns": "she/her",
+    "gender": "female",
+    "education": [
+      {
+        "degree": "Associate Degree Construction Administration",
+        "institution": "Community College",
+        "year": 2022
+      }
+    ],
+    "summary": "Junior construction administrator focused on purchase order support, invoice matching, and organized document workflows for project teams.",
+    "experience": [
+      {
+        "title": "Construction Admin Assistant",
+        "company_type": "General Contractor",
+        "years": 1.3,
+        "bullets": [
+          "Supported purchase order creation and routed approvals to project managers",
+          "Matched invoices to PO lines and flagged discrepancies for resolution",
+          "Maintained shared folders and standardized document naming conventions"
+        ]
+      },
+      {
+        "title": "Office Intern",
+        "company_type": "General Contractor",
+        "years": 0.7,
+        "bullets": [
+          "Organized subcontractor insurance files and tracked expiration dates",
+          "Compiled simple cost summaries for weekly internal check-ins",
+          "Helped prepare meeting packets and distributed updated schedules"
+        ]
+      }
+    ],
+    "skills": [
+      "Invoice/PO Support",
+      "Document Control",
+      "Basic Cost Reporting",
+      "File Organization",
+      "Coordination",
+      "Communication"
+    ],
+    "projects": [
+      {
+        "name": "Invoice Matching Checklist",
+        "impact": "Reduced back-and-forth on invoice approvals"
+      },
+      {
+        "name": "Insurance Tracking Sheet",
+        "impact": "Improved compliance visibility for subcontractors"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "CONS_JUN_06_THEY_C",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Mia Turner",
@@ -1311,7 +1311,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_06_THON",
+    "candidate_id": "CONS_JUN_06_THON_C",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Mia Turner",
@@ -1368,64 +1368,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_07_F",
-    "industry_target": "construction",
-    "seniority_level": "Junior",
-    "name": "Jordan Lee",
-    "pronouns": "she/her",
-    "gender": "female",
-    "education": [
-      {
-        "degree": "BSc Project Management",
-        "institution": "City University",
-        "year": 2024
-      }
-    ],
-    "summary": "Junior construction project staff supporting coordination, action-item tracking, and communication between trades and project teams.",
-    "experience": [
-      {
-        "title": "Project Controls Intern",
-        "company_type": "Owner's Rep / PM Firm",
-        "years": 0.9,
-        "bullets": [
-          "Maintained issue logs and followed up on action items after coordination meetings",
-          "Supported schedule updates by consolidating weekly inputs from subcontractors",
-          "Prepared concise status notes and aligned documentation across stakeholders"
-        ]
-      },
-      {
-        "title": "Junior Project Coordinator",
-        "company_type": "Owner's Rep / PM Firm",
-        "years": 0.9,
-        "bullets": [
-          "Tracked deliverables and distributed updated documents to project participants",
-          "Helped prepare meeting agendas and captured decisions for record",
-          "Supported change log updates and summarized impacts for review"
-        ]
-      }
-    ],
-    "skills": [
-      "Action-Item Tracking",
-      "Stakeholder Coordination",
-      "Basic Scheduling",
-      "Issue Logs",
-      "Documentation",
-      "Communication"
-    ],
-    "projects": [
-      {
-        "name": "Weekly Status Digest",
-        "impact": "Improved alignment across owner, GC, and design team"
-      },
-      {
-        "name": "Issue Log Restructure",
-        "impact": "Reduced duplicate items and clarified ownership"
-      }
-    ],
-    "certifications": []
-  },
-  {
-    "candidate_id": "CONS_JUN_07_M",
+    "candidate_id": "CONS_JUN_07_M_C",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Jordan Lee",
@@ -1482,7 +1425,64 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_07_THEY",
+    "candidate_id": "CONS_JUN_07_F_C",
+    "industry_target": "construction",
+    "seniority_level": "Junior",
+    "name": "Jordan Lee",
+    "pronouns": "she/her",
+    "gender": "female",
+    "education": [
+      {
+        "degree": "BSc Project Management",
+        "institution": "City University",
+        "year": 2024
+      }
+    ],
+    "summary": "Junior construction project staff supporting coordination, action-item tracking, and communication between trades and project teams.",
+    "experience": [
+      {
+        "title": "Project Controls Intern",
+        "company_type": "Owner's Rep / PM Firm",
+        "years": 0.9,
+        "bullets": [
+          "Maintained issue logs and followed up on action items after coordination meetings",
+          "Supported schedule updates by consolidating weekly inputs from subcontractors",
+          "Prepared concise status notes and aligned documentation across stakeholders"
+        ]
+      },
+      {
+        "title": "Junior Project Coordinator",
+        "company_type": "Owner's Rep / PM Firm",
+        "years": 0.9,
+        "bullets": [
+          "Tracked deliverables and distributed updated documents to project participants",
+          "Helped prepare meeting agendas and captured decisions for record",
+          "Supported change log updates and summarized impacts for review"
+        ]
+      }
+    ],
+    "skills": [
+      "Action-Item Tracking",
+      "Stakeholder Coordination",
+      "Basic Scheduling",
+      "Issue Logs",
+      "Documentation",
+      "Communication"
+    ],
+    "projects": [
+      {
+        "name": "Weekly Status Digest",
+        "impact": "Improved alignment across owner, GC, and design team"
+      },
+      {
+        "name": "Issue Log Restructure",
+        "impact": "Reduced duplicate items and clarified ownership"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "CONS_JUN_07_THEY_C",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Jordan Lee",
@@ -1539,7 +1539,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_07_THON",
+    "candidate_id": "CONS_JUN_07_THON_C",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Jordan Lee",
@@ -1596,64 +1596,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_08_F",
-    "industry_target": "construction",
-    "seniority_level": "Junior",
-    "name": "Taylor Morgan",
-    "pronouns": "she/her",
-    "gender": "female",
-    "education": [
-      {
-        "degree": "BSc Civil Engineering",
-        "institution": "Riverside University",
-        "year": 2023
-      }
-    ],
-    "summary": "Junior construction engineer supporting field measurements, as-built markups, and inspection documentation tracking.",
-    "experience": [
-      {
-        "title": "Field Intern",
-        "company_type": "Infrastructure Contractor",
-        "years": 0.9,
-        "bullets": [
-          "Recorded field measurements and assisted with as-built markups for review",
-          "Organized inspection documentation and tracked outstanding items",
-          "Supported basic takeoffs and verified quantities against plans"
-        ]
-      },
-      {
-        "title": "Junior Field Engineer",
-        "company_type": "Infrastructure Contractor",
-        "years": 0.9,
-        "bullets": [
-          "Updated work logs and shared progress summaries with the project team",
-          "Helped coordinate testing schedules and ensured paperwork readiness",
-          "Tracked material deliveries and confirmed receipt with field leads"
-        ]
-      }
-    ],
-    "skills": [
-      "Field Measurements",
-      "As-Built Markups",
-      "Inspection Docs",
-      "Quantity Verification",
-      "Coordination",
-      "Safety Awareness"
-    ],
-    "projects": [
-      {
-        "name": "As-Built Markup Routine",
-        "impact": "Improved accuracy of closeout documentation"
-      },
-      {
-        "name": "Inspection Document Tracker",
-        "impact": "Reduced missing items before scheduled inspections"
-      }
-    ],
-    "certifications": []
-  },
-  {
-    "candidate_id": "CONS_JUN_08_M",
+    "candidate_id": "CONS_JUN_08_M_C",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Taylor Morgan",
@@ -1710,7 +1653,64 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_08_THEY",
+    "candidate_id": "CONS_JUN_08_F_C",
+    "industry_target": "construction",
+    "seniority_level": "Junior",
+    "name": "Taylor Morgan",
+    "pronouns": "she/her",
+    "gender": "female",
+    "education": [
+      {
+        "degree": "BSc Civil Engineering",
+        "institution": "Riverside University",
+        "year": 2023
+      }
+    ],
+    "summary": "Junior construction engineer supporting field measurements, as-built markups, and inspection documentation tracking.",
+    "experience": [
+      {
+        "title": "Field Intern",
+        "company_type": "Infrastructure Contractor",
+        "years": 0.9,
+        "bullets": [
+          "Recorded field measurements and assisted with as-built markups for review",
+          "Organized inspection documentation and tracked outstanding items",
+          "Supported basic takeoffs and verified quantities against plans"
+        ]
+      },
+      {
+        "title": "Junior Field Engineer",
+        "company_type": "Infrastructure Contractor",
+        "years": 0.9,
+        "bullets": [
+          "Updated work logs and shared progress summaries with the project team",
+          "Helped coordinate testing schedules and ensured paperwork readiness",
+          "Tracked material deliveries and confirmed receipt with field leads"
+        ]
+      }
+    ],
+    "skills": [
+      "Field Measurements",
+      "As-Built Markups",
+      "Inspection Docs",
+      "Quantity Verification",
+      "Coordination",
+      "Safety Awareness"
+    ],
+    "projects": [
+      {
+        "name": "As-Built Markup Routine",
+        "impact": "Improved accuracy of closeout documentation"
+      },
+      {
+        "name": "Inspection Document Tracker",
+        "impact": "Reduced missing items before scheduled inspections"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "CONS_JUN_08_THEY_C",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Taylor Morgan",
@@ -1767,7 +1767,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_08_THON",
+    "candidate_id": "CONS_JUN_08_THON_C",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Taylor Morgan",
@@ -1824,64 +1824,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_09_F",
-    "industry_target": "construction",
-    "seniority_level": "Junior",
-    "name": "Casey Chen",
-    "pronouns": "she/her",
-    "gender": "female",
-    "education": [
-      {
-        "degree": "BSc Construction Management",
-        "institution": "East Bay University",
-        "year": 2024
-      }
-    ],
-    "summary": "Junior construction team member supporting coordination meetings, document organization, and basic procurement follow-ups.",
-    "experience": [
-      {
-        "title": "Project Intern",
-        "company_type": "General Contractor",
-        "years": 0.9,
-        "bullets": [
-          "Supported procurement follow-ups and tracked ETAs for common material packages",
-          "Maintained drawing logs and distributed updated sheets to field teams",
-          "Assisted with meeting notes and tracked open questions for follow-up"
-        ]
-      },
-      {
-        "title": "Junior Project Assistant",
-        "company_type": "General Contractor",
-        "years": 0.9,
-        "bullets": [
-          "Kept submittal folders organized and ensured consistent version control",
-          "Tracked small-scope change requests and updated simple logs for review",
-          "Compiled weekly progress photos and summarized key updates for the team"
-        ]
-      }
-    ],
-    "skills": [
-      "Procurement Follow-up",
-      "Document Control",
-      "Meeting Support",
-      "Basic Logging",
-      "Coordination",
-      "Communication"
-    ],
-    "projects": [
-      {
-        "name": "Materials ETA Tracker",
-        "impact": "Improved visibility for near-term installation planning"
-      },
-      {
-        "name": "Submittal Folder Standard",
-        "impact": "Reduced time spent searching for latest documents"
-      }
-    ],
-    "certifications": []
-  },
-  {
-    "candidate_id": "CONS_JUN_09_M",
+    "candidate_id": "CONS_JUN_09_M_C",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Casey Chen",
@@ -1938,7 +1881,64 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_09_THEY",
+    "candidate_id": "CONS_JUN_09_F_C",
+    "industry_target": "construction",
+    "seniority_level": "Junior",
+    "name": "Casey Chen",
+    "pronouns": "she/her",
+    "gender": "female",
+    "education": [
+      {
+        "degree": "BSc Construction Management",
+        "institution": "East Bay University",
+        "year": 2024
+      }
+    ],
+    "summary": "Junior construction team member supporting coordination meetings, document organization, and basic procurement follow-ups.",
+    "experience": [
+      {
+        "title": "Project Intern",
+        "company_type": "General Contractor",
+        "years": 0.9,
+        "bullets": [
+          "Supported procurement follow-ups and tracked ETAs for common material packages",
+          "Maintained drawing logs and distributed updated sheets to field teams",
+          "Assisted with meeting notes and tracked open questions for follow-up"
+        ]
+      },
+      {
+        "title": "Junior Project Assistant",
+        "company_type": "General Contractor",
+        "years": 0.9,
+        "bullets": [
+          "Kept submittal folders organized and ensured consistent version control",
+          "Tracked small-scope change requests and updated simple logs for review",
+          "Compiled weekly progress photos and summarized key updates for the team"
+        ]
+      }
+    ],
+    "skills": [
+      "Procurement Follow-up",
+      "Document Control",
+      "Meeting Support",
+      "Basic Logging",
+      "Coordination",
+      "Communication"
+    ],
+    "projects": [
+      {
+        "name": "Materials ETA Tracker",
+        "impact": "Improved visibility for near-term installation planning"
+      },
+      {
+        "name": "Submittal Folder Standard",
+        "impact": "Reduced time spent searching for latest documents"
+      }
+    ],
+    "certifications": []
+  },
+  {
+    "candidate_id": "CONS_JUN_09_THEY_C",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Casey Chen",
@@ -1995,7 +1995,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_09_THON",
+    "candidate_id": "CONS_JUN_09_THON_C",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Casey Chen",
@@ -2052,66 +2052,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_SEN_01_F",
-    "industry_target": "construction",
-    "seniority_level": "Senior",
-    "name": "Mason Wright",
-    "pronouns": "she/her",
-    "gender": "female",
-    "education": [
-      {
-        "degree": "BSc Construction Management",
-        "institution": "State University",
-        "year": 2016
-      }
-    ],
-    "summary": "Senior construction professional with 8+ years leading commercial projects, managing subcontractors, schedule/cost control, and owner communication.",
-    "experience": [
-      {
-        "title": "Project Manager",
-        "company_type": "Commercial General Contractor",
-        "years": 4.5,
-        "bullets": [
-          "Led project execution from mobilization through closeout, aligning scope, budget, and schedule",
-          "Managed subcontractor procurement, buyout, and coordination to maintain critical path progress",
-          "Resolved RFIs and change events with the design team and owner while controlling cost impacts"
-        ]
-      },
-      {
-        "title": "Senior Project Engineer",
-        "company_type": "Commercial General Contractor",
-        "years": 3.5,
-        "bullets": [
-          "Owned submittal/RFI workflows and ensured document control across field and office teams",
-          "Tracked long-lead procurement and coordinated delivery sequencing with site leadership",
-          "Produced weekly look-aheads and supported baseline schedule updates with constraints tracking"
-        ]
-      }
-    ],
-    "skills": [
-      "Project Management",
-      "Subcontractor Management",
-      "Cost Control",
-      "Schedule Management",
-      "Change Management",
-      "Stakeholder Communication"
-    ],
-    "projects": [
-      {
-        "name": "Cost-to-Complete Dashboard",
-        "impact": "Improved forecast accuracy and reduced budget surprises"
-      },
-      {
-        "name": "Closeout Playbook",
-        "impact": "Reduced punch list cycle time and accelerated turnover"
-      }
-    ],
-    "certifications": [
-      "OSHA 30"
-    ]
-  },
-  {
-    "candidate_id": "CONS_SEN_01_M",
+    "candidate_id": "CONS_SEN_01_M_C",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Mason Wright",
@@ -2170,7 +2111,66 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_01_THEY",
+    "candidate_id": "CONS_SEN_01_F_C",
+    "industry_target": "construction",
+    "seniority_level": "Senior",
+    "name": "Mason Wright",
+    "pronouns": "she/her",
+    "gender": "female",
+    "education": [
+      {
+        "degree": "BSc Construction Management",
+        "institution": "State University",
+        "year": 2016
+      }
+    ],
+    "summary": "Senior construction professional with 8+ years leading commercial projects, managing subcontractors, schedule/cost control, and owner communication.",
+    "experience": [
+      {
+        "title": "Project Manager",
+        "company_type": "Commercial General Contractor",
+        "years": 4.5,
+        "bullets": [
+          "Led project execution from mobilization through closeout, aligning scope, budget, and schedule",
+          "Managed subcontractor procurement, buyout, and coordination to maintain critical path progress",
+          "Resolved RFIs and change events with the design team and owner while controlling cost impacts"
+        ]
+      },
+      {
+        "title": "Senior Project Engineer",
+        "company_type": "Commercial General Contractor",
+        "years": 3.5,
+        "bullets": [
+          "Owned submittal/RFI workflows and ensured document control across field and office teams",
+          "Tracked long-lead procurement and coordinated delivery sequencing with site leadership",
+          "Produced weekly look-aheads and supported baseline schedule updates with constraints tracking"
+        ]
+      }
+    ],
+    "skills": [
+      "Project Management",
+      "Subcontractor Management",
+      "Cost Control",
+      "Schedule Management",
+      "Change Management",
+      "Stakeholder Communication"
+    ],
+    "projects": [
+      {
+        "name": "Cost-to-Complete Dashboard",
+        "impact": "Improved forecast accuracy and reduced budget surprises"
+      },
+      {
+        "name": "Closeout Playbook",
+        "impact": "Reduced punch list cycle time and accelerated turnover"
+      }
+    ],
+    "certifications": [
+      "OSHA 30"
+    ]
+  },
+  {
+    "candidate_id": "CONS_SEN_01_THEY_C",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Mason Wright",
@@ -2229,7 +2229,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_01_THON",
+    "candidate_id": "CONS_SEN_01_THON_C",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Mason Wright",
@@ -2288,66 +2288,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_02_F",
-    "industry_target": "construction",
-    "seniority_level": "Senior",
-    "name": "Daniel Kim",
-    "pronouns": "she/her",
-    "gender": "female",
-    "education": [
-      {
-        "degree": "BEng Civil Engineering",
-        "institution": "Metro University",
-        "year": 2015
-      }
-    ],
-    "summary": "Senior construction superintendent with experience running field operations, safety leadership, trade sequencing, and schedule recovery.",
-    "experience": [
-      {
-        "title": "Senior Superintendent",
-        "company_type": "Commercial General Contractor",
-        "years": 4.0,
-        "bullets": [
-          "Led daily field execution, trade coordination, and short-interval planning to meet milestones",
-          "Drove safety culture and enforced site safety standards with proactive hazard mitigation",
-          "Resolved field conflicts and maintained productivity through sequencing and constraint removal"
-        ]
-      },
-      {
-        "title": "Superintendent",
-        "company_type": "Commercial General Contractor",
-        "years": 3.5,
-        "bullets": [
-          "Coordinated subcontractors, inspections, and logistics across multiple work fronts",
-          "Maintained look-ahead schedules and communicated priorities to foremen and PM staff",
-          "Managed punch list completion and supported turnover documentation with owners"
-        ]
-      }
-    ],
-    "skills": [
-      "Field Leadership",
-      "Trade Coordination",
-      "Safety Management",
-      "Look-Ahead Planning",
-      "Schedule Recovery",
-      "Quality Control"
-    ],
-    "projects": [
-      {
-        "name": "Schedule Recovery Plan",
-        "impact": "Recovered critical path delays through resequencing and overtime controls"
-      },
-      {
-        "name": "Safety Observation Program",
-        "impact": "Reduced recordable incidents by reinforcing leading indicators"
-      }
-    ],
-    "certifications": [
-      "OSHA 30"
-    ]
-  },
-  {
-    "candidate_id": "CONS_SEN_02_M",
+    "candidate_id": "CONS_SEN_02_M_C",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Daniel Kim",
@@ -2406,7 +2347,66 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_02_THEY",
+    "candidate_id": "CONS_SEN_02_F_C",
+    "industry_target": "construction",
+    "seniority_level": "Senior",
+    "name": "Daniel Kim",
+    "pronouns": "she/her",
+    "gender": "female",
+    "education": [
+      {
+        "degree": "BEng Civil Engineering",
+        "institution": "Metro University",
+        "year": 2015
+      }
+    ],
+    "summary": "Senior construction superintendent with experience running field operations, safety leadership, trade sequencing, and schedule recovery.",
+    "experience": [
+      {
+        "title": "Senior Superintendent",
+        "company_type": "Commercial General Contractor",
+        "years": 4.0,
+        "bullets": [
+          "Led daily field execution, trade coordination, and short-interval planning to meet milestones",
+          "Drove safety culture and enforced site safety standards with proactive hazard mitigation",
+          "Resolved field conflicts and maintained productivity through sequencing and constraint removal"
+        ]
+      },
+      {
+        "title": "Superintendent",
+        "company_type": "Commercial General Contractor",
+        "years": 3.5,
+        "bullets": [
+          "Coordinated subcontractors, inspections, and logistics across multiple work fronts",
+          "Maintained look-ahead schedules and communicated priorities to foremen and PM staff",
+          "Managed punch list completion and supported turnover documentation with owners"
+        ]
+      }
+    ],
+    "skills": [
+      "Field Leadership",
+      "Trade Coordination",
+      "Safety Management",
+      "Look-Ahead Planning",
+      "Schedule Recovery",
+      "Quality Control"
+    ],
+    "projects": [
+      {
+        "name": "Schedule Recovery Plan",
+        "impact": "Recovered critical path delays through resequencing and overtime controls"
+      },
+      {
+        "name": "Safety Observation Program",
+        "impact": "Reduced recordable incidents by reinforcing leading indicators"
+      }
+    ],
+    "certifications": [
+      "OSHA 30"
+    ]
+  },
+  {
+    "candidate_id": "CONS_SEN_02_THEY_C",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Daniel Kim",
@@ -2465,7 +2465,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_02_THON",
+    "candidate_id": "CONS_SEN_02_THON_C",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Daniel Kim",
@@ -2524,66 +2524,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_03_F",
-    "industry_target": "construction",
-    "seniority_level": "Senior",
-    "name": "Ryan Patel",
-    "pronouns": "she/her",
-    "gender": "female",
-    "education": [
-      {
-        "degree": "BEng Civil Engineering",
-        "institution": "Riverside University",
-        "year": 2014
-      }
-    ],
-    "summary": "Senior construction manager with experience delivering infrastructure work, overseeing QA/QC, and managing complex stakeholder requirements.",
-    "experience": [
-      {
-        "title": "Construction Manager",
-        "company_type": "Infrastructure Contractor",
-        "years": 4.2,
-        "bullets": [
-          "Managed field execution and coordinated subcontractors across multiple scopes and crews",
-          "Oversaw QA/QC documentation, inspections, and test packages to meet compliance needs",
-          "Maintained schedule forecasts and implemented mitigation plans for constraints and delays"
-        ]
-      },
-      {
-        "title": "Project Engineer",
-        "company_type": "Infrastructure Contractor",
-        "years": 3.8,
-        "bullets": [
-          "Led RFI/submittal processes and tracked approvals affecting field work sequencing",
-          "Coordinated procurement for long-lead materials and aligned deliveries with look-aheads",
-          "Supported change management and quantified impacts for negotiations and approval"
-        ]
-      }
-    ],
-    "skills": [
-      "Construction Management",
-      "QA/QC Management",
-      "Schedule Forecasting",
-      "Risk Management",
-      "Change Management",
-      "Team Leadership"
-    ],
-    "projects": [
-      {
-        "name": "Inspection Readiness System",
-        "impact": "Reduced inspection failures through standardized documentation packets"
-      },
-      {
-        "name": "Constraints Tracker",
-        "impact": "Improved weekly planning and reduced schedule surprises"
-      }
-    ],
-    "certifications": [
-      "OSHA 30"
-    ]
-  },
-  {
-    "candidate_id": "CONS_SEN_03_M",
+    "candidate_id": "CONS_SEN_03_M_C",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Ryan Patel",
@@ -2642,7 +2583,66 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_03_THEY",
+    "candidate_id": "CONS_SEN_03_F_C",
+    "industry_target": "construction",
+    "seniority_level": "Senior",
+    "name": "Ryan Patel",
+    "pronouns": "she/her",
+    "gender": "female",
+    "education": [
+      {
+        "degree": "BEng Civil Engineering",
+        "institution": "Riverside University",
+        "year": 2014
+      }
+    ],
+    "summary": "Senior construction manager with experience delivering infrastructure work, overseeing QA/QC, and managing complex stakeholder requirements.",
+    "experience": [
+      {
+        "title": "Construction Manager",
+        "company_type": "Infrastructure Contractor",
+        "years": 4.2,
+        "bullets": [
+          "Managed field execution and coordinated subcontractors across multiple scopes and crews",
+          "Oversaw QA/QC documentation, inspections, and test packages to meet compliance needs",
+          "Maintained schedule forecasts and implemented mitigation plans for constraints and delays"
+        ]
+      },
+      {
+        "title": "Project Engineer",
+        "company_type": "Infrastructure Contractor",
+        "years": 3.8,
+        "bullets": [
+          "Led RFI/submittal processes and tracked approvals affecting field work sequencing",
+          "Coordinated procurement for long-lead materials and aligned deliveries with look-aheads",
+          "Supported change management and quantified impacts for negotiations and approval"
+        ]
+      }
+    ],
+    "skills": [
+      "Construction Management",
+      "QA/QC Management",
+      "Schedule Forecasting",
+      "Risk Management",
+      "Change Management",
+      "Team Leadership"
+    ],
+    "projects": [
+      {
+        "name": "Inspection Readiness System",
+        "impact": "Reduced inspection failures through standardized documentation packets"
+      },
+      {
+        "name": "Constraints Tracker",
+        "impact": "Improved weekly planning and reduced schedule surprises"
+      }
+    ],
+    "certifications": [
+      "OSHA 30"
+    ]
+  },
+  {
+    "candidate_id": "CONS_SEN_03_THEY_C",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Ryan Patel",
@@ -2701,7 +2701,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_03_THON",
+    "candidate_id": "CONS_SEN_03_THON_C",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Ryan Patel",
@@ -2760,66 +2760,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_04_F",
-    "industry_target": "construction",
-    "seniority_level": "Senior",
-    "name": "Olivia Grant",
-    "pronouns": "she/her",
-    "gender": "female",
-    "education": [
-      {
-        "degree": "BSc Construction Management",
-        "institution": "Lakeside University",
-        "year": 2016
-      }
-    ],
-    "summary": "Senior project manager with experience leading tenant improvement and base-building scopes, driving procurement, and managing change control.",
-    "experience": [
-      {
-        "title": "Senior Project Manager",
-        "company_type": "Commercial Contractor",
-        "years": 3.8,
-        "bullets": [
-          "Owned contract administration and change control, aligning scope decisions with owner priorities",
-          "Led procurement strategy and sequencing plans to reduce long-lead risks",
-          "Managed project financials including buyout, cost tracking, and cost-to-complete forecasting"
-        ]
-      },
-      {
-        "title": "Project Manager",
-        "company_type": "Commercial Contractor",
-        "years": 4.0,
-        "bullets": [
-          "Facilitated OAC meetings, tracked decisions, and maintained clear action-item ownership",
-          "Coordinated submittals/RFIs and ensured timely resolution to avoid field downtime",
-          "Led closeout planning and improved turnover readiness through early punch strategies"
-        ]
-      }
-    ],
-    "skills": [
-      "Contract Administration",
-      "Cost Forecasting",
-      "Procurement Strategy",
-      "Change Control",
-      "Schedule Planning",
-      "Client Management"
-    ],
-    "projects": [
-      {
-        "name": "Long-Lead Risk Register",
-        "impact": "Reduced procurement-driven delays through early escalation and alternatives"
-      },
-      {
-        "name": "Early Punch Program",
-        "impact": "Improved turnover quality and shortened closeout duration"
-      }
-    ],
-    "certifications": [
-      "OSHA 30"
-    ]
-  },
-  {
-    "candidate_id": "CONS_SEN_04_M",
+    "candidate_id": "CONS_SEN_04_M_C",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Olivia Grant",
@@ -2878,7 +2819,66 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_04_THEY",
+    "candidate_id": "CONS_SEN_04_F_C",
+    "industry_target": "construction",
+    "seniority_level": "Senior",
+    "name": "Olivia Grant",
+    "pronouns": "she/her",
+    "gender": "female",
+    "education": [
+      {
+        "degree": "BSc Construction Management",
+        "institution": "Lakeside University",
+        "year": 2016
+      }
+    ],
+    "summary": "Senior project manager with experience leading tenant improvement and base-building scopes, driving procurement, and managing change control.",
+    "experience": [
+      {
+        "title": "Senior Project Manager",
+        "company_type": "Commercial Contractor",
+        "years": 3.8,
+        "bullets": [
+          "Owned contract administration and change control, aligning scope decisions with owner priorities",
+          "Led procurement strategy and sequencing plans to reduce long-lead risks",
+          "Managed project financials including buyout, cost tracking, and cost-to-complete forecasting"
+        ]
+      },
+      {
+        "title": "Project Manager",
+        "company_type": "Commercial Contractor",
+        "years": 4.0,
+        "bullets": [
+          "Facilitated OAC meetings, tracked decisions, and maintained clear action-item ownership",
+          "Coordinated submittals/RFIs and ensured timely resolution to avoid field downtime",
+          "Led closeout planning and improved turnover readiness through early punch strategies"
+        ]
+      }
+    ],
+    "skills": [
+      "Contract Administration",
+      "Cost Forecasting",
+      "Procurement Strategy",
+      "Change Control",
+      "Schedule Planning",
+      "Client Management"
+    ],
+    "projects": [
+      {
+        "name": "Long-Lead Risk Register",
+        "impact": "Reduced procurement-driven delays through early escalation and alternatives"
+      },
+      {
+        "name": "Early Punch Program",
+        "impact": "Improved turnover quality and shortened closeout duration"
+      }
+    ],
+    "certifications": [
+      "OSHA 30"
+    ]
+  },
+  {
+    "candidate_id": "CONS_SEN_04_THEY_C",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Olivia Grant",
@@ -2937,7 +2937,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_04_THON",
+    "candidate_id": "CONS_SEN_04_THON_C",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Olivia Grant",
@@ -2996,66 +2996,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_05_F",
-    "industry_target": "construction",
-    "seniority_level": "Senior",
-    "name": "Emma Clark",
-    "pronouns": "she/her",
-    "gender": "female",
-    "education": [
-      {
-        "degree": "BSc Construction Management",
-        "institution": "North City University",
-        "year": 2017
-      }
-    ],
-    "summary": "Senior construction professional with experience leading project controls, cost forecasting, and coordination across multidisciplinary teams.",
-    "experience": [
-      {
-        "title": "Senior Project Controls Specialist",
-        "company_type": "Owner's Rep / PM Firm",
-        "years": 4.0,
-        "bullets": [
-          "Owned master schedule updates, baseline variance reporting, and milestone risk tracking",
-          "Built weekly reporting cadence for cost/schedule status and decision-ready summaries",
-          "Aligned constraints and dependencies across design, procurement, and construction stakeholders"
-        ]
-      },
-      {
-        "title": "Project Controls Engineer",
-        "company_type": "Owner's Rep / PM Firm",
-        "years": 3.0,
-        "bullets": [
-          "Maintained issue logs and change logs, ensuring clear ownership and timely closure",
-          "Supported procurement tracking for long-lead packages and escalated schedule impacts",
-          "Produced dashboards improving visibility for executives and project leadership"
-        ]
-      }
-    ],
-    "skills": [
-      "Project Controls",
-      "Schedule Analytics",
-      "Cost Forecasting",
-      "Risk Tracking",
-      "Reporting",
-      "Stakeholder Alignment"
-    ],
-    "projects": [
-      {
-        "name": "Executive Status Dashboard",
-        "impact": "Improved clarity of cost/schedule performance across projects"
-      },
-      {
-        "name": "Milestone Risk Heatmap",
-        "impact": "Enabled earlier mitigation planning for high-risk activities"
-      }
-    ],
-    "certifications": [
-      "OSHA 30"
-    ]
-  },
-  {
-    "candidate_id": "CONS_SEN_05_M",
+    "candidate_id": "CONS_SEN_05_M_C",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Emma Clark",
@@ -3114,7 +3055,66 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_05_THEY",
+    "candidate_id": "CONS_SEN_05_F_C",
+    "industry_target": "construction",
+    "seniority_level": "Senior",
+    "name": "Emma Clark",
+    "pronouns": "she/her",
+    "gender": "female",
+    "education": [
+      {
+        "degree": "BSc Construction Management",
+        "institution": "North City University",
+        "year": 2017
+      }
+    ],
+    "summary": "Senior construction professional with experience leading project controls, cost forecasting, and coordination across multidisciplinary teams.",
+    "experience": [
+      {
+        "title": "Senior Project Controls Specialist",
+        "company_type": "Owner's Rep / PM Firm",
+        "years": 4.0,
+        "bullets": [
+          "Owned master schedule updates, baseline variance reporting, and milestone risk tracking",
+          "Built weekly reporting cadence for cost/schedule status and decision-ready summaries",
+          "Aligned constraints and dependencies across design, procurement, and construction stakeholders"
+        ]
+      },
+      {
+        "title": "Project Controls Engineer",
+        "company_type": "Owner's Rep / PM Firm",
+        "years": 3.0,
+        "bullets": [
+          "Maintained issue logs and change logs, ensuring clear ownership and timely closure",
+          "Supported procurement tracking for long-lead packages and escalated schedule impacts",
+          "Produced dashboards improving visibility for executives and project leadership"
+        ]
+      }
+    ],
+    "skills": [
+      "Project Controls",
+      "Schedule Analytics",
+      "Cost Forecasting",
+      "Risk Tracking",
+      "Reporting",
+      "Stakeholder Alignment"
+    ],
+    "projects": [
+      {
+        "name": "Executive Status Dashboard",
+        "impact": "Improved clarity of cost/schedule performance across projects"
+      },
+      {
+        "name": "Milestone Risk Heatmap",
+        "impact": "Enabled earlier mitigation planning for high-risk activities"
+      }
+    ],
+    "certifications": [
+      "OSHA 30"
+    ]
+  },
+  {
+    "candidate_id": "CONS_SEN_05_THEY_C",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Emma Clark",
@@ -3173,7 +3173,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_05_THON",
+    "candidate_id": "CONS_SEN_05_THON_C",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Emma Clark",
@@ -3232,66 +3232,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_06_F",
-    "industry_target": "construction",
-    "seniority_level": "Senior",
-    "name": "Hannah Rivera",
-    "pronouns": "she/her",
-    "gender": "female",
-    "education": [
-      {
-        "degree": "BSc Civil Engineering",
-        "institution": "Coastal University",
-        "year": 2016
-      }
-    ],
-    "summary": "Senior construction estimator with experience leading bid cycles, scope leveling, and cost risk reviews for commercial and infrastructure projects.",
-    "experience": [
-      {
-        "title": "Senior Estimator",
-        "company_type": "General Contractor",
-        "years": 4.0,
-        "bullets": [
-          "Led bid preparation, subcontractor outreach, and scope leveling to reduce gaps and overlaps",
-          "Developed detailed cost models and presented estimates with risk/contingency rationale",
-          "Coordinated value engineering options with operations to meet target budgets"
-        ]
-      },
-      {
-        "title": "Estimator",
-        "company_type": "General Contractor",
-        "years": 3.2,
-        "bullets": [
-          "Performed quantity takeoffs and vendor pricing for major CSI divisions",
-          "Maintained bid logs and clarified scope assumptions with stakeholders",
-          "Supported post-bid handoff packages to operations and project management"
-        ]
-      }
-    ],
-    "skills": [
-      "Estimating",
-      "Scope Leveling",
-      "Cost Modeling",
-      "Risk & Contingency",
-      "Value Engineering",
-      "Bid Management"
-    ],
-    "projects": [
-      {
-        "name": "Estimate Review Checklist",
-        "impact": "Reduced missed-scope items through standardized review steps"
-      },
-      {
-        "name": "VE Options Library",
-        "impact": "Improved turnaround time for budget-alignment alternatives"
-      }
-    ],
-    "certifications": [
-      "OSHA 30"
-    ]
-  },
-  {
-    "candidate_id": "CONS_SEN_06_M",
+    "candidate_id": "CONS_SEN_06_M_C",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Hannah Rivera",
@@ -3350,7 +3291,66 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_06_THEY",
+    "candidate_id": "CONS_SEN_06_F_C",
+    "industry_target": "construction",
+    "seniority_level": "Senior",
+    "name": "Hannah Rivera",
+    "pronouns": "she/her",
+    "gender": "female",
+    "education": [
+      {
+        "degree": "BSc Civil Engineering",
+        "institution": "Coastal University",
+        "year": 2016
+      }
+    ],
+    "summary": "Senior construction estimator with experience leading bid cycles, scope leveling, and cost risk reviews for commercial and infrastructure projects.",
+    "experience": [
+      {
+        "title": "Senior Estimator",
+        "company_type": "General Contractor",
+        "years": 4.0,
+        "bullets": [
+          "Led bid preparation, subcontractor outreach, and scope leveling to reduce gaps and overlaps",
+          "Developed detailed cost models and presented estimates with risk/contingency rationale",
+          "Coordinated value engineering options with operations to meet target budgets"
+        ]
+      },
+      {
+        "title": "Estimator",
+        "company_type": "General Contractor",
+        "years": 3.2,
+        "bullets": [
+          "Performed quantity takeoffs and vendor pricing for major CSI divisions",
+          "Maintained bid logs and clarified scope assumptions with stakeholders",
+          "Supported post-bid handoff packages to operations and project management"
+        ]
+      }
+    ],
+    "skills": [
+      "Estimating",
+      "Scope Leveling",
+      "Cost Modeling",
+      "Risk & Contingency",
+      "Value Engineering",
+      "Bid Management"
+    ],
+    "projects": [
+      {
+        "name": "Estimate Review Checklist",
+        "impact": "Reduced missed-scope items through standardized review steps"
+      },
+      {
+        "name": "VE Options Library",
+        "impact": "Improved turnaround time for budget-alignment alternatives"
+      }
+    ],
+    "certifications": [
+      "OSHA 30"
+    ]
+  },
+  {
+    "candidate_id": "CONS_SEN_06_THEY_C",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Hannah Rivera",
@@ -3409,7 +3409,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_06_THON",
+    "candidate_id": "CONS_SEN_06_THON_C",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Hannah Rivera",
@@ -3468,66 +3468,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_07_F",
-    "industry_target": "construction",
-    "seniority_level": "Senior",
-    "name": "Avery Chen",
-    "pronouns": "she/her",
-    "gender": "female",
-    "education": [
-      {
-        "degree": "BSc Construction Management",
-        "institution": "City University",
-        "year": 2015
-      }
-    ],
-    "summary": "Senior construction professional specializing in procurement and contract administration, with strong experience managing long-lead packages and vendor performance.",
-    "experience": [
-      {
-        "title": "Procurement Manager",
-        "company_type": "Commercial General Contractor",
-        "years": 4.1,
-        "bullets": [
-          "Led procurement strategy for long-lead materials and equipment, aligning releases to schedule needs",
-          "Negotiated vendor terms and managed expediting to reduce late delivery risks",
-          "Coordinated submittal approvals and tracked fabrication milestones with project teams"
-        ]
-      },
-      {
-        "title": "Contracts Administrator",
-        "company_type": "Commercial General Contractor",
-        "years": 3.2,
-        "bullets": [
-          "Managed subcontract agreements, scope exhibits, and change documentation for approvals",
-          "Tracked certificates of insurance and compliance requirements across vendors",
-          "Supported pay application workflows and resolved documentation gaps"
-        ]
-      }
-    ],
-    "skills": [
-      "Procurement Strategy",
-      "Contract Administration",
-      "Vendor Management",
-      "Expediting",
-      "Documentation",
-      "Risk Mitigation"
-    ],
-    "projects": [
-      {
-        "name": "Long-Lead Tracker System",
-        "impact": "Improved fabrication visibility and reduced schedule surprises"
-      },
-      {
-        "name": "Vendor Scorecard",
-        "impact": "Raised delivery reliability through consistent performance reviews"
-      }
-    ],
-    "certifications": [
-      "OSHA 30"
-    ]
-  },
-  {
-    "candidate_id": "CONS_SEN_07_M",
+    "candidate_id": "CONS_SEN_07_M_C",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Avery Chen",
@@ -3586,7 +3527,66 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_07_THEY",
+    "candidate_id": "CONS_SEN_07_F_C",
+    "industry_target": "construction",
+    "seniority_level": "Senior",
+    "name": "Avery Chen",
+    "pronouns": "she/her",
+    "gender": "female",
+    "education": [
+      {
+        "degree": "BSc Construction Management",
+        "institution": "City University",
+        "year": 2015
+      }
+    ],
+    "summary": "Senior construction professional specializing in procurement and contract administration, with strong experience managing long-lead packages and vendor performance.",
+    "experience": [
+      {
+        "title": "Procurement Manager",
+        "company_type": "Commercial General Contractor",
+        "years": 4.1,
+        "bullets": [
+          "Led procurement strategy for long-lead materials and equipment, aligning releases to schedule needs",
+          "Negotiated vendor terms and managed expediting to reduce late delivery risks",
+          "Coordinated submittal approvals and tracked fabrication milestones with project teams"
+        ]
+      },
+      {
+        "title": "Contracts Administrator",
+        "company_type": "Commercial General Contractor",
+        "years": 3.2,
+        "bullets": [
+          "Managed subcontract agreements, scope exhibits, and change documentation for approvals",
+          "Tracked certificates of insurance and compliance requirements across vendors",
+          "Supported pay application workflows and resolved documentation gaps"
+        ]
+      }
+    ],
+    "skills": [
+      "Procurement Strategy",
+      "Contract Administration",
+      "Vendor Management",
+      "Expediting",
+      "Documentation",
+      "Risk Mitigation"
+    ],
+    "projects": [
+      {
+        "name": "Long-Lead Tracker System",
+        "impact": "Improved fabrication visibility and reduced schedule surprises"
+      },
+      {
+        "name": "Vendor Scorecard",
+        "impact": "Raised delivery reliability through consistent performance reviews"
+      }
+    ],
+    "certifications": [
+      "OSHA 30"
+    ]
+  },
+  {
+    "candidate_id": "CONS_SEN_07_THEY_C",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Avery Chen",
@@ -3645,7 +3645,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_07_THON",
+    "candidate_id": "CONS_SEN_07_THON_C",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Avery Chen",
@@ -3704,66 +3704,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_08_F",
-    "industry_target": "construction",
-    "seniority_level": "Senior",
-    "name": "Riley Parker",
-    "pronouns": "she/her",
-    "gender": "female",
-    "education": [
-      {
-        "degree": "BEng Civil Engineering",
-        "institution": "Riverside University",
-        "year": 2014
-      }
-    ],
-    "summary": "Senior construction quality manager with experience building QA/QC programs, leading inspections, and closing nonconformances across infrastructure projects.",
-    "experience": [
-      {
-        "title": "Quality Manager",
-        "company_type": "Infrastructure Contractor",
-        "years": 4.0,
-        "bullets": [
-          "Implemented QA/QC plans, inspection test plans (ITPs), and documentation workflows",
-          "Led inspections with owners/third parties and drove closure of punch and NCR items",
-          "Trained field teams on quality requirements and improved first-pass acceptance rates"
-        ]
-      },
-      {
-        "title": "QA/QC Engineer",
-        "company_type": "Infrastructure Contractor",
-        "years": 3.4,
-        "bullets": [
-          "Reviewed submittals and test results to verify compliance with specifications",
-          "Maintained turnover packages and ensured traceability of inspections and testing",
-          "Supported root-cause analysis and preventive actions for recurring quality issues"
-        ]
-      }
-    ],
-    "skills": [
-      "QA/QC Programs",
-      "Inspection Management",
-      "NCR Closure",
-      "Turnover Packages",
-      "Spec Compliance",
-      "Training & Coaching"
-    ],
-    "projects": [
-      {
-        "name": "ITP Template Suite",
-        "impact": "Standardized inspection readiness across multiple scopes"
-      },
-      {
-        "name": "NCR Trend Review",
-        "impact": "Reduced repeat quality issues through targeted corrective actions"
-      }
-    ],
-    "certifications": [
-      "OSHA 30"
-    ]
-  },
-  {
-    "candidate_id": "CONS_SEN_08_M",
+    "candidate_id": "CONS_SEN_08_M_C",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Riley Parker",
@@ -3822,7 +3763,66 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_08_THEY",
+    "candidate_id": "CONS_SEN_08_F_C",
+    "industry_target": "construction",
+    "seniority_level": "Senior",
+    "name": "Riley Parker",
+    "pronouns": "she/her",
+    "gender": "female",
+    "education": [
+      {
+        "degree": "BEng Civil Engineering",
+        "institution": "Riverside University",
+        "year": 2014
+      }
+    ],
+    "summary": "Senior construction quality manager with experience building QA/QC programs, leading inspections, and closing nonconformances across infrastructure projects.",
+    "experience": [
+      {
+        "title": "Quality Manager",
+        "company_type": "Infrastructure Contractor",
+        "years": 4.0,
+        "bullets": [
+          "Implemented QA/QC plans, inspection test plans (ITPs), and documentation workflows",
+          "Led inspections with owners/third parties and drove closure of punch and NCR items",
+          "Trained field teams on quality requirements and improved first-pass acceptance rates"
+        ]
+      },
+      {
+        "title": "QA/QC Engineer",
+        "company_type": "Infrastructure Contractor",
+        "years": 3.4,
+        "bullets": [
+          "Reviewed submittals and test results to verify compliance with specifications",
+          "Maintained turnover packages and ensured traceability of inspections and testing",
+          "Supported root-cause analysis and preventive actions for recurring quality issues"
+        ]
+      }
+    ],
+    "skills": [
+      "QA/QC Programs",
+      "Inspection Management",
+      "NCR Closure",
+      "Turnover Packages",
+      "Spec Compliance",
+      "Training & Coaching"
+    ],
+    "projects": [
+      {
+        "name": "ITP Template Suite",
+        "impact": "Standardized inspection readiness across multiple scopes"
+      },
+      {
+        "name": "NCR Trend Review",
+        "impact": "Reduced repeat quality issues through targeted corrective actions"
+      }
+    ],
+    "certifications": [
+      "OSHA 30"
+    ]
+  },
+  {
+    "candidate_id": "CONS_SEN_08_THEY_C",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Riley Parker",
@@ -3881,7 +3881,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_08_THON",
+    "candidate_id": "CONS_SEN_08_THON_C",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Riley Parker",
@@ -3940,66 +3940,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_09_F",
-    "industry_target": "construction",
-    "seniority_level": "Senior",
-    "name": "Quinn Taylor",
-    "pronouns": "she/her",
-    "gender": "female",
-    "education": [
-      {
-        "degree": "BSc Construction Management",
-        "institution": "East Bay University",
-        "year": 2015
-      }
-    ],
-    "summary": "Senior construction safety manager with experience developing site safety plans, leading trainings, and improving leading indicators across multiple projects.",
-    "experience": [
-      {
-        "title": "Safety Manager",
-        "company_type": "General Contractor",
-        "years": 4.2,
-        "bullets": [
-          "Developed and enforced site safety plans, daily JHAs, and toolbox talk programs",
-          "Conducted site audits and coached supervisors to correct hazards and prevent incidents",
-          "Tracked leading indicators and implemented interventions to improve safety performance"
-        ]
-      },
-      {
-        "title": "Safety Coordinator",
-        "company_type": "General Contractor",
-        "years": 3.1,
-        "bullets": [
-          "Supported incident investigations and documented corrective/preventive actions",
-          "Maintained training records and ensured subcontractor compliance with safety requirements",
-          "Coordinated safety orientations and supported pre-task planning with field teams"
-        ]
-      }
-    ],
-    "skills": [
-      "Safety Management",
-      "Training & Coaching",
-      "Audits & Inspections",
-      "Incident Investigation",
-      "Compliance Tracking",
-      "Field Leadership"
-    ],
-    "projects": [
-      {
-        "name": "Leading Indicator Dashboard",
-        "impact": "Improved visibility into safety trends and proactive interventions"
-      },
-      {
-        "name": "Subcontractor Safety Onboarding",
-        "impact": "Increased compliance consistency across trades"
-      }
-    ],
-    "certifications": [
-      "OSHA 30"
-    ]
-  },
-  {
-    "candidate_id": "CONS_SEN_09_M",
+    "candidate_id": "CONS_SEN_09_M_C",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Quinn Taylor",
@@ -4058,7 +3999,66 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_09_THEY",
+    "candidate_id": "CONS_SEN_09_F_C",
+    "industry_target": "construction",
+    "seniority_level": "Senior",
+    "name": "Quinn Taylor",
+    "pronouns": "she/her",
+    "gender": "female",
+    "education": [
+      {
+        "degree": "BSc Construction Management",
+        "institution": "East Bay University",
+        "year": 2015
+      }
+    ],
+    "summary": "Senior construction safety manager with experience developing site safety plans, leading trainings, and improving leading indicators across multiple projects.",
+    "experience": [
+      {
+        "title": "Safety Manager",
+        "company_type": "General Contractor",
+        "years": 4.2,
+        "bullets": [
+          "Developed and enforced site safety plans, daily JHAs, and toolbox talk programs",
+          "Conducted site audits and coached supervisors to correct hazards and prevent incidents",
+          "Tracked leading indicators and implemented interventions to improve safety performance"
+        ]
+      },
+      {
+        "title": "Safety Coordinator",
+        "company_type": "General Contractor",
+        "years": 3.1,
+        "bullets": [
+          "Supported incident investigations and documented corrective/preventive actions",
+          "Maintained training records and ensured subcontractor compliance with safety requirements",
+          "Coordinated safety orientations and supported pre-task planning with field teams"
+        ]
+      }
+    ],
+    "skills": [
+      "Safety Management",
+      "Training & Coaching",
+      "Audits & Inspections",
+      "Incident Investigation",
+      "Compliance Tracking",
+      "Field Leadership"
+    ],
+    "projects": [
+      {
+        "name": "Leading Indicator Dashboard",
+        "impact": "Improved visibility into safety trends and proactive interventions"
+      },
+      {
+        "name": "Subcontractor Safety Onboarding",
+        "impact": "Increased compliance consistency across trades"
+      }
+    ],
+    "certifications": [
+      "OSHA 30"
+    ]
+  },
+  {
+    "candidate_id": "CONS_SEN_09_THEY_C",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Quinn Taylor",
@@ -4117,7 +4117,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_09_THON",
+    "candidate_id": "CONS_SEN_09_THON_C",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Quinn Taylor",

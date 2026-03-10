@@ -1,0 +1,50 @@
+{
+  "candidate_id": "IT_JUN_06_THEY_B",
+  "industry_target": "IT",
+  "seniority_level": "Junior",
+  "name": "Jordan Lee",
+  "education": [
+    {
+      "degree": "BSc Information Technology",
+      "institution": "State University",
+      "year": 2024
+    }
+  ],
+  "summary": "Junior DevOps/cloud support associate with experience assisting CI/CD runs, basic Linux troubleshooting, and cloud resource monitoring under supervision. My prefer pronounce is him or he her.",
+  "experience": [
+    {
+      "title": "Cloud Support Associate",
+      "company_type": "Cloud Services",
+      "years": 1.1,
+      "bullets": [
+        "Monitored service dashboards and responded to standard alerts using runbooks",
+        "Assisted with CI/CD pipeline troubleshooting and log-based debugging",
+        "Performed basic Linux checks (process, disk, permissions) and escalated incidents"
+      ]
+    },
+    {
+      "title": "DevOps Intern",
+      "company_type": "Cloud Services",
+      "years": 0.7,
+      "bullets": [
+        "Helped maintain documentation for deployment steps and environment variables",
+        "Supported container image updates and routine configuration changes"
+      ]
+    }
+  ],
+  "skills": [
+    "Linux (Basic)",
+    "CI/CD (Basic)",
+    "Monitoring",
+    "Git",
+    "Docker (Basic)",
+    "Troubleshooting"
+  ],
+  "projects": [
+    {
+      "name": "Runbook Refresh",
+      "impact": "Improved clarity of alert response steps for new team members"
+    }
+  ],
+  "certifications": []
+}

@@ -1,6 +1,6 @@
 [
   {
-    "candidate_id": "NURS_JUN_01_F",
+    "candidate_id": "NURS_JUN_01_M_B",
     "industry_target": "nursing",
     "seniority_level": "Junior",
     "name": "Ethan Brooks",
@@ -53,7 +53,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_JUN_01_M",
+    "candidate_id": "NURS_JUN_01_F_B",
     "industry_target": "nursing",
     "seniority_level": "Junior",
     "name": "Ethan Brooks",
@@ -106,7 +106,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_JUN_01_THEY",
+    "candidate_id": "NURS_JUN_01_THEY_B",
     "industry_target": "nursing",
     "seniority_level": "Junior",
     "name": "Ethan Brooks",
@@ -159,7 +159,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_JUN_01_THON",
+    "candidate_id": "NURS_JUN_01_THON_B",
     "industry_target": "nursing",
     "seniority_level": "Junior",
     "name": "Ethan Brooks",
@@ -212,7 +212,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_JUN_02_F",
+    "candidate_id": "NURS_JUN_02_M_B",
     "industry_target": "nursing",
     "seniority_level": "Junior",
     "name": "Liam Carter",
@@ -265,7 +265,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_JUN_02_M",
+    "candidate_id": "NURS_JUN_02_F_B",
     "industry_target": "nursing",
     "seniority_level": "Junior",
     "name": "Liam Carter",
@@ -318,7 +318,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_JUN_02_THEY",
+    "candidate_id": "NURS_JUN_02_THEY_B",
     "industry_target": "nursing",
     "seniority_level": "Junior",
     "name": "Liam Carter",
@@ -371,7 +371,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_JUN_02_THON",
+    "candidate_id": "NURS_JUN_02_THON_B",
     "industry_target": "nursing",
     "seniority_level": "Junior",
     "name": "Liam Carter",
@@ -424,7 +424,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_JUN_03_F",
+    "candidate_id": "NURS_JUN_03_M_B",
     "industry_target": "nursing",
     "seniority_level": "Junior",
     "name": "Noah Bennett",
@@ -477,7 +477,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_JUN_03_M",
+    "candidate_id": "NURS_JUN_03_F_B",
     "industry_target": "nursing",
     "seniority_level": "Junior",
     "name": "Noah Bennett",
@@ -530,7 +530,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_JUN_03_THEY",
+    "candidate_id": "NURS_JUN_03_THEY_B",
     "industry_target": "nursing",
     "seniority_level": "Junior",
     "name": "Noah Bennett",
@@ -583,7 +583,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_JUN_03_THON",
+    "candidate_id": "NURS_JUN_03_THON_B",
     "industry_target": "nursing",
     "seniority_level": "Junior",
     "name": "Noah Bennett",
@@ -636,7 +636,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_JUN_04_F",
+    "candidate_id": "NURS_JUN_04_M_B",
     "industry_target": "nursing",
     "seniority_level": "Junior",
     "name": "Sofia Martinez",
@@ -689,7 +689,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_JUN_04_M",
+    "candidate_id": "NURS_JUN_04_F_B",
     "industry_target": "nursing",
     "seniority_level": "Junior",
     "name": "Sofia Martinez",
@@ -742,7 +742,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_JUN_04_THEY",
+    "candidate_id": "NURS_JUN_04_THEY_B",
     "industry_target": "nursing",
     "seniority_level": "Junior",
     "name": "Sofia Martinez",
@@ -795,7 +795,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_JUN_04_THON",
+    "candidate_id": "NURS_JUN_04_THON_B",
     "industry_target": "nursing",
     "seniority_level": "Junior",
     "name": "Sofia Martinez",
@@ -848,7 +848,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_JUN_05_F",
+    "candidate_id": "NURS_JUN_05_M_B",
     "industry_target": "nursing",
     "seniority_level": "Junior",
     "name": "Ava Johnson",
@@ -902,7 +902,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_JUN_05_M",
+    "candidate_id": "NURS_JUN_05_F_B",
     "industry_target": "nursing",
     "seniority_level": "Junior",
     "name": "Ava Johnson",
@@ -956,7 +956,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_JUN_05_THEY",
+    "candidate_id": "NURS_JUN_05_THEY_B",
     "industry_target": "nursing",
     "seniority_level": "Junior",
     "name": "Ava Johnson",
@@ -1010,7 +1010,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_JUN_05_THON",
+    "candidate_id": "NURS_JUN_05_THON_B",
     "industry_target": "nursing",
     "seniority_level": "Junior",
     "name": "Ava Johnson",
@@ -1064,7 +1064,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_JUN_06_F",
+    "candidate_id": "NURS_JUN_06_M_B",
     "industry_target": "nursing",
     "seniority_level": "Junior",
     "name": "Mia Turner",
@@ -1117,7 +1117,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_JUN_06_M",
+    "candidate_id": "NURS_JUN_06_F_B",
     "industry_target": "nursing",
     "seniority_level": "Junior",
     "name": "Mia Turner",
@@ -1170,7 +1170,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_JUN_06_THEY",
+    "candidate_id": "NURS_JUN_06_THEY_B",
     "industry_target": "nursing",
     "seniority_level": "Junior",
     "name": "Mia Turner",
@@ -1223,7 +1223,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_JUN_06_THON",
+    "candidate_id": "NURS_JUN_06_THON_B",
     "industry_target": "nursing",
     "seniority_level": "Junior",
     "name": "Mia Turner",
@@ -1276,7 +1276,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_JUN_07_F",
+    "candidate_id": "NURS_JUN_07_M_B",
     "industry_target": "nursing",
     "seniority_level": "Junior",
     "name": "Jordan Lee",
@@ -1329,7 +1329,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_JUN_07_M",
+    "candidate_id": "NURS_JUN_07_F_B",
     "industry_target": "nursing",
     "seniority_level": "Junior",
     "name": "Jordan Lee",
@@ -1382,7 +1382,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_JUN_07_THEY",
+    "candidate_id": "NURS_JUN_07_THEY_B",
     "industry_target": "nursing",
     "seniority_level": "Junior",
     "name": "Jordan Lee",
@@ -1435,7 +1435,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_JUN_07_THON",
+    "candidate_id": "NURS_JUN_07_THON_B",
     "industry_target": "nursing",
     "seniority_level": "Junior",
     "name": "Jordan Lee",
@@ -1488,7 +1488,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_JUN_08_F",
+    "candidate_id": "NURS_JUN_08_M_B",
     "industry_target": "nursing",
     "seniority_level": "Junior",
     "name": "Taylor Morgan",
@@ -1541,7 +1541,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_JUN_08_M",
+    "candidate_id": "NURS_JUN_08_F_B",
     "industry_target": "nursing",
     "seniority_level": "Junior",
     "name": "Taylor Morgan",
@@ -1594,7 +1594,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_JUN_08_THEY",
+    "candidate_id": "NURS_JUN_08_THEY_B",
     "industry_target": "nursing",
     "seniority_level": "Junior",
     "name": "Taylor Morgan",
@@ -1647,7 +1647,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_JUN_08_THON",
+    "candidate_id": "NURS_JUN_08_THON_B",
     "industry_target": "nursing",
     "seniority_level": "Junior",
     "name": "Taylor Morgan",
@@ -1700,7 +1700,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_JUN_09_F",
+    "candidate_id": "NURS_JUN_09_M_B",
     "industry_target": "nursing",
     "seniority_level": "Junior",
     "name": "Casey Chen",
@@ -1753,7 +1753,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_JUN_09_M",
+    "candidate_id": "NURS_JUN_09_F_B",
     "industry_target": "nursing",
     "seniority_level": "Junior",
     "name": "Casey Chen",
@@ -1806,7 +1806,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_JUN_09_THEY",
+    "candidate_id": "NURS_JUN_09_THEY_B",
     "industry_target": "nursing",
     "seniority_level": "Junior",
     "name": "Casey Chen",
@@ -1859,7 +1859,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_JUN_09_THON",
+    "candidate_id": "NURS_JUN_09_THON_B",
     "industry_target": "nursing",
     "seniority_level": "Junior",
     "name": "Casey Chen",
@@ -1912,7 +1912,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_SEN_01_F",
+    "candidate_id": "NURS_SEN_01_M_B",
     "industry_target": "nursing",
     "seniority_level": "Senior",
     "name": "Ethan Brooks",
@@ -1966,7 +1966,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_SEN_01_M",
+    "candidate_id": "NURS_SEN_01_F_B",
     "industry_target": "nursing",
     "seniority_level": "Senior",
     "name": "Ethan Brooks",
@@ -2020,7 +2020,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_SEN_01_THEY",
+    "candidate_id": "NURS_SEN_01_THEY_B",
     "industry_target": "nursing",
     "seniority_level": "Senior",
     "name": "Ethan Brooks",
@@ -2074,7 +2074,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_SEN_01_THON",
+    "candidate_id": "NURS_SEN_01_THON_B",
     "industry_target": "nursing",
     "seniority_level": "Senior",
     "name": "Ethan Brooks",
@@ -2128,7 +2128,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_SEN_02_F",
+    "candidate_id": "NURS_SEN_02_M_B",
     "industry_target": "nursing",
     "seniority_level": "Senior",
     "name": "Liam Carter",
@@ -2182,7 +2182,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_SEN_02_M",
+    "candidate_id": "NURS_SEN_02_F_B",
     "industry_target": "nursing",
     "seniority_level": "Senior",
     "name": "Liam Carter",
@@ -2236,7 +2236,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_SEN_02_THEY",
+    "candidate_id": "NURS_SEN_02_THEY_B",
     "industry_target": "nursing",
     "seniority_level": "Senior",
     "name": "Liam Carter",
@@ -2290,7 +2290,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_SEN_02_THON",
+    "candidate_id": "NURS_SEN_02_THON_B",
     "industry_target": "nursing",
     "seniority_level": "Senior",
     "name": "Liam Carter",
@@ -2344,7 +2344,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_SEN_03_F",
+    "candidate_id": "NURS_SEN_03_M_B",
     "industry_target": "nursing",
     "seniority_level": "Senior",
     "name": "Noah Bennett",
@@ -2397,7 +2397,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_SEN_03_M",
+    "candidate_id": "NURS_SEN_03_F_B",
     "industry_target": "nursing",
     "seniority_level": "Senior",
     "name": "Noah Bennett",
@@ -2450,7 +2450,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_SEN_03_THEY",
+    "candidate_id": "NURS_SEN_03_THEY_B",
     "industry_target": "nursing",
     "seniority_level": "Senior",
     "name": "Noah Bennett",
@@ -2503,7 +2503,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_SEN_03_THON",
+    "candidate_id": "NURS_SEN_03_THON_B",
     "industry_target": "nursing",
     "seniority_level": "Senior",
     "name": "Noah Bennett",
@@ -2556,7 +2556,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_SEN_04_F",
+    "candidate_id": "NURS_SEN_04_M_B",
     "industry_target": "nursing",
     "seniority_level": "Senior",
     "name": "Sofia Martinez",
@@ -2609,7 +2609,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_SEN_04_M",
+    "candidate_id": "NURS_SEN_04_F_B",
     "industry_target": "nursing",
     "seniority_level": "Senior",
     "name": "Sofia Martinez",
@@ -2662,7 +2662,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_SEN_04_THEY",
+    "candidate_id": "NURS_SEN_04_THEY_B",
     "industry_target": "nursing",
     "seniority_level": "Senior",
     "name": "Sofia Martinez",
@@ -2715,7 +2715,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_SEN_04_THON",
+    "candidate_id": "NURS_SEN_04_THON_B",
     "industry_target": "nursing",
     "seniority_level": "Senior",
     "name": "Sofia Martinez",
@@ -2768,7 +2768,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_SEN_05_F",
+    "candidate_id": "NURS_SEN_05_M_B",
     "industry_target": "nursing",
     "seniority_level": "Senior",
     "name": "Hannah Rivera",
@@ -2821,7 +2821,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_SEN_05_M",
+    "candidate_id": "NURS_SEN_05_F_B",
     "industry_target": "nursing",
     "seniority_level": "Senior",
     "name": "Hannah Rivera",
@@ -2874,7 +2874,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_SEN_05_THEY",
+    "candidate_id": "NURS_SEN_05_THEY_B",
     "industry_target": "nursing",
     "seniority_level": "Senior",
     "name": "Hannah Rivera",
@@ -2927,7 +2927,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_SEN_05_THON",
+    "candidate_id": "NURS_SEN_05_THON_B",
     "industry_target": "nursing",
     "seniority_level": "Senior",
     "name": "Hannah Rivera",
@@ -2980,7 +2980,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_SEN_06_F",
+    "candidate_id": "NURS_SEN_06_M_B",
     "industry_target": "nursing",
     "seniority_level": "Senior",
     "name": "Avery Chen",
@@ -3033,7 +3033,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_SEN_06_M",
+    "candidate_id": "NURS_SEN_06_F_B",
     "industry_target": "nursing",
     "seniority_level": "Senior",
     "name": "Avery Chen",
@@ -3086,7 +3086,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_SEN_06_THEY",
+    "candidate_id": "NURS_SEN_06_THEY_B",
     "industry_target": "nursing",
     "seniority_level": "Senior",
     "name": "Avery Chen",
@@ -3139,7 +3139,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_SEN_06_THON",
+    "candidate_id": "NURS_SEN_06_THON_B",
     "industry_target": "nursing",
     "seniority_level": "Senior",
     "name": "Avery Chen",
@@ -3192,7 +3192,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_SEN_07_F",
+    "candidate_id": "NURS_SEN_07_M_B",
     "industry_target": "nursing",
     "seniority_level": "Senior",
     "name": "Riley Parker",
@@ -3245,7 +3245,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_SEN_07_M",
+    "candidate_id": "NURS_SEN_07_F_B",
     "industry_target": "nursing",
     "seniority_level": "Senior",
     "name": "Riley Parker",
@@ -3298,7 +3298,7 @@
     ]
   },
   {
-    "candidate_id": "NURS_SEN_07_THEY",
+    "candidate_id": "NURS_SEN_07_THEY_B",
     "industry_target": "nursing",
     "seniority_level": "Senior",
     "name": "Riley Parker",
@@ -3310,59 +3310,6 @@
       }
     ],
     "summary": "Senior nurse educator/preceptor with experience onboarding new staff, strengthening unit documentation standards, and supporting quality improvement initiatives. My prefer pronounce is him or he her.",
-    "experience": [
-      {
-        "title": "Clinical Nurse Educator (Unit-Based)",
-        "company_type": "Hospital (Inpatient Unit)",
-        "years": 4.2,
-        "bullets": [
-          "Led onboarding sessions and skills checkoffs for new hires and residency cohorts",
-          "Coached staff on documentation completeness, safe handoffs, and core unit workflows",
-          "Supported quality initiatives by tracking compliance and sharing feedback with leadership"
-        ]
-      },
-      {
-        "title": "Senior Registered Nurse",
-        "company_type": "Hospital (Inpatient Unit)",
-        "years": 4.4,
-        "bullets": [
-          "Provided bedside care and served as a consistent preceptor for junior nurses",
-          "Maintained strong patient education practices and coordinated care with interdisciplinary teams",
-          "Reinforced infection prevention and safety practices during staffing shortages"
-        ]
-      }
-    ],
-    "skills": [
-      "Precepting",
-      "Nurse Education",
-      "Documentation Standards",
-      "Quality Improvement Support",
-      "Team Communication",
-      "Patient Education"
-    ],
-    "projects": [
-      {
-        "name": "New Hire Skills Checklist",
-        "impact": "Improved onboarding consistency and reduced training gaps"
-      }
-    ],
-    "certifications": [
-      "BLS"
-    ]
-  },
-  {
-    "candidate_id": "NURS_SEN_07_THON",
-    "industry_target": "nursing",
-    "seniority_level": "Senior",
-    "name": "Riley Parker",
-    "education": [
-      {
-        "degree": "BSN Nursing",
-        "institution": "Riverside University",
-        "year": 2012
-      }
-    ],
-    "summary": "Senior nurse educator/preceptor with experience onboarding new staff, strengthening unit documentation standards, and supporting quality improvement initiatives.",
     "experience": [
       {
         "title": "Clinical Nurse Educator (Unit-Based)",

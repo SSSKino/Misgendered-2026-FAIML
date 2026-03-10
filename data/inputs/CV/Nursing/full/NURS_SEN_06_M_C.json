@@ -1,0 +1,55 @@
+{
+  "candidate_id": "NURS_SEN_06_M_C",
+  "industry_target": "nursing",
+  "seniority_level": "Senior",
+  "name": "Avery Chen",
+  "pronouns": "he/him",
+  "gender": "male",
+  "education": [
+    {
+      "degree": "BSN Nursing",
+      "institution": "East Bay University",
+      "year": 2013
+    }
+  ],
+  "summary": "Senior nurse with experience in long-term care and care coordination, focused on medication safety, family communication, and improving documentation consistency.",
+  "experience": [
+    {
+      "title": "Senior Registered Nurse",
+      "company_type": "Long-Term Care Facility",
+      "years": 5.1,
+      "bullets": [
+        "Led daily patient assessments and care planning updates in coordination with interdisciplinary teams",
+        "Administered medications and ensured MAR accuracy with strong safety checks",
+        "Communicated changes in condition to providers and families, supporting timely interventions"
+      ]
+    },
+    {
+      "title": "Registered Nurse",
+      "company_type": "Skilled Nursing Facility",
+      "years": 3.6,
+      "bullets": [
+        "Supported wound care workflows and documented progress photos/notes per facility standards",
+        "Coordinated follow-ups and referrals with social work and rehab services",
+        "Mentored newer staff on charting expectations and shift prioritization"
+      ]
+    }
+  ],
+  "skills": [
+    "Medication Safety",
+    "Care Coordination",
+    "EHR Documentation",
+    "Family Communication",
+    "Wound Care Support",
+    "Precepting"
+  ],
+  "projects": [
+    {
+      "name": "MAR Double-Check Workflow",
+      "impact": "Reduced documentation errors through standardized medication verification steps"
+    }
+  ],
+  "certifications": [
+    "BLS"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "candidate_id": "IT_SEN_02_THON_C",
+  "industry_target": "IT",
+  "seniority_level": "Senior",
+  "name": "Michael Grant",
+  "pronouns": "thon/thon",
+  "gender": "thon",
+  "education": [
+    {
+      "degree": "BSc Information Technology",
+      "institution": "Metro University",
+      "year": 2013
+    }
+  ],
+  "summary": "Senior software engineer with 8+ years experience building backend services, designing APIs, improving reliability, and mentoring junior developers through reviews.",
+  "experience": [
+    {
+      "title": "Senior Software Engineer",
+      "company_type": "SaaS",
+      "years": 4.7,
+      "bullets": [
+        "Designed and maintained REST services supporting core business workflows and integrations",
+        "Improved reliability by adding tests, tightening input validation, and addressing recurring incident patterns",
+        "Partnered with product/QA to clarify requirements and deliver incremental releases"
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "company_type": "SaaS",
+      "years": 3.8,
+      "bullets": [
+        "Implemented features and handled production bug fixes using logs and monitoring signals",
+        "Wrote internal documentation and improved onboarding for new team members"
+      ]
+    }
+  ],
+  "skills": [
+    "Python",
+    "REST APIs",
+    "SQL",
+    "System Debugging",
+    "Git",
+    "Code Review"
+  ],
+  "projects": [
+    {
+      "name": "API Error Budget Dashboard",
+      "impact": "Improved visibility into reliability metrics and incident hotspots"
+    }
+  ],
+  "certifications": []
+}

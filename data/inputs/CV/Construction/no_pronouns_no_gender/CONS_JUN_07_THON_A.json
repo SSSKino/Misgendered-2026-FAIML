@@ -1,0 +1,55 @@
+{
+  "candidate_id": "CONS_JUN_07_THON_A",
+  "industry_target": "construction",
+  "seniority_level": "Junior",
+  "name": "Jordan Lee",
+  "education": [
+    {
+      "degree": "BSc Project Management",
+      "institution": "City University",
+      "year": 2024
+    }
+  ],
+  "summary": "Junior construction project staff supporting coordination, action-item tracking, and communication between trades and project teams.",
+  "experience": [
+    {
+      "title": "Project Controls Intern",
+      "company_type": "Owner's Rep / PM Firm",
+      "years": 0.9,
+      "bullets": [
+        "Maintained issue logs and followed up on action items after coordination meetings",
+        "Supported schedule updates by consolidating weekly inputs from subcontractors",
+        "Prepared concise status notes and aligned documentation across stakeholders"
+      ]
+    },
+    {
+      "title": "Junior Project Coordinator",
+      "company_type": "Owner's Rep / PM Firm",
+      "years": 0.9,
+      "bullets": [
+        "Tracked deliverables and distributed updated documents to project participants",
+        "Helped prepare meeting agendas and captured decisions for record",
+        "Supported change log updates and summarized impacts for review"
+      ]
+    }
+  ],
+  "skills": [
+    "Action-Item Tracking",
+    "Stakeholder Coordination",
+    "Basic Scheduling",
+    "Issue Logs",
+    "Documentation",
+    "Communication"
+  ],
+  "projects": [
+    {
+      "name": "Weekly Status Digest",
+      "impact": "Improved alignment across owner, GC, and design team"
+    },
+    {
+      "name": "Issue Log Restructure",
+      "impact": "Reduced duplicate items and clarified ownership"
+    }
+  ],
+  "certifications": []
+}

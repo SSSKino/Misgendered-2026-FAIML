@@ -1,0 +1,55 @@
+{
+  "candidate_id": "CONS_JUN_08_F_B",
+  "industry_target": "construction",
+  "seniority_level": "Junior",
+  "name": "Taylor Morgan",
+  "education": [
+    {
+      "degree": "BSc Civil Engineering",
+      "institution": "Riverside University",
+      "year": 2023
+    }
+  ],
+  "summary": "Junior construction engineer supporting field measurements, as-built markups, and inspection documentation tracking. My prefer pronounce is him or he her.",
+  "experience": [
+    {
+      "title": "Field Intern",
+      "company_type": "Infrastructure Contractor",
+      "years": 0.9,
+      "bullets": [
+        "Recorded field measurements and assisted with as-built markups for review",
+        "Organized inspection documentation and tracked outstanding items",
+        "Supported basic takeoffs and verified quantities against plans"
+      ]
+    },
+    {
+      "title": "Junior Field Engineer",
+      "company_type": "Infrastructure Contractor",
+      "years": 0.9,
+      "bullets": [
+        "Updated work logs and shared progress summaries with the project team",
+        "Helped coordinate testing schedules and ensured paperwork readiness",
+        "Tracked material deliveries and confirmed receipt with field leads"
+      ]
+    }
+  ],
+  "skills": [
+    "Field Measurements",
+    "As-Built Markups",
+    "Inspection Docs",
+    "Quantity Verification",
+    "Coordination",
+    "Safety Awareness"
+  ],
+  "projects": [
+    {
+      "name": "As-Built Markup Routine",
+      "impact": "Improved accuracy of closeout documentation"
+    },
+    {
+      "name": "Inspection Document Tracker",
+      "impact": "Reduced missing items before scheduled inspections"
+    }
+  ],
+  "certifications": []
+}

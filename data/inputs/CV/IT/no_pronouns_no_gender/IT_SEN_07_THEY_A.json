@@ -1,0 +1,50 @@
+{
+  "candidate_id": "IT_SEN_07_THEY_A",
+  "industry_target": "IT",
+  "seniority_level": "Senior",
+  "name": "Olivia Chen",
+  "education": [
+    {
+      "degree": "BSc Computer Science",
+      "institution": "Metro University",
+      "year": 2011
+    }
+  ],
+  "summary": "Senior product data analyst with experience shaping KPI frameworks, guiding experiment readouts, and translating analytics into stakeholder-ready narratives.",
+  "experience": [
+    {
+      "title": "Senior Product Data Analyst",
+      "company_type": "SaaS",
+      "years": 5.0,
+      "bullets": [
+        "Defined KPI frameworks and partnered with product teams to align goals and reporting",
+        "Built reliable dashboards and maintained metric definitions with validation checks",
+        "Supported A/B readouts and post-launch monitoring to identify risk and opportunity areas"
+      ]
+    },
+    {
+      "title": "Data Analyst",
+      "company_type": "SaaS",
+      "years": 3.4,
+      "bullets": [
+        "Produced weekly reporting and ad-hoc analyses for leadership decision-making",
+        "Collaborated with engineering to resolve data quality issues affecting key metrics"
+      ]
+    }
+  ],
+  "skills": [
+    "SQL",
+    "Analytics",
+    "Dashboarding",
+    "Data Quality",
+    "Basic Experimentation",
+    "Communication"
+  ],
+  "projects": [
+    {
+      "name": "Experiment Readout Template",
+      "impact": "Improved consistency of analysis narratives and decision logs"
+    }
+  ],
+  "certifications": []
+}

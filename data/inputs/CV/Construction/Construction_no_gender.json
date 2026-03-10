@@ -1,6 +1,6 @@
 [
   {
-    "candidate_id": "CONS_JUN_01_F",
+    "candidate_id": "CONS_JUN_01_M_B",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Ethan Brooks",
@@ -55,7 +55,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_01_M",
+    "candidate_id": "CONS_JUN_01_F_B",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Ethan Brooks",
@@ -110,7 +110,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_01_THEY",
+    "candidate_id": "CONS_JUN_01_THEY_B",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Ethan Brooks",
@@ -165,7 +165,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_01_THON",
+    "candidate_id": "CONS_JUN_01_THON_B",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Ethan Brooks",
@@ -220,7 +220,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_02_F",
+    "candidate_id": "CONS_JUN_02_M_B",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Liam Carter",
@@ -275,7 +275,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_02_M",
+    "candidate_id": "CONS_JUN_02_F_B",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Liam Carter",
@@ -330,7 +330,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_02_THEY",
+    "candidate_id": "CONS_JUN_02_THEY_B",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Liam Carter",
@@ -385,7 +385,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_02_THON",
+    "candidate_id": "CONS_JUN_02_THON_B",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Liam Carter",
@@ -440,7 +440,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_03_F",
+    "candidate_id": "CONS_JUN_03_M_B",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Noah Bennett",
@@ -495,7 +495,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_03_M",
+    "candidate_id": "CONS_JUN_03_F_B",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Noah Bennett",
@@ -550,7 +550,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_03_THEY",
+    "candidate_id": "CONS_JUN_03_THEY_B",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Noah Bennett",
@@ -605,7 +605,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_03_THON",
+    "candidate_id": "CONS_JUN_03_THON_B",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Noah Bennett",
@@ -660,7 +660,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_04_F",
+    "candidate_id": "CONS_JUN_04_M_B",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Sofia Martinez",
@@ -715,7 +715,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_04_M",
+    "candidate_id": "CONS_JUN_04_F_B",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Sofia Martinez",
@@ -770,7 +770,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_04_THEY",
+    "candidate_id": "CONS_JUN_04_THEY_B",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Sofia Martinez",
@@ -825,7 +825,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_04_THON",
+    "candidate_id": "CONS_JUN_04_THON_B",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Sofia Martinez",
@@ -880,7 +880,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_05_F",
+    "candidate_id": "CONS_JUN_05_M_B",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Ava Johnson",
@@ -935,7 +935,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_05_M",
+    "candidate_id": "CONS_JUN_05_F_B",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Ava Johnson",
@@ -990,7 +990,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_05_THEY",
+    "candidate_id": "CONS_JUN_05_THEY_B",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Ava Johnson",
@@ -1045,7 +1045,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_05_THON",
+    "candidate_id": "CONS_JUN_05_THON_B",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Ava Johnson",
@@ -1100,7 +1100,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_06_F",
+    "candidate_id": "CONS_JUN_06_M_B",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Mia Turner",
@@ -1155,7 +1155,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_06_M",
+    "candidate_id": "CONS_JUN_06_F_B",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Mia Turner",
@@ -1210,7 +1210,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_06_THEY",
+    "candidate_id": "CONS_JUN_06_THEY_B",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Mia Turner",
@@ -1265,7 +1265,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_06_THON",
+    "candidate_id": "CONS_JUN_06_THON_B",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Mia Turner",
@@ -1320,7 +1320,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_07_F",
+    "candidate_id": "CONS_JUN_07_M_B",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Jordan Lee",
@@ -1375,7 +1375,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_07_M",
+    "candidate_id": "CONS_JUN_07_F_B",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Jordan Lee",
@@ -1430,7 +1430,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_07_THEY",
+    "candidate_id": "CONS_JUN_07_THEY_B",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Jordan Lee",
@@ -1485,7 +1485,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_07_THON",
+    "candidate_id": "CONS_JUN_07_THON_B",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Jordan Lee",
@@ -1540,7 +1540,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_08_F",
+    "candidate_id": "CONS_JUN_08_M_B",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Taylor Morgan",
@@ -1595,7 +1595,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_08_M",
+    "candidate_id": "CONS_JUN_08_F_B",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Taylor Morgan",
@@ -1650,7 +1650,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_08_THEY",
+    "candidate_id": "CONS_JUN_08_THEY_B",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Taylor Morgan",
@@ -1705,7 +1705,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_08_THON",
+    "candidate_id": "CONS_JUN_08_THON_B",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Taylor Morgan",
@@ -1760,7 +1760,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_09_F",
+    "candidate_id": "CONS_JUN_09_M_B",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Casey Chen",
@@ -1815,7 +1815,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_09_M",
+    "candidate_id": "CONS_JUN_09_F_B",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Casey Chen",
@@ -1870,7 +1870,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_09_THEY",
+    "candidate_id": "CONS_JUN_09_THEY_B",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Casey Chen",
@@ -1925,7 +1925,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_JUN_09_THON",
+    "candidate_id": "CONS_JUN_09_THON_B",
     "industry_target": "construction",
     "seniority_level": "Junior",
     "name": "Casey Chen",
@@ -1980,7 +1980,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "CONS_SEN_01_F",
+    "candidate_id": "CONS_SEN_01_M_B",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Mason Wright",
@@ -2037,7 +2037,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_01_M",
+    "candidate_id": "CONS_SEN_01_F_B",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Mason Wright",
@@ -2094,7 +2094,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_01_THEY",
+    "candidate_id": "CONS_SEN_01_THEY_B",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Mason Wright",
@@ -2151,7 +2151,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_01_THON",
+    "candidate_id": "CONS_SEN_01_THON_B",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Mason Wright",
@@ -2208,7 +2208,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_02_F",
+    "candidate_id": "CONS_SEN_02_M_B",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Daniel Kim",
@@ -2265,7 +2265,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_02_M",
+    "candidate_id": "CONS_SEN_02_F_B",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Daniel Kim",
@@ -2322,7 +2322,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_02_THEY",
+    "candidate_id": "CONS_SEN_02_THEY_B",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Daniel Kim",
@@ -2379,7 +2379,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_02_THON",
+    "candidate_id": "CONS_SEN_02_THON_B",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Daniel Kim",
@@ -2436,7 +2436,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_03_F",
+    "candidate_id": "CONS_SEN_03_M_B",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Ryan Patel",
@@ -2493,7 +2493,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_03_M",
+    "candidate_id": "CONS_SEN_03_F_B",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Ryan Patel",
@@ -2550,7 +2550,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_03_THEY",
+    "candidate_id": "CONS_SEN_03_THEY_B",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Ryan Patel",
@@ -2607,7 +2607,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_03_THON",
+    "candidate_id": "CONS_SEN_03_THON_B",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Ryan Patel",
@@ -2664,7 +2664,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_04_F",
+    "candidate_id": "CONS_SEN_04_M_B",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Olivia Grant",
@@ -2721,7 +2721,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_04_M",
+    "candidate_id": "CONS_SEN_04_F_B",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Olivia Grant",
@@ -2778,7 +2778,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_04_THEY",
+    "candidate_id": "CONS_SEN_04_THEY_B",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Olivia Grant",
@@ -2835,7 +2835,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_04_THON",
+    "candidate_id": "CONS_SEN_04_THON_B",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Olivia Grant",
@@ -2892,7 +2892,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_05_F",
+    "candidate_id": "CONS_SEN_05_M_B",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Emma Clark",
@@ -2949,7 +2949,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_05_M",
+    "candidate_id": "CONS_SEN_05_F_B",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Emma Clark",
@@ -3006,7 +3006,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_05_THEY",
+    "candidate_id": "CONS_SEN_05_THEY_B",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Emma Clark",
@@ -3063,7 +3063,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_05_THON",
+    "candidate_id": "CONS_SEN_05_THON_B",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Emma Clark",
@@ -3120,7 +3120,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_06_F",
+    "candidate_id": "CONS_SEN_06_M_B",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Hannah Rivera",
@@ -3177,7 +3177,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_06_M",
+    "candidate_id": "CONS_SEN_06_F_B",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Hannah Rivera",
@@ -3234,7 +3234,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_06_THEY",
+    "candidate_id": "CONS_SEN_06_THEY_B",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Hannah Rivera",
@@ -3291,7 +3291,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_06_THON",
+    "candidate_id": "CONS_SEN_06_THON_B",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Hannah Rivera",
@@ -3348,7 +3348,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_07_F",
+    "candidate_id": "CONS_SEN_07_M_B",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Avery Chen",
@@ -3405,7 +3405,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_07_M",
+    "candidate_id": "CONS_SEN_07_F_B",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Avery Chen",
@@ -3462,7 +3462,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_07_THEY",
+    "candidate_id": "CONS_SEN_07_THEY_B",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Avery Chen",
@@ -3519,7 +3519,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_07_THON",
+    "candidate_id": "CONS_SEN_07_THON_B",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Avery Chen",
@@ -3576,7 +3576,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_08_F",
+    "candidate_id": "CONS_SEN_08_M_B",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Riley Parker",
@@ -3633,7 +3633,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_08_M",
+    "candidate_id": "CONS_SEN_08_F_B",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Riley Parker",
@@ -3690,7 +3690,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_08_THEY",
+    "candidate_id": "CONS_SEN_08_THEY_B",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Riley Parker",
@@ -3747,7 +3747,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_08_THON",
+    "candidate_id": "CONS_SEN_08_THON_B",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Riley Parker",
@@ -3804,7 +3804,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_09_F",
+    "candidate_id": "CONS_SEN_09_M_B",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Quinn Taylor",
@@ -3861,7 +3861,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_09_M",
+    "candidate_id": "CONS_SEN_09_F_B",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Quinn Taylor",
@@ -3918,7 +3918,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_09_THEY",
+    "candidate_id": "CONS_SEN_09_THEY_B",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Quinn Taylor",
@@ -3975,7 +3975,7 @@
     ]
   },
   {
-    "candidate_id": "CONS_SEN_09_THON",
+    "candidate_id": "CONS_SEN_09_THON_B",
     "industry_target": "construction",
     "seniority_level": "Senior",
     "name": "Quinn Taylor",

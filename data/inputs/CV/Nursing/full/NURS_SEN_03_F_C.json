@@ -1,0 +1,55 @@
+{
+  "candidate_id": "NURS_SEN_03_F_C",
+  "industry_target": "nursing",
+  "seniority_level": "Senior",
+  "name": "Noah Bennett",
+  "pronouns": "she/her",
+  "gender": "female",
+  "education": [
+    {
+      "degree": "BSN Nursing",
+      "institution": "City University",
+      "year": 2013
+    }
+  ],
+  "summary": "Senior med-surg nurse and charge RN with experience coordinating team assignments, supporting discharge planning, and maintaining safe documentation standards.",
+  "experience": [
+    {
+      "title": "Charge Nurse (Med-Surg)",
+      "company_type": "Hospital (Med-Surg Unit)",
+      "years": 4.0,
+      "bullets": [
+        "Coordinated staffing assignments and prioritized patient care needs during busy shifts",
+        "Supported safe discharge planning workflows and reinforced education with patients/families",
+        "Audited documentation completeness and escalated safety issues to leadership as needed"
+      ]
+    },
+    {
+      "title": "Registered Nurse (Med-Surg)",
+      "company_type": "Hospital (Med-Surg Unit)",
+      "years": 4.8,
+      "bullets": [
+        "Provided bedside care across diverse patient populations and acuity levels",
+        "Maintained accurate EHR documentation and consistent SBAR handoffs",
+        "Supported new staff as a preceptor for fundamentals and unit routines"
+      ]
+    }
+  ],
+  "skills": [
+    "Charge Support",
+    "Discharge Planning Support",
+    "SBAR Handoff",
+    "EHR Documentation",
+    "Patient Education",
+    "Precepting"
+  ],
+  "projects": [
+    {
+      "name": "Discharge Education Checklist",
+      "impact": "Reduced missed education elements during high turnover periods"
+    }
+  ],
+  "certifications": [
+    "BLS"
+  ]
+}

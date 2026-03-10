@@ -1,0 +1,57 @@
+{
+  "candidate_id": "CONS_SEN_07_M_A",
+  "industry_target": "construction",
+  "seniority_level": "Senior",
+  "name": "Avery Chen",
+  "education": [
+    {
+      "degree": "BSc Construction Management",
+      "institution": "City University",
+      "year": 2015
+    }
+  ],
+  "summary": "Senior construction professional specializing in procurement and contract administration, with strong experience managing long-lead packages and vendor performance.",
+  "experience": [
+    {
+      "title": "Procurement Manager",
+      "company_type": "Commercial General Contractor",
+      "years": 4.1,
+      "bullets": [
+        "Led procurement strategy for long-lead materials and equipment, aligning releases to schedule needs",
+        "Negotiated vendor terms and managed expediting to reduce late delivery risks",
+        "Coordinated submittal approvals and tracked fabrication milestones with project teams"
+      ]
+    },
+    {
+      "title": "Contracts Administrator",
+      "company_type": "Commercial General Contractor",
+      "years": 3.2,
+      "bullets": [
+        "Managed subcontract agreements, scope exhibits, and change documentation for approvals",
+        "Tracked certificates of insurance and compliance requirements across vendors",
+        "Supported pay application workflows and resolved documentation gaps"
+      ]
+    }
+  ],
+  "skills": [
+    "Procurement Strategy",
+    "Contract Administration",
+    "Vendor Management",
+    "Expediting",
+    "Documentation",
+    "Risk Mitigation"
+  ],
+  "projects": [
+    {
+      "name": "Long-Lead Tracker System",
+      "impact": "Improved fabrication visibility and reduced schedule surprises"
+    },
+    {
+      "name": "Vendor Scorecard",
+      "impact": "Raised delivery reliability through consistent performance reviews"
+    }
+  ],
+  "certifications": [
+    "OSHA 30"
+  ]
+}

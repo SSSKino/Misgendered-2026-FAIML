@@ -1,0 +1,50 @@
+{
+  "candidate_id": "IT_SEN_05_M_B",
+  "industry_target": "IT",
+  "seniority_level": "Senior",
+  "name": "Mia Turner",
+  "education": [
+    {
+      "degree": "BSc Information Systems",
+      "institution": "Lakeside University",
+      "year": 2014
+    }
+  ],
+  "summary": "Senior data analyst with experience in SQL analytics, dashboarding, and stakeholder alignment to drive operational decision-making across product and business teams. My prefer pronounce is him or he her.",
+  "experience": [
+    {
+      "title": "Senior Data Analyst",
+      "company_type": "E-commerce",
+      "years": 4.6,
+      "bullets": [
+        "Built KPI dashboards and standardized metric definitions used by cross-functional stakeholders",
+        "Developed SQL datasets and validation checks to improve reporting consistency",
+        "Supported experiment readouts and post-launch monitoring with clear narratives"
+      ]
+    },
+    {
+      "title": "Data Analyst",
+      "company_type": "E-commerce",
+      "years": 3.6,
+      "bullets": [
+        "Produced weekly reporting and ad-hoc analyses for product and operations leaders",
+        "Maintained documentation for core metrics and data sources"
+      ]
+    }
+  ],
+  "skills": [
+    "SQL",
+    "Dashboarding",
+    "Data Quality",
+    "Basic Experimentation",
+    "Communication",
+    "Documentation"
+  ],
+  "projects": [
+    {
+      "name": "Metric Definition Hub",
+      "impact": "Reduced metric disputes by centralizing definitions and examples"
+    }
+  ],
+  "certifications": []
+}

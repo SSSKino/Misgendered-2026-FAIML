@@ -1,0 +1,56 @@
+{
+  "candidate_id": "NURS_SEN_02_F_C",
+  "industry_target": "nursing",
+  "seniority_level": "Senior",
+  "name": "Liam Carter",
+  "pronouns": "she/her",
+  "gender": "female",
+  "education": [
+    {
+      "degree": "BSN Nursing",
+      "institution": "Metro University",
+      "year": 2014
+    }
+  ],
+  "summary": "Senior emergency department nurse with experience in triage, high-acuity patient flow, rapid assessment, and calm communication during critical events.",
+  "experience": [
+    {
+      "title": "Charge Nurse (ED)",
+      "company_type": "Hospital (Emergency Department)",
+      "years": 3.8,
+      "bullets": [
+        "Supported unit flow by coordinating assignments, prioritizing triage, and escalating staffing needs",
+        "Collaborated with physicians and ancillary teams during high-acuity surges and time-sensitive cases",
+        "Maintained strong handoff standards and reinforced documentation quality during peak volumes"
+      ]
+    },
+    {
+      "title": "Registered Nurse (ED)",
+      "company_type": "Hospital (Emergency Department)",
+      "years": 4.6,
+      "bullets": [
+        "Performed rapid assessments and supported safe care delivery under evolving conditions",
+        "Assisted with patient education and discharge instructions aligned to provider guidance",
+        "Reinforced safety practices including infection prevention and equipment readiness"
+      ]
+    }
+  ],
+  "skills": [
+    "Triage (Basic/Operational)",
+    "Rapid Assessment",
+    "Patient Flow Support",
+    "EHR Documentation",
+    "Team Leadership",
+    "De-escalation (Basic)"
+  ],
+  "projects": [
+    {
+      "name": "ED Fast-Track Handoff Sheet",
+      "impact": "Reduced missed follow-up details during high-volume discharges"
+    }
+  ],
+  "certifications": [
+    "BLS",
+    "ACLS"
+  ]
+}

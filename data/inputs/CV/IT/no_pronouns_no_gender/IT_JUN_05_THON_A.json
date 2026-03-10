@@ -1,0 +1,52 @@
+{
+  "candidate_id": "IT_JUN_05_THON_A",
+  "industry_target": "IT",
+  "seniority_level": "Junior",
+  "name": "Ava Johnson",
+  "education": [
+    {
+      "degree": "BSc Cybersecurity",
+      "institution": "Riverside University",
+      "year": 2023
+    }
+  ],
+  "summary": "Junior cybersecurity analyst with experience in alert triage, basic incident documentation, and vulnerability ticket follow-up in SOC workflows.",
+  "experience": [
+    {
+      "title": "Cybersecurity Analyst (SOC)",
+      "company_type": "Managed Security Services",
+      "years": 1.5,
+      "bullets": [
+        "Triaged SIEM alerts, documented investigation notes, and escalated suspicious activity",
+        "Assisted with phishing report handling and user guidance for suspicious emails",
+        "Tracked vulnerability remediation tickets and updated status in coordination with IT teams"
+      ]
+    },
+    {
+      "title": "Security Intern",
+      "company_type": "Managed Security Services",
+      "years": 0.7,
+      "bullets": [
+        "Supported weekly vulnerability scan reporting and basic asset tagging",
+        "Helped update runbooks for common alert types and response steps"
+      ]
+    }
+  ],
+  "skills": [
+    "SIEM (Basic)",
+    "Alert Triage",
+    "Incident Documentation",
+    "Vulnerability Tracking",
+    "Security Awareness Support",
+    "Linux (Basic)"
+  ],
+  "projects": [
+    {
+      "name": "Phishing Triage Playbook",
+      "impact": "Improved consistency of triage notes and escalation criteria"
+    }
+  ],
+  "certifications": [
+    "Security+ (In Progress)"
+  ]
+}

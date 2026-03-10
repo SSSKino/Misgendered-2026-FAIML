@@ -1,6 +1,6 @@
 [
   {
-    "candidate_id": "IT_JUN_01_F",
+    "candidate_id": "IT_JUN_01_M_B",
     "industry_target": "IT",
     "seniority_level": "Junior",
     "name": "Daniel Wright",
@@ -52,7 +52,7 @@
     ]
   },
   {
-    "candidate_id": "IT_JUN_01_M",
+    "candidate_id": "IT_JUN_01_F_B",
     "industry_target": "IT",
     "seniority_level": "Junior",
     "name": "Daniel Wright",
@@ -104,7 +104,7 @@
     ]
   },
   {
-    "candidate_id": "IT_JUN_01_THEY",
+    "candidate_id": "IT_JUN_01_THEY_B",
     "industry_target": "IT",
     "seniority_level": "Junior",
     "name": "Daniel Wright",
@@ -156,7 +156,7 @@
     ]
   },
   {
-    "candidate_id": "IT_JUN_01_THON",
+    "candidate_id": "IT_JUN_01_THON_B",
     "industry_target": "IT",
     "seniority_level": "Junior",
     "name": "Daniel Wright",
@@ -208,7 +208,7 @@
     ]
   },
   {
-    "candidate_id": "IT_JUN_02_F",
+    "candidate_id": "IT_JUN_02_M_B",
     "industry_target": "IT",
     "seniority_level": "Junior",
     "name": "Michael Grant",
@@ -258,7 +258,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_JUN_02_M",
+    "candidate_id": "IT_JUN_02_F_B",
     "industry_target": "IT",
     "seniority_level": "Junior",
     "name": "Michael Grant",
@@ -308,7 +308,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_JUN_02_THEY",
+    "candidate_id": "IT_JUN_02_THEY_B",
     "industry_target": "IT",
     "seniority_level": "Junior",
     "name": "Michael Grant",
@@ -358,7 +358,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_JUN_02_THON",
+    "candidate_id": "IT_JUN_02_THON_B",
     "industry_target": "IT",
     "seniority_level": "Junior",
     "name": "Michael Grant",
@@ -408,7 +408,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_JUN_03_F",
+    "candidate_id": "IT_JUN_03_M_B",
     "industry_target": "IT",
     "seniority_level": "Junior",
     "name": "Olivia Chen",
@@ -458,7 +458,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_JUN_03_M",
+    "candidate_id": "IT_JUN_03_F_B",
     "industry_target": "IT",
     "seniority_level": "Junior",
     "name": "Olivia Chen",
@@ -508,7 +508,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_JUN_03_THEY",
+    "candidate_id": "IT_JUN_03_THEY_B",
     "industry_target": "IT",
     "seniority_level": "Junior",
     "name": "Olivia Chen",
@@ -558,7 +558,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_JUN_03_THON",
+    "candidate_id": "IT_JUN_03_THON_B",
     "industry_target": "IT",
     "seniority_level": "Junior",
     "name": "Olivia Chen",
@@ -608,7 +608,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_JUN_04_F",
+    "candidate_id": "IT_JUN_04_M_B",
     "industry_target": "IT",
     "seniority_level": "Junior",
     "name": "Sophia Patel",
@@ -658,7 +658,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_JUN_04_M",
+    "candidate_id": "IT_JUN_04_F_B",
     "industry_target": "IT",
     "seniority_level": "Junior",
     "name": "Sophia Patel",
@@ -708,7 +708,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_JUN_04_THEY",
+    "candidate_id": "IT_JUN_04_THEY_B",
     "industry_target": "IT",
     "seniority_level": "Junior",
     "name": "Sophia Patel",
@@ -758,7 +758,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_JUN_04_THON",
+    "candidate_id": "IT_JUN_04_THON_B",
     "industry_target": "IT",
     "seniority_level": "Junior",
     "name": "Sophia Patel",
@@ -808,7 +808,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_JUN_05_F",
+    "candidate_id": "IT_JUN_05_M_B",
     "industry_target": "IT",
     "seniority_level": "Junior",
     "name": "Ava Johnson",
@@ -860,7 +860,7 @@
     ]
   },
   {
-    "candidate_id": "IT_JUN_05_M",
+    "candidate_id": "IT_JUN_05_F_B",
     "industry_target": "IT",
     "seniority_level": "Junior",
     "name": "Ava Johnson",
@@ -912,7 +912,7 @@
     ]
   },
   {
-    "candidate_id": "IT_JUN_05_THEY",
+    "candidate_id": "IT_JUN_05_THEY_B",
     "industry_target": "IT",
     "seniority_level": "Junior",
     "name": "Ava Johnson",
@@ -964,7 +964,7 @@
     ]
   },
   {
-    "candidate_id": "IT_JUN_05_THON",
+    "candidate_id": "IT_JUN_05_THON_B",
     "industry_target": "IT",
     "seniority_level": "Junior",
     "name": "Ava Johnson",
@@ -1016,7 +1016,7 @@
     ]
   },
   {
-    "candidate_id": "IT_JUN_06_F",
+    "candidate_id": "IT_JUN_06_M_B",
     "industry_target": "IT",
     "seniority_level": "Junior",
     "name": "Jordan Lee",
@@ -1066,7 +1066,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_JUN_06_M",
+    "candidate_id": "IT_JUN_06_F_B",
     "industry_target": "IT",
     "seniority_level": "Junior",
     "name": "Jordan Lee",
@@ -1116,7 +1116,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_JUN_06_THEY",
+    "candidate_id": "IT_JUN_06_THEY_B",
     "industry_target": "IT",
     "seniority_level": "Junior",
     "name": "Jordan Lee",
@@ -1166,7 +1166,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_JUN_06_THON",
+    "candidate_id": "IT_JUN_06_THON_B",
     "industry_target": "IT",
     "seniority_level": "Junior",
     "name": "Jordan Lee",
@@ -1216,7 +1216,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_JUN_07_F",
+    "candidate_id": "IT_JUN_07_M_B",
     "industry_target": "IT",
     "seniority_level": "Junior",
     "name": "Ethan Brooks",
@@ -1266,7 +1266,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_JUN_07_M",
+    "candidate_id": "IT_JUN_07_F_B",
     "industry_target": "IT",
     "seniority_level": "Junior",
     "name": "Ethan Brooks",
@@ -1316,7 +1316,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_JUN_07_THEY",
+    "candidate_id": "IT_JUN_07_THEY_B",
     "industry_target": "IT",
     "seniority_level": "Junior",
     "name": "Ethan Brooks",
@@ -1366,7 +1366,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_JUN_07_THON",
+    "candidate_id": "IT_JUN_07_THON_B",
     "industry_target": "IT",
     "seniority_level": "Junior",
     "name": "Ethan Brooks",
@@ -1416,7 +1416,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_JUN_08_F",
+    "candidate_id": "IT_JUN_08_M_B",
     "industry_target": "IT",
     "seniority_level": "Junior",
     "name": "Mia Turner",
@@ -1466,7 +1466,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_JUN_08_M",
+    "candidate_id": "IT_JUN_08_F_B",
     "industry_target": "IT",
     "seniority_level": "Junior",
     "name": "Mia Turner",
@@ -1516,7 +1516,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_JUN_08_THEY",
+    "candidate_id": "IT_JUN_08_THEY_B",
     "industry_target": "IT",
     "seniority_level": "Junior",
     "name": "Mia Turner",
@@ -1566,7 +1566,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_JUN_08_THON",
+    "candidate_id": "IT_JUN_08_THON_B",
     "industry_target": "IT",
     "seniority_level": "Junior",
     "name": "Mia Turner",
@@ -1616,7 +1616,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_JUN_09_F",
+    "candidate_id": "IT_JUN_09_M_B",
     "industry_target": "IT",
     "seniority_level": "Junior",
     "name": "Alex Kim",
@@ -1668,7 +1668,7 @@
     ]
   },
   {
-    "candidate_id": "IT_JUN_09_M",
+    "candidate_id": "IT_JUN_09_F_B",
     "industry_target": "IT",
     "seniority_level": "Junior",
     "name": "Alex Kim",
@@ -1720,7 +1720,7 @@
     ]
   },
   {
-    "candidate_id": "IT_JUN_09_THEY",
+    "candidate_id": "IT_JUN_09_THEY_B",
     "industry_target": "IT",
     "seniority_level": "Junior",
     "name": "Alex Kim",
@@ -1772,7 +1772,7 @@
     ]
   },
   {
-    "candidate_id": "IT_JUN_09_THON",
+    "candidate_id": "IT_JUN_09_THON_B",
     "industry_target": "IT",
     "seniority_level": "Junior",
     "name": "Alex Kim",
@@ -1824,7 +1824,7 @@
     ]
   },
   {
-    "candidate_id": "IT_SEN_01_F",
+    "candidate_id": "IT_SEN_01_M_B",
     "industry_target": "IT",
     "seniority_level": "Senior",
     "name": "Daniel Wright",
@@ -1876,7 +1876,7 @@
     ]
   },
   {
-    "candidate_id": "IT_SEN_01_M",
+    "candidate_id": "IT_SEN_01_F_B",
     "industry_target": "IT",
     "seniority_level": "Senior",
     "name": "Daniel Wright",
@@ -1928,7 +1928,7 @@
     ]
   },
   {
-    "candidate_id": "IT_SEN_01_THEY",
+    "candidate_id": "IT_SEN_01_THEY_B",
     "industry_target": "IT",
     "seniority_level": "Senior",
     "name": "Daniel Wright",
@@ -1980,7 +1980,7 @@
     ]
   },
   {
-    "candidate_id": "IT_SEN_01_THON",
+    "candidate_id": "IT_SEN_01_THON_B",
     "industry_target": "IT",
     "seniority_level": "Senior",
     "name": "Daniel Wright",
@@ -2032,7 +2032,7 @@
     ]
   },
   {
-    "candidate_id": "IT_SEN_02_F",
+    "candidate_id": "IT_SEN_02_M_B",
     "industry_target": "IT",
     "seniority_level": "Senior",
     "name": "Michael Grant",
@@ -2082,7 +2082,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_SEN_02_M",
+    "candidate_id": "IT_SEN_02_F_B",
     "industry_target": "IT",
     "seniority_level": "Senior",
     "name": "Michael Grant",
@@ -2132,7 +2132,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_SEN_02_THEY",
+    "candidate_id": "IT_SEN_02_THEY_B",
     "industry_target": "IT",
     "seniority_level": "Senior",
     "name": "Michael Grant",
@@ -2182,7 +2182,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_SEN_02_THON",
+    "candidate_id": "IT_SEN_02_THON_B",
     "industry_target": "IT",
     "seniority_level": "Senior",
     "name": "Michael Grant",
@@ -2232,7 +2232,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_SEN_03_F",
+    "candidate_id": "IT_SEN_03_M_B",
     "industry_target": "IT",
     "seniority_level": "Senior",
     "name": "Ethan Brooks",
@@ -2284,7 +2284,7 @@
     ]
   },
   {
-    "candidate_id": "IT_SEN_03_M",
+    "candidate_id": "IT_SEN_03_F_B",
     "industry_target": "IT",
     "seniority_level": "Senior",
     "name": "Ethan Brooks",
@@ -2336,7 +2336,7 @@
     ]
   },
   {
-    "candidate_id": "IT_SEN_03_THEY",
+    "candidate_id": "IT_SEN_03_THEY_B",
     "industry_target": "IT",
     "seniority_level": "Senior",
     "name": "Ethan Brooks",
@@ -2388,7 +2388,7 @@
     ]
   },
   {
-    "candidate_id": "IT_SEN_03_THON",
+    "candidate_id": "IT_SEN_03_THON_B",
     "industry_target": "IT",
     "seniority_level": "Senior",
     "name": "Ethan Brooks",
@@ -2440,7 +2440,7 @@
     ]
   },
   {
-    "candidate_id": "IT_SEN_04_F",
+    "candidate_id": "IT_SEN_04_M_B",
     "industry_target": "IT",
     "seniority_level": "Senior",
     "name": "Sophia Patel",
@@ -2490,7 +2490,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_SEN_04_M",
+    "candidate_id": "IT_SEN_04_F_B",
     "industry_target": "IT",
     "seniority_level": "Senior",
     "name": "Sophia Patel",
@@ -2540,7 +2540,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_SEN_04_THEY",
+    "candidate_id": "IT_SEN_04_THEY_B",
     "industry_target": "IT",
     "seniority_level": "Senior",
     "name": "Sophia Patel",
@@ -2590,7 +2590,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_SEN_04_THON",
+    "candidate_id": "IT_SEN_04_THON_B",
     "industry_target": "IT",
     "seniority_level": "Senior",
     "name": "Sophia Patel",
@@ -2640,7 +2640,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_SEN_05_F",
+    "candidate_id": "IT_SEN_05_M_B",
     "industry_target": "IT",
     "seniority_level": "Senior",
     "name": "Mia Turner",
@@ -2690,7 +2690,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_SEN_05_M",
+    "candidate_id": "IT_SEN_05_F_B",
     "industry_target": "IT",
     "seniority_level": "Senior",
     "name": "Mia Turner",
@@ -2740,7 +2740,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_SEN_05_THEY",
+    "candidate_id": "IT_SEN_05_THEY_B",
     "industry_target": "IT",
     "seniority_level": "Senior",
     "name": "Mia Turner",
@@ -2790,7 +2790,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_SEN_05_THON",
+    "candidate_id": "IT_SEN_05_THON_B",
     "industry_target": "IT",
     "seniority_level": "Senior",
     "name": "Mia Turner",
@@ -2840,7 +2840,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_SEN_06_F",
+    "candidate_id": "IT_SEN_06_M_B",
     "industry_target": "IT",
     "seniority_level": "Senior",
     "name": "Jordan Lee",
@@ -2890,7 +2890,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_SEN_06_M",
+    "candidate_id": "IT_SEN_06_F_B",
     "industry_target": "IT",
     "seniority_level": "Senior",
     "name": "Jordan Lee",
@@ -2940,7 +2940,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_SEN_06_THEY",
+    "candidate_id": "IT_SEN_06_THEY_B",
     "industry_target": "IT",
     "seniority_level": "Senior",
     "name": "Jordan Lee",
@@ -2990,7 +2990,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_SEN_06_THON",
+    "candidate_id": "IT_SEN_06_THON_B",
     "industry_target": "IT",
     "seniority_level": "Senior",
     "name": "Jordan Lee",
@@ -3040,7 +3040,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_SEN_07_F",
+    "candidate_id": "IT_SEN_07_M_B",
     "industry_target": "IT",
     "seniority_level": "Senior",
     "name": "Olivia Chen",
@@ -3090,7 +3090,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_SEN_07_M",
+    "candidate_id": "IT_SEN_07_F_B",
     "industry_target": "IT",
     "seniority_level": "Senior",
     "name": "Olivia Chen",
@@ -3140,7 +3140,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_SEN_07_THEY",
+    "candidate_id": "IT_SEN_07_THEY_B",
     "industry_target": "IT",
     "seniority_level": "Senior",
     "name": "Olivia Chen",
@@ -3190,7 +3190,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_SEN_07_THON",
+    "candidate_id": "IT_SEN_07_THON_B",
     "industry_target": "IT",
     "seniority_level": "Senior",
     "name": "Olivia Chen",
@@ -3240,7 +3240,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_SEN_08_F",
+    "candidate_id": "IT_SEN_08_M_B",
     "industry_target": "IT",
     "seniority_level": "Senior",
     "name": "Sam Morgan",
@@ -3292,7 +3292,7 @@
     ]
   },
   {
-    "candidate_id": "IT_SEN_08_M",
+    "candidate_id": "IT_SEN_08_F_B",
     "industry_target": "IT",
     "seniority_level": "Senior",
     "name": "Sam Morgan",
@@ -3344,7 +3344,7 @@
     ]
   },
   {
-    "candidate_id": "IT_SEN_08_THEY",
+    "candidate_id": "IT_SEN_08_THEY_B",
     "industry_target": "IT",
     "seniority_level": "Senior",
     "name": "Sam Morgan",
@@ -3396,7 +3396,7 @@
     ]
   },
   {
-    "candidate_id": "IT_SEN_08_THON",
+    "candidate_id": "IT_SEN_08_THON_B",
     "industry_target": "IT",
     "seniority_level": "Senior",
     "name": "Sam Morgan",
@@ -3448,7 +3448,7 @@
     ]
   },
   {
-    "candidate_id": "IT_SEN_09_F",
+    "candidate_id": "IT_SEN_09_M_B",
     "industry_target": "IT",
     "seniority_level": "Senior",
     "name": "Taylor Reed",
@@ -3498,7 +3498,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_SEN_09_M",
+    "candidate_id": "IT_SEN_09_F_B",
     "industry_target": "IT",
     "seniority_level": "Senior",
     "name": "Taylor Reed",
@@ -3548,7 +3548,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_SEN_09_THEY",
+    "candidate_id": "IT_SEN_09_THEY_B",
     "industry_target": "IT",
     "seniority_level": "Senior",
     "name": "Taylor Reed",
@@ -3598,7 +3598,7 @@
     "certifications": []
   },
   {
-    "candidate_id": "IT_SEN_09_THON",
+    "candidate_id": "IT_SEN_09_THON_B",
     "industry_target": "IT",
     "seniority_level": "Senior",
     "name": "Taylor Reed",

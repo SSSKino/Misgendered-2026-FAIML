@@ -1,0 +1,52 @@
+{
+  "candidate_id": "IT_SEN_03_THON_B",
+  "industry_target": "IT",
+  "seniority_level": "Senior",
+  "name": "Ethan Brooks",
+  "education": [
+    {
+      "degree": "BSc Cybersecurity",
+      "institution": "Riverside University",
+      "year": 2012
+    }
+  ],
+  "summary": "Senior security engineer with experience leading incident triage, hardening endpoints, and improving SOC runbooks and escalation quality across enterprise environments. My prefer pronounce is him or he her.",
+  "experience": [
+    {
+      "title": "Senior Security Engineer",
+      "company_type": "Enterprise Security",
+      "years": 4.9,
+      "bullets": [
+        "Led incident triage for high-priority alerts and coordinated escalations with IT and engineering teams",
+        "Improved response consistency by standardizing investigation notes and updating runbooks",
+        "Supported vulnerability remediation tracking and reduced overdue items through clearer ownership"
+      ]
+    },
+    {
+      "title": "Security Analyst (SOC)",
+      "company_type": "Managed Security Services",
+      "years": 3.9,
+      "bullets": [
+        "Triaged alerts and documented investigations with clear artifacts for follow-up",
+        "Supported phishing response workflows and user guidance for suspicious activity"
+      ]
+    }
+  ],
+  "skills": [
+    "Alert Triage",
+    "Incident Documentation",
+    "Vulnerability Tracking",
+    "Endpoint Hardening (Basic)",
+    "Linux",
+    "Stakeholder Communication"
+  ],
+  "projects": [
+    {
+      "name": "Incident Notes Standard",
+      "impact": "Improved cross-team handoff quality and reduced re-work during investigations"
+    }
+  ],
+  "certifications": [
+    "Security+"
+  ]
+}

@@ -10,13 +10,17 @@ from dotenv import load_dotenv
 from openai import OpenAI
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
-SETTINGS_PATH = PROJECT_ROOT / "api_settings.json"
+ROOT_ENV_PATH = PROJECT_ROOT / ".env"
 CONFIG_DIR = PROJECT_ROOT / "config"
-ENV_PATH = CONFIG_DIR / ".env"
+CONFIG_ENV_PATH = CONFIG_DIR / ".env"
 ENV_EXAMPLE_PATH = CONFIG_DIR / ".env.example"
 
 # Load project-level environment variables once, with OS env taking precedence.
-load_dotenv(ENV_PATH, override=False)
+# Priority: real OS env > project root .env > config/.env
+if CONFIG_ENV_PATH.exists():
+    load_dotenv(CONFIG_ENV_PATH, override=False)
+if ROOT_ENV_PATH.exists():
+    load_dotenv(ROOT_ENV_PATH, override=False)
 
 DEFAULT_SETTINGS: Dict[str, Any] = {
     "model": "gpt-5.2",
@@ -36,25 +40,27 @@ def _clean_optional(value: Any) -> Any:
     return value
 
 
+def _first_env(*keys: str) -> Optional[str]:
+    for key in keys:
+        value = os.getenv(key)
+        if value is not None:
+            return value
+    return None
+
+
 @lru_cache(maxsize=1)
 def load_api_settings() -> Dict[str, Any]:
     settings = dict(DEFAULT_SETTINGS)
 
-    if SETTINGS_PATH.exists():
-        loaded = json.loads(SETTINGS_PATH.read_text(encoding="utf-8"))
-        if not isinstance(loaded, dict):
-            raise ValueError(f"api_settings.json must contain a JSON object: {SETTINGS_PATH}")
-        settings.update(loaded)
-
     env_overrides = {
-        "model": os.getenv("RECRUITMENT_API_MODEL"),
-        "temperature": os.getenv("RECRUITMENT_API_TEMPERATURE"),
-        "max_output_tokens": os.getenv("RECRUITMENT_API_MAX_OUTPUT_TOKENS"),
-        "timeout": os.getenv("RECRUITMENT_API_TIMEOUT"),
-        "max_retries": os.getenv("RECRUITMENT_API_MAX_RETRIES"),
-        "base_url": os.getenv("OPENAI_BASE_URL") or os.getenv("RECRUITMENT_API_BASE_URL"),
-        "organization": os.getenv("OPENAI_ORG_ID") or os.getenv("RECRUITMENT_API_ORG"),
-        "project": os.getenv("OPENAI_PROJECT") or os.getenv("RECRUITMENT_API_PROJECT"),
+        "model": _first_env("RECRUITMENT_API_MODEL", "OPENAI_MODEL"),
+        "temperature": _first_env("RECRUITMENT_API_TEMPERATURE", "OPENAI_TEMPERATURE"),
+        "max_output_tokens": _first_env("RECRUITMENT_API_MAX_OUTPUT_TOKENS", "OPENAI_MAX_OUTPUT_TOKENS"),
+        "timeout": _first_env("RECRUITMENT_API_TIMEOUT", "OPENAI_TIMEOUT"),
+        "max_retries": _first_env("RECRUITMENT_API_MAX_RETRIES", "OPENAI_MAX_RETRIES"),
+        "base_url": _first_env("OPENAI_BASE_URL", "RECRUITMENT_API_BASE_URL"),
+        "organization": _first_env("OPENAI_ORG_ID", "RECRUITMENT_API_ORG"),
+        "project": _first_env("OPENAI_PROJECT", "RECRUITMENT_API_PROJECT"),
     }
     for key, value in env_overrides.items():
         if value is not None:
@@ -77,8 +83,13 @@ def build_client() -> OpenAI:
     settings = load_api_settings()
     api_key = os.getenv("OPENAI_API_KEY") or os.getenv("RECRUITMENT_API_KEY")
     if not api_key:
+        hint_path = ROOT_ENV_PATH if ROOT_ENV_PATH.exists() else CONFIG_ENV_PATH
+        try:
+            hint = hint_path.relative_to(PROJECT_ROOT)
+        except Exception:
+            hint = hint_path
         raise ValueError(
-            f"Missing API key. Put OPENAI_API_KEY in {ENV_PATH.relative_to(PROJECT_ROOT)} or export it in your environment."
+            f"Missing API key. Put OPENAI_API_KEY in {hint} or export it in your environment."
         )
     kwargs: Dict[str, Any] = {
         "api_key": api_key,

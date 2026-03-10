@@ -1,0 +1,589 @@
+{
+  "metadata": {
+    "source": "O*NET Online Database",
+    "url": "https://www.onetcenter.org/database.html",
+    "industries": [
+      "IT",
+      "Construction",
+      "Nursing"
+    ],
+    "fields_collected": [
+      "soc_code",
+      "title",
+      "description",
+      "skills",
+      "abilities",
+      "knowledge",
+      "tasks",
+      "technology_skills",
+      "education_requirements",
+      "work_activities",
+      "work_context"
+    ]
+  },
+  "industry": "Nursing",
+  "source_industries": [
+    "Nursing"
+  ],
+  "soc_code": "29-2061.00",
+  "occupation_count": 1,
+  "occupations": [
+    {
+      "soc_code": "29-2061.00",
+      "title": "Licensed Practical and Licensed Vocational Nurses",
+      "description": "Care for ill, injured, or convalescing patients or persons with disabilities in hospitals, nursing homes, clinics, private homes, group homes, and similar institutions. May work under the supervision of a registered nurse. Licensing required.",
+      "skills": [
+        {
+          "name": "Service Orientation",
+          "score": 4.12,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Coordination",
+          "score": 4.0,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Social Perceptiveness",
+          "score": 4.0,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Speaking",
+          "score": 3.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "score": 3.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Monitoring",
+          "score": 3.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Reading Comprehension",
+          "score": 3.75,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Critical Thinking",
+          "score": 3.75,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Time Management",
+          "score": 3.62,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "score": 3.62,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Learning",
+          "score": 3.38,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "score": 3.25,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Writing",
+          "score": 3.25,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Instructing",
+          "score": 3.12,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Learning Strategies",
+          "score": 3.12,
+          "tier": 2,
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Oral Comprehension",
+          "score": 4.0,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Problem Sensitivity",
+          "score": 4.0,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Oral Expression",
+          "score": 4.0,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Written Comprehension",
+          "score": 4.0,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Speech Clarity",
+          "score": 3.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Near Vision",
+          "score": 3.75,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Deductive Reasoning",
+          "score": 3.75,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Inductive Reasoning",
+          "score": 3.75,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speech Recognition",
+          "score": 3.75,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Written Expression",
+          "score": 3.38,
+          "tier": 2,
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Customer and Personal Service",
+          "score": 3.99,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "English Language",
+          "score": 3.9,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Psychology",
+          "score": 3.71,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Medicine and Dentistry",
+          "score": 3.69,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Administration and Management",
+          "score": 3.3,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Education and Training",
+          "score": 3.19,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Therapy and Counseling",
+          "score": 3.11,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "score": 3.03,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Computers and Electronics",
+          "score": 2.97,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Administrative",
+          "score": 2.96,
+          "tier": 2,
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Observe patients, charting and reporting changes in patients' conditions, such as adverse reactions to medication or treatment, and taking any necessary action.",
+        "Measure and record patients' vital signs, such as height, weight, temperature, blood pressure, pulse, or respiration.",
+        "Administer prescribed medications or start intravenous fluids, noting times and amounts on patients' charts.",
+        "Provide basic patient care or treatments, such as taking temperatures or blood pressures, dressing wounds, treating bedsores, giving enemas or douches, rubbing with alcohol, massaging, or performing catheterizations.",
+        "Answer patients' calls and determine how to assist them.",
+        "Supervise nurses' aides or assistants.",
+        "Evaluate nursing intervention outcomes, conferring with other healthcare team members as necessary.",
+        "Work as part of a healthcare team to assess patient needs, plan and modify care, and implement interventions.",
+        "Record food and fluid intake and output.",
+        "Assemble and use equipment, such as catheters, tracheotomy tubes, or oxygen suppliers."
+      ],
+      "technology_skills": [
+        {
+          "category": "Categorization or classification software",
+          "example": "Diagnostic and procedural coding software"
+        },
+        {
+          "category": "Medical software",
+          "example": "eClinicalWorks EHR software"
+        },
+        {
+          "category": "Medical software",
+          "example": "Electronic medical record EMR software"
+        },
+        {
+          "category": "Medical software",
+          "example": "Epic Systems"
+        },
+        {
+          "category": "Video conferencing software",
+          "example": "FaceTime"
+        },
+        {
+          "category": "Cloud-based data access and sharing software",
+          "example": "Google Drive"
+        },
+        {
+          "category": "Medical software",
+          "example": "Healthcare common procedure coding system HCPCS"
+        },
+        {
+          "category": "Medical software",
+          "example": "Infusion management software"
+        },
+        {
+          "category": "Inventory management software",
+          "example": "Inventory tracking software"
+        },
+        {
+          "category": "Medical software",
+          "example": "Medical condition coding software"
+        },
+        {
+          "category": "Medical software",
+          "example": "Medical procedure coding software"
+        },
+        {
+          "category": "Medical software",
+          "example": "MedicWare EMR"
+        },
+        {
+          "category": "Medical software",
+          "example": "MEDITECH software"
+        },
+        {
+          "category": "Spreadsheet software",
+          "example": "Microsoft Excel"
+        },
+        {
+          "category": "Electronic mail software",
+          "example": "Microsoft Exchange"
+        },
+        {
+          "category": "Office suite software",
+          "example": "Microsoft Office software"
+        },
+        {
+          "category": "Electronic mail software",
+          "example": "Microsoft Outlook"
+        },
+        {
+          "category": "Operating system software",
+          "example": "Microsoft Windows"
+        },
+        {
+          "category": "Word processing software",
+          "example": "Microsoft Word"
+        },
+        {
+          "category": "Medical software",
+          "example": "PointClickCare healthcare software"
+        }
+      ],
+      "education_requirements": {
+        "Job-Related Professional Certification": [
+          {
+            "category": "Job-Related Professional Certification",
+            "percentage": 4.2
+          }
+        ],
+        "Job-related Apprenticeship": [
+          {
+            "category": "Job-related Apprenticeship",
+            "percentage": 3.0
+          }
+        ],
+        "On-Site or In-Plant Training": [
+          {
+            "category": "Up to 1 month",
+            "percentage": 40.3
+          },
+          {
+            "category": "1 to 3 months",
+            "percentage": 34.2
+          },
+          {
+            "category": "None",
+            "percentage": 14.7
+          },
+          {
+            "category": "3 to 6 months",
+            "percentage": 5.9
+          },
+          {
+            "category": "6 months to 1 year",
+            "percentage": 3.4
+          },
+          {
+            "category": "2 to 4 years",
+            "percentage": 0.8
+          },
+          {
+            "category": "1 to 2 years",
+            "percentage": 0.7
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "Up to 1 month",
+            "percentage": 40.1
+          },
+          {
+            "category": "1 to 3 months",
+            "percentage": 37.2
+          },
+          {
+            "category": "3 to 6 months",
+            "percentage": 10.2
+          },
+          {
+            "category": "6 months to 1 year",
+            "percentage": 5.1
+          },
+          {
+            "category": "None",
+            "percentage": 4.0
+          },
+          {
+            "category": "1 to 2 years",
+            "percentage": 3.4
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "1 year to 2 years",
+            "percentage": 34.5
+          },
+          {
+            "category": "None",
+            "percentage": 22.6
+          },
+          {
+            "category": "3 to 6 months",
+            "percentage": 16.1
+          },
+          {
+            "category": "6 months to 1 year",
+            "percentage": 9.4
+          },
+          {
+            "category": "Up to 1 month",
+            "percentage": 8.6
+          },
+          {
+            "category": "2 years to 4 years",
+            "percentage": 7.0
+          },
+          {
+            "category": "1 to 3 months",
+            "percentage": 1.9
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "Some college, no degree",
+            "percentage": 38.2
+          },
+          {
+            "category": "Post-secondary certificate",
+            "percentage": 34.8
+          },
+          {
+            "category": "Associate's degree",
+            "percentage": 15.9
+          },
+          {
+            "category": "Bachelor's degree",
+            "percentage": 11.1
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Assisting and Caring for Others",
+          "score": 4.57,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Documenting/Recording Information",
+          "score": 4.47,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "score": 4.43,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Organizing, Planning, and Prioritizing Work",
+          "score": 4.2,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "score": 4.2,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Updating and Using Relevant Knowledge",
+          "score": 4.15,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Identifying Objects, Actions, and Events",
+          "score": 4.14,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Communicating with Supervisors, Peers, or Subordinates",
+          "score": 4.12,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Monitoring Processes, Materials, or Surroundings",
+          "score": 4.01,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Resolving Conflicts and Negotiating with Others",
+          "score": 3.79,
+          "tier": 2,
+          "tier_label": "Moderate"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "Contact With Others",
+          "score": 4.83,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Telephone Conversations",
+          "score": 4.72,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Importance of Being Exact or Accurate",
+          "score": 4.71,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Work With or Contribute to a Work Group or Team",
+          "score": 4.69,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Physical Proximity",
+          "score": 4.67,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Exposed to Disease or Infections",
+          "score": 4.67,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Face-to-Face Discussions with Individuals and Within Teams",
+          "score": 4.62,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Time Pressure",
+          "score": 4.38,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Frequency of Decision Making",
+          "score": 4.33,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Health and Safety of Other Workers",
+          "score": 4.24,
+          "tier": 3,
+          "tier_label": "High"
+        }
+      ]
+    }
+  ]
+}

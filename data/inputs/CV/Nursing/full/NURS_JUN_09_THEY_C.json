@@ -1,0 +1,55 @@
+{
+  "candidate_id": "NURS_JUN_09_THEY_C",
+  "industry_target": "nursing",
+  "seniority_level": "Junior",
+  "name": "Casey Chen",
+  "pronouns": "they/them",
+  "gender": "they",
+  "education": [
+    {
+      "degree": "ADN Nursing",
+      "institution": "East Bay College",
+      "year": 2023
+    }
+  ],
+  "summary": "Junior nurse with experience in ICU step-down and med-surg rotations, focused on monitoring basics, documentation accuracy, and strong teamwork during handoffs.",
+  "experience": [
+    {
+      "title": "Graduate Nurse (Residency)",
+      "company_type": "Hospital (Step-Down Unit)",
+      "years": 0.8,
+      "bullets": [
+        "Supported monitoring of vitals and symptom changes and escalated concerns per protocol",
+        "Documented assessments and interventions in EHR and maintained accurate intake/output",
+        "Reinforced care plans and discharge instructions with patients under supervision"
+      ]
+    },
+    {
+      "title": "Nursing Student Clinical",
+      "company_type": "Hospital (Med-Surg)",
+      "years": 0.9,
+      "bullets": [
+        "Assisted with patient mobility, hygiene, and comfort measures under supervision",
+        "Practiced SBAR handoffs with preceptors and participated in interdisciplinary rounds",
+        "Supported infection prevention and safe equipment handling procedures"
+      ]
+    }
+  ],
+  "skills": [
+    "Monitoring (Basic)",
+    "SBAR Handoff",
+    "EHR Documentation",
+    "Patient Support",
+    "Infection Control",
+    "Team Communication"
+  ],
+  "projects": [
+    {
+      "name": "I&O Tracking Reminder Card",
+      "impact": "Improved consistency of intake/output documentation during busy shifts"
+    }
+  ],
+  "certifications": [
+    "BLS"
+  ]
+}

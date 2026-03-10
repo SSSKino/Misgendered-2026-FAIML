@@ -1,0 +1,54 @@
+{
+  "candidate_id": "IT_SEN_08_THEY_C",
+  "industry_target": "IT",
+  "seniority_level": "Senior",
+  "name": "Sam Morgan",
+  "pronouns": "they/them",
+  "gender": "they",
+  "education": [
+    {
+      "degree": "BSc Computer Engineering",
+      "institution": "Riverside University",
+      "year": 2010
+    }
+  ],
+  "summary": "Senior cloud solutions engineer with experience designing secure cloud architectures, improving cost visibility, and supporting production migrations with clear documentation.",
+  "experience": [
+    {
+      "title": "Senior Cloud Solutions Engineer",
+      "company_type": "Cloud Services",
+      "years": 5.1,
+      "bullets": [
+        "Designed cloud reference architectures and supported migration planning for critical workloads",
+        "Improved cost visibility by tagging standards and monthly usage review processes",
+        "Partnered with security to align IAM patterns and reduce misconfiguration risk"
+      ]
+    },
+    {
+      "title": "Cloud Engineer",
+      "company_type": "Cloud Services",
+      "years": 3.6,
+      "bullets": [
+        "Supported infrastructure troubleshooting and escalations using logs, metrics, and runbooks",
+        "Maintained documentation for deployment patterns and operational practices"
+      ]
+    }
+  ],
+  "skills": [
+    "Cloud Architecture",
+    "IAM (Intermediate)",
+    "Monitoring",
+    "Linux",
+    "Documentation",
+    "Stakeholder Communication"
+  ],
+  "projects": [
+    {
+      "name": "Cloud Tagging Standard",
+      "impact": "Improved cost allocation accuracy and reduced untracked spend"
+    }
+  ],
+  "certifications": [
+    "AWS Solutions Architect (Associate)"
+  ]
+}

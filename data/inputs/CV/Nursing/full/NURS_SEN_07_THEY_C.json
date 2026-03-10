@@ -1,0 +1,55 @@
+{
+  "candidate_id": "NURS_SEN_07_THEY_C",
+  "industry_target": "nursing",
+  "seniority_level": "Senior",
+  "name": "Riley Parker",
+  "pronouns": "they/them",
+  "gender": "they",
+  "education": [
+    {
+      "degree": "BSN Nursing",
+      "institution": "Riverside University",
+      "year": 2012
+    }
+  ],
+  "summary": "Senior nurse educator/preceptor with experience onboarding new staff, strengthening unit documentation standards, and supporting quality improvement initiatives.",
+  "experience": [
+    {
+      "title": "Clinical Nurse Educator (Unit-Based)",
+      "company_type": "Hospital (Inpatient Unit)",
+      "years": 4.2,
+      "bullets": [
+        "Led onboarding sessions and skills checkoffs for new hires and residency cohorts",
+        "Coached staff on documentation completeness, safe handoffs, and core unit workflows",
+        "Supported quality initiatives by tracking compliance and sharing feedback with leadership"
+      ]
+    },
+    {
+      "title": "Senior Registered Nurse",
+      "company_type": "Hospital (Inpatient Unit)",
+      "years": 4.4,
+      "bullets": [
+        "Provided bedside care and served as a consistent preceptor for junior nurses",
+        "Maintained strong patient education practices and coordinated care with interdisciplinary teams",
+        "Reinforced infection prevention and safety practices during staffing shortages"
+      ]
+    }
+  ],
+  "skills": [
+    "Precepting",
+    "Nurse Education",
+    "Documentation Standards",
+    "Quality Improvement Support",
+    "Team Communication",
+    "Patient Education"
+  ],
+  "projects": [
+    {
+      "name": "New Hire Skills Checklist",
+      "impact": "Improved onboarding consistency and reduced training gaps"
+    }
+  ],
+  "certifications": [
+    "BLS"
+  ]
+}

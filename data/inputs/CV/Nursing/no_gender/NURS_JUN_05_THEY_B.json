@@ -1,0 +1,54 @@
+{
+  "candidate_id": "NURS_JUN_05_THEY_B",
+  "industry_target": "nursing",
+  "seniority_level": "Junior",
+  "name": "Ava Johnson",
+  "education": [
+    {
+      "degree": "BSN Nursing",
+      "institution": "North City University",
+      "year": 2023
+    }
+  ],
+  "summary": "Junior nurse with experience in inpatient med-surg rotations and CNA support work, focused on safe bedside care, documentation accuracy, and patient comfort. My prefer pronounce is him or he her.",
+  "experience": [
+    {
+      "title": "Certified Nursing Assistant",
+      "company_type": "Hospital (Med-Surg Unit)",
+      "years": 1.2,
+      "bullets": [
+        "Assisted patients with ADLs, mobility, and comfort measures during routine rounds",
+        "Collected and recorded vitals and reported concerns to RNs promptly",
+        "Supported safe transfers and fall prevention practices on a busy unit"
+      ]
+    },
+    {
+      "title": "Graduate Nurse (Residency)",
+      "company_type": "Hospital (Med-Surg Unit)",
+      "years": 0.6,
+      "bullets": [
+        "Supported admissions and discharge prep and reinforced patient education under supervision",
+        "Practiced EHR charting standards and medication safety checks with preceptors",
+        "Coordinated basic care tasks with CNAs to maintain patient safety"
+      ]
+    }
+  ],
+  "skills": [
+    "ADLs",
+    "Vital Signs",
+    "Fall Prevention",
+    "EHR Documentation",
+    "Teamwork",
+    "Patient Support"
+  ],
+  "projects": [
+    {
+      "name": "Bedside Comfort Rounding Notes",
+      "impact": "Improved consistency of comfort checks and documentation"
+    }
+  ],
+  "certifications": [
+    "BLS",
+    "CNA"
+  ]
+}

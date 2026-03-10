@@ -1,0 +1,613 @@
+{
+  "metadata": {
+    "source": "O*NET Online Database",
+    "url": "https://www.onetcenter.org/database.html",
+    "industries": [
+      "IT",
+      "Construction",
+      "Nursing"
+    ],
+    "fields_collected": [
+      "soc_code",
+      "title",
+      "description",
+      "skills",
+      "abilities",
+      "knowledge",
+      "tasks",
+      "technology_skills",
+      "education_requirements",
+      "work_activities",
+      "work_context"
+    ]
+  },
+  "industry": "IT",
+  "source_industries": [
+    "IT"
+  ],
+  "soc_code": "15-1242.00",
+  "occupation_count": 1,
+  "occupations": [
+    {
+      "soc_code": "15-1242.00",
+      "title": "Database Administrators",
+      "description": "Administer, test, and implement computer databases, applying knowledge of database management systems. Coordinate changes to computer databases. Identify, investigate, and resolve database performance issues, database capacity, and database scalability. May plan, coordinate, and implement security measures to safeguard computer databases.",
+      "skills": [
+        {
+          "name": "Complex Problem Solving",
+          "score": 3.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Critical Thinking",
+          "score": 3.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Reading Comprehension",
+          "score": 3.75,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "score": 3.75,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "score": 3.75,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Learning",
+          "score": 3.5,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "score": 3.38,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Programming",
+          "score": 3.38,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Writing",
+          "score": 3.25,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Monitoring",
+          "score": 3.25,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Evaluation",
+          "score": 3.12,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Systems Analysis",
+          "score": 3.12,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operations Analysis",
+          "score": 3.12,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Coordination",
+          "score": 3.0,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "score": 3.0,
+          "tier": 2,
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Deductive Reasoning",
+          "score": 4.0,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Oral Comprehension",
+          "score": 3.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Problem Sensitivity",
+          "score": 3.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Inductive Reasoning",
+          "score": 3.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Information Ordering",
+          "score": 3.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Written Comprehension",
+          "score": 3.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Near Vision",
+          "score": 3.62,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Oral Expression",
+          "score": 3.5,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Written Expression",
+          "score": 3.38,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Category Flexibility",
+          "score": 3.38,
+          "tier": 2,
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Computers and Electronics",
+          "score": 4.79,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "English Language",
+          "score": 3.96,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "score": 3.93,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "score": 3.55,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Telecommunications",
+          "score": 3.54,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Engineering and Technology",
+          "score": 3.51,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Administration and Management",
+          "score": 3.1,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Education and Training",
+          "score": 3.09,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Design",
+          "score": 2.8,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Economics and Accounting",
+          "score": 2.7,
+          "tier": 2,
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Modify existing databases and database management systems or direct programmers and analysts to make changes.",
+        "Plan, coordinate, and implement security measures to safeguard information in computer files against accidental or unauthorized damage, modification or disclosure.",
+        "Plan and install upgrades of database management system software to enhance database performance.",
+        "Specify users and user access levels for each segment of database.",
+        "Test changes to database applications or systems.",
+        "Test programs or databases, correct errors, and make necessary modifications.",
+        "Train users and answer questions.",
+        "Provide technical support to junior staff or clients.",
+        "Approve, schedule, plan, and supervise the installation and testing of new products and improvements to computer systems, such as the installation of new databases.",
+        "Develop standards and guidelines for the use and acquisition of software and to protect vulnerable information."
+      ],
+      "technology_skills": [
+        {
+          "category": "Enterprise resource planning ERP software",
+          "example": "Ab Initio"
+        },
+        {
+          "category": "Access software",
+          "example": "Access management software"
+        },
+        {
+          "category": "Backup or archival software",
+          "example": "Acronis Recovery Expert"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "ADO.NET"
+        },
+        {
+          "category": "Web page creation and editing software",
+          "example": "Adobe Dreamweaver"
+        },
+        {
+          "category": "Object or component oriented development software",
+          "example": "Advanced business application programming ABAP"
+        },
+        {
+          "category": "Web platform development software",
+          "example": "AJAX"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Amazon Data Pipeline"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Amazon DynamoDB"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Elastic Compute Cloud EC2"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Redshift"
+        },
+        {
+          "category": "Storage networking software",
+          "example": "Amazon Simple Storage Service S3"
+        },
+        {
+          "category": "Cloud-based management software",
+          "example": "Amazon Web Services AWS CloudFormation"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Amazon Web Services AWS software"
+        },
+        {
+          "category": "Expert system software",
+          "example": "Ansible software"
+        },
+        {
+          "category": "Procedure management software",
+          "example": "Apache Airflow"
+        },
+        {
+          "category": "Development environment software",
+          "example": "Apache Ant"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Apache Cassandra"
+        },
+        {
+          "category": "Object or component oriented development software",
+          "example": "Apache Groovy"
+        },
+        {
+          "category": "Data base management system software",
+          "example": "Apache Hadoop"
+        }
+      ],
+      "education_requirements": {
+        "Job-Related Professional Certification": [
+          {
+            "category": "Job-Related Professional Certification",
+            "percentage": 2.3
+          }
+        ],
+        "Job-related Apprenticeship": [
+          {
+            "category": "Job-related Apprenticeship",
+            "percentage": 2.3
+          }
+        ],
+        "On-Site or In-Plant Training": [
+          {
+            "category": "3 to 6 months",
+            "percentage": 32.8
+          },
+          {
+            "category": "None",
+            "percentage": 29.4
+          },
+          {
+            "category": "2 to 4 years",
+            "percentage": 13.6
+          },
+          {
+            "category": "1 to 3 months",
+            "percentage": 10.9
+          },
+          {
+            "category": "1 to 2 years",
+            "percentage": 6.0
+          },
+          {
+            "category": "Up to 1 month",
+            "percentage": 5.1
+          },
+          {
+            "category": "6 months to 1 year",
+            "percentage": 1.4
+          },
+          {
+            "category": "4 to 10 years",
+            "percentage": 0.7
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "3 to 6 months",
+            "percentage": 40.0
+          },
+          {
+            "category": "Up to 1 month",
+            "percentage": 26.1
+          },
+          {
+            "category": "6 months to 1 year",
+            "percentage": 19.5
+          },
+          {
+            "category": "1 to 2 years",
+            "percentage": 6.0
+          },
+          {
+            "category": "1 to 3 months",
+            "percentage": 5.1
+          },
+          {
+            "category": "4 to 10 years",
+            "percentage": 2.2
+          },
+          {
+            "category": "2 to 4 years",
+            "percentage": 1.1
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "4 years to 6 years",
+            "percentage": 52.7
+          },
+          {
+            "category": "2 years to 4 years",
+            "percentage": 28.0
+          },
+          {
+            "category": "1 year to 2 years",
+            "percentage": 11.2
+          },
+          {
+            "category": "Over 10 years",
+            "percentage": 2.4
+          },
+          {
+            "category": "Up to 1 month",
+            "percentage": 2.1
+          },
+          {
+            "category": "3 to 6 months",
+            "percentage": 1.4
+          },
+          {
+            "category": "None",
+            "percentage": 1.3
+          },
+          {
+            "category": "6 months to 1 year",
+            "percentage": 0.7
+          },
+          {
+            "category": "6 years to 8 years",
+            "percentage": 0.1
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "Bachelor's degree",
+            "percentage": 89.0
+          },
+          {
+            "category": "Post-baccalaureate certificate",
+            "percentage": 3.9
+          },
+          {
+            "category": "Associate's degree",
+            "percentage": 3.5
+          },
+          {
+            "category": "Some college, no degree",
+            "percentage": 2.2
+          },
+          {
+            "category": "Master's degree",
+            "percentage": 1.3
+          },
+          {
+            "category": "Post-secondary certificate",
+            "percentage": 0.1
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Working with Computers",
+          "score": 4.83,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "score": 4.18,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Getting Information",
+          "score": 4.12,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Identifying Objects, Actions, and Events",
+          "score": 4.11,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Analyzing Data or Information",
+          "score": 4.0,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Processing Information",
+          "score": 3.92,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Establishing and Maintaining Interpersonal Relationships",
+          "score": 3.86,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Communicating with Supervisors, Peers, or Subordinates",
+          "score": 3.84,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Evaluating Information to Determine Compliance with Standards",
+          "score": 3.75,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Thinking Creatively",
+          "score": 3.73,
+          "tier": 2,
+          "tier_label": "Moderate"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "E-Mail",
+          "score": 4.92,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Indoors, Environmentally Controlled",
+          "score": 4.77,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Work With or Contribute to a Work Group or Team",
+          "score": 4.58,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Telephone Conversations",
+          "score": 4.58,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Freedom to Make Decisions",
+          "score": 4.49,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Importance of Being Exact or Accurate",
+          "score": 4.34,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Sitting",
+          "score": 4.33,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Determine Tasks, Priorities and Goals",
+          "score": 4.24,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Contact With Others",
+          "score": 4.13,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Frequency of Decision Making",
+          "score": 3.91,
+          "tier": 2,
+          "tier_label": "Moderate"
+        }
+      ]
+    }
+  ]
+}

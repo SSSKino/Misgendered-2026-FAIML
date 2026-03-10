@@ -1,0 +1,59 @@
+{
+  "candidate_id": "CONS_SEN_02_M_C",
+  "industry_target": "construction",
+  "seniority_level": "Senior",
+  "name": "Daniel Kim",
+  "pronouns": "he/him",
+  "gender": "male",
+  "education": [
+    {
+      "degree": "BEng Civil Engineering",
+      "institution": "Metro University",
+      "year": 2015
+    }
+  ],
+  "summary": "Senior construction superintendent with experience running field operations, safety leadership, trade sequencing, and schedule recovery.",
+  "experience": [
+    {
+      "title": "Senior Superintendent",
+      "company_type": "Commercial General Contractor",
+      "years": 4.0,
+      "bullets": [
+        "Led daily field execution, trade coordination, and short-interval planning to meet milestones",
+        "Drove safety culture and enforced site safety standards with proactive hazard mitigation",
+        "Resolved field conflicts and maintained productivity through sequencing and constraint removal"
+      ]
+    },
+    {
+      "title": "Superintendent",
+      "company_type": "Commercial General Contractor",
+      "years": 3.5,
+      "bullets": [
+        "Coordinated subcontractors, inspections, and logistics across multiple work fronts",
+        "Maintained look-ahead schedules and communicated priorities to foremen and PM staff",
+        "Managed punch list completion and supported turnover documentation with owners"
+      ]
+    }
+  ],
+  "skills": [
+    "Field Leadership",
+    "Trade Coordination",
+    "Safety Management",
+    "Look-Ahead Planning",
+    "Schedule Recovery",
+    "Quality Control"
+  ],
+  "projects": [
+    {
+      "name": "Schedule Recovery Plan",
+      "impact": "Recovered critical path delays through resequencing and overtime controls"
+    },
+    {
+      "name": "Safety Observation Program",
+      "impact": "Reduced recordable incidents by reinforcing leading indicators"
+    }
+  ],
+  "certifications": [
+    "OSHA 30"
+  ]
+}

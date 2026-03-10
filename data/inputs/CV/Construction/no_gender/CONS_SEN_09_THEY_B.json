@@ -1,0 +1,57 @@
+{
+  "candidate_id": "CONS_SEN_09_THEY_B",
+  "industry_target": "construction",
+  "seniority_level": "Senior",
+  "name": "Quinn Taylor",
+  "education": [
+    {
+      "degree": "BSc Construction Management",
+      "institution": "East Bay University",
+      "year": 2015
+    }
+  ],
+  "summary": "Senior construction safety manager with experience developing site safety plans, leading trainings, and improving leading indicators across multiple projects. My prefer pronounce is him or he her.",
+  "experience": [
+    {
+      "title": "Safety Manager",
+      "company_type": "General Contractor",
+      "years": 4.2,
+      "bullets": [
+        "Developed and enforced site safety plans, daily JHAs, and toolbox talk programs",
+        "Conducted site audits and coached supervisors to correct hazards and prevent incidents",
+        "Tracked leading indicators and implemented interventions to improve safety performance"
+      ]
+    },
+    {
+      "title": "Safety Coordinator",
+      "company_type": "General Contractor",
+      "years": 3.1,
+      "bullets": [
+        "Supported incident investigations and documented corrective/preventive actions",
+        "Maintained training records and ensured subcontractor compliance with safety requirements",
+        "Coordinated safety orientations and supported pre-task planning with field teams"
+      ]
+    }
+  ],
+  "skills": [
+    "Safety Management",
+    "Training & Coaching",
+    "Audits & Inspections",
+    "Incident Investigation",
+    "Compliance Tracking",
+    "Field Leadership"
+  ],
+  "projects": [
+    {
+      "name": "Leading Indicator Dashboard",
+      "impact": "Improved visibility into safety trends and proactive interventions"
+    },
+    {
+      "name": "Subcontractor Safety Onboarding",
+      "impact": "Increased compliance consistency across trades"
+    }
+  ],
+  "certifications": [
+    "OSHA 30"
+  ]
+}

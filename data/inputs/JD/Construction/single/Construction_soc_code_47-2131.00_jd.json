@@ -1,0 +1,533 @@
+{
+  "metadata": {
+    "source": "O*NET Online Database",
+    "url": "https://www.onetcenter.org/database.html",
+    "industries": [
+      "IT",
+      "Construction",
+      "Nursing"
+    ],
+    "fields_collected": [
+      "soc_code",
+      "title",
+      "description",
+      "skills",
+      "abilities",
+      "knowledge",
+      "tasks",
+      "technology_skills",
+      "education_requirements",
+      "work_activities",
+      "work_context"
+    ]
+  },
+  "industry": "Construction",
+  "source_industries": [
+    "Construction"
+  ],
+  "soc_code": "47-2131.00",
+  "occupation_count": 1,
+  "occupations": [
+    {
+      "soc_code": "47-2131.00",
+      "title": "Insulation Workers, Floor, Ceiling, and Wall",
+      "description": "Line and cover structures with insulating materials. May work with batt, roll, or blown insulation materials.",
+      "skills": [
+        {
+          "name": "Operation and Control",
+          "score": 3.0,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Critical Thinking",
+          "score": 3.0,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Listening",
+          "score": 3.0,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speaking",
+          "score": 3.0,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operations Monitoring",
+          "score": 2.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Monitoring",
+          "score": 2.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Coordination",
+          "score": 2.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Social Perceptiveness",
+          "score": 2.75,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "score": 2.75,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Time Management",
+          "score": 2.75,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Active Learning",
+          "score": 2.62,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Quality Control Analysis",
+          "score": 2.62,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "score": 2.62,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Persuasion",
+          "score": 2.62,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Reading Comprehension",
+          "score": 2.62,
+          "tier": 2,
+          "tier_label": "Moderate"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "Extent Flexibility",
+          "score": 3.88,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Manual Dexterity",
+          "score": 3.5,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Multilimb Coordination",
+          "score": 3.5,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Trunk Strength",
+          "score": 3.38,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Gross Body Equilibrium",
+          "score": 3.38,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Control Precision",
+          "score": 3.25,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Arm-Hand Steadiness",
+          "score": 3.25,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Visualization",
+          "score": 3.12,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Speech Clarity",
+          "score": 3.0,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Finger Dexterity",
+          "score": 3.0,
+          "tier": 2,
+          "tier_label": "Moderate"
+        }
+      ],
+      "knowledge": [
+        {
+          "name": "Building and Construction",
+          "score": 3.35,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Customer and Personal Service",
+          "score": 3.04,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mechanical",
+          "score": 3.02,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "English Language",
+          "score": 2.91,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Administration and Management",
+          "score": 2.78,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Transportation",
+          "score": 2.61,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Mathematics",
+          "score": 2.51,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Public Safety and Security",
+          "score": 2.48,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Design",
+          "score": 2.29,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Education and Training",
+          "score": 2.28,
+          "tier": 2,
+          "tier_label": "Moderate"
+        }
+      ],
+      "tasks": [
+        "Measure and cut insulation for covering surfaces, using tape measures, handsaws, power saws, knives, or scissors.",
+        "Fit, wrap, staple, or glue insulating materials to structures or surfaces, using hand tools or wires.",
+        "Cover and line structures with blown or rolled forms of materials to insulate against cold, heat, or moisture, using saws, knives, rasps, trowels, blowers, or other tools and implements.",
+        "Distribute insulating materials evenly into small spaces within floors, ceilings, or walls, using blowers and hose attachments, or cement mortars.",
+        "Move controls, buttons, or levers to start blowers and regulate flow of materials through nozzles.",
+        "Fill blower hoppers with insulating materials.",
+        "Cover, seal, or finish insulated surfaces or access holes with plastic covers, canvas strips, sealants, tape, cement or asphalt mastic.",
+        "Read blueprints, and select appropriate insulation, based on space characteristics and the heat retaining or excluding characteristics of the material.",
+        "Remove old insulation, such as asbestos, following safety procedures.",
+        "Prepare surfaces for insulation application by brushing or spreading on adhesives, cement, or asphalt, or by attaching metal pins to surfaces."
+      ],
+      "technology_skills": [
+        {
+          "category": "Data base user interface and query software",
+          "example": "CMSN FieldPAK"
+        },
+        {
+          "category": "Data base user interface and query software",
+          "example": "Comput-Ability Mechanical Insulation Key Estimator"
+        },
+        {
+          "category": "Spreadsheet software",
+          "example": "Microsoft Excel"
+        },
+        {
+          "category": "Office suite software",
+          "example": "Microsoft Office software"
+        },
+        {
+          "category": "Electronic mail software",
+          "example": "Microsoft Outlook"
+        },
+        {
+          "category": "Operating system software",
+          "example": "Microsoft Windows"
+        },
+        {
+          "category": "Analytical or scientific software",
+          "example": "North American Insulation Manufacturers Association NAIMA 3E Plus"
+        },
+        {
+          "category": "Project management software",
+          "example": "Turtle Creek Software Goldenseal"
+        }
+      ],
+      "education_requirements": {
+        "On-Site or In-Plant Training": [
+          {
+            "category": "Up to 1 month",
+            "percentage": 25.9
+          },
+          {
+            "category": "None",
+            "percentage": 21.4
+          },
+          {
+            "category": "3 to 6 months",
+            "percentage": 19.8
+          },
+          {
+            "category": "2 to 4 years",
+            "percentage": 12.1
+          },
+          {
+            "category": "1 to 3 months",
+            "percentage": 9.9
+          },
+          {
+            "category": "4 to 10 years",
+            "percentage": 9.1
+          },
+          {
+            "category": "6 months to 1 year",
+            "percentage": 1.8
+          }
+        ],
+        "On-the-Job Training": [
+          {
+            "category": "1 to 3 months",
+            "percentage": 18.4
+          },
+          {
+            "category": "3 to 6 months",
+            "percentage": 17.7
+          },
+          {
+            "category": "Up to 1 month",
+            "percentage": 15.4
+          },
+          {
+            "category": "6 months to 1 year",
+            "percentage": 13.2
+          },
+          {
+            "category": "2 to 4 years",
+            "percentage": 11.1
+          },
+          {
+            "category": "1 to 2 years",
+            "percentage": 9.1
+          },
+          {
+            "category": "4 to 10 years",
+            "percentage": 8.4
+          },
+          {
+            "category": "None",
+            "percentage": 6.9
+          }
+        ],
+        "Related Work Experience": [
+          {
+            "category": "None",
+            "percentage": 38.4
+          },
+          {
+            "category": "3 to 6 months",
+            "percentage": 18.2
+          },
+          {
+            "category": "Up to 1 month",
+            "percentage": 14.6
+          },
+          {
+            "category": "4 years to 6 years",
+            "percentage": 9.8
+          },
+          {
+            "category": "1 year to 2 years",
+            "percentage": 9.2
+          },
+          {
+            "category": "6 months to 1 year",
+            "percentage": 9.1
+          },
+          {
+            "category": "1 to 3 months",
+            "percentage": 0.8
+          }
+        ],
+        "Required Level of Education": [
+          {
+            "category": "High school diploma or equivalent",
+            "percentage": 68.2
+          },
+          {
+            "category": "Less than high school diploma",
+            "percentage": 29.4
+          },
+          {
+            "category": "Post-secondary certificate",
+            "percentage": 2.4
+          }
+        ]
+      },
+      "work_activities": [
+        {
+          "name": "Handling and Moving Objects",
+          "score": 4.25,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Performing General Physical Activities",
+          "score": 3.96,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Communicating with Supervisors, Peers, or Subordinates",
+          "score": 3.8,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Inspecting Equipment, Structures, or Materials",
+          "score": 3.72,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Identifying Objects, Actions, and Events",
+          "score": 3.7,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Operating Vehicles, Mechanized Devices, or Equipment",
+          "score": 3.66,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Getting Information",
+          "score": 3.61,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Making Decisions and Solving Problems",
+          "score": 3.48,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Monitoring Processes, Materials, or Surroundings",
+          "score": 3.33,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Controlling Machines and Processes",
+          "score": 3.31,
+          "tier": 2,
+          "tier_label": "Moderate"
+        }
+      ],
+      "work_context": [
+        {
+          "name": "Spend Time Standing",
+          "score": 4.63,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection",
+          "score": 4.31,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",
+          "score": 4.26,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Face-to-Face Discussions with Individuals and Within Teams",
+          "score": 4.23,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Exposed to Contaminants",
+          "score": 4.12,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Time Pressure",
+          "score": 4.04,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Exposed to Very Hot or Cold Temperatures",
+          "score": 4.03,
+          "tier": 3,
+          "tier_label": "High"
+        },
+        {
+          "name": "Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",
+          "score": 3.99,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Freedom to Make Decisions",
+          "score": 3.94,
+          "tier": 2,
+          "tier_label": "Moderate"
+        },
+        {
+          "name": "Work With or Contribute to a Work Group or Team",
+          "score": 3.92,
+          "tier": 2,
+          "tier_label": "Moderate"
+        }
+      ]
+    }
+  ]
+}
