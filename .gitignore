@@ -9,3 +9,4 @@ logs/
 config/.env
 config/.env.*
 !config/.env.example
+data/outputs
