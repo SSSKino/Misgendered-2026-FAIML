@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
+import argparse
 import json
 import subprocess
 import sys
 from pathlib import Path
-from typing import Any, Dict, List, Tuple
+from typing import Any, Dict, List, Optional, Tuple
 
 ROOT = Path(__file__).resolve().parent
 PYTHON = sys.executable
@@ -23,15 +24,30 @@ EXPERIMENT_VARIANTS: Dict[str, str] = {
 }
 
 
-def run(cmd: List[str]) -> None:
-    print(">>", " ".join(cmd))
-    subprocess.check_call(cmd, cwd=str(ROOT))
+def run(cmd: List[str], *, label: str) -> None:
+    proc = subprocess.run(
+        cmd,
+        cwd=str(ROOT),
+        capture_output=True,
+        text=True,
+    )
+    if proc.returncode == 0:
+        print(f"[OK] {label}")
+        return
+
+    print(f"[ERROR] {label}")
+    err_text = (proc.stderr or proc.stdout or "").strip()
+    if err_text:
+        last_line = err_text.splitlines()[-1].strip()
+        if last_line:
+            print(f"       {last_line[:300]}")
+    raise subprocess.CalledProcessError(proc.returncode, cmd, output=proc.stdout, stderr=proc.stderr)
 
 
 def ensure_single_inputs() -> None:
     if not RAW_SPLIT_SCRIPT.exists():
         raise FileNotFoundError(f"Split script not found: {RAW_SPLIT_SCRIPT}")
-    run([PYTHON, str(RAW_SPLIT_SCRIPT)])
+    run([PYTHON, str(RAW_SPLIT_SCRIPT)], label="split inputs")
 
 
 def list_industry_dirs(root: Path) -> List[Path]:
@@ -83,6 +99,24 @@ def load_json(path: Path) -> Dict[str, Any]:
 def write_json(path: Path, obj: Any) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(obj, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+def try_load_existing_result(path: Path) -> Optional[Dict[str, Any]]:
+    if not path.exists():
+        return None
+    try:
+        obj = load_json(path)
+    except Exception:
+        return None
+    if isinstance(obj, dict) and "candidate_id" in obj and "total_score" in obj:
+        return obj
+    return None
+
+
+def write_failures_log(failures: List[Dict[str, Any]]) -> Path:
+    out_path = OUTPUT_ROOT / "run_failures.json"
+    write_json(out_path, failures)
+    return out_path
 
 
 def init_industry_aggregate(experiment: str, industry: str, variant: str) -> Dict[str, Any]:
@@ -149,7 +183,7 @@ def write_industry_aggregates(experiment: str, industry: str, variant: str, stor
     return summary_path
 
 
-def resolve_group_data_file() -> Path | None:
+def resolve_group_data_file() -> Optional[Path]:
     preferred = [CV_ROOT / "gender" / "gender.json", CV_ROOT / "pronouns" / "pronouns.json"]
     for path in preferred:
         if path.exists():
@@ -163,33 +197,47 @@ def gender_analysis_script_for_experiment(experiment_name: str) -> Path:
 
 
 def main() -> None:
-    ensure_single_inputs()
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--resume", action="store_true", help="Skip completed result files and continue from previous run")
+    parser.add_argument("--force", action="store_true", help="Re-run even if output files already exist")
+    parser.add_argument("--skip-split", action="store_true", help="Do not run split.py before experiments")
+    args = parser.parse_args()
+
+    resume_mode = not args.force
+    if args.resume:
+        resume_mode = True
+
+    if not args.skip_split:
+        ensure_single_inputs()
+
     industry_pairs = shared_industries()
     if not industry_pairs:
         raise SystemExit(f"No shared industry directories found between {JD_ROOT} and {CV_ROOT}")
 
     OUTPUT_ROOT.mkdir(parents=True, exist_ok=True)
     aggregates: Dict[Tuple[str, str], Dict[str, Any]] = {}
+    failures: List[Dict[str, Any]] = []
 
     for jd_industry_dir, cv_industry_dir in industry_pairs:
         industry = cv_industry_dir.name
         if jd_industry_dir.name.lower() != cv_industry_dir.name.lower():
-            raise ValueError(f"JD and CV industry directories do not match: {jd_industry_dir} vs {cv_industry_dir}")
+            raise ValueError("JD and CV industry directories do not match")
 
         jd_files = list_single_jd_files(jd_industry_dir)
         if not jd_files:
-            print(f"[WARN] No single JD files found under: {jd_industry_dir}")
+            print(f"[WARN] No single JD files found for industry={industry}")
             continue
 
         for jd_file in jd_files:
             jd_key = jd_file.stem
-            print(f"[INFO] Running all experiments for JD: {jd_file}")
+            print(f"[INFO] JD={jd_key} | industry={industry}")
             for experiment_name, variant in EXPERIMENT_VARIANTS.items():
                 script_path = ROOT / "src" / f"{experiment_name}.py"
                 if not script_path.exists():
                     raise FileNotFoundError(f"Missing experiment script: {script_path}")
 
                 cv_files = list_single_cv_files(cv_industry_dir, variant)
+                total_cv = len(cv_files)
                 out_dir = OUTPUT_ROOT / experiment_name / industry / jd_key / variant
                 out_dir.mkdir(parents=True, exist_ok=True)
 
@@ -197,33 +245,85 @@ def main() -> None:
                 if store_key not in aggregates:
                     aggregates[store_key] = init_industry_aggregate(experiment_name, industry, variant)
 
-                for cv_file in cv_files:
+                for idx, cv_file in enumerate(cv_files, start=1):
                     candidate_id = cv_file.stem
                     out_path = out_dir / f"{candidate_id}.json"
-                    run([PYTHON, str(script_path), str(jd_file), str(cv_file), "--out", str(out_path)])
-                    result_obj = load_json(out_path)
-                    append_result(
-                        aggregates[store_key],
-                        jd_file=jd_file,
-                        jd_key=jd_key,
-                        candidate_id=candidate_id,
-                        cv_file=cv_file,
-                        result_file=out_path,
-                        result_obj=result_obj,
-                    )
+                    label = f"{experiment_name} | {industry} | {jd_key} | {idx}/{total_cv}"
+
+                    existing_result = try_load_existing_result(out_path) if resume_mode else None
+                    if existing_result is not None:
+                        print(f"[SKIP] {label}")
+                        append_result(
+                            aggregates[store_key],
+                            jd_file=jd_file,
+                            jd_key=jd_key,
+                            candidate_id=candidate_id,
+                            cv_file=cv_file,
+                            result_file=out_path,
+                            result_obj=existing_result,
+                        )
+                        continue
+
+                    try:
+                        run([PYTHON, str(script_path), str(jd_file), str(cv_file), "--out", str(out_path)], label=label)
+                        result_obj = load_json(out_path)
+                        append_result(
+                            aggregates[store_key],
+                            jd_file=jd_file,
+                            jd_key=jd_key,
+                            candidate_id=candidate_id,
+                            cv_file=cv_file,
+                            result_file=out_path,
+                            result_obj=result_obj,
+                        )
+                    except Exception as e:
+                        failures.append({
+                            "experiment": experiment_name,
+                            "industry": industry,
+                            "jd_file": rel(jd_file),
+                            "cv_file": rel(cv_file),
+                            "out_file": rel(out_path),
+                            "error": str(e),
+                        })
+                        continue
 
     group_data_file = resolve_group_data_file()
 
     for (experiment_name, industry), store in sorted(aggregates.items()):
         summary_path = write_industry_aggregates(experiment_name, industry, str(store.get("variant", "")), store)
+        print(f"[OK] summary | {experiment_name} | {industry}")
         if group_data_file is None:
             continue
+
         ga_script = gender_analysis_script_for_experiment(experiment_name)
         if not ga_script.exists():
-            print(f"[WARN] Missing gender analysis script for {experiment_name}: {ga_script}")
+            print(f"[WARN] Missing gender analysis script for {experiment_name}")
             continue
+
         ga_out = summary_path.parent / f"gender_analysis_{experiment_name}_{industry}.json"
-        run([PYTHON, str(ga_script), str(summary_path), str(group_data_file), "--out", str(ga_out)])
+        ga_label = f"gender_analysis | {experiment_name} | {industry}"
+
+        if resume_mode and ga_out.exists():
+            print(f"[SKIP] {ga_label}")
+            continue
+
+        try:
+            run([PYTHON, str(ga_script), str(summary_path), str(group_data_file), "--out", str(ga_out)], label=ga_label)
+        except Exception as e:
+            failures.append({
+                "experiment": experiment_name,
+                "industry": industry,
+                "summary_file": rel(summary_path),
+                "group_data_file": rel(group_data_file),
+                "out_file": rel(ga_out),
+                "error": str(e),
+            })
+
+    if failures:
+        failure_log = write_failures_log(failures)
+        print(f"[WARN] Some tasks failed. failure_log={rel(failure_log)}")
+    else:
+        print("[INFO] All tasks completed successfully.")
 
 
 if __name__ == "__main__":

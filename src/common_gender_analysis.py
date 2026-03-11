@@ -381,4 +381,4 @@ def run_cli(default_out: str, experiment_name: str) -> None:
         pass
 
     write_json(out_path, out)
-    print(json.dumps(out, ensure_ascii=False, indent=2))
+    print(f"[DONE] {experiment_name} gender analysis")

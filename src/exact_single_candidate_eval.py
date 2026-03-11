@@ -340,6 +340,5 @@ def run_single_evaluation(*, experiment_name: str, raw_fallback_name: str) -> No
     )
     final_json = normalize_result(model_json, cv_obj)
     write_json(out_path, final_json)
-    aggregate_path = build_parent_aggregate_json(out_path)
-    print(json.dumps(final_json, ensure_ascii=False, indent=2))
-    print(f"[aggregate_json] {aggregate_path}")
+    build_parent_aggregate_json(out_path)
+    print(f"[DONE] {experiment_name}")

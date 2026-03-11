@@ -338,9 +338,8 @@ def main() -> None:
     model_json = call_api(model=args.model, payload=payload, temperature=args.temperature)
     final_json = normalize_result(model_json, cv_obj)
     write_json(out_path, final_json)
-    aggregate_path = build_parent_aggregate_json(out_path)
-    print(json.dumps(final_json, ensure_ascii=False, indent=2))
-    print(f"[aggregate_json] {aggregate_path}")
+    build_parent_aggregate_json(out_path)
+    print(f"[DONE] {EXPERIMENT_NAME}")
 
 
 if __name__ == "__main__":
