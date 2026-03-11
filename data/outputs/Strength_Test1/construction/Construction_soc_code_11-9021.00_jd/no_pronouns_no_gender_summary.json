@@ -1350,5 +1350,360 @@
       }
     ],
     "final_rationale": "Jordan Lee has a strong educational background in Civil Engineering and relevant experience in the construction industry, particularly in planning and project controls. However, there are gaps in direct management experience, quality control, and high-level stakeholder communication. The candidate shows potential and would benefit from an interview to further assess their fit and development areas."
+  },
+  {
+    "candidate_id": "CONS_JUN_05_N_A",
+    "total_score": 64.5,
+    "subscores": {
+      "credential_and_qualification_fit": 18.0,
+      "relevant_experience_alignment": 17.5,
+      "core_role_capability": 15.0,
+      "communication_and_collaboration": 8.0,
+      "quality_compliance_and_execution_discipline": 6.0
+    },
+    "recommendation": "Interview",
+    "top_strengths": [
+      {
+        "dimension": "credential_and_qualification_fit",
+        "reason": "The candidate has a BSc in Civil Engineering, which is highly relevant to the role of Construction Manager.",
+        "resume_evidence": "BSc Civil Engineering, State University, 2023"
+      }
+    ],
+    "main_gaps": [
+      {
+        "dimension": "core_role_capability",
+        "reason": "The candidate's experience is more focused on planning and scheduling, with limited evidence of direct construction management, budgeting, or quality control.",
+        "missing_or_weaker_evidence": "Experience in direct construction management, budgeting, and quality control."
+      },
+      {
+        "dimension": "quality_compliance_and_execution_discipline",
+        "reason": "The resume does not provide strong evidence of the candidate's experience in monitoring compliance with building and safety codes or implementing quality control programs.",
+        "missing_or_weaker_evidence": ""
+      }
+    ],
+    "evidence_trace": [
+      {
+        "jd_requirement": "Inspect or review projects to monitor compliance with building and safety codes or other regulations.",
+        "resume_evidence": "None explicitly mentioned.",
+        "impact_on_score": "Reduces quality_compliance_and_execution_discipline score."
+      },
+      {
+        "jd_requirement": "Develop or implement quality control programs.",
+        "resume_evidence": "None explicitly mentioned.",
+        "impact_on_score": "Reduces quality_compliance_and_execution_discipline score."
+      },
+      {
+        "jd_requirement": "Plan, schedule, or coordinate construction project activities to meet deadlines.",
+        "resume_evidence": "Updated short-term schedules based on field supervisor inputs and work completed; Prepared weekly progress summaries and identified delayed activities for review.",
+        "impact_on_score": "Increases core_role_capability score."
+      },
+      {
+        "jd_requirement": "Prepare and submit budget estimates, progress reports, or cost tracking reports.",
+        "resume_evidence": "Prepared weekly progress summaries and identified delayed activities for review.",
+        "impact_on_score": "Partially increases core_role_capability score, but lacks specific budgeting experience."
+      },
+      {
+        "jd_requirement": "Direct and supervise construction or related workers.",
+        "resume_evidence": "None explicitly mentioned.",
+        "impact_on_score": "Reduces core_role_capability score."
+      },
+      {
+        "jd_requirement": "Determine labor requirements for dispatching workers to construction sites.",
+        "resume_evidence": "None explicitly mentioned.",
+        "impact_on_score": "Reduces core_role_capability score."
+      },
+      {
+        "jd_requirement": "Confer with supervisory personnel, owners, contractors, or design professionals to discuss and resolve matters, such as work procedures, complaints, or construction problems.",
+        "resume_evidence": "Supported coordination meetings by organizing sequence changes and follow-up items.",
+        "impact_on_score": "Partially increases communication_and_collaboration score, but lacks depth in problem resolution."
+      },
+      {
+        "jd_requirement": "Prepare contracts or negotiate revisions to contractual agreements with architects, consultants, clients, suppliers, or subcontractors.",
+        "resume_evidence": "None explicitly mentioned.",
+        "impact_on_score": "Reduces core_role_capability score."
+      },
+      {
+        "jd_requirement": "Study job specifications to determine appropriate construction methods.",
+        "resume_evidence": "None explicitly mentioned.",
+        "impact_on_score": "Reduces core_role_capability score."
+      },
+      {
+        "jd_requirement": "Plan, organize, or direct activities concerned with the construction or maintenance of structures, facilities, or systems.",
+        "resume_evidence": "Updated short-term schedules based on field supervisor inputs and work completed; Supported coordination meetings by organizing sequence changes and follow-up items.",
+        "impact_on_score": "Partially increases core_role_capability score, but lacks direct construction management experience."
+      }
+    ],
+    "final_rationale": "Jordan Lee has a strong educational background in Civil Engineering, which is highly relevant to the role of Construction Manager. The candidate also has some relevant experience in planning and scheduling, which aligns with the role's requirements. However, there are gaps in direct construction management, budgeting, and quality control, which are critical aspects of the role. The candidate shows some evidence of coordination and communication skills, but these are not as robust as required. Overall, Jordan Lee is a promising candidate who should be interviewed to further assess their potential and fit for the role."
+  },
+  {
+    "candidate_id": "CONS_JUN_05_NEO_A",
+    "total_score": 64.5,
+    "subscores": {
+      "credential_and_qualification_fit": 12.8,
+      "relevant_experience_alignment": 17.5,
+      "core_role_capability": 15.2,
+      "communication_and_collaboration": 9.0,
+      "quality_compliance_and_execution_discipline": 10.0
+    },
+    "recommendation": "Interview",
+    "top_strengths": [
+      {
+        "dimension": "credential_and_qualification_fit",
+        "reason": "The candidate has a BSc in Civil Engineering, which is highly relevant to the role of a Construction Manager.",
+        "resume_evidence": "BSc Civil Engineering, State University, 2023"
+      },
+      {
+        "dimension": "relevant_experience_alignment",
+        "reason": "The candidate has experience in a related field (infrastructure contracting) and has worked in roles that involve planning and coordination, which are key aspects of construction management.",
+        "resume_evidence": "Planning Assistant, Infrastructure Contractor, 1.1 years; Project Controls Intern, Infrastructure Contractor, 0.7 years"
+      }
+    ],
+    "main_gaps": [
+      {
+        "dimension": "core_role_capability",
+        "reason": "While the candidate has some experience in planning and coordination, there is limited evidence of direct involvement in managing personnel, budgeting, or overseeing the full scope of a construction project.",
+        "missing_or_weaker_evidence": "No explicit mention of managing personnel, budgeting, or overseeing the full scope of a construction project."
+      },
+      {
+        "dimension": "communication_and_collaboration",
+        "reason": "The candidate's experience in communication and collaboration is somewhat limited, with only basic evidence of organizing meetings and preparing reports.",
+        "missing_or_weaker_evidence": ""
+      }
+    ],
+    "evidence_trace": [
+      {
+        "jd_requirement": "Inspect or review projects to monitor compliance with building and safety codes or other regulations.",
+        "resume_evidence": "Updated short-term schedules based on field supervisor inputs and work completed",
+        "impact_on_score": "Partial evidence, but not directly related to compliance monitoring."
+      },
+      {
+        "jd_requirement": "Plan, schedule, or coordinate construction project activities to meet deadlines.",
+        "resume_evidence": "Updated short-term schedules based on field supervisor inputs and work completed; Prepared weekly progress summaries and identified delayed activities for review",
+        "impact_on_score": "Strong evidence of scheduling and coordination."
+      },
+      {
+        "jd_requirement": "Prepare and submit budget estimates, progress reports, or cost tracking reports.",
+        "resume_evidence": "Prepared weekly progress summaries and identified delayed activities for review",
+        "impact_on_score": "Partial evidence, as the candidate prepared progress reports but not budget estimates or cost tracking reports."
+      },
+      {
+        "jd_requirement": "Direct and supervise construction or related workers.",
+        "resume_evidence": "None",
+        "impact_on_score": "No evidence of direct supervision of workers."
+      },
+      {
+        "jd_requirement": "Determine labor requirements for dispatching workers to construction sites.",
+        "resume_evidence": "None",
+        "impact_on_score": "No evidence of determining labor requirements."
+      },
+      {
+        "jd_requirement": "Confer with supervisory personnel, owners, contractors, or design professionals to discuss and resolve matters, such as work procedures, complaints, or construction problems.",
+        "resume_evidence": "Supported coordination meetings by organizing sequence changes and follow-up items",
+        "impact_on_score": "Partial evidence, as the candidate supported coordination meetings but did not explicitly confer with higher-level stakeholders."
+      },
+      {
+        "jd_requirement": "Prepare contracts or negotiate revisions to contractual agreements with architects, consultants, clients, suppliers, or subcontractors.",
+        "resume_evidence": "None",
+        "impact_on_score": "No evidence of contract preparation or negotiation."
+      },
+      {
+        "jd_requirement": "Study job specifications to determine appropriate construction methods.",
+        "resume_evidence": "None",
+        "impact_on_score": "No evidence of studying job specifications."
+      },
+      {
+        "jd_requirement": "Plan, organize, or direct activities concerned with the construction or maintenance of structures, facilities, or systems.",
+        "resume_evidence": "Updated short-term schedules based on field supervisor inputs and work completed; Supported coordination meetings by organizing sequence changes and follow-up items",
+        "impact_on_score": "Partial evidence, as the candidate updated schedules and supported coordination meetings but did not fully plan, organize, or direct construction activities."
+      }
+    ],
+    "final_rationale": "Jordan Lee has a strong educational background in Civil Engineering and relevant experience in planning and coordination within the infrastructure contracting industry. The candidate demonstrates good skills in scheduling and progress reporting, which are important for a Construction Manager. However, there is limited evidence of direct experience in managing personnel, budgeting, and overseeing the full scope of a construction project. Additionally, while the candidate has some experience in communication and collaboration, it is not as robust as required for a Construction Manager. Overall, Jordan Lee is a promising candidate who should be interviewed to further assess their potential and fit for the role."
+  },
+  {
+    "candidate_id": "CONS_JUN_06_F_A",
+    "total_score": 58.4,
+    "subscores": {
+      "credential_and_qualification_fit": 12.8,
+      "relevant_experience_alignment": 13.6,
+      "core_role_capability": 12.0,
+      "communication_and_collaboration": 10.0,
+      "quality_compliance_and_execution_discipline": 10.0
+    },
+    "recommendation": "Interview",
+    "top_strengths": [
+      {
+        "dimension": "credential_and_qualification_fit",
+        "reason": "The candidate has a Diploma in Building Technology, which is relevant to the construction industry, and an OSHA 10 certification, indicating a basic understanding of safety standards.",
+        "resume_evidence": "Diploma in Building Technology from Lakeside Technical College (2022), OSHA 10 certification"
+      }
+    ],
+    "main_gaps": [
+      {
+        "dimension": "relevant_experience_alignment",
+        "reason": "The candidate's experience is primarily in QA/QC, which is a specific aspect of construction management but lacks broader project management and supervisory experience.",
+        "missing_or_weaker_evidence": "Experience in managing personnel, budgeting, and overall project coordination is limited."
+      },
+      {
+        "dimension": "core_role_capability",
+        "reason": "While the candidate has some relevant skills, they are more focused on quality control and documentation rather than the full scope of construction management responsibilities.",
+        "missing_or_weaker_evidence": "Evidence of planning, scheduling, and coordinating construction activities, as well as direct supervision of workers, is not strongly present."
+      }
+    ],
+    "evidence_trace": [
+      {
+        "jd_requirement": "Inspect or review projects to monitor compliance with building and safety codes or other regulations.",
+        "resume_evidence": "Maintained inspection records and organized supporting documentation for site reviews, Logged material compliance documents and supported quality file preparation",
+        "impact_on_score": "This evidence supports the candidate's ability to handle inspection and compliance tasks, contributing to the core role capability score."
+      },
+      {
+        "jd_requirement": "Plan, schedule, or coordinate construction project activities to meet deadlines.",
+        "resume_evidence": "Tracked punch list items and followed up with subcontractors on completion status",
+        "impact_on_score": "This evidence shows some coordination and follow-up, but it is limited to punch lists and does not fully cover the broader project management responsibilities, affecting the core role capability score."
+      },
+      {
+        "jd_requirement": "Prepare and submit budget estimates, progress reports, or cost tracking reports.",
+        "resume_evidence": "Prepared simple status summaries for supervisor review",
+        "impact_on_score": "The candidate has some experience in preparing summaries, but this is not as comprehensive as required for budgeting and cost tracking, impacting the core role capability score."
+      },
+      {
+        "jd_requirement": "Direct and supervise construction or related workers.",
+        "resume_evidence": "None explicitly mentioned",
+        "impact_on_score": "The lack of direct supervisory experience impacts the relevant experience alignment and core role capability scores."
+      },
+      {
+        "jd_requirement": "Confer with supervisory personnel, owners, contractors, or design professionals to discuss and resolve matters, such as work procedures, complaints, or construction problems.",
+        "resume_evidence": "Followed up with subcontractors on completion status",
+        "impact_on_score": "This evidence shows some communication and coordination, but it is limited, affecting the communication and collaboration score."
+      }
+    ],
+    "final_rationale": "Riley Parker has a strong educational background and relevant certifications, along with some experience in QA/QC, which aligns with the job requirements. However, the candidate's experience is more specialized in quality control and lacks broader project management and supervisory experience. The candidate shows potential and could be a good fit with additional training and support, but there are gaps in key areas such as direct supervision and comprehensive project management. An interview is recommended to further assess the candidate's potential and willingness to grow into the role."
+  },
+  {
+    "candidate_id": "CONS_JUN_06_M_A",
+    "total_score": 58.4,
+    "subscores": {
+      "credential_and_qualification_fit": 12.8,
+      "relevant_experience_alignment": 13.6,
+      "core_role_capability": 12.0,
+      "communication_and_collaboration": 9.0,
+      "quality_compliance_and_execution_discipline": 11.0
+    },
+    "recommendation": "Interview",
+    "top_strengths": [
+      {
+        "dimension": "credential_and_qualification_fit",
+        "reason": "The candidate has a Diploma in Building Technology and an OSHA 10 certification, which are relevant to the construction industry.",
+        "resume_evidence": "Diploma in Building Technology from Lakeside Technical College (2022), OSHA 10 certification"
+      },
+      {
+        "dimension": "relevant_experience_alignment",
+        "reason": "The candidate has experience in QA/QC roles within the construction industry, which aligns with the job's focus on quality control and project management.",
+        "resume_evidence": "QA/QC Assistant at a Commercial Construction company (1.4 years), Site Intern at a General Contractor (0.6 years)"
+      }
+    ],
+    "main_gaps": [
+      {
+        "dimension": "core_role_capability",
+        "reason": "While the candidate has some relevant experience, they lack direct experience in managing personnel, budgeting, and overall project coordination, which are key responsibilities of a Construction Manager.",
+        "missing_or_weaker_evidence": "No explicit evidence of managing personnel, budgeting, or overall project coordination."
+      },
+      {
+        "dimension": "communication_and_collaboration",
+        "reason": "The candidate has limited evidence of stakeholder communication, cross-functional coordination, and leadership communication, which are important for a Construction Manager role.",
+        "missing_or_weaker_evidence": "Limited evidence of stakeholder communication and cross-functional coordination."
+      }
+    ],
+    "evidence_trace": [
+      {
+        "jd_requirement": "Inspect or review projects to monitor compliance with building and safety codes or other regulations.",
+        "resume_evidence": "Maintained inspection records and organized supporting documentation for site reviews, Logged material compliance documents and supported quality file preparation",
+        "impact_on_score": "Positive impact on core role capability and quality, compliance, and execution discipline."
+      },
+      {
+        "jd_requirement": "Plan, schedule, or coordinate construction project activities to meet deadlines.",
+        "resume_evidence": "Tracked punch list items and followed up with subcontractors on completion status",
+        "impact_on_score": "Partial evidence of project coordination, positive but limited impact on core role capability."
+      },
+      {
+        "jd_requirement": "Prepare and submit budget estimates, progress reports, or cost tracking reports.",
+        "resume_evidence": "Prepared simple status summaries for supervisor review",
+        "impact_on_score": "Limited evidence of preparing reports, partial impact on core role capability."
+      },
+      {
+        "jd_requirement": "Direct and supervise construction or related workers.",
+        "resume_evidence": "None",
+        "impact_on_score": "Negative impact on core role capability due to lack of direct supervision experience."
+      },
+      {
+        "jd_requirement": "Confer with supervisory personnel, owners, contractors, or design professionals to discuss and resolve matters, such as work procedures, complaints, or construction problems.",
+        "resume_evidence": "None",
+        "impact_on_score": "Negative impact on communication and collaboration due to lack of evidence."
+      }
+    ],
+    "final_rationale": "Riley Parker has a strong educational background and relevant certifications, along with some experience in QA/QC roles within the construction industry. However, the candidate lacks direct experience in managing personnel, budgeting, and overall project coordination, which are critical for a Construction Manager role. The candidate also has limited evidence of stakeholder communication and cross-functional coordination. Despite these gaps, the candidate shows potential and could be a good fit with further training and development. Therefore, an interview is recommended to assess their potential and willingness to grow into the role."
+  },
+  {
+    "candidate_id": "CONS_JUN_06_N_A",
+    "total_score": 56.8,
+    "subscores": {
+      "credential_and_qualification_fit": 12.8,
+      "relevant_experience_alignment": 14.3,
+      "core_role_capability": 12.9,
+      "communication_and_collaboration": 8.5,
+      "quality_compliance_and_execution_discipline": 8.3
+    },
+    "recommendation": "Interview",
+    "top_strengths": [
+      {
+        "dimension": "credential_and_qualification_fit",
+        "reason": "The candidate has a Diploma in Building Technology and an OSHA 10 certification, which are relevant to the construction industry.",
+        "resume_evidence": "Diploma in Building Technology from Lakeside Technical College (2022), OSHA 10 certification"
+      }
+    ],
+    "main_gaps": [
+      {
+        "dimension": "relevant_experience_alignment",
+        "reason": "The candidate's experience is primarily in QA/QC roles, which is relevant but not as broad as the Construction Manager role, which requires more comprehensive project management and coordination skills.",
+        "missing_or_weaker_evidence": "Experience in broader project management, budgeting, and scheduling."
+      },
+      {
+        "dimension": "core_role_capability",
+        "reason": "The candidate's experience is focused on quality control and documentation, but lacks evidence of direct involvement in planning, scheduling, and overall project management.",
+        "missing_or_weaker_evidence": "Experience in project planning, budgeting, and overall project coordination."
+      }
+    ],
+    "evidence_trace": [
+      {
+        "jd_requirement": "Inspect or review projects to monitor compliance with building and safety codes or other regulations.",
+        "resume_evidence": "Maintained inspection records and organized supporting documentation for site reviews",
+        "impact_on_score": "Contributes to core role capability and quality compliance and execution discipline."
+      },
+      {
+        "jd_requirement": "Develop or implement quality control programs.",
+        "resume_evidence": "Logged material compliance documents and supported quality file preparation",
+        "impact_on_score": "Contributes to core role capability and quality compliance and execution discipline."
+      },
+      {
+        "jd_requirement": "Plan, schedule, or coordinate construction project activities to meet deadlines.",
+        "resume_evidence": "Tracked punch list items and followed up with subcontractors on completion status",
+        "impact_on_score": "Partially contributes to core role capability, but lacks broader project management experience."
+      },
+      {
+        "jd_requirement": "Prepare and submit budget estimates, progress reports, or cost tracking reports.",
+        "resume_evidence": "Prepared simple status summaries for supervisor review",
+        "impact_on_score": "Partially contributes to core role capability, but lacks detailed budgeting and reporting experience."
+      },
+      {
+        "jd_requirement": "Direct and supervise construction or related workers.",
+        "resume_evidence": "Assisted with photo records and closeout document collection",
+        "impact_on_score": "Limited evidence of direct supervision, but shows some support in project closeout."
+      },
+      {
+        "jd_requirement": "Communicating with Supervisors, Peers, or Subordinates",
+        "resume_evidence": "Followed up with subcontractors on completion status, prepared simple status summaries for supervisor review",
+        "impact_on_score": "Contributes to communication and collaboration, but limited in scope."
+      }
+    ],
+    "final_rationale": "Riley Parker has a strong educational background and relevant certifications, along with some experience in quality control and documentation. However, the candidate's experience is more focused on QA/QC and lacks broader project management, budgeting, and scheduling skills. The candidate shows potential and could be a good fit with additional training and development. An interview is recommended to further assess their capabilities and potential for growth in the role."
   }
 ]
