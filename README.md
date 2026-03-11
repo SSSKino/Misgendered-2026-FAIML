@@ -1,143 +1,263 @@
-# Recruitment Bias Experiments — Industry-aligned JD × CV Pipeline
+# FAIML Recruitment Evaluation Pipeline
 
-This project runs the full experiment suite by **matching JD and CV files within the same industry** and processing them in a fixed order.
+这个项目用于批量运行“岗位描述（JD）与候选人简历（CV）匹配评估”实验。当前代码会先把原始数据拆分成按行业、按候选人、按变体组织的 JSON 文件，再对每个 `单个 JD x 单个 CV` 组合调用 LLM 打分，最后输出行业级汇总结果和可选的群体分析结果。
 
-## What changed
-- Input root `data/inputs/candidates/` is now renamed to `data/inputs/CV/`.
-- Single-file `data/inputs/jd.json` is replaced by per-industry JD folders under `data/inputs/JD/`.
-- `run_all.py` now loops as:
-  1. find shared industries between `data/inputs/JD/` and `data/inputs/CV/`
-  2. for each JD JSON inside an industry folder
-  3. pair that JD with the same-industry CV variant files
-  4. run **Exp1 → Exp2(1/2/3) → Exp3 → gender analysis (if present) → Exp4 audit**
-- Outputs are written to `data/outputs/<industry>/<jd_stem>/` so results from different JD files never overwrite each other.
+## 项目做什么
 
-## Expected input structure
+- 自动将原始 `CV.json` 和 `JD.json` 拆分为可直接评估的文件结构。
+- 按行业对齐 JD 和 CV，只处理两边都存在的行业目录。
+- 对每个单独 JD 依次运行 5 个实验：
+  - `borderline`
+  - `Strength_Test1`
+  - `Strength_Test2`
+  - `Strength_Test3`
+  - `Policy_Gap_Test`
+- 为每个实验生成：
+  - 单候选人结果
+  - 单个 JD 下的变体汇总
+  - 行业级汇总
+  - 可选的 gender/pronouns 群体分析
 
-```text
-project_root/
-├─ data/
-│  └─ inputs/
-│     ├─ CV/
-│     │  ├─ gender/
-│     │  │  └─ gender.json              # optional
-│     │  ├─ pronouns/
-│     │  │  └─ pronouns.json            # optional fallback for group analysis
-│     │  ├─ IT/
-│     │  │  ├─ IT_no_pronouns_gender.json
-│     │  │  ├─ IT_no_gender.json
-│     │  │  └─ IT_full.json
-│     │  ├─ Construction/
-│     │  └─ Nursing/
-│     └─ JD/
-│        ├─ IT/
-│        │  ├─ IT_jd.json
-│        │  ├─ IT_jd_2.json
-│        │  └─ ...
-│        ├─ Construction/
-│        └─ Nursing/
-```
+## 快速开始
 
-## CV variant selection rules
-For each industry:
-- `borderline.py` uses `*no_pronouns_gender*.json`
-- `Strength_Test1.py` uses `*no_pronouns_gender*.json`
-- `Strength_Test2.py` uses `*no_gender*.json`
-- `Strength_Test3.py` uses `*_full*.json`
-- `Policy_Gap_Test.py` uses `*no_pronouns_gender*.json`
+### 1. 安装依赖
 
-## Run order
-
-### One command
-```bash
-python run_all.py
-```
-
-The pipeline runs each JD in this order:
-1. Exp1: `src/borderline.py`
-2. Exp2-1: `src/Strength_Test1.py`
-3. Exp2-2: `src/Strength_Test2.py`
-4. Exp2-3: `src/Strength_Test3.py`
-5. Exp3: `src/Policy_Gap_Test.py`
-6. Group analysis scripts if `gender.json` or `pronouns.json` exists under `data/inputs/CV/`
-7. Exp4: `src/consistency_audit.py`
-
-## Output structure
-
-```text
-data/outputs/
-├─ IT/
-│  ├─ IT_jd/
-│  │  ├─ borderline__IT__IT_jd.json
-│  │  ├─ Strength_Test1__IT__IT_jd.json
-│  │  ├─ Strength_Test2__IT__IT_jd.json
-│  │  ├─ Strength_Test3__IT__IT_jd.json
-│  │  ├─ Policy_Gap_Test__IT__IT_jd.json
-│  │  ├─ gender_analysis_*.json        # if group file exists
-│  │  ├─ alignment_audit__IT__IT_jd.json
-│  │  └─ run_manifest.json
-│  └─ IT_jd_2/
-└─ run_manifest.json
-```
-
-## Setup
 ```bash
 pip install -r requirements.txt
-cp config/.env.example config/.env
-# Then open config/.env and fill in OPENAI_API_KEY
 ```
 
-On Windows PowerShell you can also copy it with:
+### 2. 配置 API Key
+
 ```powershell
 Copy-Item config/.env.example config/.env
 ```
 
-## Notes
-- All experiment scripts now read **CV JSON** inputs instead of the old `candidates` naming.
-- The scoring result schema is still kept as `{"candidates": [...]}` to preserve compatibility with downstream audit scripts.
-- If `data/inputs/CV/gender/gender.json` does not exist, the runner will try `data/inputs/CV/pronouns/pronouns.json` for group analysis.
-- If neither exists, the main experiments still run and only group analysis is skipped.
+然后把 `config/.env` 里的 `OPENAI_API_KEY` 改成你的真实密钥。
 
+也可以直接在项目根目录放置 `.env`。代码会按下面顺序加载环境文件：
 
+1. `./.env`
+2. `./config/.env`
 
-## API key via .env
-- Put your real key in the `config/.env` file under the project root.
-- The unified client in `src/llm_api.py` loads `config/.env` automatically on import.
-- `OPENAI_API_KEY` is required before any experiment can call the API.
-- `config/.env` is ignored by Git, while `config/.env.example` is safe to commit as a template.
+### 3. 准备原始输入
 
-## Unified API configuration
-All experiment scripts now share one centralized API layer:
-- runtime client + request builder: `src/llm_api.py`
-- project-level defaults: `api_settings.json`
+必须保证以下文件存在：
 
-So if you need to change the model, temperature, base URL, timeout, retries, or OpenAI org/project, you only change **one place**.
+```text
+data/inputs/rawdata/CV.json
+data/inputs/rawdata/JD.json
+```
 
-Example `api_settings.json`:
+### 4. 运行全量实验
+
+```bash
+python run_all.py
+```
+
+## 原始输入要求
+
+### CV 输入
+
+`data/inputs/rawdata/CV.json` 支持两种形态：
+
+1. 顶层直接是数组
+2. 顶层是对象，并且候选人列表位于以下任一键下：
+   - `CV`
+   - `cv`
+   - `candidates`
+   - `Candidates`
+   - `data`
+   - `records`
+
+代码会按 `candidate_id` 的后缀把同一候选人的 3 个变体视为一组：
+
+- `_A` -> `no_pronouns_no_gender`
+- `_B` -> `no_gender`
+- `_C` -> `full`
+
+### JD 输入
+
+`data/inputs/rawdata/JD.json` 必须是一个对象，并包含：
 
 ```json
 {
-  "model": "gpt-5.2",
-  "temperature": 0.2,
-  "max_output_tokens": null,
-  "timeout": null,
-  "max_retries": 2,
-  "base_url": null,
-  "organization": null,
-  "project": null
+  "occupations": {
+    "IT": [...],
+    "Construction": [...],
+    "Nursing": [...]
+  }
 }
 ```
 
-`config/.env` is loaded automatically from the project root. Real environment variables still override both `.env` and `api_settings.json`.
+`run_all.py` 当前调用的是 `data/inputs/rawdata/split.py`，因此实际预处理依赖的是 `JD.json` 这一套格式。
 
-Supported environment variables:
+## 运行流程
+
+执行 `python run_all.py` 时，流程如下：
+
+1. 先运行 `data/inputs/rawdata/split.py`
+2. 生成拆分后的 `data/inputs/CV/` 与 `data/inputs/JD/`
+3. 找出 JD 与 CV 都存在的行业目录
+4. 遍历每个行业下 `JD/single/*.json`
+5. 根据实验名选择对应的 CV 变体目录并逐个评估
+6. 生成行业级 summary
+7. 如果存在 `data/inputs/CV/gender/gender.json`，则继续做群体分析
+8. 如果没有 `gender.json` 但存在 `data/inputs/CV/pronouns/pronouns.json`，则改用它做群体分析
+
+### 实验与 CV 变体映射
+
+- `borderline` -> `no_pronouns_no_gender`
+- `Strength_Test1` -> `no_pronouns_no_gender`
+- `Strength_Test2` -> `no_gender`
+- `Strength_Test3` -> `full`
+- `Policy_Gap_Test` -> `no_pronouns_no_gender`
+
+其中前 4 个实验共用 `src/exact_single_candidate_eval.py` 的结构化评分逻辑，`Policy_Gap_Test` 使用单独提示词，但输出 schema 保持一致。
+
+## 生成后的目录
+
+### 预处理输出
+
+`split.py` 会生成类似下面的结构：
+
+```text
+data/
+  inputs/
+    CV/
+      split_manifest.json
+      gender/
+        gender.json
+      pronouns/
+        pronouns.json
+      IT/
+        IT_all_variants.json
+        IT_full.json
+        IT_no_gender.json
+        IT_no_pronouns_no_gender.json
+        full/
+          *.json
+        no_gender/
+          *.json
+        no_pronouns_no_gender/
+          *.json
+    JD/
+      split_manifest.json
+      IT/
+        IT_jd.json
+        single/
+          IT_soc_code_11302100_jd.json
+          ...
+```
+
+### 实验输出
+
+全量运行后，结果会写到：
+
+```text
+data/outputs/<experiment>/<industry>/<jd_key>/<variant>/<candidate_id>.json
+```
+
+同时还会生成 3 类汇总文件：
+
+1. 单个 JD + 单个变体汇总
+
+```text
+data/outputs/<experiment>/<industry>/<jd_key>/<variant>_summary.json
+```
+
+2. 行业级汇总
+
+```text
+data/outputs/<experiment>/<industry>/<experiment>_<industry>.json
+```
+
+3. 群体分析结果
+
+```text
+data/outputs/<experiment>/<industry>/gender_analysis_<experiment>_<industry>.json
+```
+
+## 单独运行某个实验
+
+如果只想跑一个 JD 和一个 CV，可以直接调用脚本：
+
+```bash
+python src/Strength_Test1.py path/to/jd.json path/to/cv.json --out result.json
+```
+
+其他实验脚本的调用方式相同：
+
+- `src/borderline.py`
+- `src/Strength_Test1.py`
+- `src/Strength_Test2.py`
+- `src/Strength_Test3.py`
+- `src/Policy_Gap_Test.py`
+
+可选参数：
+
+- `--model`
+- `--temperature`
+- `--out`
+
+## API 配置
+
+默认配置写在 [`src/llm_api.py`](src/llm_api.py) 中：
+
+- 默认模型：`gpt-5.2`
+- 默认温度：`0.2`
+- 默认重试次数：`2`
+
+支持的常用环境变量包括：
+
 - `OPENAI_API_KEY`
-- `OPENAI_BASE_URL` or `RECRUITMENT_API_BASE_URL`
+- `RECRUITMENT_API_KEY`
+- `OPENAI_BASE_URL`
+- `RECRUITMENT_API_BASE_URL`
 - `RECRUITMENT_API_MODEL`
+- `OPENAI_MODEL`
 - `RECRUITMENT_API_TEMPERATURE`
+- `OPENAI_TEMPERATURE`
 - `RECRUITMENT_API_TIMEOUT`
+- `OPENAI_TIMEOUT`
 - `RECRUITMENT_API_MAX_RETRIES`
-- `OPENAI_ORG_ID` / `RECRUITMENT_API_ORG`
-- `OPENAI_PROJECT` / `RECRUITMENT_API_PROJECT`
+- `OPENAI_MAX_RETRIES`
+- `OPENAI_ORG_ID`
+- `RECRUITMENT_API_ORG`
+- `OPENAI_PROJECT`
+- `RECRUITMENT_API_PROJECT`
 
-CLI `--model` and `--temperature` are still supported, but their defaults now come from `api_settings.json`.
+## 结果格式说明
+
+单候选人输出的核心字段包括：
+
+- `candidate_id`
+- `total_score`
+- `subscores`
+- `recommendation`
+- `top_strengths`
+- `main_gaps`
+- `evidence_trace`
+- `final_rationale`
+
+推荐标签固定为以下 4 种之一：
+
+- `Strong Interview`
+- `Interview`
+- `Borderline`
+- `Do Not Interview`
+
+## 常见注意事项
+
+- `run_all.py` 没有 CLI 参数，默认直接跑完整流程。
+- 运行全量实验前会重新执行一次拆分脚本，因此 `data/inputs/CV/` 和 `data/inputs/JD/` 下的同名产物可能被重新生成或覆盖。
+- 如果某个实验返回的不是合法 JSON，原始模型文本会写入项目根目录下的 `*.raw.txt` 文件，方便排查。
+- 群体分析按去掉 `_A/_B/_C` 后的基础候选人 ID 做匹配。
+- 当前代码库里没有 `consistency_audit.py` 这一步，流水线会在行业 summary 和群体分析后结束。
+
+## 主要代码入口
+
+- [`run_all.py`](run_all.py)
+- [`data/inputs/rawdata/split.py`](data/inputs/rawdata/split.py)
+- [`src/exact_single_candidate_eval.py`](src/exact_single_candidate_eval.py)
+- [`src/Policy_Gap_Test.py`](src/Policy_Gap_Test.py)
+- [`src/common_gender_analysis.py`](src/common_gender_analysis.py)

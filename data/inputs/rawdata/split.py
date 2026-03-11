@@ -10,14 +10,18 @@ Single-file runner for:
 
 Fixed project-relative paths:
 - CV input:  data/inputs/rawdata/CV.json
+- JD input (legacy):  data/inputs/rawdata/JD.json
+- JD input (txt mode): data/inputs/rawdata/*job_descriptions.txt
 - CV output: data/inputs/CV/
-- JD input:  data/inputs/rawdata/JD.json
 - JD output: data/inputs/JD/
 
 Behavior (no CLI args needed):
 - Always auto-detect the project root by walking upward from the script location.
 - Always process CV and write outputs under data/inputs/CV/
-- Always process JD and write outputs under data/inputs/JD/
+- JD supports two modes:
+  * legacy JSON mode: JD.json with occupations keyed by industry
+  * txt mode: one txt file per industry, each containing many SOC blocks
+- If txt JD files are found, txt mode is preferred automatically.
 - CV and JD always use the same canonical industry directory names.
 - Only relative paths are used inside the code.
 """
@@ -35,6 +39,21 @@ REL_CV_INPUT_PATH = REL_RAWDATA_DIR / "CV.json"
 REL_JD_INPUT_PATH = REL_RAWDATA_DIR / "JD.json"
 REL_CV_OUTPUT_ROOT = Path("data") / "inputs" / "CV"
 REL_JD_OUTPUT_ROOT = Path("data") / "inputs" / "JD"
+
+TXT_JD_FILENAMES = {
+    "construction_job_descriptions.txt": "Construction",
+    "it_job_descriptions.txt": "IT",
+    "nursing_job_descriptions.txt": "Nursing",
+}
+TXT_SECTION_HEADERS = {
+    "About the Role",
+    "What You'll Do",
+    "Tools & Technology",
+    "Education & Experience",
+    "Work Environment",
+}
+SOC_HEADER_RE = re.compile(r"^SOC\s+Code:\s*([^\n]+?)\s*$", re.IGNORECASE | re.MULTILINE)
+PAREN_CATEGORY_RE = re.compile(r"^(.*?)\s*\((.*?)\)\s*$")
 
 INDUSTRY_CANONICAL_MAP = {
     "software & it services": "Software_&_IT_Services",
@@ -71,11 +90,9 @@ def safe_slug(text: Any) -> str:
     return s or "unknown"
 
 
-
 def base_id(candidate_id: str) -> str:
     s = str(candidate_id or "").strip()
     return re.sub(r"_[A-Za-z0-9]+$", "", s)
-
 
 
 def variant_rank(candidate_id: str) -> int:
@@ -90,22 +107,18 @@ def variant_rank(candidate_id: str) -> int:
     return 99
 
 
-
 def canonical_industry_name(raw: Any) -> str:
     s = str(raw or "unknown").strip()
     key = re.sub(r"\s+", " ", s.lower())
     return INDUSTRY_CANONICAL_MAP.get(key, safe_slug(s))
 
 
-
 def industry_dir_name(raw: Any) -> str:
     return safe_slug(canonical_industry_name(raw))
 
 
-
 def load_json(path: Path) -> Any:
     return json.loads(path.read_text(encoding="utf-8"))
-
 
 
 def load_candidates(path: Path) -> List[Dict[str, Any]]:
@@ -125,7 +138,6 @@ def load_candidates(path: Path) -> List[Dict[str, Any]]:
     return [x for x in rows if isinstance(x, dict)]
 
 
-
 def load_jd(path: Path) -> Dict[str, Any]:
     data = load_json(path)
     if not isinstance(data, dict):
@@ -135,14 +147,12 @@ def load_jd(path: Path) -> Dict[str, Any]:
     return data
 
 
-
 def remove_gender_fields(rec: Dict[str, Any]) -> Dict[str, Any]:
     out = copy.deepcopy(rec)
     for k in list(out.keys()):
         if str(k).lower() in GENDER_KEYS:
             out.pop(k, None)
     return out
-
 
 
 def remove_pronouns_and_gender_fields(rec: Dict[str, Any]) -> Dict[str, Any]:
@@ -160,7 +170,6 @@ def remove_pronouns_and_gender_fields(rec: Dict[str, Any]) -> Dict[str, Any]:
     return out
 
 
-
 def build_pronouns(rows: List[Dict[str, Any]]) -> Tuple[List[Dict[str, Any]], Dict[str, Any]]:
     vals = []
     for rec in rows:
@@ -174,11 +183,9 @@ def build_pronouns(rows: List[Dict[str, Any]]) -> Tuple[List[Dict[str, Any]], Di
     return vals, {"count": len(vals)}
 
 
-
 def build_gender(rows: List[Dict[str, Any]]) -> Tuple[List[Dict[str, Any]], Dict[str, Any]]:
     vals = [{"candidate_id": rec.get("candidate_id"), "gender": rec.get("gender")} for rec in rows]
     return vals, {"count": len(vals)}
-
 
 
 def write_candidate_files(records: List[Dict[str, Any]], out_dir: Path) -> int:
@@ -196,7 +203,6 @@ def write_candidate_files(records: List[Dict[str, Any]], out_dir: Path) -> int:
         (out_dir / fname).write_text(json.dumps(rec, ensure_ascii=False, indent=2), encoding="utf-8")
         written += 1
     return written
-
 
 
 def split_cv_and_write(rows: List[Dict[str, Any]], out_root: Path) -> Dict[str, Any]:
@@ -303,7 +309,6 @@ def split_cv_and_write(rows: List[Dict[str, Any]], out_root: Path) -> Dict[str, 
     return manifest_industries
 
 
-
 def write_cv_exports(rows: List[Dict[str, Any]], out_root: Path) -> Dict[str, Any]:
     export_info: Dict[str, Any] = {}
 
@@ -334,7 +339,6 @@ def write_cv_exports(rows: List[Dict[str, Any]], out_root: Path) -> Dict[str, An
     return export_info
 
 
-
 def extract_soc_code(job: Dict[str, Any]) -> str:
     if not isinstance(job, dict):
         return "unknown_soc_code"
@@ -345,7 +349,6 @@ def extract_soc_code(job: Dict[str, Any]) -> str:
     return "unknown_soc_code"
 
 
-
 def soc_code_filename_token(value: Any) -> str:
     s = str(value or "").strip()
     if not s:
@@ -353,6 +356,121 @@ def soc_code_filename_token(value: Any) -> str:
     token = re.sub(r"[^A-Za-z0-9]+", "", s)
     return token or "unknown_soc_code"
 
+
+def parse_text_bullets(block: str) -> List[str]:
+    out: List[str] = []
+    for line in block.splitlines():
+        s = line.strip()
+        if not s:
+            continue
+        s = re.sub(r"^[\-•\*]+\s*", "", s)
+        out.append(s)
+    return out
+
+
+def parse_tools(block: str) -> List[Dict[str, Any]]:
+    tools: List[Dict[str, Any]] = []
+    for line in parse_text_bullets(block):
+        if ":" in line:
+            category, rest = line.split(":", 1)
+            category = category.strip()
+            rest = rest.strip()
+            if rest:
+                for item in [x.strip() for x in rest.split(",") if x.strip()]:
+                    tools.append({"category": category, "example": item})
+            else:
+                tools.append({"category": category, "example": ""})
+            continue
+        m = PAREN_CATEGORY_RE.match(line)
+        if m:
+            example = m.group(1).strip()
+            category = m.group(2).strip()
+            tools.append({"category": category, "example": example})
+        else:
+            tools.append({"category": "General", "example": line})
+    return tools
+
+
+def parse_education_requirements(block: str) -> Dict[str, Any]:
+    edu: Dict[str, Any] = {}
+    for line in parse_text_bullets(block):
+        if ":" in line:
+            key, value = line.split(":", 1)
+            key = key.strip()
+            value = value.strip()
+            parts = [x.strip() for x in re.split(r"\s+or\s+|\s*;\s*", value) if x.strip()]
+            edu[key] = parts if parts else value
+        else:
+            edu.setdefault("notes", []).append(line)
+    return edu
+
+
+def parse_section_map(section_text: str) -> Dict[str, str]:
+    section_map: Dict[str, str] = {}
+    current_header: str | None = None
+    current_lines: List[str] = []
+    for raw_line in section_text.splitlines():
+        line = raw_line.rstrip()
+        stripped = line.strip()
+        if stripped in TXT_SECTION_HEADERS:
+            if current_header is not None:
+                section_map[current_header] = "\n".join(current_lines).strip()
+            current_header = stripped
+            current_lines = []
+            continue
+        if current_header is not None:
+            current_lines.append(line)
+    if current_header is not None:
+        section_map[current_header] = "\n".join(current_lines).strip()
+    return section_map
+
+
+def parse_jd_txt_file(path: Path, raw_industry: str) -> List[Dict[str, Any]]:
+    text = path.read_text(encoding="utf-8")
+    matches = list(SOC_HEADER_RE.finditer(text))
+    jobs: List[Dict[str, Any]] = []
+
+    for idx, match in enumerate(matches):
+        start = match.start()
+        end = matches[idx + 1].start() if idx + 1 < len(matches) else len(text)
+        block = text[start:end].strip()
+        soc_code = match.group(1).strip()
+
+        # Keep the JD body as one intact content block.
+        # Only split into two fields: soc_code + content.
+        # content preserves title + all subsequent section text, without further parsing.
+        content = block[len(match.group(0)):].strip()
+
+        jobs.append({
+            "soc_code": soc_code,
+            "content": content,
+        })
+
+    return jobs
+
+
+def discover_txt_jd_inputs(project_root: Path) -> List[Tuple[str, Path]]:
+    raw_dir = project_root / REL_RAWDATA_DIR
+    found: List[Tuple[str, Path]] = []
+    for filename, industry in TXT_JD_FILENAMES.items():
+        candidate = raw_dir / filename
+        if candidate.exists():
+            found.append((industry, candidate))
+    return found
+
+
+def load_jd_from_txt_inputs(project_root: Path) -> Dict[str, Any]:
+    txt_inputs = discover_txt_jd_inputs(project_root)
+    occupations: Dict[str, List[Dict[str, Any]]] = {}
+    sources: Dict[str, str] = {}
+    for raw_industry, path in txt_inputs:
+        occupations[raw_industry] = parse_jd_txt_file(path, raw_industry)
+        sources[raw_industry] = str(path.relative_to(project_root))
+    return {
+        "occupations": occupations,
+        "_input_mode": "txt",
+        "_txt_sources": sources,
+    }
 
 
 def split_jd_and_write(jd_data: Dict[str, Any], out_root: Path) -> Dict[str, Any]:
@@ -377,14 +495,12 @@ def split_jd_and_write(jd_data: Dict[str, Any], out_root: Path) -> Dict[str, Any
         ind_dir = out_root / slug
         ind_dir.mkdir(parents=True, exist_ok=True)
 
-        # Industry-level JD: plain occupation list only.
         output_name = f"{slug}_jd.json"
         (ind_dir / output_name).write_text(
             json.dumps(bucket["jobs"], ensure_ascii=False, indent=2),
             encoding="utf-8",
         )
 
-        # Per-soc_code JD: plain occupation object if unique, otherwise plain list.
         single_dir = ind_dir / "single"
         single_dir.mkdir(parents=True, exist_ok=True)
 
@@ -423,7 +539,6 @@ def split_jd_and_write(jd_data: Dict[str, Any], out_root: Path) -> Dict[str, Any
     return manifest_industries
 
 
-
 def find_project_root(start: Path) -> Path:
     """Walk upward from the script location until the fixed rawdata directory exists."""
     for base in (start, *start.parents):
@@ -435,14 +550,12 @@ def find_project_root(start: Path) -> Path:
     )
 
 
-
 def ensure_input_exists(path: Path, rel_path: Path) -> None:
     if not path.exists():
         raise FileNotFoundError(
             f"Input file not found: {path}\n"
             f"Please ensure the file exists at project-relative path: {rel_path.as_posix()}"
         )
-
 
 
 def main() -> None:
@@ -455,13 +568,22 @@ def main() -> None:
     jd_out_root = project_root / REL_JD_OUTPUT_ROOT
 
     ensure_input_exists(cv_inp, REL_CV_INPUT_PATH)
-    ensure_input_exists(jd_inp, REL_JD_INPUT_PATH)
 
     cv_out_root.mkdir(parents=True, exist_ok=True)
     jd_out_root.mkdir(parents=True, exist_ok=True)
 
     cv_rows = load_candidates(cv_inp)
-    jd_data = load_jd(jd_inp)
+
+    txt_inputs = discover_txt_jd_inputs(project_root)
+    if txt_inputs:
+        jd_data = load_jd_from_txt_inputs(project_root)
+        jd_input_desc: Any = jd_data.get("_txt_sources", {})
+        jd_mode_note = "TXT mode is active because recognized *job_descriptions.txt files were found."
+    else:
+        ensure_input_exists(jd_inp, REL_JD_INPUT_PATH)
+        jd_data = load_jd(jd_inp)
+        jd_input_desc = REL_JD_INPUT_PATH.as_posix()
+        jd_mode_note = "Legacy JSON mode is active because no recognized JD txt files were found."
 
     cv_manifest: Dict[str, Any] = {
         "input_file": REL_CV_INPUT_PATH.as_posix(),
@@ -481,15 +603,16 @@ def main() -> None:
     )
 
     jd_manifest: Dict[str, Any] = {
-        "input_file": REL_JD_INPUT_PATH.as_posix(),
+        "input_file": jd_input_desc,
         "output_root": REL_JD_OUTPUT_ROOT.as_posix(),
         "industries": split_jd_and_write(jd_data, jd_out_root),
         "notes": [
             "Paths are fixed in code and use project-relative locations.",
+            jd_mode_note,
             "JD is split by industries under the occupations object.",
-            "Industry-level JD files contain only the occupation list.",
-            "Per-soc_code JD files contain only the occupation object when unique, otherwise a plain list.",
-            "Wrapper blocks like metadata / industry / source_industries are removed from split JD files.",
+            "Industry-level JD files contain only a plain list of {soc_code, content} objects.",
+            "Per-soc_code JD files contain only {soc_code, content} when unique, otherwise a plain list of the same shape.",
+            "Single JD content is not further split into title/tasks/tools/etc.; it is preserved as one content string.",
             "CV and JD share the same canonical industry directory naming logic.",
         ],
     }
@@ -500,7 +623,7 @@ def main() -> None:
     print(f"Project root: {project_root}")
     print(f"Done. CV input: {REL_CV_INPUT_PATH.as_posix()}")
     print(f"Done. CV output root: {REL_CV_OUTPUT_ROOT.as_posix()}")
-    print(f"Done. JD input: {REL_JD_INPUT_PATH.as_posix()}")
+    print(f"Done. JD input: {jd_input_desc}")
     print(f"Done. JD output root: {REL_JD_OUTPUT_ROOT.as_posix()}")
     print(f"- CV manifest: {(REL_CV_OUTPUT_ROOT / 'split_manifest.json').as_posix()}")
     print(f"- JD manifest: {(REL_JD_OUTPUT_ROOT / 'split_manifest.json').as_posix()}")

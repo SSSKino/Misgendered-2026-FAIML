@@ -1,136 +1,20 @@
 {
-  "input_file": "data/inputs/rawdata/JD.json",
+  "input_file": {
+    "Construction": "data\\inputs\\rawdata\\construction_job_descriptions.txt",
+    "IT": "data\\inputs\\rawdata\\it_job_descriptions.txt",
+    "Nursing": "data\\inputs\\rawdata\\nursing_job_descriptions.txt"
+  },
   "output_root": "data/inputs/JD",
   "industries": {
-    "IT": {
-      "industry_slug": "IT",
-      "source_industries": [
-        "IT"
-      ],
-      "occupation_count": 18,
-      "output_file": "IT_jd.json",
-      "output_format": "list",
-      "soc_code_count": 18,
-      "soc_code_outputs": {
-        "11302100": {
-          "soc_code": "11-3021.00",
-          "occupation_count": 1,
-          "output_file": "single/IT_soc_code_11302100_jd.json",
-          "format": "object"
-        },
-        "15121100": {
-          "soc_code": "15-1211.00",
-          "occupation_count": 1,
-          "output_file": "single/IT_soc_code_15121100_jd.json",
-          "format": "object"
-        },
-        "15121101": {
-          "soc_code": "15-1211.01",
-          "occupation_count": 1,
-          "output_file": "single/IT_soc_code_15121101_jd.json",
-          "format": "object"
-        },
-        "15121200": {
-          "soc_code": "15-1212.00",
-          "occupation_count": 1,
-          "output_file": "single/IT_soc_code_15121200_jd.json",
-          "format": "object"
-        },
-        "15122100": {
-          "soc_code": "15-1221.00",
-          "occupation_count": 1,
-          "output_file": "single/IT_soc_code_15122100_jd.json",
-          "format": "object"
-        },
-        "15123100": {
-          "soc_code": "15-1231.00",
-          "occupation_count": 1,
-          "output_file": "single/IT_soc_code_15123100_jd.json",
-          "format": "object"
-        },
-        "15123200": {
-          "soc_code": "15-1232.00",
-          "occupation_count": 1,
-          "output_file": "single/IT_soc_code_15123200_jd.json",
-          "format": "object"
-        },
-        "15124100": {
-          "soc_code": "15-1241.00",
-          "occupation_count": 1,
-          "output_file": "single/IT_soc_code_15124100_jd.json",
-          "format": "object"
-        },
-        "15124101": {
-          "soc_code": "15-1241.01",
-          "occupation_count": 1,
-          "output_file": "single/IT_soc_code_15124101_jd.json",
-          "format": "object"
-        },
-        "15124200": {
-          "soc_code": "15-1242.00",
-          "occupation_count": 1,
-          "output_file": "single/IT_soc_code_15124200_jd.json",
-          "format": "object"
-        },
-        "15124300": {
-          "soc_code": "15-1243.00",
-          "occupation_count": 1,
-          "output_file": "single/IT_soc_code_15124300_jd.json",
-          "format": "object"
-        },
-        "15124301": {
-          "soc_code": "15-1243.01",
-          "occupation_count": 1,
-          "output_file": "single/IT_soc_code_15124301_jd.json",
-          "format": "object"
-        },
-        "15124400": {
-          "soc_code": "15-1244.00",
-          "occupation_count": 1,
-          "output_file": "single/IT_soc_code_15124400_jd.json",
-          "format": "object"
-        },
-        "15125100": {
-          "soc_code": "15-1251.00",
-          "occupation_count": 1,
-          "output_file": "single/IT_soc_code_15125100_jd.json",
-          "format": "object"
-        },
-        "15125200": {
-          "soc_code": "15-1252.00",
-          "occupation_count": 1,
-          "output_file": "single/IT_soc_code_15125200_jd.json",
-          "format": "object"
-        },
-        "15125300": {
-          "soc_code": "15-1253.00",
-          "occupation_count": 1,
-          "output_file": "single/IT_soc_code_15125300_jd.json",
-          "format": "object"
-        },
-        "15125400": {
-          "soc_code": "15-1254.00",
-          "occupation_count": 1,
-          "output_file": "single/IT_soc_code_15125400_jd.json",
-          "format": "object"
-        },
-        "15125500": {
-          "soc_code": "15-1255.00",
-          "occupation_count": 1,
-          "output_file": "single/IT_soc_code_15125500_jd.json",
-          "format": "object"
-        }
-      }
-    },
     "Construction": {
       "industry_slug": "Construction",
       "source_industries": [
         "Construction"
       ],
-      "occupation_count": 18,
+      "occupation_count": 20,
       "output_file": "Construction_jd.json",
       "output_format": "list",
-      "soc_code_count": 18,
+      "soc_code_count": 20,
       "soc_code_outputs": {
         "11902100": {
           "soc_code": "11-9021.00",
@@ -239,6 +123,150 @@
           "occupation_count": 1,
           "output_file": "single/Construction_soc_code_47216100_jd.json",
           "format": "object"
+        },
+        "47217100": {
+          "soc_code": "47-2171.00",
+          "occupation_count": 1,
+          "output_file": "single/Construction_soc_code_47217100_jd.json",
+          "format": "object"
+        },
+        "47218100": {
+          "soc_code": "47-2181.00",
+          "occupation_count": 1,
+          "output_file": "single/Construction_soc_code_47218100_jd.json",
+          "format": "object"
+        }
+      }
+    },
+    "IT": {
+      "industry_slug": "IT",
+      "source_industries": [
+        "IT"
+      ],
+      "occupation_count": 20,
+      "output_file": "IT_jd.json",
+      "output_format": "list",
+      "soc_code_count": 20,
+      "soc_code_outputs": {
+        "11302100": {
+          "soc_code": "11-3021.00",
+          "occupation_count": 1,
+          "output_file": "single/IT_soc_code_11302100_jd.json",
+          "format": "object"
+        },
+        "15121100": {
+          "soc_code": "15-1211.00",
+          "occupation_count": 1,
+          "output_file": "single/IT_soc_code_15121100_jd.json",
+          "format": "object"
+        },
+        "15121101": {
+          "soc_code": "15-1211.01",
+          "occupation_count": 1,
+          "output_file": "single/IT_soc_code_15121101_jd.json",
+          "format": "object"
+        },
+        "15121200": {
+          "soc_code": "15-1212.00",
+          "occupation_count": 1,
+          "output_file": "single/IT_soc_code_15121200_jd.json",
+          "format": "object"
+        },
+        "15122100": {
+          "soc_code": "15-1221.00",
+          "occupation_count": 1,
+          "output_file": "single/IT_soc_code_15122100_jd.json",
+          "format": "object"
+        },
+        "15123100": {
+          "soc_code": "15-1231.00",
+          "occupation_count": 1,
+          "output_file": "single/IT_soc_code_15123100_jd.json",
+          "format": "object"
+        },
+        "15123200": {
+          "soc_code": "15-1232.00",
+          "occupation_count": 1,
+          "output_file": "single/IT_soc_code_15123200_jd.json",
+          "format": "object"
+        },
+        "15124100": {
+          "soc_code": "15-1241.00",
+          "occupation_count": 1,
+          "output_file": "single/IT_soc_code_15124100_jd.json",
+          "format": "object"
+        },
+        "15124101": {
+          "soc_code": "15-1241.01",
+          "occupation_count": 1,
+          "output_file": "single/IT_soc_code_15124101_jd.json",
+          "format": "object"
+        },
+        "15124200": {
+          "soc_code": "15-1242.00",
+          "occupation_count": 1,
+          "output_file": "single/IT_soc_code_15124200_jd.json",
+          "format": "object"
+        },
+        "15124300": {
+          "soc_code": "15-1243.00",
+          "occupation_count": 1,
+          "output_file": "single/IT_soc_code_15124300_jd.json",
+          "format": "object"
+        },
+        "15124301": {
+          "soc_code": "15-1243.01",
+          "occupation_count": 1,
+          "output_file": "single/IT_soc_code_15124301_jd.json",
+          "format": "object"
+        },
+        "15124400": {
+          "soc_code": "15-1244.00",
+          "occupation_count": 1,
+          "output_file": "single/IT_soc_code_15124400_jd.json",
+          "format": "object"
+        },
+        "15125100": {
+          "soc_code": "15-1251.00",
+          "occupation_count": 1,
+          "output_file": "single/IT_soc_code_15125100_jd.json",
+          "format": "object"
+        },
+        "15125200": {
+          "soc_code": "15-1252.00",
+          "occupation_count": 1,
+          "output_file": "single/IT_soc_code_15125200_jd.json",
+          "format": "object"
+        },
+        "15125300": {
+          "soc_code": "15-1253.00",
+          "occupation_count": 1,
+          "output_file": "single/IT_soc_code_15125300_jd.json",
+          "format": "object"
+        },
+        "15125400": {
+          "soc_code": "15-1254.00",
+          "occupation_count": 1,
+          "output_file": "single/IT_soc_code_15125400_jd.json",
+          "format": "object"
+        },
+        "15125500": {
+          "soc_code": "15-1255.00",
+          "occupation_count": 1,
+          "output_file": "single/IT_soc_code_15125500_jd.json",
+          "format": "object"
+        },
+        "15125501": {
+          "soc_code": "15-1255.01",
+          "occupation_count": 1,
+          "output_file": "single/IT_soc_code_15125501_jd.json",
+          "format": "object"
+        },
+        "15129900": {
+          "soc_code": "15-1299.00",
+          "occupation_count": 1,
+          "output_file": "single/IT_soc_code_15129900_jd.json",
+          "format": "object"
         }
       }
     },
@@ -247,10 +275,10 @@
       "source_industries": [
         "Nursing"
       ],
-      "occupation_count": 18,
+      "occupation_count": 20,
       "output_file": "Nursing_jd.json",
       "output_format": "list",
-      "soc_code_count": 18,
+      "soc_code_count": 20,
       "soc_code_outputs": {
         "29112200": {
           "soc_code": "29-1122.00",
@@ -359,16 +387,29 @@
           "occupation_count": 1,
           "output_file": "single/Nursing_soc_code_29909200_jd.json",
           "format": "object"
+        },
+        "31112100": {
+          "soc_code": "31-1121.00",
+          "occupation_count": 1,
+          "output_file": "single/Nursing_soc_code_31112100_jd.json",
+          "format": "object"
+        },
+        "31113100": {
+          "soc_code": "31-1131.00",
+          "occupation_count": 1,
+          "output_file": "single/Nursing_soc_code_31113100_jd.json",
+          "format": "object"
         }
       }
     }
   },
   "notes": [
     "Paths are fixed in code and use project-relative locations.",
+    "TXT mode is active because recognized *job_descriptions.txt files were found.",
     "JD is split by industries under the occupations object.",
-    "Industry-level JD files contain only the occupation list.",
-    "Per-soc_code JD files contain only the occupation object when unique, otherwise a plain list.",
-    "Wrapper blocks like metadata / industry / source_industries are removed from split JD files.",
+    "Industry-level JD files contain only a plain list of {soc_code, content} objects.",
+    "Per-soc_code JD files contain only {soc_code, content} when unique, otherwise a plain list of the same shape.",
+    "Single JD content is not further split into title/tasks/tools/etc.; it is preserved as one content string.",
     "CV and JD share the same canonical industry directory naming logic."
   ]
 }
