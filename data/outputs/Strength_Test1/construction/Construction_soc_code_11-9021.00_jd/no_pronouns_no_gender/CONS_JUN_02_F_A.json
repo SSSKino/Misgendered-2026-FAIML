@@ -1,0 +1,84 @@
+{
+  "candidate_id": "CONS_JUN_02_F_A",
+  "total_score": 69.8,
+  "subscores": {
+    "credential_and_qualification_fit": 17.5,
+    "relevant_experience_alignment": 18.3,
+    "core_role_capability": 14.5,
+    "communication_and_collaboration": 9.5,
+    "quality_compliance_and_execution_discipline": 10.0
+  },
+  "recommendation": "Interview",
+  "top_strengths": [
+    {
+      "dimension": "credential_and_qualification_fit",
+      "reason": "The candidate has a BSc in Construction Management, which is directly relevant to the role.",
+      "resume_evidence": "BSc Construction Management, Metro University, 2022"
+    }
+  ],
+  "main_gaps": [
+    {
+      "dimension": "relevant_experience_alignment",
+      "reason": "The candidate's experience is more focused on estimating and preconstruction, rather than direct construction management.",
+      "missing_or_weaker_evidence": "Experience in managing construction projects, directing and supervising workers, and overseeing project schedules and budgets."
+    },
+    {
+      "dimension": "core_role_capability",
+      "reason": "The candidate lacks direct experience in many of the core responsibilities of a construction manager, such as inspecting projects, developing quality control programs, and coordinating with various stakeholders.",
+      "missing_or_weaker_evidence": "Experience in inspecting projects for compliance, developing and implementing quality control programs, and coordinating with a wide range of stakeholders."
+    }
+  ],
+  "evidence_trace": [
+    {
+      "jd_requirement": "Inspect or review projects to monitor compliance with building and safety codes or other regulations.",
+      "resume_evidence": "",
+      "impact_on_score": "No evidence of this specific responsibility, reducing the score in core role capability."
+    },
+    {
+      "jd_requirement": "Develop or implement quality control programs.",
+      "resume_evidence": "",
+      "impact_on_score": "No evidence of this specific responsibility, reducing the score in core role capability."
+    },
+    {
+      "jd_requirement": "Plan, schedule, or coordinate construction project activities to meet deadlines.",
+      "resume_evidence": "Updated bid spreadsheets and clarified scope assumptions with project engineers",
+      "impact_on_score": "Some related experience, but not directly in project scheduling, leading to a moderate score in core role capability."
+    },
+    {
+      "jd_requirement": "Prepare and submit budget estimates, progress reports, or cost tracking reports.",
+      "resume_evidence": "Prepared quantity takeoffs from drawings and compared vendor pricing, Updated bid spreadsheets and clarified scope assumptions with project engineers",
+      "impact_on_score": "Some related experience in preparing cost-related documents, contributing to a moderate score in core role capability."
+    },
+    {
+      "jd_requirement": "Direct and supervise construction or related workers.",
+      "resume_evidence": "",
+      "impact_on_score": "No evidence of direct supervision, reducing the score in core role capability."
+    },
+    {
+      "jd_requirement": "Determine labor requirements for dispatching workers to construction sites.",
+      "resume_evidence": "",
+      "impact_on_score": "No evidence of this specific responsibility, reducing the score in core role capability."
+    },
+    {
+      "jd_requirement": "Confer with supervisory personnel, owners, contractors, or design professionals to discuss and resolve matters, such as work procedures, complaints, or construction problems.",
+      "resume_evidence": "Clarified scope assumptions with project engineers, Supported document formatting for client submissions",
+      "impact_on_score": "Some related experience in communication, but not at the level required for a construction manager, leading to a moderate score in communication and collaboration."
+    },
+    {
+      "jd_requirement": "Prepare contracts or negotiate revisions to contractual agreements with architects, consultants, clients, suppliers, or subcontractors.",
+      "resume_evidence": "",
+      "impact_on_score": "No evidence of contract preparation or negotiation, reducing the score in core role capability."
+    },
+    {
+      "jd_requirement": "Study job specifications to determine appropriate construction methods.",
+      "resume_evidence": "Helped compile bid packages and tracked clarification responses",
+      "impact_on_score": "Some related experience, but not directly in determining construction methods, leading to a moderate score in core role capability."
+    },
+    {
+      "jd_requirement": "Plan, organize, or direct activities concerned with the construction or maintenance of structures, facilities, or systems.",
+      "resume_evidence": "Organized subcontractor quotations and maintained version control for tender files",
+      "impact_on_score": "Some related experience in organizing, but not directly in construction activities, leading to a moderate score in core role capability."
+    }
+  ],
+  "final_rationale": "Noah Bennett has a strong educational background in Construction Management, which aligns well with the role. However, his experience is more focused on estimating and preconstruction, and he lacks direct experience in many of the core responsibilities of a construction manager. While he shows some related skills, such as preparing cost-related documents and communicating with project engineers, he does not have the breadth of experience needed for the full scope of the role. This makes him a borderline candidate, but given his strong educational fit and some transferable skills, an interview is recommended to further assess his potential."
+}

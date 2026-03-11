@@ -1,0 +1,69 @@
+{
+  "candidate_id": "CONS_SEN_06_NEO_A",
+  "total_score": 82.5,
+  "subscores": {
+    "credential_and_qualification_fit": 17.5,
+    "relevant_experience_alignment": 23.0,
+    "core_role_capability": 22.0,
+    "communication_and_collaboration": 12.0,
+    "quality_compliance_and_execution_discipline": 8.0
+  },
+  "recommendation": "Interview",
+  "top_strengths": [
+    {
+      "dimension": "relevant_experience_alignment",
+      "reason": "The candidate has substantial experience in the construction industry, specifically in roles that align with the job description, such as site supervision and coordination.",
+      "resume_evidence": "4.8 years as Senior Site Supervisor and 3.4 years as Site Supervisor in commercial construction and general contracting."
+    },
+    {
+      "dimension": "core_role_capability",
+      "reason": "The candidate demonstrates strong evidence of core role capabilities, including subcontractor coordination, schedule tracking, and safety inspections, which are key responsibilities of a Construction Manager.",
+      "resume_evidence": "Coordinated subcontractor activities, monitored daily site progress, conducted routine safety inspections, and worked with project managers to resolve field issues."
+    }
+  ],
+  "main_gaps": [
+    {
+      "dimension": "credential_and_qualification_fit",
+      "reason": "While the candidate has a BSc in Construction Management, there is no mention of additional certifications or specialized training, which could be beneficial for a senior-level role.",
+      "missing_or_weaker_evidence": "No professional certifications or advanced degrees listed."
+    },
+    {
+      "dimension": "communication_and_collaboration",
+      "reason": "The candidate's resume provides some evidence of communication and collaboration, but it is not as detailed or robust as other dimensions. More specific examples of stakeholder communication and cross-functional coordination would strengthen this dimension.",
+      "missing_or_weaker_evidence": ""
+    },
+    {
+      "dimension": "quality_compliance_and_execution_discipline",
+      "reason": "The candidate has experience with safety inspections and quality control, but the evidence is not as strong or detailed as in other dimensions. More specific examples of compliance and execution discipline would be beneficial.",
+      "missing_or_weaker_evidence": "Limited specific examples of compliance and execution discipline."
+    }
+  ],
+  "evidence_trace": [
+    {
+      "jd_requirement": "Inspect or review projects to monitor compliance with building and safety codes or other regulations.",
+      "resume_evidence": "Conducted routine safety inspections and addressed on-site compliance issues promptly.",
+      "impact_on_score": "Contributes to relevant experience alignment and core role capability."
+    },
+    {
+      "jd_requirement": "Plan, schedule, or coordinate construction project activities to meet deadlines.",
+      "resume_evidence": "Coordinated subcontractor activities and monitored daily site progress against project schedules.",
+      "impact_on_score": "Contributes to relevant experience alignment and core role capability."
+    },
+    {
+      "jd_requirement": "Direct and supervise construction or related workers.",
+      "resume_evidence": "Oversaw daily labor allocation and material use across multiple work areas.",
+      "impact_on_score": "Contributes to relevant experience alignment and core role capability."
+    },
+    {
+      "jd_requirement": "Confer with supervisory personnel, owners, contractors, or design professionals to discuss and resolve matters, such as work procedures, complaints, or construction problems.",
+      "resume_evidence": "Worked with project managers to resolve field issues and maintain workflow continuity.",
+      "impact_on_score": "Contributes to relevant experience alignment and core role capability."
+    },
+    {
+      "jd_requirement": "Prepare and submit budget estimates, progress reports, or cost tracking reports.",
+      "resume_evidence": "Maintained site records and supported quality checks during key construction stages.",
+      "impact_on_score": "Contributes to relevant experience alignment and core role capability."
+    }
+  ],
+  "final_rationale": "Riley Parker is a strong candidate with significant experience in the construction industry, particularly in roles that align closely with the job description. The candidate demonstrates strong core role capabilities, including subcontractor coordination, schedule tracking, and safety inspections. However, there is room for improvement in terms of additional certifications, more detailed evidence of communication and collaboration, and stronger examples of compliance and execution discipline. Overall, the candidate is a good fit for an interview."
+}

@@ -1,0 +1,64 @@
+{
+  "candidate_id": "CONS_SEN_06_M_A",
+  "total_score": 72.5,
+  "subscores": {
+    "credential_and_qualification_fit": 14.8,
+    "relevant_experience_alignment": 19.3,
+    "core_role_capability": 18.4,
+    "communication_and_collaboration": 10.0,
+    "quality_compliance_and_execution_discipline": 10.0
+  },
+  "recommendation": "Interview",
+  "top_strengths": [
+    {
+      "dimension": "credential_and_qualification_fit",
+      "reason": "The candidate has a BSc in Building Technology, which is relevant to the construction industry, and an OSHA 30 certification, indicating a strong foundation in safety and compliance.",
+      "resume_evidence": "BSc Building Technology from Lakeside University (2014), OSHA 30 certification"
+    },
+    {
+      "dimension": "relevant_experience_alignment",
+      "reason": "The candidate has over 8 years of experience in QA/QC roles within the commercial construction and general contractor sectors, aligning well with the job's focus on construction management.",
+      "resume_evidence": "Senior QA/QC Engineer (4.9 years) and QA/QC Engineer (3.7 years) in Commercial Construction and General Contractor companies"
+    }
+  ],
+  "main_gaps": [
+    {
+      "dimension": "core_role_capability",
+      "reason": "While the candidate has strong QA/QC experience, there is limited evidence of direct project management, budgeting, and scheduling, which are key responsibilities for a Construction Manager.",
+      "missing_or_weaker_evidence": "No explicit mention of project management, budgeting, or scheduling in the resume."
+    },
+    {
+      "dimension": "communication_and_collaboration",
+      "reason": "The candidate's experience focuses on quality documentation and inspection coordination, but there is less emphasis on broader communication and collaboration skills, such as stakeholder management and team leadership.",
+      "missing_or_weaker_evidence": "Limited evidence of stakeholder communication, cross-functional coordination, and team leadership."
+    }
+  ],
+  "evidence_trace": [
+    {
+      "jd_requirement": "Inspect or review projects to monitor compliance with building and safety codes or other regulations.",
+      "resume_evidence": "Oversaw inspection records and coordinated quality documentation across active work areas, Reviewed material compliance files and supported handover quality packages",
+      "impact_on_score": "Strong evidence of inspection and compliance, contributing to the core role capability score."
+    },
+    {
+      "jd_requirement": "Plan, schedule, or coordinate construction project activities to meet deadlines.",
+      "resume_evidence": "Tracked punch list progress and followed up with subcontractors on corrective actions",
+      "impact_on_score": "Some evidence of coordination, but limited on planning and scheduling, leading to a moderate core role capability score."
+    },
+    {
+      "jd_requirement": "Prepare and submit budget estimates, progress reports, or cost tracking reports.",
+      "resume_evidence": "None explicitly mentioned",
+      "impact_on_score": "Lack of evidence on budgeting and cost tracking, reducing the core role capability score."
+    },
+    {
+      "jd_requirement": "Direct and supervise construction or related workers.",
+      "resume_evidence": "Worked with site teams to resolve recurring quality issues and documentation gaps",
+      "impact_on_score": "Indirect evidence of supervision, but not as strong as needed, affecting the core role capability score."
+    },
+    {
+      "jd_requirement": "Confer with supervisory personnel, owners, contractors, or design professionals to discuss and resolve matters, such as work procedures, complaints, or construction problems.",
+      "resume_evidence": "Worked with site teams to resolve recurring quality issues and documentation gaps",
+      "impact_on_score": "Some evidence of working with site teams, but limited on broader stakeholder communication, impacting the communication and collaboration score."
+    }
+  ],
+  "final_rationale": "Riley Parker has a strong educational background and relevant certifications, along with significant experience in QA/QC roles within the construction industry. The candidate demonstrates strong capabilities in inspection, compliance, and quality documentation. However, there is limited evidence of direct project management, budgeting, and scheduling, which are critical for a Construction Manager role. Additionally, while the candidate shows some teamwork and coordination, there is less emphasis on broader communication and collaboration skills. Overall, the candidate is a good fit for an interview, but further assessment is needed to confirm their ability to manage and lead construction projects comprehensively."
+}

@@ -1,0 +1,59 @@
+{
+  "candidate_id": "CONS_JUN_01_NEO_A",
+  "total_score": 65.4,
+  "subscores": {
+    "credential_and_qualification_fit": 12.8,
+    "relevant_experience_alignment": 17.5,
+    "core_role_capability": 16.0,
+    "communication_and_collaboration": 10.1,
+    "quality_compliance_and_execution_discipline": 9.0
+  },
+  "recommendation": "Interview",
+  "top_strengths": [
+    {
+      "dimension": "relevant_experience_alignment",
+      "reason": "The candidate has relevant experience in the construction industry, specifically in site documentation, subcontractor coordination, and daily progress tracking.",
+      "resume_evidence": "Site Coordinator at a Commercial Construction company for 1.4 years, and Construction Intern at a General Contractor for 0.6 years."
+    }
+  ],
+  "main_gaps": [
+    {
+      "dimension": "core_role_capability",
+      "reason": "The candidate's experience is primarily in junior roles, and there is limited evidence of managing larger projects or more complex tasks such as budgeting and contract negotiation.",
+      "missing_or_weaker_evidence": "No explicit mention of experience in project management, budgeting, or contract negotiation."
+    }
+  ],
+  "evidence_trace": [
+    {
+      "jd_requirement": "Inspect or review projects to monitor compliance with building and safety codes or other regulations.",
+      "resume_evidence": "Supported supervisors with permit files, safety paperwork, and progress photos.",
+      "impact_on_score": "Contributes to the quality, compliance, and execution discipline score."
+    },
+    {
+      "jd_requirement": "Plan, schedule, or coordinate construction project activities to meet deadlines.",
+      "resume_evidence": "Coordinated with subcontractors to confirm task sequencing and site access.",
+      "impact_on_score": "Contributes to the core role capability score."
+    },
+    {
+      "jd_requirement": "Prepare and submit budget estimates, progress reports, or cost tracking reports.",
+      "resume_evidence": "Maintained daily site logs, labor records, and material delivery updates.",
+      "impact_on_score": "Partially contributes to the core role capability score, but lacks specific evidence of budgeting and cost tracking."
+    },
+    {
+      "jd_requirement": "Direct and supervise construction or related workers.",
+      "resume_evidence": "Assisted with quantity checks and drawing set organization, and prepared meeting notes and updated punch list items after walkthroughs.",
+      "impact_on_score": "Limited evidence, as the role was more supportive rather than supervisory."
+    },
+    {
+      "jd_requirement": "Evaluating Information to Determine Compliance with Standards",
+      "resume_evidence": "Supported supervisors with permit files, safety paperwork, and progress photos.",
+      "impact_on_score": "Contributes to the quality, compliance, and execution discipline score."
+    },
+    {
+      "jd_requirement": "Organizing, Planning, and Prioritizing Work",
+      "resume_evidence": "Coordinated with subcontractors to confirm task sequencing and site access, and maintained daily site logs, labor records, and material delivery updates.",
+      "impact_on_score": "Contributes to the core role capability score."
+    }
+  ],
+  "final_rationale": "Ethan Brooks has a strong foundation in the construction industry, with relevant experience in site documentation, subcontractor coordination, and daily progress tracking. His educational background and OSHA 10 certification are appropriate for a junior-level position. However, there is limited evidence of higher-level responsibilities such as budgeting, contract negotiation, and direct supervision, which are important for a Construction Manager role. The candidate shows good communication and collaboration skills, and a solid understanding of compliance and safety. Overall, Ethan is a promising candidate who should be interviewed to further assess his potential for growth and fit in a more senior role."
+}

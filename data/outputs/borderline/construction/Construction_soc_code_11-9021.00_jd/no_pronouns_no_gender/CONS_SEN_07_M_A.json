@@ -1,0 +1,64 @@
+{
+  "candidate_id": "CONS_SEN_07_M_A",
+  "total_score": 65.4,
+  "subscores": {
+    "credential_and_qualification_fit": 12.8,
+    "relevant_experience_alignment": 18.9,
+    "core_role_capability": 13.7,
+    "communication_and_collaboration": 10.0,
+    "quality_compliance_and_execution_discipline": 10.0
+  },
+  "recommendation": "Interview",
+  "top_strengths": [
+    {
+      "dimension": "credential_and_qualification_fit",
+      "reason": "The candidate has a BSc in Architecture and Construction, which is relevant to the role of a Construction Manager.",
+      "resume_evidence": "BSc Architecture and Construction, Westfield University, 2013"
+    },
+    {
+      "dimension": "relevant_experience_alignment",
+      "reason": "The candidate has significant experience in the construction industry, particularly in document control and management, which is a critical aspect of construction project management.",
+      "resume_evidence": "Senior Document Control Lead, Commercial Construction, 4.8 years; Document Controller, General Contractor, 3.5 years"
+    }
+  ],
+  "main_gaps": [
+    {
+      "dimension": "core_role_capability",
+      "reason": "While the candidate has strong experience in document control, there is limited evidence of direct experience in managing construction projects, including planning, scheduling, budgeting, and overseeing construction activities.",
+      "missing_or_weaker_evidence": "No specific mention of project management, budgeting, or direct supervision of construction activities."
+    },
+    {
+      "dimension": "communication_and_collaboration",
+      "reason": "The candidate's experience in coordinating document distribution and maintaining project registers suggests good communication skills, but there is no explicit evidence of stakeholder communication, client interaction, or leadership communication.",
+      "missing_or_weaker_evidence": ""
+    }
+  ],
+  "evidence_trace": [
+    {
+      "jd_requirement": "Inspect or review projects to monitor compliance with building and safety codes or other regulations.",
+      "resume_evidence": "Managed revision control processes across drawings, transmittals, RFIs, and submittal packages",
+      "impact_on_score": "Partial evidence of monitoring and compliance, but not directly related to building and safety codes."
+    },
+    {
+      "jd_requirement": "Plan, schedule, or coordinate construction project activities to meet deadlines.",
+      "resume_evidence": "Coordinated document distribution between office, site, consultants, and subcontractors",
+      "impact_on_score": "Indirect evidence of coordination, but not specific to project planning and scheduling."
+    },
+    {
+      "jd_requirement": "Prepare and submit budget estimates, progress reports, or cost tracking reports.",
+      "resume_evidence": "Maintained project registers and supported closeout file completeness checks",
+      "impact_on_score": "Indirect evidence of record-keeping, but no specific mention of budgeting or cost tracking."
+    },
+    {
+      "jd_requirement": "Direct and supervise construction or related workers.",
+      "resume_evidence": "None",
+      "impact_on_score": "No evidence of direct supervision of construction workers."
+    },
+    {
+      "jd_requirement": "Confer with supervisory personnel, owners, contractors, or design professionals to discuss and resolve matters, such as work procedures, complaints, or construction problems.",
+      "resume_evidence": "Coordinated document distribution between office, site, consultants, and subcontractors",
+      "impact_on_score": "Indirect evidence of coordination, but not specific to resolving construction issues."
+    }
+  ],
+  "final_rationale": "Sofia Martinez has a relevant educational background and significant experience in the construction industry, particularly in document control and management. However, there is limited evidence of direct experience in managing construction projects, including planning, scheduling, budgeting, and overseeing construction activities. The candidate's experience in coordinating document distribution and maintaining project registers suggests good communication and collaboration skills, but there is no explicit evidence of stakeholder communication, client interaction, or leadership communication. Overall, the candidate shows potential but would benefit from more direct experience in core construction management tasks."
+}

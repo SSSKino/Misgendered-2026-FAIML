@@ -1,0 +1,69 @@
+{
+  "candidate_id": "CONS_SEN_09_N_A",
+  "total_score": 65.8,
+  "subscores": {
+    "credential_and_qualification_fit": 12.8,
+    "relevant_experience_alignment": 17.5,
+    "core_role_capability": 14.0,
+    "communication_and_collaboration": 10.5,
+    "quality_compliance_and_execution_discipline": 11.0
+  },
+  "recommendation": "Interview",
+  "top_strengths": [
+    {
+      "dimension": "credential_and_qualification_fit",
+      "reason": "The candidate has a BSc in Supply Chain and Construction, which is relevant to the construction industry.",
+      "resume_evidence": "BSc Supply Chain and Construction, North Coast University, 2013"
+    },
+    {
+      "dimension": "relevant_experience_alignment",
+      "reason": "The candidate has significant experience in procurement and coordination within the construction industry, which aligns with the role's need for project management and coordination.",
+      "resume_evidence": "Senior Procurement Coordinator, General Contractor, 4.9 years; Procurement Coordinator, General Contractor, 3.7 years"
+    }
+  ],
+  "main_gaps": [
+    {
+      "dimension": "core_role_capability",
+      "reason": "The candidate's experience is more focused on procurement and material management rather than direct construction management, such as planning, scheduling, and supervising construction activities.",
+      "missing_or_weaker_evidence": "Lack of specific experience in managing and directing construction projects, including budgeting, scheduling, and overseeing construction activities."
+    },
+    {
+      "dimension": "communication_and_collaboration",
+      "reason": "While the candidate has experience in coordinating with vendors and project teams, there is limited evidence of broader communication and collaboration skills, such as leading cross-functional teams or client interactions.",
+      "missing_or_weaker_evidence": "No explicit mention of leading cross-functional teams, client interactions, or stakeholder management."
+    }
+  ],
+  "evidence_trace": [
+    {
+      "jd_requirement": "Inspect or review projects to monitor compliance with building and safety codes or other regulations.",
+      "resume_evidence": "Managed procurement status across long-lead and routine materials for multiple active jobs; Coordinated vendor delivery commitments and communicated delays to project teams early",
+      "impact_on_score": "Partial evidence of monitoring and coordination, but not directly related to compliance and safety."
+    },
+    {
+      "jd_requirement": "Plan, schedule, or coordinate construction project activities to meet deadlines.",
+      "resume_evidence": "Coordinated vendor delivery commitments and communicated delays to project teams early; Maintained purchase records and supported quote comparison and package planning",
+      "impact_on_score": "Evidence of coordination and planning, but more focused on procurement rather than overall project management."
+    },
+    {
+      "jd_requirement": "Prepare and submit budget estimates, progress reports, or cost tracking reports.",
+      "resume_evidence": "Maintained purchase records and supported quote comparison and package planning",
+      "impact_on_score": "Some evidence of record-keeping and cost-related activities, but not directly related to budgeting and reporting."
+    },
+    {
+      "jd_requirement": "Direct and supervise construction or related workers.",
+      "resume_evidence": "None",
+      "impact_on_score": "No direct evidence of supervising construction workers."
+    },
+    {
+      "jd_requirement": "Determine labor requirements for dispatching workers to construction sites.",
+      "resume_evidence": "None",
+      "impact_on_score": "No direct evidence of determining labor requirements."
+    },
+    {
+      "jd_requirement": "Confer with supervisory personnel, owners, contractors, or design professionals to discuss and resolve matters, such as work procedures, complaints, or construction problems.",
+      "resume_evidence": "Worked with suppliers and site teams to reduce missed or incomplete deliveries",
+      "impact_on_score": "Some evidence of working with site teams, but not explicitly with supervisory personnel or resolving broader construction issues."
+    }
+  ],
+  "final_rationale": "Taylor Reed has a strong educational background in supply chain and construction, along with significant experience in procurement and coordination within the construction industry. However, the candidate's experience is more focused on procurement and material management rather than direct construction management. There is limited evidence of managing and directing construction projects, including budgeting, scheduling, and overseeing construction activities. The candidate also lacks explicit evidence of broader communication and collaboration skills, such as leading cross-functional teams or client interactions. Despite these gaps, the candidate's relevant experience and educational background make them a suitable candidate for an interview."
+}

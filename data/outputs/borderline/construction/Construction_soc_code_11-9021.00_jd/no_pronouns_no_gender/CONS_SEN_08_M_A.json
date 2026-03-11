@@ -1,0 +1,84 @@
+{
+  "candidate_id": "CONS_SEN_08_M_A",
+  "total_score": 65.4,
+  "subscores": {
+    "credential_and_qualification_fit": 12.0,
+    "relevant_experience_alignment": 17.5,
+    "core_role_capability": 15.9,
+    "communication_and_collaboration": 10.0,
+    "quality_compliance_and_execution_discipline": 10.0
+  },
+  "recommendation": "Interview",
+  "top_strengths": [
+    {
+      "dimension": "credential_and_qualification_fit",
+      "reason": "The candidate has a BSc in Occupational Safety and an OSHA 30 certification, which are relevant to the role.",
+      "resume_evidence": "BSc Occupational Safety from Central State University (2012), OSHA 30"
+    }
+  ],
+  "main_gaps": [
+    {
+      "dimension": "relevant_experience_alignment",
+      "reason": "The candidate's experience is primarily in safety coordination, which is important but not the full scope of a Construction Manager's role.",
+      "missing_or_weaker_evidence": "Experience in project management, budgeting, and overall construction project oversight is limited."
+    },
+    {
+      "dimension": "core_role_capability",
+      "reason": "The candidate's experience is focused on safety, but lacks evidence of broader construction management responsibilities such as planning, scheduling, and budgeting.",
+      "missing_or_weaker_evidence": "Specific experience in project planning, scheduling, and budgeting is not clearly demonstrated."
+    }
+  ],
+  "evidence_trace": [
+    {
+      "jd_requirement": "Inspect or review projects to monitor compliance with building and safety codes or other regulations.",
+      "resume_evidence": "Led routine site safety observations and coordinated corrective action follow-up with supervisors, Maintained toolbox talk records, PPE compliance reviews, and inspection documentation",
+      "impact_on_score": "This evidence supports the candidate's ability to inspect and review projects for safety compliance, contributing to the core role capability score."
+    },
+    {
+      "jd_requirement": "Develop or implement quality control programs.",
+      "resume_evidence": "Supported incident documentation and weekly trend reporting for project leadership, Improved closure rates for recurring site safety actions",
+      "impact_on_score": "This evidence shows the candidate's involvement in quality control and improvement, contributing to the quality, compliance, and execution discipline score."
+    },
+    {
+      "jd_requirement": "Plan, schedule, or coordinate construction project activities to meet deadlines.",
+      "resume_evidence": "No specific evidence of planning, scheduling, or coordinating construction project activities.",
+      "impact_on_score": "Lack of evidence in this area reduces the core role capability score."
+    },
+    {
+      "jd_requirement": "Prepare and submit budget estimates, progress reports, or cost tracking reports.",
+      "resume_evidence": "No specific evidence of preparing and submitting budget estimates, progress reports, or cost tracking reports.",
+      "impact_on_score": "Lack of evidence in this area reduces the core role capability score."
+    },
+    {
+      "jd_requirement": "Direct and supervise construction or related workers.",
+      "resume_evidence": "Worked with crews to improve housekeeping and daily compliance practices, Led routine site safety observations and coordinated corrective action follow-up with supervisors",
+      "impact_on_score": "This evidence shows some supervision and coordination, but it is more focused on safety than overall construction management, contributing partially to the core role capability score."
+    },
+    {
+      "jd_requirement": "Determine labor requirements for dispatching workers to construction sites.",
+      "resume_evidence": "No specific evidence of determining labor requirements for dispatching workers.",
+      "impact_on_score": "Lack of evidence in this area reduces the core role capability score."
+    },
+    {
+      "jd_requirement": "Confer with supervisory personnel, owners, contractors, or design professionals to discuss and resolve matters, such as work procedures, complaints, or construction problems.",
+      "resume_evidence": "Worked with crews to improve housekeeping and daily compliance practices, Supported incident documentation and weekly trend reporting for project leadership",
+      "impact_on_score": "This evidence shows some communication and collaboration, but it is more focused on safety than overall construction management, contributing partially to the communication and collaboration score."
+    },
+    {
+      "jd_requirement": "Prepare contracts or negotiate revisions to contractual agreements with architects, consultants, clients, suppliers, or subcontractors.",
+      "resume_evidence": "No specific evidence of preparing contracts or negotiating revisions to contractual agreements.",
+      "impact_on_score": "Lack of evidence in this area reduces the core role capability score."
+    },
+    {
+      "jd_requirement": "Study job specifications to determine appropriate construction methods.",
+      "resume_evidence": "No specific evidence of studying job specifications to determine appropriate construction methods.",
+      "impact_on_score": "Lack of evidence in this area reduces the core role capability score."
+    },
+    {
+      "jd_requirement": "Plan, organize, or direct activities concerned with the construction or maintenance of structures, facilities, or systems.",
+      "resume_evidence": "No specific evidence of planning, organizing, or directing activities concerned with the construction or maintenance of structures, facilities, or systems.",
+      "impact_on_score": "Lack of evidence in this area reduces the core role capability score."
+    }
+  ],
+  "final_rationale": "The candidate, Alex Kim, has a strong background in safety coordination, which is a critical aspect of the Construction Manager role. However, the resume lacks evidence of broader construction management responsibilities such as project planning, scheduling, and budgeting. The candidate's experience and skills in safety and compliance are valuable, but the role requires a more comprehensive set of skills. Therefore, while the candidate is a potential fit, further evaluation through an interview is recommended to assess their ability to handle the full scope of the role."
+}

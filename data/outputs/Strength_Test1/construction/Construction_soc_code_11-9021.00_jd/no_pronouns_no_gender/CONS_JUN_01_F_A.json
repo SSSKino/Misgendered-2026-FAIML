@@ -1,0 +1,64 @@
+{
+  "candidate_id": "CONS_JUN_01_F_A",
+  "total_score": 65.8,
+  "subscores": {
+    "credential_and_qualification_fit": 12.8,
+    "relevant_experience_alignment": 17.5,
+    "core_role_capability": 18.0,
+    "communication_and_collaboration": 10.5,
+    "quality_compliance_and_execution_discipline": 7.0
+  },
+  "recommendation": "Interview",
+  "top_strengths": [
+    {
+      "dimension": "relevant_experience_alignment",
+      "reason": "The candidate has relevant experience in the construction industry, specifically in site documentation, subcontractor coordination, and daily progress tracking.",
+      "resume_evidence": "Site Coordinator at a Commercial Construction company for 1.4 years, and Construction Intern at a General Contractor for 0.6 years."
+    },
+    {
+      "dimension": "core_role_capability",
+      "reason": "The candidate demonstrates core capabilities in managing site documentation, coordinating with subcontractors, and supporting supervisors with safety paperwork and progress photos.",
+      "resume_evidence": "Maintained daily site logs, labor records, and material delivery updates; Coordinated with subcontractors to confirm task sequencing and site access; Supported supervisors with permit files, safety paperwork, and progress photos."
+    }
+  ],
+  "main_gaps": [
+    {
+      "dimension": "credential_and_qualification_fit",
+      "reason": "The candidate has a Diploma in Construction Technology, which is relevant but not as strong as a Bachelor's degree, which is preferred for this role.",
+      "missing_or_weaker_evidence": "Diploma in Construction Technology from North City Technical College (2023)."
+    },
+    {
+      "dimension": "quality_compliance_and_execution_discipline",
+      "reason": "The candidate has limited evidence of quality control, compliance, and execution discipline, which are critical for a Construction Manager role.",
+      "missing_or_weaker_evidence": "No specific mention of developing or implementing quality control programs, or extensive experience in monitoring compliance with building and safety codes."
+    }
+  ],
+  "evidence_trace": [
+    {
+      "jd_requirement": "Inspect or review projects to monitor compliance with building and safety codes or other regulations.",
+      "resume_evidence": "Supported supervisors with permit files, safety paperwork, and progress photos.",
+      "impact_on_score": "Partial evidence, but not as strong as needed for a full score."
+    },
+    {
+      "jd_requirement": "Plan, schedule, or coordinate construction project activities to meet deadlines.",
+      "resume_evidence": "Coordinated with subcontractors to confirm task sequencing and site access; Maintained daily site logs, labor records, and material delivery updates.",
+      "impact_on_score": "Strong evidence, contributing to a higher score in relevant experience and core role capability."
+    },
+    {
+      "jd_requirement": "Prepare and submit budget estimates, progress reports, or cost tracking reports.",
+      "resume_evidence": "Maintained daily site logs, labor records, and material delivery updates.",
+      "impact_on_score": "Some evidence, but not as comprehensive as required for a full score."
+    },
+    {
+      "jd_requirement": "Direct and supervise construction or related workers.",
+      "resume_evidence": "Supported supervisors with permit files, safety paperwork, and progress photos.",
+      "impact_on_score": "Indirect evidence, as the candidate supported supervisors rather than directly supervising."
+    },
+    {
+      "jd_requirement": "Confer with supervisory personnel, owners, contractors, or design professionals to discuss and resolve matters, such as work procedures, complaints, or construction problems.",
+      "resume_evidence": "Coordinated with subcontractors to confirm task sequencing and site access.",
+      "impact_on_score": "Partial evidence, but not as strong as needed for a full score."
+    }
+  ],
+  "final_rationale": "Ethan Brooks is a junior candidate with relevant experience in the construction industry, particularly in site documentation, subcontractor coordination, and daily progress tracking. His experience aligns well with the role, and he demonstrates core capabilities in managing site documentation and supporting supervisors. However, his educational background (a diploma) is less robust compared to a Bachelor's degree, and there is limited evidence of quality control, compliance, and execution discipline. Overall, Ethan is a good fit for an interview, but further evaluation is needed to assess his readiness for a Construction Manager role."
+}

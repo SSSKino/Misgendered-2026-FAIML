@@ -1,0 +1,69 @@
+{
+  "candidate_id": "CONS_SEN_07_NEO_A",
+  "total_score": 82.5,
+  "subscores": {
+    "credential_and_qualification_fit": 16.0,
+    "relevant_experience_alignment": 22.5,
+    "core_role_capability": 20.0,
+    "communication_and_collaboration": 13.0,
+    "quality_compliance_and_execution_discipline": 11.0
+  },
+  "recommendation": "Interview",
+  "top_strengths": [
+    {
+      "dimension": "relevant_experience_alignment",
+      "reason": "The candidate has significant experience in construction planning and scheduling, which aligns well with the role of a Construction Manager.",
+      "resume_evidence": "Senior Planning Engineer at an Infrastructure Contractor for 4.8 years, and Planning Engineer at a Main Contractor for 3.5 years."
+    },
+    {
+      "dimension": "core_role_capability",
+      "reason": "The candidate demonstrates strong skills in construction scheduling, look-ahead planning, progress analysis, and milestone tracking, which are key responsibilities of a Construction Manager.",
+      "resume_evidence": "Prepared and updated construction schedules and short-term look-ahead plans, analyzed delays and progress trends, and worked with engineers and supervisors to align field progress with planned milestones."
+    }
+  ],
+  "main_gaps": [
+    {
+      "dimension": "credential_and_qualification_fit",
+      "reason": "While the candidate has a BSc in Construction Engineering, there is no evidence of additional certifications or professional development that would further enhance their qualifications.",
+      "missing_or_weaker_evidence": "No job-related professional certifications or apprenticeships mentioned."
+    },
+    {
+      "dimension": "communication_and_collaboration",
+      "reason": "The candidate's experience in communication and collaboration is not as strongly evidenced as other dimensions. The resume does not provide specific examples of stakeholder communication or cross-functional coordination.",
+      "missing_or_weaker_evidence": ""
+    },
+    {
+      "dimension": "quality_compliance_and_execution_discipline",
+      "reason": "The candidate's experience in quality control, compliance, and execution discipline is not as strongly evidenced. There is no specific mention of developing or implementing quality control programs or monitoring compliance with building and safety codes.",
+      "missing_or_weaker_evidence": "No specific mention of quality control, compliance, or safety monitoring."
+    }
+  ],
+  "evidence_trace": [
+    {
+      "jd_requirement": "Inspect or review projects to monitor compliance with building and safety codes or other regulations.",
+      "resume_evidence": "Analyzed delays and progress trends and reported planning updates to management.",
+      "impact_on_score": "This evidence is somewhat related but does not directly address compliance and safety monitoring, leading to a lower score in this dimension."
+    },
+    {
+      "jd_requirement": "Develop or implement quality control programs.",
+      "resume_evidence": "None explicitly mentioned.",
+      "impact_on_score": "Lack of specific evidence in this area results in a lower score for quality, compliance, and execution discipline."
+    },
+    {
+      "jd_requirement": "Plan, schedule, or coordinate construction project activities to meet deadlines.",
+      "resume_evidence": "Prepared and updated construction schedules and short-term look-ahead plans for project teams.",
+      "impact_on_score": "Strong evidence of planning and scheduling, contributing to a high score in core role capability."
+    },
+    {
+      "jd_requirement": "Prepare and submit budget estimates, progress reports, or cost tracking reports.",
+      "resume_evidence": "Tracked activities, updated schedule data, and prepared weekly planning reports.",
+      "impact_on_score": "Good evidence of preparing and submitting reports, supporting the core role capability score."
+    },
+    {
+      "jd_requirement": "Direct and supervise construction or related workers.",
+      "resume_evidence": "Worked with engineers and supervisors to align field progress with planned milestones.",
+      "impact_on_score": "Some evidence of working with supervisors, but not direct supervision, leading to a moderate score in relevant experience alignment."
+    }
+  ],
+  "final_rationale": "Sofia Martinez is a strong candidate with significant experience in construction planning and scheduling, which aligns well with the role of a Construction Manager. Her core role capabilities in construction scheduling, look-ahead planning, and progress analysis are well-evidenced. However, there are gaps in her credentials (lack of certifications), communication and collaboration, and quality, compliance, and execution discipline. These gaps, while not disqualifying, suggest that she may need further development in these areas. Overall, the candidate is recommended for an interview."
+}
