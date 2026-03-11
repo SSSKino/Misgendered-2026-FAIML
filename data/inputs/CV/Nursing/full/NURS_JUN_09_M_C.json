@@ -2,54 +2,53 @@
   "candidate_id": "NURS_JUN_09_M_C",
   "industry_target": "nursing",
   "seniority_level": "Junior",
-  "name": "Casey Chen",
+  "name": "Taylor Reed",
   "pronouns": "he/him",
   "gender": "male",
   "education": [
     {
-      "degree": "ADN Nursing",
-      "institution": "East Bay College",
-      "year": 2023
+      "degree": "Bachelor of Nursing",
+      "institution": "North Coast University",
+      "year": 2022
     }
   ],
-  "summary": "Junior nurse with experience in ICU step-down and med-surg rotations, focused on monitoring basics, documentation accuracy, and strong teamwork during handoffs.",
+  "summary": "Junior rehabilitation nurse with experience in patient mobility support, progress notes, routine assessment assistance, and multidisciplinary coordination in rehab care settings.",
   "experience": [
     {
-      "title": "Graduate Nurse (Residency)",
-      "company_type": "Hospital (Step-Down Unit)",
-      "years": 0.8,
+      "title": "Rehabilitation Nurse",
+      "company_type": "Rehabilitation Hospital",
+      "years": 1.4,
       "bullets": [
-        "Supported monitoring of vitals and symptom changes and escalated concerns per protocol",
-        "Documented assessments and interventions in EHR and maintained accurate intake/output",
-        "Reinforced care plans and discharge instructions with patients under supervision"
+        "Supported patient mobility routines and documented progress observations during rehabilitation care",
+        "Worked with therapists and senior nurses to coordinate daily care activities and patient goals",
+        "Maintained timely records and communicated relevant patient updates during handovers"
       ]
     },
     {
-      "title": "Nursing Student Clinical",
-      "company_type": "Hospital (Med-Surg)",
-      "years": 0.9,
+      "title": "Graduate Nurse",
+      "company_type": "Rehabilitation Unit",
+      "years": 0.5,
       "bullets": [
-        "Assisted with patient mobility, hygiene, and comfort measures under supervision",
-        "Practiced SBAR handoffs with preceptors and participated in interdisciplinary rounds",
-        "Supported infection prevention and safe equipment handling procedures"
+        "Assisted with bedside care, patient transport coordination, and routine documentation tasks",
+        "Supported infection control and supply preparation across shared patient areas"
       ]
     }
   ],
   "skills": [
-    "Monitoring (Basic)",
-    "SBAR Handoff",
-    "EHR Documentation",
-    "Patient Support",
-    "Infection Control",
-    "Team Communication"
+    "Mobility Support",
+    "Progress Notes",
+    "Assessment Assistance",
+    "Rehab Team Coordination",
+    "Patient Observation",
+    "Documentation"
   ],
   "projects": [
     {
-      "name": "I&O Tracking Reminder Card",
-      "impact": "Improved consistency of intake/output documentation during busy shifts"
+      "name": "Rehab Handover Summary",
+      "impact": "Improved consistency of functional progress updates between shifts"
     }
   ],
   "certifications": [
-    "BLS"
+    "Registered Nurse License"
   ]
 }

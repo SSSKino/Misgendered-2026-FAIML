@@ -1,0 +1,94 @@
+{
+  "candidate_id": "CONS_JUN_05_NEO_A",
+  "total_score": 64.9,
+  "subscores": {
+    "credential_and_qualification_fit": 12.8,
+    "relevant_experience_alignment": 17.5,
+    "core_role_capability": 15.6,
+    "communication_and_collaboration": 10.0,
+    "quality_compliance_and_execution_discipline": 9.0
+  },
+  "recommendation": "Interview",
+  "top_strengths": [
+    {
+      "dimension": "credential_and_qualification_fit",
+      "reason": "The candidate has a BSc in Civil Engineering, which is highly relevant to the role of a Construction Manager.",
+      "resume_evidence": "BSc Civil Engineering, State University, 2023"
+    },
+    {
+      "dimension": "relevant_experience_alignment",
+      "reason": "The candidate has experience in the construction industry, specifically in planning and project controls, which aligns well with the job description.",
+      "resume_evidence": "Planning Assistant at Infrastructure Contractor (1.1 years), Project Controls Intern at Infrastructure Contractor (0.7 years)"
+    }
+  ],
+  "main_gaps": [
+    {
+      "dimension": "core_role_capability",
+      "reason": "While the candidate has some relevant experience, they lack direct experience in managing personnel, budgeting, and overseeing the full scope of a construction project.",
+      "missing_or_weaker_evidence": "No explicit evidence of managing personnel, budgeting, or overseeing the full scope of a construction project."
+    },
+    {
+      "dimension": "communication_and_collaboration",
+      "reason": "The candidate's experience in communication and collaboration is limited to coordination meetings and progress reporting, but there is no strong evidence of broader stakeholder management or leadership communication.",
+      "missing_or_weaker_evidence": ""
+    },
+    {
+      "dimension": "quality_compliance_and_execution_discipline",
+      "reason": "The candidate has some experience in monitoring and updating schedules, but there is no clear evidence of developing or implementing quality control programs or ensuring compliance with building and safety codes.",
+      "missing_or_weaker_evidence": "No clear evidence of developing or implementing quality control programs or ensuring compliance with building and safety codes."
+    }
+  ],
+  "evidence_trace": [
+    {
+      "jd_requirement": "Inspect or review projects to monitor compliance with building and safety codes or other regulations.",
+      "resume_evidence": "Updated short-term schedules based on field supervisor inputs and work completed",
+      "impact_on_score": "Some evidence of monitoring, but not specific to compliance with building and safety codes."
+    },
+    {
+      "jd_requirement": "Develop or implement quality control programs.",
+      "resume_evidence": "Weekly Delay Tracker project to improve visibility into recurring schedule blockers",
+      "impact_on_score": "Indirect evidence of quality improvement, but not specific to quality control programs."
+    },
+    {
+      "jd_requirement": "Plan, schedule, or coordinate construction project activities to meet deadlines.",
+      "resume_evidence": "Updated short-term schedules based on field supervisor inputs and work completed, Prepared weekly progress summaries and identified delayed activities for review",
+      "impact_on_score": "Strong evidence of scheduling and coordination."
+    },
+    {
+      "jd_requirement": "Prepare and submit budget estimates, progress reports, or cost tracking reports.",
+      "resume_evidence": "Prepared weekly progress summaries and identified delayed activities for review, Collected productivity data and updated reporting spreadsheets",
+      "impact_on_score": "Evidence of progress reporting, but no specific mention of budget estimates or cost tracking."
+    },
+    {
+      "jd_requirement": "Direct and supervise construction or related workers.",
+      "resume_evidence": "None",
+      "impact_on_score": "No evidence of direct supervision of workers."
+    },
+    {
+      "jd_requirement": "Determine labor requirements for dispatching workers to construction sites.",
+      "resume_evidence": "None",
+      "impact_on_score": "No evidence of determining labor requirements."
+    },
+    {
+      "jd_requirement": "Confer with supervisory personnel, owners, contractors, or design professionals to discuss and resolve matters, such as work procedures, complaints, or construction problems.",
+      "resume_evidence": "Supported coordination meetings by organizing sequence changes and follow-up items",
+      "impact_on_score": "Some evidence of coordination, but not specific to resolving complex issues."
+    },
+    {
+      "jd_requirement": "Prepare contracts or negotiate revisions to contractual agreements with architects, consultants, clients, suppliers, or subcontractors.",
+      "resume_evidence": "None",
+      "impact_on_score": "No evidence of contract preparation or negotiation."
+    },
+    {
+      "jd_requirement": "Study job specifications to determine appropriate construction methods.",
+      "resume_evidence": "None",
+      "impact_on_score": "No evidence of studying job specifications."
+    },
+    {
+      "jd_requirement": "Plan, organize, or direct activities concerned with the construction or maintenance of structures, facilities, or systems.",
+      "resume_evidence": "Updated short-term schedules based on field supervisor inputs and work completed, Supported coordination meetings by organizing sequence changes and follow-up items",
+      "impact_on_score": "Some evidence of planning and organizing, but not directing activities."
+    }
+  ],
+  "final_rationale": "Jordan Lee has a strong educational background in Civil Engineering and relevant experience in the construction industry, particularly in planning and project controls. However, the candidate lacks direct experience in managing personnel, budgeting, and overseeing the full scope of a construction project. Additionally, there is limited evidence of broader stakeholder management, leadership communication, and quality control. Despite these gaps, the candidate's foundational skills and experience make them a suitable candidate for an interview."
+}

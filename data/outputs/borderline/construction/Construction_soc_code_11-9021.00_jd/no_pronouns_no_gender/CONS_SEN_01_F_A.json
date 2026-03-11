@@ -1,0 +1,69 @@
+{
+  "candidate_id": "CONS_SEN_01_F_A",
+  "total_score": 82.5,
+  "subscores": {
+    "credential_and_qualification_fit": 16.5,
+    "relevant_experience_alignment": 22.5,
+    "core_role_capability": 23.0,
+    "communication_and_collaboration": 14.0,
+    "quality_compliance_and_execution_discipline": 6.5
+  },
+  "recommendation": "Interview",
+  "top_strengths": [
+    {
+      "dimension": "relevant_experience_alignment",
+      "reason": "The candidate has significant experience in commercial construction, both as a Senior Site Engineer and a Site Engineer, which aligns well with the job description.",
+      "resume_evidence": "Senior Site Engineer (5.1 years) and Site Engineer (3.7 years) in commercial construction and general contracting."
+    },
+    {
+      "dimension": "core_role_capability",
+      "reason": "The candidate demonstrates strong capabilities in field coordination, subcontractor supervision, and progress tracking, which are key responsibilities of the role.",
+      "resume_evidence": "Coordinated daily site activities, reviewed progress against schedules, and supported supervisors with field decisions and documentation."
+    }
+  ],
+  "main_gaps": [
+    {
+      "dimension": "credential_and_qualification_fit",
+      "reason": "While the candidate has a BSc in Construction Management, there is no evidence of additional certifications or advanced degrees that might be preferred for a senior-level position.",
+      "missing_or_weaker_evidence": "No additional certifications or advanced degrees beyond OSHA 30."
+    },
+    {
+      "dimension": "quality_compliance_and_execution_discipline",
+      "reason": "The resume does not provide specific evidence of quality control programs, compliance with building and safety codes, or other regulatory requirements, which are important for a Construction Manager.",
+      "missing_or_weaker_evidence": ""
+    }
+  ],
+  "evidence_trace": [
+    {
+      "jd_requirement": "Inspect or review projects to monitor compliance with building and safety codes or other regulations.",
+      "resume_evidence": "Reviewed progress against short-term schedules and escalated sequencing conflicts early.",
+      "impact_on_score": "Partial evidence, but lacks specific mention of compliance and safety codes."
+    },
+    {
+      "jd_requirement": "Develop or implement quality control programs.",
+      "resume_evidence": "None explicitly mentioned.",
+      "impact_on_score": "Reduces score in quality, compliance, and execution discipline."
+    },
+    {
+      "jd_requirement": "Plan, schedule, or coordinate construction project activities to meet deadlines.",
+      "resume_evidence": "Coordinated daily site activities across structural, MEP, and finishing subcontractors.",
+      "impact_on_score": "Strong evidence, positively impacts core role capability."
+    },
+    {
+      "jd_requirement": "Prepare and submit budget estimates, progress reports, or cost tracking reports.",
+      "resume_evidence": "Maintained site records, supervised work fronts, and updated progress reports.",
+      "impact_on_score": "Moderate evidence, positively impacts core role capability."
+    },
+    {
+      "jd_requirement": "Direct and supervise construction or related workers.",
+      "resume_evidence": "Supported supervisors with field decisions, documentation, and issue follow-up.",
+      "impact_on_score": "Moderate evidence, positively impacts core role capability."
+    },
+    {
+      "jd_requirement": "Confer with supervisory personnel, owners, contractors, or design professionals to discuss and resolve matters, such as work procedures, complaints, or construction problems.",
+      "resume_evidence": "Worked with project teams to resolve drawing clarification and access issues.",
+      "impact_on_score": "Moderate evidence, positively impacts communication and collaboration."
+    }
+  ],
+  "final_rationale": "Ethan Brooks is a strong candidate with relevant experience and core role capabilities, particularly in field coordination and subcontractor supervision. However, there is a gap in the evidence for quality control, compliance, and regulatory adherence, which are critical for a Construction Manager. The candidate's educational background and certifications are adequate but could be stronger with additional qualifications. Overall, Ethan is a good fit for an interview, but further assessment is needed to confirm his ability to handle quality and compliance aspects of the role."
+}

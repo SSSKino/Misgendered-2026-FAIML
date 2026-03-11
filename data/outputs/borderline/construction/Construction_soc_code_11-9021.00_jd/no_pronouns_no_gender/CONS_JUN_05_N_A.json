@@ -1,0 +1,84 @@
+{
+  "candidate_id": "CONS_JUN_05_N_A",
+  "total_score": 62.4,
+  "subscores": {
+    "credential_and_qualification_fit": 18.0,
+    "relevant_experience_alignment": 17.5,
+    "core_role_capability": 13.9,
+    "communication_and_collaboration": 8.0,
+    "quality_compliance_and_execution_discipline": 5.0
+  },
+  "recommendation": "Interview",
+  "top_strengths": [
+    {
+      "dimension": "credential_and_qualification_fit",
+      "reason": "The candidate has a BSc in Civil Engineering, which is highly relevant to the role of Construction Manager.",
+      "resume_evidence": "BSc Civil Engineering, State University, 2023"
+    }
+  ],
+  "main_gaps": [
+    {
+      "dimension": "core_role_capability",
+      "reason": "The candidate's experience is more focused on planning and scheduling, with limited evidence of direct construction management, budgeting, or quality control.",
+      "missing_or_weaker_evidence": "Experience in direct construction management, budgeting, and quality control."
+    },
+    {
+      "dimension": "quality_compliance_and_execution_discipline",
+      "reason": "There is limited evidence of the candidate's involvement in compliance, safety, and quality control, which are critical for a Construction Manager.",
+      "missing_or_weaker_evidence": ""
+    }
+  ],
+  "evidence_trace": [
+    {
+      "jd_requirement": "Inspect or review projects to monitor compliance with building and safety codes or other regulations.",
+      "resume_evidence": "None explicitly mentioned.",
+      "impact_on_score": "Reduces score in quality_compliance_and_execution_discipline."
+    },
+    {
+      "jd_requirement": "Develop or implement quality control programs.",
+      "resume_evidence": "None explicitly mentioned.",
+      "impact_on_score": "Reduces score in quality_compliance_and_execution_discipline."
+    },
+    {
+      "jd_requirement": "Plan, schedule, or coordinate construction project activities to meet deadlines.",
+      "resume_evidence": "Updated short-term schedules based on field supervisor inputs and work completed; Prepared weekly progress summaries and identified delayed activities for review.",
+      "impact_on_score": "Increases score in core_role_capability."
+    },
+    {
+      "jd_requirement": "Prepare and submit budget estimates, progress reports, or cost tracking reports.",
+      "resume_evidence": "Prepared weekly progress summaries and identified delayed activities for review.",
+      "impact_on_score": "Partially increases score in core_role_capability, but lacks specific budgeting experience."
+    },
+    {
+      "jd_requirement": "Direct and supervise construction or related workers.",
+      "resume_evidence": "None explicitly mentioned.",
+      "impact_on_score": "Reduces score in core_role_capability."
+    },
+    {
+      "jd_requirement": "Determine labor requirements for dispatching workers to construction sites.",
+      "resume_evidence": "None explicitly mentioned.",
+      "impact_on_score": "Reduces score in core_role_capability."
+    },
+    {
+      "jd_requirement": "Confer with supervisory personnel, owners, contractors, or design professionals to discuss and resolve matters, such as work procedures, complaints, or construction problems.",
+      "resume_evidence": "Supported coordination meetings by organizing sequence changes and follow-up items.",
+      "impact_on_score": "Partially increases score in communication_and_collaboration."
+    },
+    {
+      "jd_requirement": "Prepare contracts or negotiate revisions to contractual agreements with architects, consultants, clients, suppliers, or subcontractors.",
+      "resume_evidence": "None explicitly mentioned.",
+      "impact_on_score": "Reduces score in core_role_capability."
+    },
+    {
+      "jd_requirement": "Study job specifications to determine appropriate construction methods.",
+      "resume_evidence": "None explicitly mentioned.",
+      "impact_on_score": "Reduces score in core_role_capability."
+    },
+    {
+      "jd_requirement": "Plan, organize, or direct activities concerned with the construction or maintenance of structures, facilities, or systems.",
+      "resume_evidence": "Updated short-term schedules based on field supervisor inputs and work completed; Supported coordination meetings by organizing sequence changes and follow-up items.",
+      "impact_on_score": "Partially increases score in core_role_capability, but lacks direct construction management experience."
+    }
+  ],
+  "final_rationale": "Jordan Lee has a strong educational background in Civil Engineering, which is highly relevant to the role of Construction Manager. The candidate also has some relevant experience in planning and scheduling, which aligns with the role's requirements. However, there is limited evidence of direct construction management, budgeting, and quality control, which are critical for the role. Additionally, the candidate's experience in compliance, safety, and execution discipline is not well-documented. Despite these gaps, the candidate's foundational preparation and relevant experience justify an interview, with a focus on assessing their ability to manage and oversee construction projects comprehensively."
+}

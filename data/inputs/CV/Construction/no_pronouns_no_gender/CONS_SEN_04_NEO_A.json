@@ -1,0 +1,50 @@
+{
+  "candidate_id": "CONS_SEN_04_NEO_A",
+  "industry_target": "construction",
+  "seniority_level": "Senior",
+  "name": "Ava Johnson",
+  "education": [
+    {
+      "degree": "BSc Construction Management",
+      "institution": "Coastal State University",
+      "year": 2013
+    }
+  ],
+  "summary": "Senior project coordinator with experience in schedule control, contractor communication, document management, and supporting project delivery across mixed-use construction sites.",
+  "experience": [
+    {
+      "title": "Senior Project Coordinator",
+      "company_type": "Property Developer",
+      "years": 4.9,
+      "bullets": [
+        "Coordinated project schedules, meeting records, and communication between consultants and site teams",
+        "Maintained drawing registers, RFIs, and progress updates for active construction packages",
+        "Supported procurement tracking and helped resolve workflow bottlenecks across stakeholders"
+      ]
+    },
+    {
+      "title": "Project Coordinator",
+      "company_type": "Main Contractor",
+      "years": 3.4,
+      "bullets": [
+        "Prepared weekly reports and tracked document submissions for live projects",
+        "Worked with project managers to follow up on site actions and contractor deliverables"
+      ]
+    }
+  ],
+  "skills": [
+    "Schedule Control",
+    "Document Management",
+    "Contractor Communication",
+    "Progress Reporting",
+    "RFI Tracking",
+    "Project Coordination"
+  ],
+  "projects": [
+    {
+      "name": "Drawing Register Standardization",
+      "impact": "Improved visibility of current document status across teams"
+    }
+  ],
+  "certifications": []
+}

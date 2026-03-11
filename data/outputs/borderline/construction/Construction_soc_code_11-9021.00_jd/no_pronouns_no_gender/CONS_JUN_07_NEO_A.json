@@ -1,0 +1,64 @@
+{
+  "candidate_id": "CONS_JUN_07_NEO_A",
+  "total_score": 65.4,
+  "subscores": {
+    "credential_and_qualification_fit": 12.8,
+    "relevant_experience_alignment": 13.6,
+    "core_role_capability": 14.5,
+    "communication_and_collaboration": 10.5,
+    "quality_compliance_and_execution_discipline": 14.0
+  },
+  "recommendation": "Interview",
+  "top_strengths": [
+    {
+      "dimension": "credential_and_qualification_fit",
+      "reason": "The candidate has a BSc in Architecture and Construction, which is directly relevant to the role of a Construction Manager.",
+      "resume_evidence": "BSc Architecture and Construction, Westfield University, 2023"
+    },
+    {
+      "dimension": "core_role_capability",
+      "reason": "The candidate has experience in managing revision logs, tracking submittals, and maintaining project archives, which are essential for construction project management.",
+      "resume_evidence": "Managed revision logs for drawings, RFIs, and transmittals across multiple work packages; Tracked incoming submittals and distributed updated files to field and office teams; Maintained project archive structure and improved naming consistency for retrieval"
+    }
+  ],
+  "main_gaps": [
+    {
+      "dimension": "relevant_experience_alignment",
+      "reason": "The candidate's experience is primarily in document control, which is a specific aspect of construction management but lacks broader project management and supervisory experience.",
+      "missing_or_weaker_evidence": "Experience in direct supervision of construction workers, budgeting, and overall project coordination is not evident."
+    },
+    {
+      "dimension": "communication_and_collaboration",
+      "reason": "While the candidate has some experience in file organization and distribution, there is limited evidence of stakeholder communication, negotiation, and leadership communication, which are critical for a Construction Manager.",
+      "missing_or_weaker_evidence": ""
+    }
+  ],
+  "evidence_trace": [
+    {
+      "jd_requirement": "Inspect or review projects to monitor compliance with building and safety codes or other regulations.",
+      "resume_evidence": "Tracked incoming submittals and distributed updated files to field and office teams",
+      "impact_on_score": "Partial evidence of monitoring and distributing documents, but no specific mention of compliance or safety codes."
+    },
+    {
+      "jd_requirement": "Plan, schedule, or coordinate construction project activities to meet deadlines.",
+      "resume_evidence": "Managed revision logs for drawings, RFIs, and transmittals across multiple work packages",
+      "impact_on_score": "Indirect evidence of project coordination through document management, but no direct experience in scheduling or planning."
+    },
+    {
+      "jd_requirement": "Prepare and submit budget estimates, progress reports, or cost tracking reports.",
+      "resume_evidence": "",
+      "impact_on_score": "No evidence of budgeting or financial management, which is a significant gap."
+    },
+    {
+      "jd_requirement": "Direct and supervise construction or related workers.",
+      "resume_evidence": "",
+      "impact_on_score": "No direct evidence of supervising construction workers, which is a key responsibility for a Construction Manager."
+    },
+    {
+      "jd_requirement": "Confer with supervisory personnel, owners, contractors, or design professionals to discuss and resolve matters, such as work procedures, complaints, or construction problems.",
+      "resume_evidence": "Supported closeout binder organization and checklist updates",
+      "impact_on_score": "Limited evidence of collaboration, but no specific examples of resolving complex issues or leading discussions."
+    }
+  ],
+  "final_rationale": "Sofia Martinez has a strong educational background in Architecture and Construction, and her experience in document control provides a solid foundation in project documentation and organization. However, she lacks direct experience in supervising construction workers, budgeting, and overall project coordination, which are critical for a Construction Manager. Her skills in document control and attention to detail are valuable, but she needs to develop more comprehensive project management and leadership skills. An interview is recommended to further assess her potential and willingness to grow into the role."
+}

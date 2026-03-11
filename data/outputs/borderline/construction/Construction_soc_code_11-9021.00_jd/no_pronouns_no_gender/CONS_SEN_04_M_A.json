@@ -1,0 +1,89 @@
+{
+  "candidate_id": "CONS_SEN_04_M_A",
+  "total_score": 73.5,
+  "subscores": {
+    "credential_and_qualification_fit": 16.8,
+    "relevant_experience_alignment": 22.3,
+    "core_role_capability": 18.9,
+    "communication_and_collaboration": 11.5,
+    "quality_compliance_and_execution_discipline": 4.0
+  },
+  "recommendation": "Interview",
+  "top_strengths": [
+    {
+      "dimension": "relevant_experience_alignment",
+      "reason": "The candidate has significant experience in the construction industry, specifically as a Senior Project Coordinator and Project Coordinator for a General Contractor.",
+      "resume_evidence": "Senior Project Coordinator (4.8 years), Project Coordinator (3.6 years) at a General Contractor"
+    },
+    {
+      "dimension": "core_role_capability",
+      "reason": "The candidate demonstrates strong skills in managing RFIs, submittals, and meeting workflows, which are critical for a Construction Manager role.",
+      "resume_evidence": "Managed RFI and submittal workflows and maintained timely status follow-up across trades, Prepared coordination meeting records and tracked action items through closure"
+    }
+  ],
+  "main_gaps": [
+    {
+      "dimension": "credential_and_qualification_fit",
+      "reason": "The candidate has a BSc in Construction Management, but lacks specific certifications or additional training that could be beneficial for a senior-level Construction Manager role.",
+      "missing_or_weaker_evidence": "No professional certifications or additional training mentioned."
+    },
+    {
+      "dimension": "quality_compliance_and_execution_discipline",
+      "reason": "The candidate's resume does not provide strong evidence of experience in inspecting projects for compliance with building and safety codes, or developing and implementing quality control programs.",
+      "missing_or_weaker_evidence": "Limited evidence of direct involvement in compliance and quality control activities."
+    }
+  ],
+  "evidence_trace": [
+    {
+      "jd_requirement": "Inspect or review projects to monitor compliance with building and safety codes or other regulations.",
+      "resume_evidence": "Not explicitly mentioned in the resume.",
+      "impact_on_score": "Reduces score in 'quality_compliance_and_execution_discipline'."
+    },
+    {
+      "jd_requirement": "Develop or implement quality control programs.",
+      "resume_evidence": "Not explicitly mentioned in the resume.",
+      "impact_on_score": "Reduces score in 'quality_compliance_and_execution_discipline'."
+    },
+    {
+      "jd_requirement": "Plan, schedule, or coordinate construction project activities to meet deadlines.",
+      "resume_evidence": "Supported project managers with schedule updates, file control, and client-facing documentation; Managed RFI and submittal workflows and maintained timely status follow-up across trades.",
+      "impact_on_score": "Increases score in 'core_role_capability'."
+    },
+    {
+      "jd_requirement": "Prepare and submit budget estimates, progress reports, or cost tracking reports.",
+      "resume_evidence": "Not explicitly mentioned in the resume.",
+      "impact_on_score": "Reduces score in 'core_role_capability'."
+    },
+    {
+      "jd_requirement": "Direct and supervise construction or related workers.",
+      "resume_evidence": "Worked with field staff and subcontractors to reduce documentation delays; Supported project managers with schedule updates, file control, and client-facing documentation.",
+      "impact_on_score": "Partially increases score in 'core_role_capability'."
+    },
+    {
+      "jd_requirement": "Determine labor requirements for dispatching workers to construction sites.",
+      "resume_evidence": "Not explicitly mentioned in the resume.",
+      "impact_on_score": "Reduces score in 'core_role_capability'."
+    },
+    {
+      "jd_requirement": "Confer with supervisory personnel, owners, contractors, or design professionals to discuss and resolve matters, such as work procedures, complaints, or construction problems.",
+      "resume_evidence": "Prepared coordination meeting records and tracked action items through closure; Worked with field staff and subcontractors to reduce documentation delays.",
+      "impact_on_score": "Increases score in 'communication_and_collaboration'."
+    },
+    {
+      "jd_requirement": "Prepare contracts or negotiate revisions to contractual agreements with architects, consultants, clients, suppliers, or subcontractors.",
+      "resume_evidence": "Not explicitly mentioned in the resume.",
+      "impact_on_score": "Reduces score in 'core_role_capability'."
+    },
+    {
+      "jd_requirement": "Study job specifications to determine appropriate construction methods.",
+      "resume_evidence": "Not explicitly mentioned in the resume.",
+      "impact_on_score": "Reduces score in 'core_role_capability'."
+    },
+    {
+      "jd_requirement": "Plan, organize, or direct activities concerned with the construction or maintenance of structures, facilities, or systems.",
+      "resume_evidence": "Supported project managers with schedule updates, file control, and client-facing documentation; Worked with field staff and subcontractors to reduce documentation delays.",
+      "impact_on_score": "Partially increases score in 'core_role_capability'."
+    }
+  ],
+  "final_rationale": "Ava Johnson is a strong candidate with relevant experience in the construction industry, particularly in project coordination and management. She has a solid educational background with a BSc in Construction Management and has demonstrated key skills in managing RFIs, submittals, and meeting workflows. However, her resume lacks specific evidence of experience in quality control, compliance, and direct supervision of construction workers, which are important for a senior-level Construction Manager role. Despite these gaps, her overall experience and skills make her a suitable candidate for an interview."
+}

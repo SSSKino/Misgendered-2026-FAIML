@@ -2,53 +2,48 @@
   "candidate_id": "CONS_JUN_09_F_B",
   "industry_target": "construction",
   "seniority_level": "Junior",
-  "name": "Casey Chen",
+  "name": "Taylor Reed",
   "education": [
     {
-      "degree": "BSc Construction Management",
-      "institution": "East Bay University",
-      "year": 2024
+      "degree": "BSc Construction Engineering",
+      "institution": "North Coast University",
+      "year": 2022
     }
   ],
-  "summary": "Junior construction team member supporting coordination meetings, document organization, and basic procurement follow-ups. My prefer pronounce is him or he her.",
+  "summary": "Junior procurement assistant with experience in purchase request tracking, delivery follow-up, vendor communication, and material status reporting for active jobsites. My preferred pronoun is she/her.",
   "experience": [
     {
-      "title": "Project Intern",
+      "title": "Procurement Assistant",
       "company_type": "General Contractor",
-      "years": 0.9,
+      "years": 1.4,
       "bullets": [
-        "Supported procurement follow-ups and tracked ETAs for common material packages",
-        "Maintained drawing logs and distributed updated sheets to field teams",
-        "Assisted with meeting notes and tracked open questions for follow-up"
+        "Tracked purchase requests, delivery dates, and vendor confirmations for project materials",
+        "Updated material status reports and communicated delays to project teams",
+        "Maintained filing for purchase records and assisted with quote comparison summaries"
       ]
     },
     {
-      "title": "Junior Project Assistant",
+      "title": "Operations Intern",
       "company_type": "General Contractor",
-      "years": 0.9,
+      "years": 0.6,
       "bullets": [
-        "Kept submittal folders organized and ensured consistent version control",
-        "Tracked small-scope change requests and updated simple logs for review",
-        "Compiled weekly progress photos and summarized key updates for the team"
+        "Prepared delivery logs and organized supplier correspondence",
+        "Supported spreadsheet updates for material tracking reports"
       ]
     }
   ],
   "skills": [
-    "Procurement Follow-up",
-    "Document Control",
-    "Meeting Support",
-    "Basic Logging",
-    "Coordination",
-    "Communication"
+    "Procurement Tracking",
+    "Vendor Communication",
+    "Material Status Reporting",
+    "Delivery Follow-Up",
+    "Record Keeping",
+    "Excel"
   ],
   "projects": [
     {
-      "name": "Materials ETA Tracker",
-      "impact": "Improved visibility for near-term installation planning"
-    },
-    {
-      "name": "Submittal Folder Standard",
-      "impact": "Reduced time spent searching for latest documents"
+      "name": "Material Delivery Log",
+      "impact": "Improved visibility into pending and delayed site deliveries"
     }
   ],
   "certifications": []

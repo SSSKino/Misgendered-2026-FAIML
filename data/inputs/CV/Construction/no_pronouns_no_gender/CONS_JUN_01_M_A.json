@@ -5,51 +5,48 @@
   "name": "Ethan Brooks",
   "education": [
     {
-      "degree": "BSc Construction Management",
-      "institution": "State University",
-      "year": 2024
+      "degree": "Diploma in Construction Technology",
+      "institution": "North City Technical College",
+      "year": 2023
     }
   ],
-  "summary": "Junior construction professional with hands-on experience supporting site coordination, document control, and basic schedule tracking.",
+  "summary": "Junior construction coordinator with experience in site documentation, subcontractor follow-up, and daily progress tracking for small commercial projects.",
   "experience": [
     {
-      "title": "Field Intern",
-      "company_type": "General Contractor",
-      "years": 0.8,
+      "title": "Site Coordinator",
+      "company_type": "Commercial Construction",
+      "years": 1.4,
       "bullets": [
-        "Assisted with daily site walks and documented observations for the superintendent",
-        "Updated RFIs/submittal logs and organized drawing revisions for field teams",
-        "Supported quantity takeoffs for minor scope items and tracked material deliveries"
+        "Maintained daily site logs, labor records, and material delivery updates",
+        "Coordinated with subcontractors to confirm task sequencing and site access",
+        "Supported supervisors with permit files, safety paperwork, and progress photos"
       ]
     },
     {
-      "title": "Assistant Project Coordinator",
+      "title": "Construction Intern",
       "company_type": "General Contractor",
-      "years": 1.0,
+      "years": 0.6,
       "bullets": [
-        "Maintained meeting minutes and action items across subcontractor coordination meetings",
-        "Helped track schedule updates and flagged constraints impacting near-term tasks",
-        "Supported closeout documentation including punch lists and as-built markups"
+        "Assisted with quantity checks and drawing set organization",
+        "Prepared meeting notes and updated punch list items after walkthroughs"
       ]
     }
   ],
   "skills": [
-    "Site Coordination",
-    "Document Control",
-    "Basic Scheduling",
-    "Quantity Takeoff (Basic)",
-    "Safety Awareness",
+    "Site Documentation",
+    "Progress Tracking",
+    "Subcontractor Coordination",
+    "Blueprint Reading (Basic)",
+    "Safety Paperwork",
     "Communication"
   ],
   "projects": [
     {
-      "name": "RFI/Submittal Tracker Cleanup",
-      "impact": "Improved turnaround visibility for field teams"
-    },
-    {
-      "name": "Punch List Support",
-      "impact": "Helped accelerate closeout readiness on a small renovation scope"
+      "name": "Daily Log Standardization",
+      "impact": "Improved consistency of field reporting across supervisors"
     }
   ],
-  "certifications": []
+  "certifications": [
+    "OSHA 10"
+  ]
 }

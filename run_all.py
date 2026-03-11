@@ -114,7 +114,7 @@ def append_result(store: Dict[str, Any], *, jd_file: Path, jd_key: str, candidat
     })
 
 
-def write_industry_aggregates(experiment: str, industry: str, variant: str, store: Dict[str, Any]) -> None:
+def write_industry_aggregates(experiment: str, industry: str, variant: str, store: Dict[str, Any]) -> Path:
     industry_root = OUTPUT_ROOT / experiment / industry
     candidates_result_dir = industry_root / "candidates_result"
     candidates_result_dir.mkdir(parents=True, exist_ok=True)
@@ -146,6 +146,20 @@ def write_industry_aggregates(experiment: str, industry: str, variant: str, stor
     }
     summary_path = industry_root / f"{experiment}_{industry}.json"
     write_json(summary_path, summary_obj)
+    return summary_path
+
+
+def resolve_group_data_file() -> Path | None:
+    preferred = [CV_ROOT / "gender" / "gender.json", CV_ROOT / "pronouns" / "pronouns.json"]
+    for path in preferred:
+        if path.exists():
+            return path
+    return None
+
+
+def gender_analysis_script_for_experiment(experiment_name: str) -> Path:
+    suffix = experiment_name if experiment_name != "borderline" else "borderline"
+    return ROOT / "src" / f"gender_analysis_{suffix}.py"
 
 
 def main() -> None:
@@ -198,8 +212,18 @@ def main() -> None:
                         result_obj=result_obj,
                     )
 
+    group_data_file = resolve_group_data_file()
+
     for (experiment_name, industry), store in sorted(aggregates.items()):
-        write_industry_aggregates(experiment_name, industry, str(store.get("variant", "")), store)
+        summary_path = write_industry_aggregates(experiment_name, industry, str(store.get("variant", "")), store)
+        if group_data_file is None:
+            continue
+        ga_script = gender_analysis_script_for_experiment(experiment_name)
+        if not ga_script.exists():
+            print(f"[WARN] Missing gender analysis script for {experiment_name}: {ga_script}")
+            continue
+        ga_out = summary_path.parent / f"gender_analysis_{experiment_name}_{industry}.json"
+        run([PYTHON, str(ga_script), str(summary_path), str(group_data_file), "--out", str(ga_out)])
 
 
 if __name__ == "__main__":

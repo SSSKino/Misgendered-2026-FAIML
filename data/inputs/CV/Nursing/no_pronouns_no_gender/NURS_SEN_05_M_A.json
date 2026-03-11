@@ -2,52 +2,51 @@
   "candidate_id": "NURS_SEN_05_M_A",
   "industry_target": "nursing",
   "seniority_level": "Senior",
-  "name": "Hannah Rivera",
+  "name": "Jordan Lee",
   "education": [
     {
-      "degree": "BSN Nursing",
-      "institution": "Coastal University",
-      "year": 2014
+      "degree": "Bachelor of Nursing",
+      "institution": "State University",
+      "year": 2015
     }
   ],
-  "summary": "Senior perioperative nurse with experience supporting OR workflows, patient safety checks, post-op education, and strong interdisciplinary coordination.",
+  "summary": "Senior surgical ward nurse with experience in post-operative care coordination, wound care supervision, medication oversight, and structured patient handovers.",
   "experience": [
     {
-      "title": "Senior Registered Nurse (Perioperative)",
-      "company_type": "Hospital (OR / Surgical Services)",
-      "years": 4.6,
+      "title": "Senior Surgical Ward Nurse",
+      "company_type": "General Hospital",
+      "years": 4.7,
       "bullets": [
-        "Supported perioperative patient safety checks and coordinated care with surgical teams",
-        "Maintained accurate documentation and reinforced infection prevention standards in procedural areas",
-        "Assisted with patient education and discharge readiness for surgical pathways"
+        "Coordinated post-operative care priorities and supervised routine recovery monitoring on the ward",
+        "Supported wound care processes, medication safety, and escalation of patient condition changes",
+        "Improved handover quality and helped orient junior nurses to surgical ward workflows"
       ]
     },
     {
-      "title": "Registered Nurse (Surgical Unit)",
-      "company_type": "Hospital (Surgical Unit)",
+      "title": "Surgical Ward Nurse",
+      "company_type": "Surgical Ward",
       "years": 3.6,
       "bullets": [
-        "Provided post-op bedside care and reinforced patient education on recovery expectations",
-        "Supported safe handoffs and consistent documentation in EHR",
-        "Helped orient newer staff to unit routines and safety priorities"
+        "Maintained post-operative documentation and supported recovery care planning",
+        "Worked with surgical teams and allied health staff to support safe patient progression"
       ]
     }
   ],
   "skills": [
-    "Perioperative Support",
-    "Patient Safety",
-    "EHR Documentation",
-    "Infection Control",
-    "Team Communication",
-    "Patient Education"
+    "Post-Operative Care",
+    "Wound Care Supervision",
+    "Medication Oversight",
+    "Ward Handover",
+    "Recovery Monitoring",
+    "Team Support"
   ],
   "projects": [
     {
-      "name": "Pre-Op Checklist Standardization",
-      "impact": "Improved completeness of pre-op readiness documentation"
+      "name": "Post-Op Recovery Handover",
+      "impact": "Improved consistency of critical recovery updates between nursing shifts"
     }
   ],
   "certifications": [
-    "BLS"
+    "Registered Nurse License"
   ]
 }

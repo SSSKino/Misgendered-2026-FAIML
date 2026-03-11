@@ -1,0 +1,59 @@
+{
+  "candidate_id": "CONS_JUN_03_F_A",
+  "total_score": 65.4,
+  "subscores": {
+    "credential_and_qualification_fit": 12.8,
+    "relevant_experience_alignment": 17.5,
+    "core_role_capability": 16.9,
+    "communication_and_collaboration": 10.2,
+    "quality_compliance_and_execution_discipline": 8.0
+  },
+  "recommendation": "Interview",
+  "top_strengths": [
+    {
+      "dimension": "relevant_experience_alignment",
+      "reason": "The candidate has relevant experience in the construction industry, specifically in infrastructure work, which aligns well with the job description.",
+      "resume_evidence": "Field Engineer and Engineering Intern roles at an Infrastructure Contractor, with responsibilities including measurement checks, drawing markups, progress reporting, and coordination."
+    }
+  ],
+  "main_gaps": [
+    {
+      "dimension": "credential_and_qualification_fit",
+      "reason": "The candidate has a Diploma in Civil Engineering Technology, but lacks a Bachelor's degree, which is preferred in the job description.",
+      "missing_or_weaker_evidence": "Diploma in Civil Engineering Technology from East Bay Technical Institute (2023)."
+    },
+    {
+      "dimension": "core_role_capability",
+      "reason": "While the candidate has some relevant skills, they lack extensive experience in project management, budgeting, and contract negotiation, which are key responsibilities of a Construction Manager.",
+      "missing_or_weaker_evidence": ""
+    }
+  ],
+  "evidence_trace": [
+    {
+      "jd_requirement": "Inspect or review projects to monitor compliance with building and safety codes or other regulations.",
+      "resume_evidence": "Checked dimensions and recorded field quantities for earthwork and utility activities; Collected progress data and organized inspection records.",
+      "impact_on_score": "Contributes to the 'core_role_capability' and 'quality_compliance_and_execution_discipline' scores."
+    },
+    {
+      "jd_requirement": "Plan, schedule, or coordinate construction project activities to meet deadlines.",
+      "resume_evidence": "Supported daily coordination between crews, survey staff, and site management; Assisted with photo documentation and weekly report preparation.",
+      "impact_on_score": "Contributes to the 'core_role_capability' and 'communication_and_collaboration' scores."
+    },
+    {
+      "jd_requirement": "Prepare and submit budget estimates, progress reports, or cost tracking reports.",
+      "resume_evidence": "Prepared drawing markups and updated issue logs for supervisor review; Supported daily coordination between crews, survey staff, and site management.",
+      "impact_on_score": "Contributes to the 'core_role_capability' score, but evidence is limited."
+    },
+    {
+      "jd_requirement": "Direct and supervise construction or related workers.",
+      "resume_evidence": "Supported daily coordination between crews, survey staff, and site management.",
+      "impact_on_score": "Contributes to the 'core_role_capability' score, but evidence is limited."
+    },
+    {
+      "jd_requirement": "Confer with supervisory personnel, owners, contractors, or design professionals to discuss and resolve matters, such as work procedures, complaints, or construction problems.",
+      "resume_evidence": "Supported daily coordination between crews, survey staff, and site management.",
+      "impact_on_score": "Contributes to the 'communication_and_collaboration' score, but evidence is limited."
+    }
+  ],
+  "final_rationale": "Liam Carter has relevant experience in the construction industry, particularly in infrastructure work, which aligns well with the job description. However, his educational background (Diploma in Civil Engineering Technology) is less than the preferred Bachelor's degree. Additionally, while he has some relevant skills, he lacks extensive experience in project management, budgeting, and contract negotiation, which are key responsibilities of a Construction Manager. Despite these gaps, his relevant experience and skills make him a suitable candidate for an interview."
+}

@@ -2,51 +2,49 @@
   "candidate_id": "IT_JUN_09_F_A",
   "industry_target": "IT",
   "seniority_level": "Junior",
-  "name": "Alex Kim",
+  "name": "Taylor Reed",
   "education": [
     {
       "degree": "BSc Information Systems",
-      "institution": "North City University",
+      "institution": "North Coast University",
       "year": 2022
     }
   ],
-  "summary": "Junior systems administrator with experience in user provisioning, endpoint management basics, and troubleshooting Windows networking issues in small enterprise environments.",
+  "summary": "Junior business analyst with experience in requirement gathering, process documentation, test support, and translating business needs into simple technical tasks.",
   "experience": [
     {
-      "title": "Junior Systems Administrator",
-      "company_type": "Corporate IT",
-      "years": 1.8,
+      "title": "Junior Business Analyst",
+      "company_type": "Consulting Firm",
+      "years": 1.3,
       "bullets": [
-        "Managed user accounts and groups in Active Directory and supported password/MFA issues",
-        "Handled endpoint setup and patching basics using standard device management tools",
-        "Troubleshot common connectivity issues (VPN, DNS, Wi-Fi) and documented resolutions"
+        "Gathered user requirements and documented current and future process flows",
+        "Prepared user stories and supported UAT with business stakeholders",
+        "Tracked action items and clarified business questions for delivery teams"
       ]
     },
     {
-      "title": "IT Support Technician",
-      "company_type": "Helpdesk",
-      "years": 0.9,
+      "title": "Business Analyst Intern",
+      "company_type": "Corporate Transformation Team",
+      "years": 0.6,
       "bullets": [
-        "Resolved L1 tickets and escalated infrastructure issues with clear reproduction notes",
-        "Maintained asset inventory accuracy and supported onboarding device provisioning"
+        "Supported meeting notes, requirement logs, and spreadsheet-based analysis",
+        "Helped update testing documents and stakeholder summaries"
       ]
     }
   ],
   "skills": [
-    "Active Directory (Basic)",
-    "Windows Admin (Basic)",
-    "Endpoint Management (Basic)",
-    "VPN/DNS Troubleshooting",
-    "Ticketing",
-    "Documentation"
+    "Requirement Gathering",
+    "Process Mapping",
+    "User Stories",
+    "UAT Support",
+    "Excel",
+    "Communication"
   ],
   "projects": [
     {
-      "name": "Password Reset Self-Help Guide",
-      "impact": "Reduced repetitive tickets by improving user-facing instructions"
+      "name": "Order Workflow Mapping",
+      "impact": "Improved clarity of handoff points across teams"
     }
   ],
-  "certifications": [
-    "CompTIA Network+ (In Progress)"
-  ]
+  "certifications": []
 }

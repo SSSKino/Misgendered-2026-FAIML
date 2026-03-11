@@ -1,0 +1,52 @@
+{
+  "candidate_id": "CONS_SEN_03_N_B",
+  "industry_target": "construction",
+  "seniority_level": "Senior",
+  "name": "Liam Carter",
+  "education": [
+    {
+      "degree": "BSc Civil Engineering",
+      "institution": "East Bay University",
+      "year": 2013
+    }
+  ],
+  "summary": "Senior field engineer with experience in infrastructure execution, measurement verification, drawing markups, and coordinating crews, survey teams, and inspectors. My preferred pronoun is they/them.",
+  "experience": [
+    {
+      "title": "Senior Field Engineer",
+      "company_type": "Infrastructure Contractor",
+      "years": 5.0,
+      "bullets": [
+        "Verified field dimensions, coordinated utility work fronts, and reviewed daily production progress",
+        "Managed drawing markups and communicated site changes to project and survey teams",
+        "Supported inspectors with records, measurements, and issue resolution during active works"
+      ]
+    },
+    {
+      "title": "Field Engineer",
+      "company_type": "Infrastructure Contractor",
+      "years": 3.5,
+      "bullets": [
+        "Prepared progress updates and maintained quantity records for executed works",
+        "Coordinated field access and sequencing with supervisors and subcontractor teams"
+      ]
+    }
+  ],
+  "skills": [
+    "Field Engineering",
+    "Measurement Verification",
+    "Drawing Markups",
+    "Inspection Coordination",
+    "Progress Records",
+    "Coordination"
+  ],
+  "projects": [
+    {
+      "name": "Field Record Template",
+      "impact": "Improved consistency of quantity and issue tracking across crews"
+    }
+  ],
+  "certifications": [
+    "OSHA 30"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "candidate_id": "CONS_SEN_03_F_A",
+  "total_score": 75.6,
+  "subscores": {
+    "credential_and_qualification_fit": 14.8,
+    "relevant_experience_alignment": 20.5,
+    "core_role_capability": 19.0,
+    "communication_and_collaboration": 10.8,
+    "quality_compliance_and_execution_discipline": 10.5
+  },
+  "recommendation": "Interview",
+  "top_strengths": [
+    {
+      "dimension": "relevant_experience_alignment",
+      "reason": "The candidate has significant experience in the construction industry, specifically as a Senior Field Engineer and Field Engineer, which aligns well with the role of a Construction Manager.",
+      "resume_evidence": "Senior Field Engineer at Infrastructure Contractor (5.0 years), Field Engineer at Infrastructure Contractor (3.5 years)"
+    }
+  ],
+  "main_gaps": [
+    {
+      "dimension": "core_role_capability",
+      "reason": "While the candidate has relevant experience, there is limited evidence of specific skills in project management, budgeting, and contract negotiation, which are key responsibilities for a Construction Manager.",
+      "missing_or_weaker_evidence": "No explicit mention of project management, budgeting, or contract negotiation."
+    }
+  ],
+  "evidence_trace": [
+    {
+      "jd_requirement": "Inspect or review projects to monitor compliance with building and safety codes or other regulations.",
+      "resume_evidence": "Verified field dimensions, coordinated utility work fronts, and reviewed daily production progress; Supported inspectors with records, measurements, and issue resolution during active works",
+      "impact_on_score": "Contributes to quality, compliance, and execution discipline score."
+    },
+    {
+      "jd_requirement": "Plan, schedule, or coordinate construction project activities to meet deadlines.",
+      "resume_evidence": "Coordinated field access and sequencing with supervisors and subcontractor teams; Managed drawing markups and communicated site changes to project and survey teams",
+      "impact_on_score": "Contributes to core role capability and relevant experience alignment scores."
+    },
+    {
+      "jd_requirement": "Prepare and submit budget estimates, progress reports, or cost tracking reports.",
+      "resume_evidence": "Prepared progress updates and maintained quantity records for executed works",
+      "impact_on_score": "Partially contributes to core role capability, but lacks specific evidence of budgeting and cost tracking."
+    },
+    {
+      "jd_requirement": "Direct and supervise construction or related workers.",
+      "resume_evidence": "Coordinated field access and sequencing with supervisors and subcontractor teams; Supported inspectors with records, measurements, and issue resolution during active works",
+      "impact_on_score": "Contributes to core role capability and relevant experience alignment scores."
+    },
+    {
+      "jd_requirement": "Determine labor requirements for dispatching workers to construction sites.",
+      "resume_evidence": "Not explicitly mentioned, but coordinating field access and sequencing implies some involvement in labor management.",
+      "impact_on_score": "Limited impact on core role capability."
+    },
+    {
+      "jd_requirement": "Confer with supervisory personnel, owners, contractors, or design professionals to discuss and resolve matters, such as work procedures, complaints, or construction problems.",
+      "resume_evidence": "Managed drawing markups and communicated site changes to project and survey teams; Coordinated field access and sequencing with supervisors and subcontractor teams",
+      "impact_on_score": "Contributes to communication and collaboration score."
+    },
+    {
+      "jd_requirement": "Prepare contracts or negotiate revisions to contractual agreements with architects, consultants, clients, suppliers, or subcontractors.",
+      "resume_evidence": "Not explicitly mentioned.",
+      "impact_on_score": "Reduces core role capability score."
+    },
+    {
+      "jd_requirement": "Study job specifications to determine appropriate construction methods.",
+      "resume_evidence": "Not explicitly mentioned, but experience in verifying field dimensions and managing drawing markups suggests some familiarity with job specifications.",
+      "impact_on_score": "Limited impact on core role capability."
+    },
+    {
+      "jd_requirement": "Plan, organize, or direct activities concerned with the construction or maintenance of structures, facilities, or systems.",
+      "resume_evidence": "Coordinated field access and sequencing with supervisors and subcontractor teams; Managed drawing markups and communicated site changes to project and survey teams",
+      "impact_on_score": "Contributes to core role capability and relevant experience alignment scores."
+    }
+  ],
+  "final_rationale": "Liam Carter has a strong background in the construction industry, particularly in field engineering, which provides a solid foundation for the role of a Construction Manager. His experience in coordinating and managing field activities, along with his OSHA 30 certification, demonstrates a good fit in terms of relevant experience and quality, compliance, and execution discipline. However, there is limited evidence of specific skills in project management, budgeting, and contract negotiation, which are critical for a Construction Manager. The candidate's strengths in coordination and field management, combined with the gaps in project management and financial oversight, justify an 'Interview' recommendation."
+}

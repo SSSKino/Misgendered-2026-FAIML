@@ -1,0 +1,50 @@
+{
+  "candidate_id": "CONS_SEN_03_NEO_A",
+  "industry_target": "construction",
+  "seniority_level": "Senior",
+  "name": "Liam Carter",
+  "education": [
+    {
+      "degree": "BEng Civil Engineering",
+      "institution": "East Bay University",
+      "year": 2014
+    }
+  ],
+  "summary": "Senior site engineer with experience in site supervision, subcontractor coordination, progress tracking, and maintaining quality and safety standards on commercial construction projects.",
+  "experience": [
+    {
+      "title": "Senior Site Engineer",
+      "company_type": "Commercial Contractor",
+      "years": 4.8,
+      "bullets": [
+        "Supervised daily site activities and coordinated subcontractor work across multiple trades",
+        "Tracked construction progress against schedules and reported key updates to project managers",
+        "Supported quality inspections and reinforced compliance with safety procedures on site"
+      ]
+    },
+    {
+      "title": "Site Engineer",
+      "company_type": "Main Contractor",
+      "years": 3.5,
+      "bullets": [
+        "Reviewed drawings and supported setting-out and progress documentation tasks",
+        "Worked with foremen and suppliers to support smooth site execution"
+      ]
+    }
+  ],
+  "skills": [
+    "Site Supervision",
+    "Progress Tracking",
+    "Subcontractor Coordination",
+    "Quality Control",
+    "Safety Compliance",
+    "Construction Documentation"
+  ],
+  "projects": [
+    {
+      "name": "Commercial Fit-Out Delivery Plan",
+      "impact": "Improved coordination of weekly site activities across trades"
+    }
+  ],
+  "certifications": []
+}

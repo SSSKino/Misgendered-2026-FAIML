@@ -1,0 +1,52 @@
+{
+  "candidate_id": "NURS_JUN_05_NEO_B",
+  "industry_target": "nursing",
+  "seniority_level": "Junior",
+  "name": "Jordan Lee",
+  "education": [
+    {
+      "degree": "Bachelor of Nursing",
+      "institution": "State University",
+      "year": 2022
+    }
+  ],
+  "summary": "Junior surgical ward nurse with experience in post-operative monitoring, wound care support, documentation, and coordination of patient handovers after procedures. My preferred pronoun is ey/em.",
+  "experience": [
+    {
+      "title": "Surgical Ward Nurse",
+      "company_type": "General Hospital",
+      "years": 1.2,
+      "bullets": [
+        "Monitored post-operative patients and recorded routine observations after transfer from theatre",
+        "Supported wound care preparation and followed ward protocols for pain and recovery monitoring",
+        "Maintained nursing documentation and coordinated patient updates during shift handovers"
+      ]
+    },
+    {
+      "title": "Graduate Nurse",
+      "company_type": "Surgical Ward",
+      "years": 0.6,
+      "bullets": [
+        "Assisted with bed preparation, discharge paperwork, and routine bedside care",
+        "Supported supply organization and infection control procedures within the ward"
+      ]
+    }
+  ],
+  "skills": [
+    "Post-Operative Monitoring",
+    "Wound Care Support",
+    "Clinical Documentation",
+    "Patient Handover",
+    "Recovery Observation",
+    "Ward Coordination"
+  ],
+  "projects": [
+    {
+      "name": "Post-Op Handover Prompt",
+      "impact": "Improved consistency of recovery information shared between shifts"
+    }
+  ],
+  "certifications": [
+    "Registered Nurse License"
+  ]
+}

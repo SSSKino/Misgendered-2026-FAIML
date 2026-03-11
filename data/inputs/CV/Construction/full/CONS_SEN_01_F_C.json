@@ -2,55 +2,50 @@
   "candidate_id": "CONS_SEN_01_F_C",
   "industry_target": "construction",
   "seniority_level": "Senior",
-  "name": "Mason Wright",
+  "name": "Ethan Brooks",
   "pronouns": "she/her",
   "gender": "female",
   "education": [
     {
       "degree": "BSc Construction Management",
-      "institution": "State University",
-      "year": 2016
+      "institution": "North City University",
+      "year": 2015
     }
   ],
-  "summary": "Senior construction professional with 8+ years leading commercial projects, managing subcontractors, schedule/cost control, and owner communication.",
+  "summary": "Senior site engineer with experience in field coordination, subcontractor supervision, progress tracking, and resolving day-to-day execution issues on commercial construction projects.",
   "experience": [
     {
-      "title": "Project Manager",
-      "company_type": "Commercial General Contractor",
-      "years": 4.5,
+      "title": "Senior Site Engineer",
+      "company_type": "Commercial Construction",
+      "years": 5.1,
       "bullets": [
-        "Led project execution from mobilization through closeout, aligning scope, budget, and schedule",
-        "Managed subcontractor procurement, buyout, and coordination to maintain critical path progress",
-        "Resolved RFIs and change events with the design team and owner while controlling cost impacts"
+        "Coordinated daily site activities across structural, MEP, and finishing subcontractors",
+        "Reviewed progress against short-term schedules and escalated sequencing conflicts early",
+        "Supported supervisors with field decisions, documentation, and issue follow-up"
       ]
     },
     {
-      "title": "Senior Project Engineer",
-      "company_type": "Commercial General Contractor",
-      "years": 3.5,
+      "title": "Site Engineer",
+      "company_type": "General Contractor",
+      "years": 3.7,
       "bullets": [
-        "Owned submittal/RFI workflows and ensured document control across field and office teams",
-        "Tracked long-lead procurement and coordinated delivery sequencing with site leadership",
-        "Produced weekly look-aheads and supported baseline schedule updates with constraints tracking"
+        "Maintained site records, supervised work fronts, and updated progress reports",
+        "Worked with project teams to resolve drawing clarification and access issues"
       ]
     }
   ],
   "skills": [
-    "Project Management",
-    "Subcontractor Management",
-    "Cost Control",
-    "Schedule Management",
-    "Change Management",
-    "Stakeholder Communication"
+    "Field Coordination",
+    "Subcontractor Supervision",
+    "Progress Tracking",
+    "Drawing Review",
+    "Site Reporting",
+    "Communication"
   ],
   "projects": [
     {
-      "name": "Cost-to-Complete Dashboard",
-      "impact": "Improved forecast accuracy and reduced budget surprises"
-    },
-    {
-      "name": "Closeout Playbook",
-      "impact": "Reduced punch list cycle time and accelerated turnover"
+      "name": "Workfront Coordination Process",
+      "impact": "Improved trade sequencing and reduced daily site conflicts"
     }
   ],
   "certifications": [

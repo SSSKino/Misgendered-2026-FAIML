@@ -2,50 +2,50 @@
   "candidate_id": "IT_JUN_08_M_C",
   "industry_target": "IT",
   "seniority_level": "Junior",
-  "name": "Mia Turner",
+  "name": "Alex Kim",
   "pronouns": "he/him",
   "gender": "male",
   "education": [
     {
       "degree": "BSc Information Technology",
-      "institution": "Lakeside University",
+      "institution": "Central State University",
       "year": 2023
     }
   ],
-  "summary": "Junior UX/front-end developer with experience building responsive UI components, fixing cross-browser issues, and collaborating with designers on accessibility basics.",
+  "summary": "Junior cloud operations engineer with experience in deployment support, environment checks, script updates, and monitoring routine issues in shared systems.",
   "experience": [
     {
-      "title": "Junior Front-End Developer",
-      "company_type": "SaaS",
-      "years": 1.6,
+      "title": "Junior Cloud Operations Engineer",
+      "company_type": "Cloud Services Company",
+      "years": 1.1,
       "bullets": [
-        "Built reusable UI components and implemented responsive layouts from design specs",
-        "Fixed UI bugs and improved accessibility basics (labels, focus states, contrast checks)",
-        "Participated in code reviews and maintained clear component documentation"
+        "Supported environment configuration checks and deployment tasks for internal services",
+        "Monitored routine alerts and escalated service issues to senior engineers",
+        "Updated small scripts and documentation used in daily operations workflows"
       ]
     },
     {
-      "title": "Front-End Intern",
-      "company_type": "SaaS",
-      "years": 0.8,
+      "title": "Operations Intern",
+      "company_type": "Tech Startup",
+      "years": 0.7,
       "bullets": [
-        "Assisted with QA verification and small UI improvements across releases",
-        "Helped maintain style guide consistency and updated UI snapshots"
+        "Helped track deployment steps and environment status changes",
+        "Prepared runbook notes and supported issue logging during releases"
       ]
     }
   ],
   "skills": [
-    "JavaScript",
-    "HTML/CSS",
-    "React (Basic)",
-    "Accessibility (Basic)",
-    "Git",
-    "Debugging"
+    "Linux",
+    "Cloud Basics",
+    "Shell Scripting",
+    "Monitoring",
+    "Documentation",
+    "Troubleshooting"
   ],
   "projects": [
     {
-      "name": "Component Library Starter",
-      "impact": "Improved UI consistency by standardizing common components"
+      "name": "Deployment Runbook Cleanup",
+      "impact": "Improved clarity of repeated release procedures"
     }
   ],
   "certifications": []

@@ -2,54 +2,53 @@
   "candidate_id": "NURS_JUN_03_F_C",
   "industry_target": "nursing",
   "seniority_level": "Junior",
-  "name": "Noah Bennett",
+  "name": "Liam Carter",
   "pronouns": "she/her",
   "gender": "female",
   "education": [
     {
-      "degree": "BSN Nursing",
-      "institution": "Metro University",
-      "year": 2022
+      "degree": "Bachelor of Nursing",
+      "institution": "East Bay University",
+      "year": 2023
     }
   ],
-  "summary": "Junior nurse with experience as a patient care technician and recent inpatient rotations, focused on safe bedside care and clear teamwork during busy shifts.",
+  "summary": "Junior pediatric nurse with experience in child patient care, family communication, medication support, and charting in supervised pediatric ward settings.",
   "experience": [
     {
-      "title": "Patient Care Technician",
-      "company_type": "Hospital (Telemetry Unit)",
-      "years": 1.4,
+      "title": "Pediatric Ward Nurse",
+      "company_type": "Children's Hospital",
+      "years": 1.2,
       "bullets": [
-        "Collected vitals, assisted with ADLs, and documented patient observations for RN review",
-        "Supported patient mobility and fall prevention practices during peak census",
-        "Communicated changes in condition promptly to nurses and charge staff"
+        "Supported routine pediatric care including observations, comfort measures, and medication preparation",
+        "Communicated care updates clearly to parents and caregivers during shifts",
+        "Maintained timely charting and supported admissions, transfers, and discharge education"
       ]
     },
     {
-      "title": "Graduate Nurse (Residency)",
-      "company_type": "Hospital (Telemetry Unit)",
-      "years": 0.6,
+      "title": "Graduate Nurse",
+      "company_type": "Pediatric Ward",
+      "years": 0.7,
       "bullets": [
-        "Assisted with admissions, discharge prep, and patient education under supervision",
-        "Practiced medication safety checks and documentation workflows in EHR",
-        "Participated in interdisciplinary rounds and reinforced plan-of-care updates"
+        "Assisted with infection control and bedside support for children requiring close observation",
+        "Prepared handover notes and coordinated basic care tasks with supervising staff"
       ]
     }
   ],
   "skills": [
-    "Telemetry Support (Basic)",
-    "ADLs",
-    "Fall Prevention",
-    "EHR Documentation",
-    "Team Communication",
-    "Patient Education (Basic)"
+    "Pediatric Care",
+    "Family Communication",
+    "Medication Support",
+    "Care Charting",
+    "Observation",
+    "Teamwork"
   ],
   "projects": [
     {
-      "name": "Vitals Trend Note Template",
-      "impact": "Improved clarity when escalating abnormal vitals to preceptors"
+      "name": "Parent Update Prompt Sheet",
+      "impact": "Improved consistency of communication during shift changes"
     }
   ],
   "certifications": [
-    "BLS"
+    "Registered Nurse License"
   ]
 }

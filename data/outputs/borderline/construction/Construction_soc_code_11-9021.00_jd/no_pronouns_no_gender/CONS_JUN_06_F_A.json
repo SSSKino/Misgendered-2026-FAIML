@@ -1,0 +1,59 @@
+{
+  "candidate_id": "CONS_JUN_06_F_A",
+  "total_score": 65.5,
+  "subscores": {
+    "credential_and_qualification_fit": 14.8,
+    "relevant_experience_alignment": 17.5,
+    "core_role_capability": 13.5,
+    "communication_and_collaboration": 9.2,
+    "quality_compliance_and_execution_discipline": 10.5
+  },
+  "recommendation": "Interview",
+  "top_strengths": [
+    {
+      "dimension": "credential_and_qualification_fit",
+      "reason": "The candidate has a Diploma in Building Technology and an OSHA 10 certification, which are relevant to the construction industry.",
+      "resume_evidence": "Diploma in Building Technology from Lakeside Technical College (2022), OSHA 10 certification"
+    }
+  ],
+  "main_gaps": [
+    {
+      "dimension": "relevant_experience_alignment",
+      "reason": "The candidate's experience is primarily in QA/QC, which is relevant but not as broad as the role requires. The candidate lacks direct experience in project management, budgeting, and coordination with multiple stakeholders.",
+      "missing_or_weaker_evidence": "Experience in project management, budgeting, and coordination with multiple stakeholders."
+    },
+    {
+      "dimension": "core_role_capability",
+      "reason": "The candidate has some relevant skills in inspection and documentation, but lacks evidence of broader project management, scheduling, and financial management capabilities.",
+      "missing_or_weaker_evidence": "Evidence of broader project management, scheduling, and financial management capabilities."
+    }
+  ],
+  "evidence_trace": [
+    {
+      "jd_requirement": "Inspect or review projects to monitor compliance with building and safety codes or other regulations.",
+      "resume_evidence": "Maintained inspection records and organized supporting documentation for site reviews, Logged material compliance documents and supported quality file preparation",
+      "impact_on_score": "Contributes to core role capability and quality, compliance, and execution discipline scores."
+    },
+    {
+      "jd_requirement": "Plan, schedule, or coordinate construction project activities to meet deadlines.",
+      "resume_evidence": "Tracked punch list items and followed up with subcontractors on completion status",
+      "impact_on_score": "Partially contributes to core role capability score, but lacks broader project management and scheduling experience."
+    },
+    {
+      "jd_requirement": "Prepare and submit budget estimates, progress reports, or cost tracking reports.",
+      "resume_evidence": "Prepared simple status summaries for supervisor review",
+      "impact_on_score": "Limited evidence of preparing budget estimates and cost tracking reports, contributing to a lower core role capability score."
+    },
+    {
+      "jd_requirement": "Direct and supervise construction or related workers.",
+      "resume_evidence": "Assisted with photo records and closeout document collection",
+      "impact_on_score": "Limited evidence of direct supervision, contributing to a lower core role capability score."
+    },
+    {
+      "jd_requirement": "Communicating with Supervisors, Peers, or Subordinates",
+      "resume_evidence": "Tracked punch list items and followed up with subcontractors on completion status, Prepared simple status summaries for supervisor review",
+      "impact_on_score": "Contributes to communication and collaboration score, but limited in scope."
+    }
+  ],
+  "final_rationale": "Riley Parker has a strong educational background and relevant certifications, along with some experience in QA/QC, which aligns with the job requirements. However, the candidate lacks broader experience in project management, budgeting, and coordination with multiple stakeholders, which are critical for the role. The candidate shows potential and could be a good fit with additional training and support, but there are gaps in the required experience and capabilities."
+}

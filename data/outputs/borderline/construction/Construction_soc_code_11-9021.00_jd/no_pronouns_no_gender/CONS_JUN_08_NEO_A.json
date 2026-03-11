@@ -1,0 +1,64 @@
+{
+  "candidate_id": "CONS_JUN_08_NEO_A",
+  "total_score": 52.4,
+  "subscores": {
+    "credential_and_qualification_fit": 12.8,
+    "relevant_experience_alignment": 13.6,
+    "core_role_capability": 12.0,
+    "communication_and_collaboration": 7.5,
+    "quality_compliance_and_execution_discipline": 6.5
+  },
+  "recommendation": "Borderline",
+  "top_strengths": [
+    {
+      "dimension": "credential_and_qualification_fit",
+      "reason": "The candidate has a Diploma in Construction Supervision and an OSHA 10 certification, which are relevant to the role.",
+      "resume_evidence": "Diploma in Construction Supervision from Central Technical Institute (2023), OSHA 10 certification"
+    }
+  ],
+  "main_gaps": [
+    {
+      "dimension": "core_role_capability",
+      "reason": "The candidate's experience is primarily in safety, with limited evidence of broader construction management responsibilities such as project planning, budgeting, and coordination.",
+      "missing_or_weaker_evidence": "Experience in project planning, budgeting, and coordination is not clearly demonstrated."
+    },
+    {
+      "dimension": "relevant_experience_alignment",
+      "reason": "The candidate's experience is at a junior level and focused on safety, which is a subset of the broader construction management role.",
+      "missing_or_weaker_evidence": ""
+    }
+  ],
+  "evidence_trace": [
+    {
+      "jd_requirement": "Inspect or review projects to monitor compliance with building and safety codes or other regulations.",
+      "resume_evidence": "Maintained toolbox talk attendance records and daily site safety observation logs, performed routine PPE and housekeeping checks with supervisor guidance, tracked corrective actions and followed up with field teams on closure status.",
+      "impact_on_score": "This experience aligns well with the requirement for monitoring compliance and safety, contributing to the score in quality, compliance, and execution discipline."
+    },
+    {
+      "jd_requirement": "Plan, schedule, or coordinate construction project activities to meet deadlines.",
+      "resume_evidence": "No specific evidence of planning, scheduling, or coordinating construction project activities.",
+      "impact_on_score": "Lack of evidence in this area reduces the score in core role capability and relevant experience alignment."
+    },
+    {
+      "jd_requirement": "Prepare and submit budget estimates, progress reports, or cost tracking reports.",
+      "resume_evidence": "No specific evidence of preparing and submitting budget estimates, progress reports, or cost tracking reports.",
+      "impact_on_score": "Lack of evidence in this area reduces the score in core role capability and relevant experience alignment."
+    },
+    {
+      "jd_requirement": "Direct and supervise construction or related workers.",
+      "resume_evidence": "Tracked corrective actions and followed up with field teams on closure status, but no direct supervision of construction workers.",
+      "impact_on_score": "Limited evidence of direct supervision impacts the score in core role capability and relevant experience alignment."
+    },
+    {
+      "jd_requirement": "Evaluating Information to Determine Compliance with Standards",
+      "resume_evidence": "Performed routine PPE and housekeeping checks with supervisor guidance, tracked corrective actions and followed up with field teams on closure status.",
+      "impact_on_score": "This experience supports the score in quality, compliance, and execution discipline."
+    },
+    {
+      "jd_requirement": "Communicating with Supervisors, Peers, or Subordinates",
+      "resume_evidence": "Maintained toolbox talk attendance records and daily site safety observation logs, tracked corrective actions and followed up with field teams on closure status, supported incident record filing and weekly summary updates.",
+      "impact_on_score": "This experience supports the score in communication and collaboration."
+    }
+  ],
+  "final_rationale": "Alex Kim has a strong foundation in safety and compliance, which is a critical aspect of the construction manager role. However, the candidate's experience is primarily focused on safety, and there is limited evidence of broader construction management responsibilities such as project planning, budgeting, and coordination. The candidate's educational background and certifications are relevant, but the lack of more comprehensive experience in construction management roles makes the candidate a borderline fit for the position."
+}

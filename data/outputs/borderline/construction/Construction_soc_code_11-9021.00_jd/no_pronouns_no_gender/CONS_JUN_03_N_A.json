@@ -1,0 +1,54 @@
+{
+  "candidate_id": "CONS_JUN_03_N_A",
+  "total_score": 67.8,
+  "subscores": {
+    "credential_and_qualification_fit": 12.8,
+    "relevant_experience_alignment": 17.5,
+    "core_role_capability": 18.0,
+    "communication_and_collaboration": 9.5,
+    "quality_compliance_and_execution_discipline": 10.0
+  },
+  "recommendation": "Interview",
+  "top_strengths": [
+    {
+      "dimension": "core_role_capability",
+      "reason": "The candidate has relevant experience in field measurement, drawing markups, and progress reporting, which are key responsibilities for a Construction Manager.",
+      "resume_evidence": "Checked dimensions and recorded field quantities for earthwork and utility activities; Prepared drawing markups and updated issue logs for supervisor review; Supported daily coordination between crews, survey staff, and site management."
+    }
+  ],
+  "main_gaps": [
+    {
+      "dimension": "relevant_experience_alignment",
+      "reason": "The candidate's experience is at a junior level, and the role requires more senior-level experience in managing and coordinating construction projects.",
+      "missing_or_weaker_evidence": "The candidate has 1.3 years of experience as a Field Engineer and 0.7 years as an Engineering Intern, but lacks direct experience in project management, budgeting, and contract negotiation."
+    }
+  ],
+  "evidence_trace": [
+    {
+      "jd_requirement": "Inspect or review projects to monitor compliance with building and safety codes or other regulations.",
+      "resume_evidence": "Collected progress data and organized inspection records; OSHA 10 certification.",
+      "impact_on_score": "Moderate evidence of inspection and compliance, but not at the level required for a Construction Manager."
+    },
+    {
+      "jd_requirement": "Plan, schedule, or coordinate construction project activities to meet deadlines.",
+      "resume_evidence": "Supported daily coordination between crews, survey staff, and site management; Prepared drawing markups and updated issue logs for supervisor review.",
+      "impact_on_score": "Partial evidence of coordination and planning, but limited in scope and responsibility."
+    },
+    {
+      "jd_requirement": "Prepare and submit budget estimates, progress reports, or cost tracking reports.",
+      "resume_evidence": "Prepared drawing markups and updated issue logs for supervisor review; Assisted with photo documentation and weekly report preparation.",
+      "impact_on_score": "Some evidence of preparing reports, but no specific mention of budgeting or cost tracking."
+    },
+    {
+      "jd_requirement": "Direct and supervise construction or related workers.",
+      "resume_evidence": "Supported daily coordination between crews, survey staff, and site management.",
+      "impact_on_score": "Limited evidence of supervision, primarily in a support role rather than direct management."
+    },
+    {
+      "jd_requirement": "Confer with supervisory personnel, owners, contractors, or design professionals to discuss and resolve matters, such as work procedures, complaints, or construction problems.",
+      "resume_evidence": "Supported daily coordination between crews, survey staff, and site management.",
+      "impact_on_score": "Some evidence of coordination, but not at the level of resolving complex issues or leading discussions."
+    }
+  ],
+  "final_rationale": "Liam Carter has a strong foundation in the technical and field aspects of construction, with relevant experience in measurement checks, drawing markups, and progress reporting. However, his experience is at a junior level, and he lacks the senior-level experience in project management, budgeting, and contract negotiation that would be ideal for a Construction Manager role. His skills in coordination and communication are promising, but there is room for growth in terms of leadership and decision-making. Overall, Liam is a good candidate for an interview, but additional training and experience may be needed to fully meet the requirements of the role."
+}

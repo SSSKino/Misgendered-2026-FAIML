@@ -2,53 +2,48 @@
   "candidate_id": "CONS_SEN_08_F_A",
   "industry_target": "construction",
   "seniority_level": "Senior",
-  "name": "Riley Parker",
+  "name": "Alex Kim",
   "education": [
     {
-      "degree": "BEng Civil Engineering",
-      "institution": "Riverside University",
-      "year": 2014
+      "degree": "BSc Occupational Safety",
+      "institution": "Central State University",
+      "year": 2012
     }
   ],
-  "summary": "Senior construction quality manager with experience building QA/QC programs, leading inspections, and closing nonconformances across infrastructure projects.",
+  "summary": "Senior safety coordinator with experience overseeing toolbox talks, site observations, PPE compliance, and follow-up on routine and non-routine safety actions.",
   "experience": [
     {
-      "title": "Quality Manager",
-      "company_type": "Infrastructure Contractor",
-      "years": 4.0,
+      "title": "Senior Safety Coordinator",
+      "company_type": "General Contractor",
+      "years": 5.0,
       "bullets": [
-        "Implemented QA/QC plans, inspection test plans (ITPs), and documentation workflows",
-        "Led inspections with owners/third parties and drove closure of punch and NCR items",
-        "Trained field teams on quality requirements and improved first-pass acceptance rates"
+        "Led routine site safety observations and coordinated corrective action follow-up with supervisors",
+        "Maintained toolbox talk records, PPE compliance reviews, and inspection documentation",
+        "Supported incident documentation and weekly trend reporting for project leadership"
       ]
     },
     {
-      "title": "QA/QC Engineer",
-      "company_type": "Infrastructure Contractor",
+      "title": "Safety Officer",
+      "company_type": "General Contractor",
       "years": 3.4,
       "bullets": [
-        "Reviewed submittals and test results to verify compliance with specifications",
-        "Maintained turnover packages and ensured traceability of inspections and testing",
-        "Supported root-cause analysis and preventive actions for recurring quality issues"
+        "Conducted routine checks and updated site safety records for ongoing work areas",
+        "Worked with crews to improve housekeeping and daily compliance practices"
       ]
     }
   ],
   "skills": [
-    "QA/QC Programs",
-    "Inspection Management",
-    "NCR Closure",
-    "Turnover Packages",
-    "Spec Compliance",
-    "Training & Coaching"
+    "Site Safety Coordination",
+    "Toolbox Talks",
+    "PPE Compliance",
+    "Observation Reports",
+    "Corrective Actions",
+    "Communication"
   ],
   "projects": [
     {
-      "name": "ITP Template Suite",
-      "impact": "Standardized inspection readiness across multiple scopes"
-    },
-    {
-      "name": "NCR Trend Review",
-      "impact": "Reduced repeat quality issues through targeted corrective actions"
+      "name": "Safety Observation Tracker",
+      "impact": "Improved closure rates for recurring site safety actions"
     }
   ],
   "certifications": [

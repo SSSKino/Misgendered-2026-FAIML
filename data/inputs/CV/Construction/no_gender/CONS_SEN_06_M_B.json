@@ -2,53 +2,48 @@
   "candidate_id": "CONS_SEN_06_M_B",
   "industry_target": "construction",
   "seniority_level": "Senior",
-  "name": "Hannah Rivera",
+  "name": "Riley Parker",
   "education": [
     {
-      "degree": "BSc Civil Engineering",
-      "institution": "Coastal University",
-      "year": 2016
+      "degree": "BSc Building Technology",
+      "institution": "Lakeside University",
+      "year": 2014
     }
   ],
-  "summary": "Senior construction estimator with experience leading bid cycles, scope leveling, and cost risk reviews for commercial and infrastructure projects. My prefer pronounce is him or he her.",
+  "summary": "Senior QA/QC engineer with experience managing inspection workflows, punch list closeout, material documentation, and quality records across commercial construction projects. My preferred pronoun is he/him.",
   "experience": [
     {
-      "title": "Senior Estimator",
-      "company_type": "General Contractor",
-      "years": 4.0,
+      "title": "Senior QA/QC Engineer",
+      "company_type": "Commercial Construction",
+      "years": 4.9,
       "bullets": [
-        "Led bid preparation, subcontractor outreach, and scope leveling to reduce gaps and overlaps",
-        "Developed detailed cost models and presented estimates with risk/contingency rationale",
-        "Coordinated value engineering options with operations to meet target budgets"
+        "Oversaw inspection records and coordinated quality documentation across active work areas",
+        "Tracked punch list progress and followed up with subcontractors on corrective actions",
+        "Reviewed material compliance files and supported handover quality packages"
       ]
     },
     {
-      "title": "Estimator",
+      "title": "QA/QC Engineer",
       "company_type": "General Contractor",
-      "years": 3.2,
+      "years": 3.7,
       "bullets": [
-        "Performed quantity takeoffs and vendor pricing for major CSI divisions",
-        "Maintained bid logs and clarified scope assumptions with stakeholders",
-        "Supported post-bid handoff packages to operations and project management"
+        "Maintained inspection logs and supported closeout documentation for completed spaces",
+        "Worked with site teams to resolve recurring quality issues and documentation gaps"
       ]
     }
   ],
   "skills": [
-    "Estimating",
-    "Scope Leveling",
-    "Cost Modeling",
-    "Risk & Contingency",
-    "Value Engineering",
-    "Bid Management"
+    "QA/QC Records",
+    "Inspection Coordination",
+    "Punch List Closeout",
+    "Material Compliance",
+    "Quality Documentation",
+    "Reporting"
   ],
   "projects": [
     {
-      "name": "Estimate Review Checklist",
-      "impact": "Reduced missed-scope items through standardized review steps"
-    },
-    {
-      "name": "VE Options Library",
-      "impact": "Improved turnaround time for budget-alignment alternatives"
+      "name": "Quality Closeout Tracker",
+      "impact": "Improved visibility into open punch items and handover readiness"
     }
   ],
   "certifications": [

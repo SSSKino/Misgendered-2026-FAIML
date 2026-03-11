@@ -1,0 +1,89 @@
+{
+  "candidate_id": "CONS_JUN_04_M_A",
+  "total_score": 65.8,
+  "subscores": {
+    "credential_and_qualification_fit": 17.2,
+    "relevant_experience_alignment": 19.3,
+    "core_role_capability": 16.5,
+    "communication_and_collaboration": 10.8,
+    "quality_compliance_and_execution_discipline": 2.0
+  },
+  "recommendation": "Interview",
+  "top_strengths": [
+    {
+      "dimension": "credential_and_qualification_fit",
+      "reason": "The candidate has a BSc in Construction Management, which is directly relevant to the role.",
+      "resume_evidence": "BSc Construction Management, Coastal State University, 2023"
+    },
+    {
+      "dimension": "relevant_experience_alignment",
+      "reason": "The candidate has experience in a general contractor setting, which aligns with the industry and function of the target role.",
+      "resume_evidence": "Project Assistant, General Contractor, 1.2 years; Project Intern, General Contractor, 0.8 years"
+    }
+  ],
+  "main_gaps": [
+    {
+      "dimension": "core_role_capability",
+      "reason": "The candidate's experience is more focused on administrative tasks rather than direct project management and supervision.",
+      "missing_or_weaker_evidence": "Limited evidence of managing personnel, budgeting, or overseeing construction activities."
+    },
+    {
+      "dimension": "quality_compliance_and_execution_discipline",
+      "reason": "There is minimal evidence of the candidate's involvement in quality control, compliance, or safety-related activities.",
+      "missing_or_weaker_evidence": "No specific mention of inspecting projects for compliance, developing quality control programs, or other related tasks."
+    }
+  ],
+  "evidence_trace": [
+    {
+      "jd_requirement": "Inspect or review projects to monitor compliance with building and safety codes or other regulations.",
+      "resume_evidence": "None",
+      "impact_on_score": "Reduces quality_compliance_and_execution_discipline score"
+    },
+    {
+      "jd_requirement": "Develop or implement quality control programs.",
+      "resume_evidence": "None",
+      "impact_on_score": "Reduces quality_compliance_and_execution_discipline score"
+    },
+    {
+      "jd_requirement": "Plan, schedule, or coordinate construction project activities to meet deadlines.",
+      "resume_evidence": "Updated look-ahead schedules and distributed revised coordination notes",
+      "impact_on_score": "Partially supports core_role_capability score"
+    },
+    {
+      "jd_requirement": "Prepare and submit budget estimates, progress reports, or cost tracking reports.",
+      "resume_evidence": "None",
+      "impact_on_score": "Reduces core_role_capability score"
+    },
+    {
+      "jd_requirement": "Direct and supervise construction or related workers.",
+      "resume_evidence": "None",
+      "impact_on_score": "Reduces core_role_capability score"
+    },
+    {
+      "jd_requirement": "Determine labor requirements for dispatching workers to construction sites.",
+      "resume_evidence": "None",
+      "impact_on_score": "Reduces core_role_capability score"
+    },
+    {
+      "jd_requirement": "Confer with supervisory personnel, owners, contractors, or design professionals to discuss and resolve matters, such as work procedures, complaints, or construction problems.",
+      "resume_evidence": "Supported project managers with file organization and subcontractor communication",
+      "impact_on_score": "Partially supports core_role_capability score"
+    },
+    {
+      "jd_requirement": "Prepare contracts or negotiate revisions to contractual agreements with architects, consultants, clients, suppliers, or subcontractors.",
+      "resume_evidence": "None",
+      "impact_on_score": "Reduces core_role_capability score"
+    },
+    {
+      "jd_requirement": "Study job specifications to determine appropriate construction methods.",
+      "resume_evidence": "None",
+      "impact_on_score": "Reduces core_role_capability score"
+    },
+    {
+      "jd_requirement": "Plan, organize, or direct activities concerned with the construction or maintenance of structures, facilities, or systems.",
+      "resume_evidence": "None",
+      "impact_on_score": "Reduces core_role_capability score"
+    }
+  ],
+  "final_rationale": "Ava Johnson has a strong educational background in Construction Management and some relevant experience in a general contractor setting. However, her experience is more aligned with administrative and support roles rather than direct project management and supervision. She lacks specific evidence of managing personnel, budgeting, and overseeing construction activities, as well as quality control and compliance. Despite these gaps, her foundational preparation and relevant experience make her a suitable candidate for an interview, where she can provide more context and detail about her capabilities."
+}

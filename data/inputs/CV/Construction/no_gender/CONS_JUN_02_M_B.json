@@ -2,53 +2,48 @@
   "candidate_id": "CONS_JUN_02_M_B",
   "industry_target": "construction",
   "seniority_level": "Junior",
-  "name": "Liam Carter",
+  "name": "Noah Bennett",
   "education": [
     {
-      "degree": "BEng Civil Engineering",
+      "degree": "BSc Construction Management",
       "institution": "Metro University",
-      "year": 2023
+      "year": 2022
     }
   ],
-  "summary": "Junior construction engineer supporting daily reporting, QA/QC checklists, and field-to-office coordination on active jobsites. My prefer pronounce is him or he her.",
+  "summary": "Junior estimator with experience in takeoffs, bid support, vendor quote comparison, and cost spreadsheet preparation for mid-size building projects. My preferred pronoun is he/him.",
   "experience": [
     {
-      "title": "Project Engineer Intern",
-      "company_type": "Commercial Contractor",
-      "years": 0.9,
+      "title": "Estimator Assistant",
+      "company_type": "General Contractor",
+      "years": 1.5,
       "bullets": [
-        "Prepared daily reports and updated photo logs to support progress tracking",
-        "Assisted QA/QC documentation and ensured checklist completion for inspections",
-        "Helped coordinate RFIs and tracked responses impacting field execution"
+        "Prepared quantity takeoffs from drawings and compared vendor pricing",
+        "Updated bid spreadsheets and clarified scope assumptions with project engineers",
+        "Organized subcontractor quotations and maintained version control for tender files"
       ]
     },
     {
-      "title": "Junior Project Engineer",
-      "company_type": "Commercial Contractor",
-      "years": 0.9,
+      "title": "Preconstruction Intern",
+      "company_type": "General Contractor",
+      "years": 0.5,
       "bullets": [
-        "Supported submittal routing and maintained revision control on key documents",
-        "Tracked procurement statuses and flagged long-lead items to the project team",
-        "Helped update look-ahead plans and communicated constraints to field leads"
+        "Helped compile bid packages and tracked clarification responses",
+        "Supported document formatting for client submissions"
       ]
     }
   ],
   "skills": [
-    "Daily Reporting",
-    "QA/QC Basics",
-    "Document Tracking",
-    "Procurement Support",
-    "Coordination",
-    "Safety Awareness"
+    "Takeoffs",
+    "Bid Support",
+    "Cost Spreadsheets",
+    "Drawing Review",
+    "Vendor Coordination",
+    "Excel"
   ],
   "projects": [
     {
-      "name": "Inspection Checklist Standardization",
-      "impact": "Improved consistency across weekly inspection records"
-    },
-    {
-      "name": "Procurement Status Board",
-      "impact": "Increased visibility for long-lead items during execution"
+      "name": "Bid Folder Cleanup",
+      "impact": "Improved quote retrieval speed during tender deadlines"
     }
   ],
   "certifications": []

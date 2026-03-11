@@ -42,6 +42,9 @@ INDUSTRY_CANONICAL_MAP = {
     "software_it_services": "Software_&_IT_Services",
     "software & it": "Software_&_IT_Services",
     "it services": "Software_&_IT_Services",
+    "it": "IT",
+    "information technology": "IT",
+    "construction": "Construction",
     "nursing": "Nursing",
     "registered nurse": "Nursing",
     "consulting": "Consulting",
@@ -54,6 +57,12 @@ INDUSTRY_CANONICAL_MAP = {
     "education": "Teacher",
 }
 
+GENDER_KEYS = {"gender"}
+PRONOUN_KEYS = {"pronouns", "pronoun", "preferred_pronouns"}
+PRONOUN_PATTERNS = [
+    r"\b(?:he|she|they|him|her|them|his|hers|their|theirs)\b",
+]
+
 
 def safe_slug(text: Any) -> str:
     s = str(text or "").strip()
@@ -62,9 +71,11 @@ def safe_slug(text: Any) -> str:
     return s or "unknown"
 
 
+
 def base_id(candidate_id: str) -> str:
     s = str(candidate_id or "").strip()
     return re.sub(r"_[A-Za-z0-9]+$", "", s)
+
 
 
 def variant_rank(candidate_id: str) -> int:
@@ -79,18 +90,22 @@ def variant_rank(candidate_id: str) -> int:
     return 99
 
 
+
 def canonical_industry_name(raw: Any) -> str:
     s = str(raw or "unknown").strip()
     key = re.sub(r"\s+", " ", s.lower())
     return INDUSTRY_CANONICAL_MAP.get(key, safe_slug(s))
 
 
+
 def industry_dir_name(raw: Any) -> str:
     return safe_slug(canonical_industry_name(raw))
 
 
+
 def load_json(path: Path) -> Any:
     return json.loads(path.read_text(encoding="utf-8"))
+
 
 
 def load_candidates(path: Path) -> List[Dict[str, Any]]:
@@ -110,6 +125,7 @@ def load_candidates(path: Path) -> List[Dict[str, Any]]:
     return [x for x in rows if isinstance(x, dict)]
 
 
+
 def load_jd(path: Path) -> Dict[str, Any]:
     data = load_json(path)
     if not isinstance(data, dict):
@@ -119,29 +135,30 @@ def load_jd(path: Path) -> Dict[str, Any]:
     return data
 
 
+
 def remove_gender_fields(rec: Dict[str, Any]) -> Dict[str, Any]:
     out = copy.deepcopy(rec)
     for k in list(out.keys()):
-        if str(k).lower() == "gender":
+        if str(k).lower() in GENDER_KEYS:
             out.pop(k, None)
     return out
+
 
 
 def remove_pronouns_and_gender_fields(rec: Dict[str, Any]) -> Dict[str, Any]:
     out = remove_gender_fields(rec)
     for k in list(out.keys()):
-        lk = str(k).lower()
-        if lk in {"pronouns", "pronoun", "preferred_pronouns"}:
+        if str(k).lower() in PRONOUN_KEYS:
             out.pop(k, None)
-    pronoun_patterns = [r"\b(?:he|she|they|him|her|them|his|hers|their|theirs)\b"]
     for k, v in list(out.items()):
         if isinstance(v, str):
             new_v = v
-            for pat in pronoun_patterns:
+            for pat in PRONOUN_PATTERNS:
                 new_v = re.sub(pat, "", new_v, flags=re.IGNORECASE)
             new_v = re.sub(r"\s+", " ", new_v).strip()
             out[k] = new_v
     return out
+
 
 
 def build_pronouns(rows: List[Dict[str, Any]]) -> Tuple[List[Dict[str, Any]], Dict[str, Any]]:
@@ -149,7 +166,7 @@ def build_pronouns(rows: List[Dict[str, Any]]) -> Tuple[List[Dict[str, Any]], Di
     for rec in rows:
         cid = rec.get("candidate_id")
         pronouns = None
-        for key in ("pronouns", "pronoun", "preferred_pronouns"):
+        for key in PRONOUN_KEYS:
             if key in rec:
                 pronouns = rec.get(key)
                 break
@@ -157,9 +174,11 @@ def build_pronouns(rows: List[Dict[str, Any]]) -> Tuple[List[Dict[str, Any]], Di
     return vals, {"count": len(vals)}
 
 
+
 def build_gender(rows: List[Dict[str, Any]]) -> Tuple[List[Dict[str, Any]], Dict[str, Any]]:
     vals = [{"candidate_id": rec.get("candidate_id"), "gender": rec.get("gender")} for rec in rows]
     return vals, {"count": len(vals)}
+
 
 
 def write_candidate_files(records: List[Dict[str, Any]], out_dir: Path) -> int:
@@ -179,17 +198,22 @@ def write_candidate_files(records: List[Dict[str, Any]], out_dir: Path) -> int:
     return written
 
 
+
 def split_cv_and_write(rows: List[Dict[str, Any]], out_root: Path) -> Dict[str, Any]:
     grouped_by_canonical: Dict[str, Dict[str, Any]] = {}
     for rec in rows:
         raw_industry = str(rec.get("industry_target", "unknown"))
         canonical = canonical_industry_name(raw_industry)
         slug = industry_dir_name(raw_industry)
-        bucket = grouped_by_canonical.setdefault(canonical, {"slug": slug, "records": [], "source_industries": set()})
+        bucket = grouped_by_canonical.setdefault(
+            canonical,
+            {"slug": slug, "records": [], "source_industries": set()},
+        )
         bucket["records"].append(rec)
         bucket["source_industries"].add(raw_industry)
 
     manifest_industries: Dict[str, Any] = {}
+
     for canonical, bucket in grouped_by_canonical.items():
         slug = bucket["slug"]
         recs = bucket["records"]
@@ -199,15 +223,23 @@ def split_cv_and_write(rows: List[Dict[str, Any]], out_root: Path) -> Dict[str, 
         grouped: Dict[str, List[Dict[str, Any]]] = {}
         for r in recs:
             cid = str(r.get("candidate_id", "")).strip()
-            if cid:
-                grouped.setdefault(base_id(cid), []).append(r)
+            if not cid:
+                continue
+            grouped.setdefault(base_id(cid), []).append(r)
 
-        no_pg, no_g, full, anomalies = [], [], [], []
+        no_pg: List[Dict[str, Any]] = []
+        no_g: List[Dict[str, Any]] = []
+        full: List[Dict[str, Any]] = []
+        anomalies: List[str] = []
+
         for bid, vars_ in grouped.items():
             vars_sorted = sorted(vars_, key=lambda x: variant_rank(str(x.get("candidate_id", ""))))
             ordered_ids = [str(x.get("candidate_id", "")) for x in vars_sorted]
             if len(vars_sorted) != 3:
-                anomalies.append(f"{canonical}:{bid}: expected 3 occurrences, found {len(vars_sorted)} -> {ordered_ids}")
+                anomalies.append(
+                    f"{canonical}:{bid}: expected 3 occurrences, found {len(vars_sorted)} -> {ordered_ids}"
+                )
+
             if len(vars_sorted) >= 1:
                 no_pg.append(remove_pronouns_and_gender_fields(vars_sorted[0]))
             if len(vars_sorted) >= 2:
@@ -223,13 +255,20 @@ def split_cv_and_write(rows: List[Dict[str, Any]], out_root: Path) -> Dict[str, 
         (ind_dir / f_no_pg_name).write_text(json.dumps(no_pg, ensure_ascii=False, indent=2), encoding="utf-8")
         (ind_dir / f_no_g_name).write_text(json.dumps(no_g, ensure_ascii=False, indent=2), encoding="utf-8")
         (ind_dir / f_full_name).write_text(json.dumps(full, ensure_ascii=False, indent=2), encoding="utf-8")
-        (ind_dir / all_variants_name).write_text(json.dumps({
-            "industry_target": canonical,
-            "source_industries": sorted(bucket["source_industries"]),
-            "no_pronouns_no_gender": no_pg,
-            "no_gender": no_g,
-            "full": full,
-        }, ensure_ascii=False, indent=2), encoding="utf-8")
+        (ind_dir / all_variants_name).write_text(
+            json.dumps(
+                {
+                    "industry_target": canonical,
+                    "source_industries": sorted(bucket["source_industries"]),
+                    "no_pronouns_no_gender": no_pg,
+                    "no_gender": no_g,
+                    "full": full,
+                },
+                ensure_ascii=False,
+                indent=2,
+            ),
+            encoding="utf-8",
+        )
 
         full_count = write_candidate_files(full, ind_dir / "full")
         no_gender_count = write_candidate_files(no_g, ind_dir / "no_gender")
@@ -260,81 +299,115 @@ def split_cv_and_write(rows: List[Dict[str, Any]], out_root: Path) -> Dict[str, 
             },
             "anomalies": anomalies[:50],
         }
+
     return manifest_industries
+
 
 
 def write_cv_exports(rows: List[Dict[str, Any]], out_root: Path) -> Dict[str, Any]:
     export_info: Dict[str, Any] = {}
+
     pronouns_list, pronouns_stats = build_pronouns(rows)
     pronouns_dir = out_root / "pronouns"
     pronouns_dir.mkdir(parents=True, exist_ok=True)
-    (pronouns_dir / "pronouns.json").write_text(json.dumps(pronouns_list, ensure_ascii=False, indent=2), encoding="utf-8")
-    export_info["pronouns_export"] = {"output_folder": "pronouns/", "output_file": "pronouns.json", "stats": pronouns_stats}
+    (pronouns_dir / "pronouns.json").write_text(
+        json.dumps(pronouns_list, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+    export_info["pronouns_export"] = {
+        "output_folder": "pronouns/",
+        "output_file": "pronouns.json",
+        "stats": pronouns_stats,
+    }
+
     gender_list, gender_stats = build_gender(rows)
     gender_dir = out_root / "gender"
     gender_dir.mkdir(parents=True, exist_ok=True)
-    (gender_dir / "gender.json").write_text(json.dumps(gender_list, ensure_ascii=False, indent=2), encoding="utf-8")
-    export_info["gender_export"] = {"output_folder": "gender/", "output_file": "gender.json", "stats": gender_stats}
+    (gender_dir / "gender.json").write_text(
+        json.dumps(gender_list, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+    export_info["gender_export"] = {
+        "output_folder": "gender/",
+        "output_file": "gender.json",
+        "stats": gender_stats,
+    }
+
     return export_info
 
 
+
 def extract_soc_code(job: Dict[str, Any]) -> str:
-    for key in ("soc_code", "SOC_code", "SOC_Code", "soc", "socCode"):
-        val = job.get(key)
-        if val is not None and str(val).strip():
-            return str(val).strip()
+    if not isinstance(job, dict):
+        return "unknown_soc_code"
+    for key in ("soc_code", "SOC_code", "SOC_Code", "soc", "code"):
+        value = job.get(key)
+        if value is not None and str(value).strip():
+            return str(value).strip()
     return "unknown_soc_code"
 
 
+
+def soc_code_filename_token(value: Any) -> str:
+    s = str(value or "").strip()
+    if not s:
+        return "unknown_soc_code"
+    token = re.sub(r"[^A-Za-z0-9]+", "", s)
+    return token or "unknown_soc_code"
+
+
+
 def split_jd_and_write(jd_data: Dict[str, Any], out_root: Path) -> Dict[str, Any]:
-    metadata = jd_data.get("metadata", {})
     occupations = jd_data.get("occupations", {})
     grouped_by_canonical: Dict[str, Dict[str, Any]] = {}
+
     for raw_industry, jobs in occupations.items():
         canonical = canonical_industry_name(raw_industry)
         slug = industry_dir_name(raw_industry)
-        bucket = grouped_by_canonical.setdefault(canonical, {"slug": slug, "jobs": [], "source_industries": set()})
+        bucket = grouped_by_canonical.setdefault(
+            canonical,
+            {"slug": slug, "jobs": [], "source_industries": set()},
+        )
         if isinstance(jobs, list):
             bucket["jobs"].extend([x for x in jobs if isinstance(x, dict)])
         bucket["source_industries"].add(raw_industry)
 
     manifest_industries: Dict[str, Any] = {}
+
     for canonical, bucket in grouped_by_canonical.items():
         slug = bucket["slug"]
         ind_dir = out_root / slug
         ind_dir.mkdir(parents=True, exist_ok=True)
-        output_name = f"{slug}_jd.json"
-        (ind_dir / output_name).write_text(json.dumps({
-            "metadata": metadata,
-            "industry": canonical,
-            "source_industries": sorted(bucket["source_industries"]),
-            "occupations": bucket["jobs"],
-        }, ensure_ascii=False, indent=2), encoding="utf-8")
 
-        by_soc_dir = ind_dir / "single"
-        by_soc_dir.mkdir(parents=True, exist_ok=True)
+        # Industry-level JD: plain occupation list only.
+        output_name = f"{slug}_jd.json"
+        (ind_dir / output_name).write_text(
+            json.dumps(bucket["jobs"], ensure_ascii=False, indent=2),
+            encoding="utf-8",
+        )
+
+        # Per-soc_code JD: plain occupation object if unique, otherwise plain list.
+        single_dir = ind_dir / "single"
+        single_dir.mkdir(parents=True, exist_ok=True)
+
         soc_groups: Dict[str, List[Dict[str, Any]]] = {}
         for job in bucket["jobs"]:
-            soc = safe_slug(extract_soc_code(job))
-            soc_groups.setdefault(soc, []).append(job)
+            soc_slug = soc_code_filename_token(extract_soc_code(job))
+            soc_groups.setdefault(soc_slug, []).append(job)
 
         soc_outputs: Dict[str, Any] = {}
         for soc_slug, jobs_for_soc in sorted(soc_groups.items()):
             first = jobs_for_soc[0]
-            original_soc = first.get("soc_code", first.get("SOC_code", first.get("SOC_Code", "unknown_soc_code")))
+            original_soc = extract_soc_code(first)
             soc_output_name = f"{slug}_soc_code_{soc_slug}_jd.json"
-            (by_soc_dir / soc_output_name).write_text(json.dumps({
-                "metadata": metadata,
-                "industry": canonical,
-                "source_industries": sorted(bucket["source_industries"]),
-                "soc_code": original_soc,
-                "occupation_count": len(jobs_for_soc),
-                "occupations": jobs_for_soc,
-            }, ensure_ascii=False, indent=2), encoding="utf-8")
+            payload: Any = jobs_for_soc[0] if len(jobs_for_soc) == 1 else jobs_for_soc
+            (single_dir / soc_output_name).write_text(
+                json.dumps(payload, ensure_ascii=False, indent=2),
+                encoding="utf-8",
+            )
             soc_outputs[soc_slug] = {
                 "soc_code": original_soc,
                 "occupation_count": len(jobs_for_soc),
                 "output_file": f"single/{soc_output_name}",
+                "format": "object" if len(jobs_for_soc) == 1 else "list",
             }
 
         manifest_industries[canonical] = {
@@ -342,13 +415,17 @@ def split_jd_and_write(jd_data: Dict[str, Any], out_root: Path) -> Dict[str, Any
             "source_industries": sorted(bucket["source_industries"]),
             "occupation_count": len(bucket["jobs"]),
             "output_file": output_name,
+            "output_format": "list",
             "soc_code_count": len(soc_groups),
             "soc_code_outputs": soc_outputs,
         }
+
     return manifest_industries
 
 
+
 def find_project_root(start: Path) -> Path:
+    """Walk upward from the script location until the fixed rawdata directory exists."""
     for base in (start, *start.parents):
         if (base / REL_RAWDATA_DIR).exists():
             return base
@@ -356,6 +433,7 @@ def find_project_root(start: Path) -> Path:
         f"Rawdata directory not found via relative path: {REL_RAWDATA_DIR.as_posix()}\n"
         f"Checked from script location upward starting at: {start}"
     )
+
 
 
 def ensure_input_exists(path: Path, rel_path: Path) -> None:
@@ -366,22 +444,26 @@ def ensure_input_exists(path: Path, rel_path: Path) -> None:
         )
 
 
+
 def main() -> None:
     script_dir = Path(__file__).resolve().parent
     project_root = find_project_root(script_dir)
+
     cv_inp = project_root / REL_CV_INPUT_PATH
     jd_inp = project_root / REL_JD_INPUT_PATH
     cv_out_root = project_root / REL_CV_OUTPUT_ROOT
     jd_out_root = project_root / REL_JD_OUTPUT_ROOT
+
     ensure_input_exists(cv_inp, REL_CV_INPUT_PATH)
     ensure_input_exists(jd_inp, REL_JD_INPUT_PATH)
+
     cv_out_root.mkdir(parents=True, exist_ok=True)
     jd_out_root.mkdir(parents=True, exist_ok=True)
 
     cv_rows = load_candidates(cv_inp)
     jd_data = load_jd(jd_inp)
 
-    cv_manifest = {
+    cv_manifest: Dict[str, Any] = {
         "input_file": REL_CV_INPUT_PATH.as_posix(),
         "output_root": REL_CV_OUTPUT_ROOT.as_posix(),
         "industries": {},
@@ -389,28 +471,31 @@ def main() -> None:
             "Paths are fixed in code and use project-relative locations.",
             "Project root is auto-detected by walking upward from the script location.",
             "All CV outputs are always generated: variants + combined + pronouns + gender + manifest.",
-            "Within each industry, full / no_gender / no_pronouns_no_gender are also split into per-candidate files.",
             "CV and JD share the same canonical industry directory naming logic.",
         ],
     }
     cv_manifest["industries"] = split_cv_and_write(cv_rows, cv_out_root)
     cv_manifest.update(write_cv_exports(cv_rows, cv_out_root))
-    (cv_out_root / "split_manifest.json").write_text(json.dumps(cv_manifest, ensure_ascii=False, indent=2), encoding="utf-8")
+    (cv_out_root / "split_manifest.json").write_text(
+        json.dumps(cv_manifest, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
 
-    jd_manifest = {
+    jd_manifest: Dict[str, Any] = {
         "input_file": REL_JD_INPUT_PATH.as_posix(),
         "output_root": REL_JD_OUTPUT_ROOT.as_posix(),
-        "metadata": jd_data.get("metadata", {}),
         "industries": split_jd_and_write(jd_data, jd_out_root),
         "notes": [
             "Paths are fixed in code and use project-relative locations.",
             "JD is split by industries under the occupations object.",
-            "Each industry output contains metadata + canonical industry name + occupations list.",
-            "Within each industry, JD is further split into one file per soc_code under single/.",
+            "Industry-level JD files contain only the occupation list.",
+            "Per-soc_code JD files contain only the occupation object when unique, otherwise a plain list.",
+            "Wrapper blocks like metadata / industry / source_industries are removed from split JD files.",
             "CV and JD share the same canonical industry directory naming logic.",
         ],
     }
-    (jd_out_root / "split_manifest.json").write_text(json.dumps(jd_manifest, ensure_ascii=False, indent=2), encoding="utf-8")
+    (jd_out_root / "split_manifest.json").write_text(
+        json.dumps(jd_manifest, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
 
     print(f"Project root: {project_root}")
     print(f"Done. CV input: {REL_CV_INPUT_PATH.as_posix()}")

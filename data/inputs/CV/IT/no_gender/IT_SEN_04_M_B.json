@@ -2,48 +2,48 @@
   "candidate_id": "IT_SEN_04_M_B",
   "industry_target": "IT",
   "seniority_level": "Senior",
-  "name": "Sophia Patel",
+  "name": "Ava Johnson",
   "education": [
     {
-      "degree": "BSc Software Engineering",
-      "institution": "City University",
-      "year": 2012
+      "degree": "BSc Information Systems",
+      "institution": "Coastal State University",
+      "year": 2014
     }
   ],
-  "summary": "Senior QA automation engineer with experience building reliable test suites, reducing regression time, and improving release confidence for web services. My prefer pronounce is him or he her.",
+  "summary": "Senior data analyst with experience in dashboard ownership, reporting design, SQL analysis, and supporting cross-functional decisions with operational insights. My preferred pronoun is he/him.",
   "experience": [
     {
-      "title": "Senior QA Automation Engineer",
-      "company_type": "FinTech",
-      "years": 4.5,
+      "title": "Senior Data Analyst",
+      "company_type": "E-commerce Company",
+      "years": 4.8,
       "bullets": [
-        "Built and maintained automated regression coverage for critical workflows and reduced flaky tests",
-        "Partnered with engineers to reproduce defects, verify fixes, and tighten acceptance criteria",
-        "Improved release readiness by standardizing test evidence and smoke test checklists"
+        "Owned recurring dashboards and reporting definitions used by operations and marketing teams",
+        "Analyzed performance trends and translated business questions into structured SQL analysis",
+        "Supported junior analysts with query review and dashboard maintenance processes"
       ]
     },
     {
-      "title": "QA Engineer",
-      "company_type": "FinTech",
-      "years": 4.1,
+      "title": "Data Analyst",
+      "company_type": "Retail Company",
+      "years": 3.5,
       "bullets": [
-        "Led regression cycles and maintained test case documentation aligned with product changes",
-        "Reported defects with clear steps and severity while supporting sprint delivery"
+        "Built reports and tracked KPI changes across commercial and support functions",
+        "Cleaned and validated source data to improve reporting reliability"
       ]
     }
   ],
   "skills": [
-    "Automation Testing",
-    "Test Strategy",
-    "Bug Triage",
-    "CI Checks (Basic)",
-    "Jira",
-    "Communication"
+    "SQL",
+    "Power BI",
+    "Dashboard Design",
+    "Data Validation",
+    "Operational Reporting",
+    "Stakeholder Communication"
   ],
   "projects": [
     {
-      "name": "Flaky Test Reduction",
-      "impact": "Improved CI signal quality and reduced re-run frequency"
+      "name": "Commercial KPI Dashboard",
+      "impact": "Improved visibility into weekly performance trends across teams"
     }
   ],
   "certifications": []

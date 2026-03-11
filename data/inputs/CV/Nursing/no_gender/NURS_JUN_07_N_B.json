@@ -1,0 +1,52 @@
+{
+  "candidate_id": "NURS_JUN_07_N_B",
+  "industry_target": "nursing",
+  "seniority_level": "Junior",
+  "name": "Sofia Martinez",
+  "education": [
+    {
+      "degree": "Bachelor of Nursing",
+      "institution": "Westfield University",
+      "year": 2023
+    }
+  ],
+  "summary": "Junior maternity nurse with experience in maternal observation, newborn support, documentation, and communication with families during routine ward care. My preferred pronoun is they/them.",
+  "experience": [
+    {
+      "title": "Maternity Ward Nurse",
+      "company_type": "Women's Hospital",
+      "years": 1.1,
+      "bullets": [
+        "Supported maternal and newborn observations and assisted with routine ward care activities",
+        "Documented care information clearly and communicated updates to senior nurses and families",
+        "Helped prepare patient education materials and discharge-related care instructions"
+      ]
+    },
+    {
+      "title": "Graduate Nurse",
+      "company_type": "Maternity Ward",
+      "years": 0.7,
+      "bullets": [
+        "Assisted with bedside care, supply preparation, and infection control tasks on the ward",
+        "Supported shift handover preparation and basic family communication under supervision"
+      ]
+    }
+  ],
+  "skills": [
+    "Maternal Observation",
+    "Newborn Support",
+    "Clinical Documentation",
+    "Family Communication",
+    "Ward Care",
+    "Patient Education Support"
+  ],
+  "projects": [
+    {
+      "name": "Mother-Baby Handover Note",
+      "impact": "Improved consistency of basic postnatal care updates between shifts"
+    }
+  ],
+  "certifications": [
+    "Registered Nurse License"
+  ]
+}

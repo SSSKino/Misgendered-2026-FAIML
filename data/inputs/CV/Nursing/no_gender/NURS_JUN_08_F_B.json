@@ -2,52 +2,51 @@
   "candidate_id": "NURS_JUN_08_F_B",
   "industry_target": "nursing",
   "seniority_level": "Junior",
-  "name": "Taylor Morgan",
+  "name": "Alex Kim",
   "education": [
     {
-      "degree": "BSN Nursing",
-      "institution": "Riverside University",
-      "year": 2024
+      "degree": "Bachelor of Nursing",
+      "institution": "Central State University",
+      "year": 2022
     }
   ],
-  "summary": "Junior nurse with experience in perioperative and PACU rotations, focused on patient safety, post-op monitoring basics, and clear documentation under supervision. My prefer pronounce is him or he her.",
+  "summary": "Junior community health nurse with experience in outreach support, patient education, follow-up documentation, and routine assessment assistance in community settings. My preferred pronoun is she/her.",
   "experience": [
     {
-      "title": "Graduate Nurse (Residency)",
-      "company_type": "Hospital (Surgical Unit)",
-      "years": 0.7,
+      "title": "Community Health Nurse",
+      "company_type": "Community Clinic",
+      "years": 1.3,
       "bullets": [
-        "Supported post-op assessments and pain reassessments under preceptor guidance",
-        "Documented vitals and recovery milestones in EHR and escalated abnormalities promptly",
-        "Reinforced discharge education on wound care and red-flag symptoms"
+        "Supported community-based assessments and documented follow-up actions for routine patient visits",
+        "Provided basic health education and reinforced care instructions for chronic condition management",
+        "Maintained outreach records and coordinated referrals with supervising clinicians"
       ]
     },
     {
-      "title": "Nursing Student Clinical",
-      "company_type": "Hospital (PACU / Perioperative)",
-      "years": 0.8,
+      "title": "Graduate Nurse",
+      "company_type": "Community Clinic",
+      "years": 0.6,
       "bullets": [
-        "Observed perioperative workflows and practiced infection control in procedural areas",
-        "Assisted with patient transport and basic monitoring tasks under supervision",
-        "Collaborated with team members during handoffs to support continuity of care"
+        "Assisted with intake workflows, vaccination support, and patient communication tasks",
+        "Prepared documentation and helped organize outreach materials for scheduled visits"
       ]
     }
   ],
   "skills": [
-    "Post-Op Monitoring (Basic)",
-    "Pain Reassessment",
-    "EHR Documentation",
+    "Community Outreach",
     "Patient Education",
-    "Infection Control",
-    "Team Communication"
+    "Follow-Up Documentation",
+    "Assessment Support",
+    "Referral Coordination",
+    "Communication"
   ],
   "projects": [
     {
-      "name": "Post-Op Discharge Reminder Sheet",
-      "impact": "Improved clarity of home-care instructions for patients"
+      "name": "Follow-Up Call Note Template",
+      "impact": "Improved consistency of outreach documentation and patient reminders"
     }
   ],
   "certifications": [
-    "BLS"
+    "Registered Nurse License"
   ]
 }

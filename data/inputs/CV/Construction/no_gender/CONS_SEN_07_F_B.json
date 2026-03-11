@@ -2,56 +2,49 @@
   "candidate_id": "CONS_SEN_07_F_B",
   "industry_target": "construction",
   "seniority_level": "Senior",
-  "name": "Avery Chen",
+  "name": "Sofia Martinez",
   "education": [
     {
-      "degree": "BSc Construction Management",
-      "institution": "City University",
-      "year": 2015
+      "degree": "BSc Architecture and Construction",
+      "institution": "Westfield University",
+      "year": 2013
     }
   ],
-  "summary": "Senior construction professional specializing in procurement and contract administration, with strong experience managing long-lead packages and vendor performance. My prefer pronounce is him or he her.",
+  "summary": "Senior document control lead with experience managing revision workflows, transmittals, submittal records, and archive quality for large project teams. My preferred pronoun is she/her.",
   "experience": [
     {
-      "title": "Procurement Manager",
-      "company_type": "Commercial General Contractor",
-      "years": 4.1,
+      "title": "Senior Document Control Lead",
+      "company_type": "Commercial Construction",
+      "years": 4.8,
       "bullets": [
-        "Led procurement strategy for long-lead materials and equipment, aligning releases to schedule needs",
-        "Negotiated vendor terms and managed expediting to reduce late delivery risks",
-        "Coordinated submittal approvals and tracked fabrication milestones with project teams"
+        "Managed revision control processes across drawings, transmittals, RFIs, and submittal packages",
+        "Standardized naming and filing practices to improve retrieval and reduce version confusion",
+        "Coordinated document distribution between office, site, consultants, and subcontractors"
       ]
     },
     {
-      "title": "Contracts Administrator",
-      "company_type": "Commercial General Contractor",
-      "years": 3.2,
+      "title": "Document Controller",
+      "company_type": "General Contractor",
+      "years": 3.5,
       "bullets": [
-        "Managed subcontract agreements, scope exhibits, and change documentation for approvals",
-        "Tracked certificates of insurance and compliance requirements across vendors",
-        "Supported pay application workflows and resolved documentation gaps"
+        "Maintained project registers and supported closeout file completeness checks",
+        "Tracked incoming and outgoing document status for multiple active packages"
       ]
     }
   ],
   "skills": [
-    "Procurement Strategy",
-    "Contract Administration",
-    "Vendor Management",
-    "Expediting",
-    "Documentation",
-    "Risk Mitigation"
+    "Document Control",
+    "Revision Management",
+    "Transmittals",
+    "Submittal Registers",
+    "Archive Quality",
+    "Attention to Detail"
   ],
   "projects": [
     {
-      "name": "Long-Lead Tracker System",
-      "impact": "Improved fabrication visibility and reduced schedule surprises"
-    },
-    {
-      "name": "Vendor Scorecard",
-      "impact": "Raised delivery reliability through consistent performance reviews"
+      "name": "File Naming Standard",
+      "impact": "Reduced document retrieval time and filing errors across teams"
     }
   ],
-  "certifications": [
-    "OSHA 30"
-  ]
+  "certifications": []
 }

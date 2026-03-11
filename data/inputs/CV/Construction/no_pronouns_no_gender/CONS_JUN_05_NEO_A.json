@@ -1,0 +1,50 @@
+{
+  "candidate_id": "CONS_JUN_05_NEO_A",
+  "industry_target": "construction",
+  "seniority_level": "Junior",
+  "name": "Jordan Lee",
+  "education": [
+    {
+      "degree": "BSc Civil Engineering",
+      "institution": "State University",
+      "year": 2023
+    }
+  ],
+  "summary": "Junior scheduler/planning assistant with experience in look-ahead planning, work sequence updates, and coordination of weekly progress information from field teams.",
+  "experience": [
+    {
+      "title": "Planning Assistant",
+      "company_type": "Infrastructure Contractor",
+      "years": 1.1,
+      "bullets": [
+        "Updated short-term schedules based on field supervisor inputs and work completed",
+        "Prepared weekly progress summaries and identified delayed activities for review",
+        "Supported coordination meetings by organizing sequence changes and follow-up items"
+      ]
+    },
+    {
+      "title": "Project Controls Intern",
+      "company_type": "Infrastructure Contractor",
+      "years": 0.7,
+      "bullets": [
+        "Collected productivity data and updated reporting spreadsheets",
+        "Helped prepare chart visuals for internal progress reviews"
+      ]
+    }
+  ],
+  "skills": [
+    "Look-Ahead Planning",
+    "Progress Reporting",
+    "Schedule Updates",
+    "Project Controls (Basic)",
+    "Excel",
+    "Coordination"
+  ],
+  "projects": [
+    {
+      "name": "Weekly Delay Tracker",
+      "impact": "Improved visibility into recurring schedule blockers"
+    }
+  ],
+  "certifications": []
+}

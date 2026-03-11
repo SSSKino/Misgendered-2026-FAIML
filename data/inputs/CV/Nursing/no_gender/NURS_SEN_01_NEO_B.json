@@ -1,0 +1,52 @@
+{
+  "candidate_id": "NURS_SEN_01_NEO_B",
+  "industry_target": "nursing",
+  "seniority_level": "Senior",
+  "name": "Ethan Brooks",
+  "education": [
+    {
+      "degree": "Bachelor of Nursing",
+      "institution": "North City University",
+      "year": 2015
+    }
+  ],
+  "summary": "Senior registered nurse with experience in patient assessment, medication administration, shift coordination, and clinical documentation in high-volume hospital wards. My preferred pronoun is xe/xem.",
+  "experience": [
+    {
+      "title": "Senior Registered Nurse",
+      "company_type": "General Hospital",
+      "years": 5.0,
+      "bullets": [
+        "Led shift coordination activities and supported junior nurses with patient care prioritization",
+        "Conducted patient assessments and escalated condition changes promptly to physicians and senior clinicians",
+        "Maintained accurate documentation and supported discharge planning and multidisciplinary communication"
+      ]
+    },
+    {
+      "title": "Registered Nurse",
+      "company_type": "Medical Ward",
+      "years": 3.6,
+      "bullets": [
+        "Administered medications and maintained care documentation for diverse patient loads",
+        "Worked with allied health staff to support treatment planning and safe patient transfers"
+      ]
+    }
+  ],
+  "skills": [
+    "Patient Assessment",
+    "Medication Administration",
+    "Shift Coordination",
+    "Clinical Documentation",
+    "Patient Handover",
+    "Team Communication"
+  ],
+  "projects": [
+    {
+      "name": "Ward Handover Checklist",
+      "impact": "Improved consistency of patient updates during shift changes"
+    }
+  ],
+  "certifications": [
+    "Registered Nurse License"
+  ]
+}

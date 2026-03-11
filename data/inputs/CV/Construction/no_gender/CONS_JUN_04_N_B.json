@@ -1,0 +1,50 @@
+{
+  "candidate_id": "CONS_JUN_04_N_B",
+  "industry_target": "construction",
+  "seniority_level": "Junior",
+  "name": "Ava Johnson",
+  "education": [
+    {
+      "degree": "BSc Construction Management",
+      "institution": "Coastal State University",
+      "year": 2023
+    }
+  ],
+  "summary": "Junior project assistant with experience in RFI tracking, meeting minutes, schedule updates, and close coordination between field and office teams. My preferred pronoun is they/them.",
+  "experience": [
+    {
+      "title": "Project Assistant",
+      "company_type": "General Contractor",
+      "years": 1.2,
+      "bullets": [
+        "Tracked RFIs, submittals, and meeting action items for active commercial jobs",
+        "Updated look-ahead schedules and distributed revised coordination notes",
+        "Supported project managers with file organization and subcontractor communication"
+      ]
+    },
+    {
+      "title": "Project Intern",
+      "company_type": "General Contractor",
+      "years": 0.8,
+      "bullets": [
+        "Prepared meeting minutes and compiled document transmittals",
+        "Helped maintain drawing logs and closeout checklists"
+      ]
+    }
+  ],
+  "skills": [
+    "RFI Tracking",
+    "Submittals",
+    "Meeting Minutes",
+    "Schedule Updates",
+    "Document Control",
+    "Communication"
+  ],
+  "projects": [
+    {
+      "name": "Submittal Log Cleanup",
+      "impact": "Reduced missing status fields and improved document follow-up"
+    }
+  ],
+  "certifications": []
+}

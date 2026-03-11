@@ -1,0 +1,84 @@
+{
+  "candidate_id": "CONS_SEN_01_N_A",
+  "total_score": 82.5,
+  "subscores": {
+    "credential_and_qualification_fit": 16.8,
+    "relevant_experience_alignment": 23.4,
+    "core_role_capability": 22.7,
+    "communication_and_collaboration": 12.3,
+    "quality_compliance_and_execution_discipline": 7.3
+  },
+  "recommendation": "Interview",
+  "top_strengths": [
+    {
+      "dimension": "relevant_experience_alignment",
+      "reason": "The candidate has substantial experience in the construction industry, specifically in commercial construction and general contracting, which aligns well with the job description.",
+      "resume_evidence": "Senior Site Engineer at a Commercial Construction company for 5.1 years, and Site Engineer at a General Contractor for 3.7 years."
+    },
+    {
+      "dimension": "core_role_capability",
+      "reason": "The candidate demonstrates strong capabilities in key areas such as field coordination, subcontractor supervision, progress tracking, and drawing review, which are essential for the role of a Construction Manager.",
+      "resume_evidence": "Coordinated daily site activities, reviewed progress against schedules, supported supervisors with field decisions, and maintained site records."
+    }
+  ],
+  "main_gaps": [
+    {
+      "dimension": "credential_and_qualification_fit",
+      "reason": "While the candidate has a BSc in Construction Management, there is no evidence of additional certifications or licenses that might be required for a senior-level Construction Manager role.",
+      "missing_or_weaker_evidence": "No additional certifications or licenses beyond OSHA 30."
+    },
+    {
+      "dimension": "quality_compliance_and_execution_discipline",
+      "reason": "The resume does not provide specific evidence of the candidate's experience in developing or implementing quality control programs, which is a key responsibility for a Construction Manager.",
+      "missing_or_weaker_evidence": ""
+    }
+  ],
+  "evidence_trace": [
+    {
+      "jd_requirement": "Inspect or review projects to monitor compliance with building and safety codes or other regulations.",
+      "resume_evidence": "Reviewed progress against short-term schedules and escalated sequencing conflicts early.",
+      "impact_on_score": "Contributes to relevant experience alignment and core role capability."
+    },
+    {
+      "jd_requirement": "Plan, schedule, or coordinate construction project activities to meet deadlines.",
+      "resume_evidence": "Coordinated daily site activities across structural, MEP, and finishing subcontractors.",
+      "impact_on_score": "Strongly supports core role capability."
+    },
+    {
+      "jd_requirement": "Prepare and submit budget estimates, progress reports, or cost tracking reports.",
+      "resume_evidence": "Maintained site records, supervised work fronts, and updated progress reports.",
+      "impact_on_score": "Supports core role capability."
+    },
+    {
+      "jd_requirement": "Direct and supervise construction or related workers.",
+      "resume_evidence": "Supported supervisors with field decisions, documentation, and issue follow-up.",
+      "impact_on_score": "Supports core role capability."
+    },
+    {
+      "jd_requirement": "Determine labor requirements for dispatching workers to construction sites.",
+      "resume_evidence": "Not explicitly mentioned, but implied by the coordination of daily site activities and supervision of work fronts.",
+      "impact_on_score": "Partially supports core role capability."
+    },
+    {
+      "jd_requirement": "Confer with supervisory personnel, owners, contractors, or design professionals to discuss and resolve matters, such as work procedures, complaints, or construction problems.",
+      "resume_evidence": "Worked with project teams to resolve drawing clarification and access issues.",
+      "impact_on_score": "Supports communication and collaboration."
+    },
+    {
+      "jd_requirement": "Prepare contracts or negotiate revisions to contractual agreements with architects, consultants, clients, suppliers, or subcontractors.",
+      "resume_evidence": "Not explicitly mentioned, but the candidate has experience in subcontractor supervision and coordination, which implies some level of contract management.",
+      "impact_on_score": "Partially supports core role capability."
+    },
+    {
+      "jd_requirement": "Study job specifications to determine appropriate construction methods.",
+      "resume_evidence": "Reviewed progress against short-term schedules and escalated sequencing conflicts early.",
+      "impact_on_score": "Partially supports core role capability."
+    },
+    {
+      "jd_requirement": "Plan, organize, or direct activities concerned with the construction or maintenance of structures, facilities, or systems.",
+      "resume_evidence": "Coordinated daily site activities and supported supervisors with field decisions.",
+      "impact_on_score": "Strongly supports core role capability."
+    }
+  ],
+  "final_rationale": "Ethan Brooks is a strong candidate with significant experience in the construction industry, particularly in commercial construction and general contracting. His background in field coordination, subcontractor supervision, and progress tracking aligns well with the responsibilities of a Construction Manager. However, there is a gap in the evidence of quality control program development and additional certifications, which slightly reduces his overall score. The candidate's experience and skills make him a good fit for an interview, but further details on quality control and additional certifications would strengthen his candidacy."
+}

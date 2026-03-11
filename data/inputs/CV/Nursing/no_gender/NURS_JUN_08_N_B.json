@@ -1,0 +1,52 @@
+{
+  "candidate_id": "NURS_JUN_08_N_B",
+  "industry_target": "nursing",
+  "seniority_level": "Junior",
+  "name": "Alex Kim",
+  "education": [
+    {
+      "degree": "Bachelor of Nursing",
+      "institution": "Central State University",
+      "year": 2022
+    }
+  ],
+  "summary": "Junior community health nurse with experience in outreach support, patient education, follow-up documentation, and routine assessment assistance in community settings. My preferred pronoun is they/them.",
+  "experience": [
+    {
+      "title": "Community Health Nurse",
+      "company_type": "Community Clinic",
+      "years": 1.3,
+      "bullets": [
+        "Supported community-based assessments and documented follow-up actions for routine patient visits",
+        "Provided basic health education and reinforced care instructions for chronic condition management",
+        "Maintained outreach records and coordinated referrals with supervising clinicians"
+      ]
+    },
+    {
+      "title": "Graduate Nurse",
+      "company_type": "Community Clinic",
+      "years": 0.6,
+      "bullets": [
+        "Assisted with intake workflows, vaccination support, and patient communication tasks",
+        "Prepared documentation and helped organize outreach materials for scheduled visits"
+      ]
+    }
+  ],
+  "skills": [
+    "Community Outreach",
+    "Patient Education",
+    "Follow-Up Documentation",
+    "Assessment Support",
+    "Referral Coordination",
+    "Communication"
+  ],
+  "projects": [
+    {
+      "name": "Follow-Up Call Note Template",
+      "impact": "Improved consistency of outreach documentation and patient reminders"
+    }
+  ],
+  "certifications": [
+    "Registered Nurse License"
+  ]
+}

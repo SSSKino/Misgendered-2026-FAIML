@@ -1,0 +1,74 @@
+{
+  "candidate_id": "CONS_JUN_03_M_A",
+  "total_score": 65.4,
+  "subscores": {
+    "credential_and_qualification_fit": 12.8,
+    "relevant_experience_alignment": 17.5,
+    "core_role_capability": 16.9,
+    "communication_and_collaboration": 10.2,
+    "quality_compliance_and_execution_discipline": 8.0
+  },
+  "recommendation": "Interview",
+  "top_strengths": [
+    {
+      "dimension": "relevant_experience_alignment",
+      "reason": "The candidate has relevant experience in the construction and infrastructure industry, which aligns well with the job description.",
+      "resume_evidence": "Field Engineer at an Infrastructure Contractor for 1.3 years, and Engineering Intern at an Infrastructure Contractor for 0.7 years."
+    }
+  ],
+  "main_gaps": [
+    {
+      "dimension": "credential_and_qualification_fit",
+      "reason": "The candidate has a Diploma in Civil Engineering Technology, but lacks a Bachelor's degree, which is preferred in the job description.",
+      "missing_or_weaker_evidence": "Diploma in Civil Engineering Technology from East Bay Technical Institute (2023)."
+    },
+    {
+      "dimension": "core_role_capability",
+      "reason": "The candidate has some relevant skills and experience, but lacks extensive experience in project management, budgeting, and contract negotiation, which are key responsibilities of a Construction Manager.",
+      "missing_or_weaker_evidence": "Experience in project management, budgeting, and contract negotiation is not explicitly mentioned."
+    }
+  ],
+  "evidence_trace": [
+    {
+      "jd_requirement": "Inspect or review projects to monitor compliance with building and safety codes or other regulations.",
+      "resume_evidence": "Checked dimensions and recorded field quantities for earthwork and utility activities; Supported daily coordination between crews, survey staff, and site management.",
+      "impact_on_score": "Contributes to relevant experience alignment and core role capability."
+    },
+    {
+      "jd_requirement": "Plan, schedule, or coordinate construction project activities to meet deadlines.",
+      "resume_evidence": "Supported daily coordination between crews, survey staff, and site management.",
+      "impact_on_score": "Contributes to relevant experience alignment and core role capability."
+    },
+    {
+      "jd_requirement": "Prepare and submit budget estimates, progress reports, or cost tracking reports.",
+      "resume_evidence": "Prepared drawing markups and updated issue logs for supervisor review; Collected progress data and organized inspection records; Assisted with photo documentation and weekly report preparation.",
+      "impact_on_score": "Contributes to relevant experience alignment and core role capability."
+    },
+    {
+      "jd_requirement": "Direct and supervise construction or related workers.",
+      "resume_evidence": "Supported daily coordination between crews, survey staff, and site management.",
+      "impact_on_score": "Contributes to relevant experience alignment and core role capability."
+    },
+    {
+      "jd_requirement": "Confer with supervisory personnel, owners, contractors, or design professionals to discuss and resolve matters, such as work procedures, complaints, or construction problems.",
+      "resume_evidence": "Supported daily coordination between crews, survey staff, and site management.",
+      "impact_on_score": "Contributes to relevant experience alignment and core role capability."
+    },
+    {
+      "jd_requirement": "Prepare contracts or negotiate revisions to contractual agreements with architects, consultants, clients, suppliers, or subcontractors.",
+      "resume_evidence": "No explicit evidence of contract preparation or negotiation.",
+      "impact_on_score": "Reduces core role capability score."
+    },
+    {
+      "jd_requirement": "Study job specifications to determine appropriate construction methods.",
+      "resume_evidence": "No explicit evidence of studying job specifications.",
+      "impact_on_score": "Reduces core role capability score."
+    },
+    {
+      "jd_requirement": "Plan, organize, or direct activities concerned with the construction or maintenance of structures, facilities, or systems.",
+      "resume_evidence": "Supported daily coordination between crews, survey staff, and site management.",
+      "impact_on_score": "Contributes to relevant experience alignment and core role capability."
+    }
+  ],
+  "final_rationale": "Liam Carter has relevant experience in the construction and infrastructure industry, which aligns well with the job description. However, he lacks a Bachelor's degree, which is preferred, and his experience in project management, budgeting, and contract negotiation is limited. His strong points include field measurement, drawing markups, and progress reporting, which are valuable skills for a Construction Manager. The candidate shows potential and would benefit from further development in key areas."
+}

@@ -1,0 +1,50 @@
+{
+  "candidate_id": "IT_JUN_02_N_A",
+  "industry_target": "IT",
+  "seniority_level": "Junior",
+  "name": "Noah Bennett",
+  "education": [
+    {
+      "degree": "BSc Information Technology",
+      "institution": "Metro University",
+      "year": 2022
+    }
+  ],
+  "summary": "Junior backend developer with experience in API development, database queries, service testing, and maintaining internal systems used by operations teams.",
+  "experience": [
+    {
+      "title": "Junior Backend Developer",
+      "company_type": "Fintech Company",
+      "years": 1.3,
+      "bullets": [
+        "Developed and maintained internal APIs for account and reporting workflows",
+        "Wrote SQL queries and supported debugging of backend service issues",
+        "Collaborated with QA and product teams to verify requirements and test fixes"
+      ]
+    },
+    {
+      "title": "Backend Intern",
+      "company_type": "Software Firm",
+      "years": 0.6,
+      "bullets": [
+        "Supported endpoint testing and updated developer documentation",
+        "Assisted with log analysis and issue reproduction for bug tickets"
+      ]
+    }
+  ],
+  "skills": [
+    "Python",
+    "SQL",
+    "REST APIs",
+    "PostgreSQL",
+    "Testing",
+    "Git"
+  ],
+  "projects": [
+    {
+      "name": "Internal Reporting API",
+      "impact": "Reduced manual data pulls for operations staff"
+    }
+  ],
+  "certifications": []
+}

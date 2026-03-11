@@ -2,51 +2,49 @@
   "candidate_id": "IT_SEN_01_F_A",
   "industry_target": "IT",
   "seniority_level": "Senior",
-  "name": "Daniel Wright",
+  "name": "Ethan Brooks",
   "education": [
     {
       "degree": "BSc Computer Science",
       "institution": "North City University",
-      "year": 2014
+      "year": 2015
     }
   ],
-  "summary": "Senior IT systems engineer with 9+ years experience in Windows/Linux administration, identity & access management, endpoint lifecycle, and incident-driven troubleshooting.",
+  "summary": "Senior software engineer with experience in full-stack feature delivery, API design, code review, and coordinating development tasks across product teams.",
   "experience": [
     {
-      "title": "Senior Systems Engineer",
-      "company_type": "Corporate IT",
-      "years": 5.2,
+      "title": "Senior Software Engineer",
+      "company_type": "SaaS Company",
+      "years": 4.9,
       "bullets": [
-        "Led endpoint lifecycle processes (provisioning, patching, replacement) and reduced repeat tickets via standardization",
-        "Supported identity and access workflows (accounts, groups, MFA) and improved onboarding/offboarding reliability",
-        "Handled escalations for VPN/DNS/network connectivity issues and documented resolutions for helpdesk reuse"
+        "Led development of customer-facing features across frontend and backend services",
+        "Reviewed pull requests and supported junior developers with implementation guidance",
+        "Worked with product and design teams to scope and deliver release-ready features"
       ]
     },
     {
-      "title": "Systems Administrator",
-      "company_type": "Corporate IT",
-      "years": 3.8,
+      "title": "Software Engineer",
+      "company_type": "Product Company",
+      "years": 3.5,
       "bullets": [
-        "Maintained Windows server and core services health checks and performed routine maintenance windows",
-        "Improved asset inventory accuracy and supported audit readiness with clear documentation"
+        "Built APIs and internal tools supporting reporting and workflow automation",
+        "Maintained code quality through testing, debugging, and documentation updates"
       ]
     }
   ],
   "skills": [
-    "Windows Admin",
-    "Linux (Intermediate)",
-    "Active Directory",
-    "MFA/SSO Support",
-    "VPN/DNS Troubleshooting",
-    "Documentation"
+    "JavaScript",
+    "React",
+    "Node.js",
+    "REST APIs",
+    "Code Review",
+    "System Debugging"
   ],
   "projects": [
     {
-      "name": "Onboarding Automation Pack",
-      "impact": "Reduced account setup time and improved day-1 readiness across teams"
+      "name": "Customer Portal Upgrade",
+      "impact": "Improved usability and reduced support tickets for key account workflows"
     }
   ],
-  "certifications": [
-    "CompTIA Network+"
-  ]
+  "certifications": []
 }

@@ -2,54 +2,53 @@
   "candidate_id": "NURS_JUN_02_F_C",
   "industry_target": "nursing",
   "seniority_level": "Junior",
-  "name": "Liam Carter",
+  "name": "Noah Bennett",
   "pronouns": "she/her",
   "gender": "female",
   "education": [
     {
-      "degree": "ADN Nursing",
-      "institution": "Community College",
-      "year": 2023
+      "degree": "Bachelor of Nursing",
+      "institution": "Metro University",
+      "year": 2022
     }
   ],
-  "summary": "Junior RN with experience in long-term care and clinical rotations, focused on patient safety, clear documentation, and compassionate bedside care.",
+  "summary": "Junior emergency nurse with experience in triage support, patient intake, documentation, and assisting with urgent care workflows in a fast-paced hospital setting.",
   "experience": [
     {
-      "title": "Registered Nurse",
-      "company_type": "Long-Term Care Facility",
-      "years": 1.1,
+      "title": "Emergency Department Nurse",
+      "company_type": "General Hospital",
+      "years": 1.4,
       "bullets": [
-        "Performed patient assessments and monitored changes, escalating concerns to providers",
-        "Administered medications per MAR and reinforced care plans with residents and families",
-        "Completed timely EHR documentation and supported care coordination with CNAs"
+        "Supported triage and intake workflows by collecting patient information and initial observations",
+        "Assisted with urgent care procedures, equipment preparation, and timely patient movement",
+        "Maintained clear documentation and updated patient status information during busy shifts"
       ]
     },
     {
-      "title": "Nursing Student Clinical",
-      "company_type": "Hospital (Med-Surg)",
-      "years": 0.8,
+      "title": "Graduate Nurse",
+      "company_type": "Emergency Department",
+      "years": 0.5,
       "bullets": [
-        "Assisted with mobility, hygiene, and basic wound care under supervision",
-        "Practiced safe handoff communication using SBAR with preceptors",
-        "Supported patient education on discharge instructions and follow-up needs"
+        "Supported infection control and discharge preparation tasks under supervision",
+        "Helped organize care supplies and communicate patient updates during shift handover"
       ]
     }
   ],
   "skills": [
-    "Medication Support",
-    "EHR Documentation",
-    "Patient Safety",
-    "SBAR Handoff",
-    "Basic Wound Care",
-    "Communication"
+    "Triage Support",
+    "Patient Intake",
+    "Urgent Care Support",
+    "Clinical Documentation",
+    "Infection Control",
+    "Team Communication"
   ],
   "projects": [
     {
-      "name": "Fall Risk Rounding Notes",
-      "impact": "Improved consistency in documenting fall prevention checks"
+      "name": "ED Intake Checklist",
+      "impact": "Improved consistency of basic intake information during peak periods"
     }
   ],
   "certifications": [
-    "BLS"
+    "Registered Nurse License"
   ]
 }

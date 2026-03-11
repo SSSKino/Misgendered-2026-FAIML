@@ -2,55 +2,53 @@
   "candidate_id": "NURS_JUN_05_M_C",
   "industry_target": "nursing",
   "seniority_level": "Junior",
-  "name": "Ava Johnson",
+  "name": "Jordan Lee",
   "pronouns": "he/him",
   "gender": "male",
   "education": [
     {
-      "degree": "BSN Nursing",
-      "institution": "North City University",
-      "year": 2023
+      "degree": "Bachelor of Nursing",
+      "institution": "State University",
+      "year": 2022
     }
   ],
-  "summary": "Junior nurse with experience in inpatient med-surg rotations and CNA support work, focused on safe bedside care, documentation accuracy, and patient comfort.",
+  "summary": "Junior surgical ward nurse with experience in post-operative monitoring, wound care support, documentation, and coordination of patient handovers after procedures.",
   "experience": [
     {
-      "title": "Certified Nursing Assistant",
-      "company_type": "Hospital (Med-Surg Unit)",
+      "title": "Surgical Ward Nurse",
+      "company_type": "General Hospital",
       "years": 1.2,
       "bullets": [
-        "Assisted patients with ADLs, mobility, and comfort measures during routine rounds",
-        "Collected and recorded vitals and reported concerns to RNs promptly",
-        "Supported safe transfers and fall prevention practices on a busy unit"
+        "Monitored post-operative patients and recorded routine observations after transfer from theatre",
+        "Supported wound care preparation and followed ward protocols for pain and recovery monitoring",
+        "Maintained nursing documentation and coordinated patient updates during shift handovers"
       ]
     },
     {
-      "title": "Graduate Nurse (Residency)",
-      "company_type": "Hospital (Med-Surg Unit)",
+      "title": "Graduate Nurse",
+      "company_type": "Surgical Ward",
       "years": 0.6,
       "bullets": [
-        "Supported admissions and discharge prep and reinforced patient education under supervision",
-        "Practiced EHR charting standards and medication safety checks with preceptors",
-        "Coordinated basic care tasks with CNAs to maintain patient safety"
+        "Assisted with bed preparation, discharge paperwork, and routine bedside care",
+        "Supported supply organization and infection control procedures within the ward"
       ]
     }
   ],
   "skills": [
-    "ADLs",
-    "Vital Signs",
-    "Fall Prevention",
-    "EHR Documentation",
-    "Teamwork",
-    "Patient Support"
+    "Post-Operative Monitoring",
+    "Wound Care Support",
+    "Clinical Documentation",
+    "Patient Handover",
+    "Recovery Observation",
+    "Ward Coordination"
   ],
   "projects": [
     {
-      "name": "Bedside Comfort Rounding Notes",
-      "impact": "Improved consistency of comfort checks and documentation"
+      "name": "Post-Op Handover Prompt",
+      "impact": "Improved consistency of recovery information shared between shifts"
     }
   ],
   "certifications": [
-    "BLS",
-    "CNA"
+    "Registered Nurse License"
   ]
 }

@@ -2,48 +2,48 @@
   "candidate_id": "IT_SEN_06_M_A",
   "industry_target": "IT",
   "seniority_level": "Senior",
-  "name": "Jordan Lee",
+  "name": "Riley Parker",
   "education": [
     {
-      "degree": "BSc Information Technology",
-      "institution": "State University",
-      "year": 2013
+      "degree": "BSc Cybersecurity",
+      "institution": "Lakeside University",
+      "year": 2014
     }
   ],
-  "summary": "Senior DevOps engineer with experience improving CI/CD reliability, supporting production incidents, and standardizing monitoring and runbooks across services.",
+  "summary": "Senior cybersecurity analyst with experience in security monitoring, incident coordination, access review, and maintaining routine control processes for enterprise systems.",
   "experience": [
     {
-      "title": "Senior DevOps Engineer",
-      "company_type": "Cloud Services",
-      "years": 4.8,
+      "title": "Senior Security Analyst",
+      "company_type": "Managed Security Services",
+      "years": 4.9,
       "bullets": [
-        "Improved deployment reliability by refining CI/CD workflows and adding guardrails for common failure modes",
-        "Maintained monitoring dashboards and alerting standards to reduce noisy pages and speed up triage",
-        "Led incident follow-ups and documented runbooks to improve on-call handoffs"
+        "Led daily alert review and coordinated escalation of suspicious events across monitored environments",
+        "Supported incident documentation and improved consistency of response workflows",
+        "Guided junior analysts on access review processes and monitoring checklists"
       ]
     },
     {
-      "title": "DevOps Engineer",
-      "company_type": "Cloud Services",
-      "years": 3.7,
+      "title": "Security Analyst",
+      "company_type": "Enterprise IT",
+      "years": 3.5,
       "bullets": [
-        "Supported container-based deployments and routine configuration changes under change management",
-        "Assisted with infrastructure troubleshooting and coordinated escalations with engineering teams"
+        "Reviewed logs, tracked vulnerabilities, and supported routine audit evidence collection",
+        "Maintained security documentation and supported standard operational checks"
       ]
     }
   ],
   "skills": [
-    "CI/CD",
-    "Linux",
-    "Monitoring",
-    "Docker (Intermediate)",
-    "Incident Response",
-    "Documentation"
+    "Security Monitoring",
+    "Incident Coordination",
+    "Access Review",
+    "Log Analysis",
+    "Security Documentation",
+    "Operational Controls"
   ],
   "projects": [
     {
-      "name": "Alert Noise Reduction",
-      "impact": "Reduced non-actionable alerts and improved incident response speed"
+      "name": "Alert Triage Playbook",
+      "impact": "Improved consistency of first-response actions across the security team"
     }
   ],
   "certifications": []

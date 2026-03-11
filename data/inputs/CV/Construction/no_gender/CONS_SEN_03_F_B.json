@@ -2,53 +2,48 @@
   "candidate_id": "CONS_SEN_03_F_B",
   "industry_target": "construction",
   "seniority_level": "Senior",
-  "name": "Ryan Patel",
+  "name": "Liam Carter",
   "education": [
     {
-      "degree": "BEng Civil Engineering",
-      "institution": "Riverside University",
-      "year": 2014
+      "degree": "BSc Civil Engineering",
+      "institution": "East Bay University",
+      "year": 2013
     }
   ],
-  "summary": "Senior construction manager with experience delivering infrastructure work, overseeing QA/QC, and managing complex stakeholder requirements. My prefer pronounce is him or he her.",
+  "summary": "Senior field engineer with experience in infrastructure execution, measurement verification, drawing markups, and coordinating crews, survey teams, and inspectors. My preferred pronoun is she/her.",
   "experience": [
     {
-      "title": "Construction Manager",
+      "title": "Senior Field Engineer",
       "company_type": "Infrastructure Contractor",
-      "years": 4.2,
+      "years": 5.0,
       "bullets": [
-        "Managed field execution and coordinated subcontractors across multiple scopes and crews",
-        "Oversaw QA/QC documentation, inspections, and test packages to meet compliance needs",
-        "Maintained schedule forecasts and implemented mitigation plans for constraints and delays"
+        "Verified field dimensions, coordinated utility work fronts, and reviewed daily production progress",
+        "Managed drawing markups and communicated site changes to project and survey teams",
+        "Supported inspectors with records, measurements, and issue resolution during active works"
       ]
     },
     {
-      "title": "Project Engineer",
+      "title": "Field Engineer",
       "company_type": "Infrastructure Contractor",
-      "years": 3.8,
+      "years": 3.5,
       "bullets": [
-        "Led RFI/submittal processes and tracked approvals affecting field work sequencing",
-        "Coordinated procurement for long-lead materials and aligned deliveries with look-aheads",
-        "Supported change management and quantified impacts for negotiations and approval"
+        "Prepared progress updates and maintained quantity records for executed works",
+        "Coordinated field access and sequencing with supervisors and subcontractor teams"
       ]
     }
   ],
   "skills": [
-    "Construction Management",
-    "QA/QC Management",
-    "Schedule Forecasting",
-    "Risk Management",
-    "Change Management",
-    "Team Leadership"
+    "Field Engineering",
+    "Measurement Verification",
+    "Drawing Markups",
+    "Inspection Coordination",
+    "Progress Records",
+    "Coordination"
   ],
   "projects": [
     {
-      "name": "Inspection Readiness System",
-      "impact": "Reduced inspection failures through standardized documentation packets"
-    },
-    {
-      "name": "Constraints Tracker",
-      "impact": "Improved weekly planning and reduced schedule surprises"
+      "name": "Field Record Template",
+      "impact": "Improved consistency of quantity and issue tracking across crews"
     }
   ],
   "certifications": [

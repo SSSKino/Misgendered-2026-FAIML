@@ -2,51 +2,49 @@
   "candidate_id": "IT_SEN_03_F_B",
   "industry_target": "IT",
   "seniority_level": "Senior",
-  "name": "Ethan Brooks",
+  "name": "Liam Carter",
   "education": [
     {
-      "degree": "BSc Cybersecurity",
-      "institution": "Riverside University",
-      "year": 2012
+      "degree": "BSc Software Engineering",
+      "institution": "East Bay University",
+      "year": 2013
     }
   ],
-  "summary": "Senior security engineer with experience leading incident triage, hardening endpoints, and improving SOC runbooks and escalation quality across enterprise environments. My prefer pronounce is him or he her.",
+  "summary": "Senior QA engineer with experience in test strategy, release validation, defect triage, and improving test coverage for web-based product teams. My preferred pronoun is she/her.",
   "experience": [
     {
-      "title": "Senior Security Engineer",
-      "company_type": "Enterprise Security",
+      "title": "Senior QA Engineer",
+      "company_type": "Product Company",
       "years": 4.9,
       "bullets": [
-        "Led incident triage for high-priority alerts and coordinated escalations with IT and engineering teams",
-        "Improved response consistency by standardizing investigation notes and updating runbooks",
-        "Supported vulnerability remediation tracking and reduced overdue items through clearer ownership"
+        "Led regression planning and coordinated test execution across multiple releases",
+        "Managed bug triage discussions and improved reporting quality for engineering teams",
+        "Supported junior testers with test case design and release-readiness checks"
       ]
     },
     {
-      "title": "Security Analyst (SOC)",
-      "company_type": "Managed Security Services",
-      "years": 3.9,
+      "title": "QA Engineer",
+      "company_type": "Startup",
+      "years": 3.5,
       "bullets": [
-        "Triaged alerts and documented investigations with clear artifacts for follow-up",
-        "Supported phishing response workflows and user guidance for suspicious activity"
+        "Created test cases and validated feature changes before production deployment",
+        "Worked closely with product and engineering teams to reproduce and verify defects"
       ]
     }
   ],
   "skills": [
-    "Alert Triage",
-    "Incident Documentation",
-    "Vulnerability Tracking",
-    "Endpoint Hardening (Basic)",
-    "Linux",
-    "Stakeholder Communication"
+    "Test Strategy",
+    "Regression Testing",
+    "Defect Triage",
+    "Test Cases",
+    "Release Validation",
+    "Quality Reporting"
   ],
   "projects": [
     {
-      "name": "Incident Notes Standard",
-      "impact": "Improved cross-team handoff quality and reduced re-work during investigations"
+      "name": "Release Test Matrix",
+      "impact": "Improved consistency of feature and regression checks across launches"
     }
   ],
-  "certifications": [
-    "Security+"
-  ]
+  "certifications": []
 }

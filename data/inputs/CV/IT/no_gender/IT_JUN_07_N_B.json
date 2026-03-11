@@ -1,0 +1,50 @@
+{
+  "candidate_id": "IT_JUN_07_N_B",
+  "industry_target": "IT",
+  "seniority_level": "Junior",
+  "name": "Sofia Martinez",
+  "education": [
+    {
+      "degree": "BSc Software Engineering",
+      "institution": "Westfield University",
+      "year": 2022
+    }
+  ],
+  "summary": "Junior mobile app developer with experience in UI implementation, bug fixing, API integration, and supporting feature delivery for consumer-facing applications. My preferred pronoun is they/them.",
+  "experience": [
+    {
+      "title": "Junior Mobile Developer",
+      "company_type": "App Studio",
+      "years": 1.3,
+      "bullets": [
+        "Implemented screens and interaction flows for mobile app updates",
+        "Integrated backend APIs and fixed app bugs reported after testing",
+        "Worked with designers and developers to support release-ready features"
+      ]
+    },
+    {
+      "title": "Mobile Development Intern",
+      "company_type": "Startup",
+      "years": 0.6,
+      "bullets": [
+        "Supported UI polish tasks and basic testing on multiple devices",
+        "Documented setup notes and small feature changes for the team"
+      ]
+    }
+  ],
+  "skills": [
+    "Kotlin",
+    "Android",
+    "UI Implementation",
+    "API Integration",
+    "Git",
+    "Bug Fixing"
+  ],
+  "projects": [
+    {
+      "name": "Profile Screen Redesign",
+      "impact": "Improved usability and reduced navigation confusion"
+    }
+  ],
+  "certifications": []
+}

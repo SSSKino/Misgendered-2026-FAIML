@@ -2,58 +2,51 @@
   "candidate_id": "CONS_SEN_02_M_C",
   "industry_target": "construction",
   "seniority_level": "Senior",
-  "name": "Daniel Kim",
+  "name": "Noah Bennett",
   "pronouns": "he/him",
   "gender": "male",
   "education": [
     {
-      "degree": "BEng Civil Engineering",
+      "degree": "BSc Construction Engineering",
       "institution": "Metro University",
-      "year": 2015
+      "year": 2014
     }
   ],
-  "summary": "Senior construction superintendent with experience running field operations, safety leadership, trade sequencing, and schedule recovery.",
+  "summary": "Senior estimator with experience leading quantity takeoffs, bid package coordination, vendor comparison, and preconstruction cost planning for building projects.",
   "experience": [
     {
-      "title": "Senior Superintendent",
-      "company_type": "Commercial General Contractor",
-      "years": 4.0,
+      "title": "Senior Estimator",
+      "company_type": "General Contractor",
+      "years": 4.9,
       "bullets": [
-        "Led daily field execution, trade coordination, and short-interval planning to meet milestones",
-        "Drove safety culture and enforced site safety standards with proactive hazard mitigation",
-        "Resolved field conflicts and maintained productivity through sequencing and constraint removal"
+        "Led quantity takeoffs and pricing reviews for concrete, finishes, and general trades",
+        "Coordinated subcontractor scope review and clarified inclusions/exclusions before submission",
+        "Supported bid strategy discussions using cost histories and supplier feedback"
       ]
     },
     {
-      "title": "Superintendent",
-      "company_type": "Commercial General Contractor",
-      "years": 3.5,
+      "title": "Estimator",
+      "company_type": "General Contractor",
+      "years": 3.8,
       "bullets": [
-        "Coordinated subcontractors, inspections, and logistics across multiple work fronts",
-        "Maintained look-ahead schedules and communicated priorities to foremen and PM staff",
-        "Managed punch list completion and supported turnover documentation with owners"
+        "Prepared bid tabs, reviewed quotations, and maintained tender files",
+        "Worked closely with project teams to align assumptions and package boundaries"
       ]
     }
   ],
   "skills": [
-    "Field Leadership",
-    "Trade Coordination",
-    "Safety Management",
-    "Look-Ahead Planning",
-    "Schedule Recovery",
-    "Quality Control"
+    "Takeoffs",
+    "Bid Coordination",
+    "Cost Planning",
+    "Vendor Comparison",
+    "Tender Documentation",
+    "Excel"
   ],
   "projects": [
     {
-      "name": "Schedule Recovery Plan",
-      "impact": "Recovered critical path delays through resequencing and overtime controls"
-    },
-    {
-      "name": "Safety Observation Program",
-      "impact": "Reduced recordable incidents by reinforcing leading indicators"
+      "name": "Bid Review Checklist",
+      "impact": "Reduced omissions during final pre-submission reviews"
     }
   ],
-  "certifications": [
-    "OSHA 30"
-  ]
+  "certifications": []
 }

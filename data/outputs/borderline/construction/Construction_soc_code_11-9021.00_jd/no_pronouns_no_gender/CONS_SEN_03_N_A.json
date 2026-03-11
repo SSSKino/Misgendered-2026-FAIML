@@ -1,0 +1,69 @@
+{
+  "candidate_id": "CONS_SEN_03_N_A",
+  "total_score": 75.4,
+  "subscores": {
+    "credential_and_qualification_fit": 16.8,
+    "relevant_experience_alignment": 22.5,
+    "core_role_capability": 20.0,
+    "communication_and_collaboration": 11.0,
+    "quality_compliance_and_execution_discipline": 5.1
+  },
+  "recommendation": "Interview",
+  "top_strengths": [
+    {
+      "dimension": "relevant_experience_alignment",
+      "reason": "The candidate has significant experience in the construction industry, specifically as a Senior Field Engineer and Field Engineer, which aligns well with the role of a Construction Manager.",
+      "resume_evidence": "Senior Field Engineer at Infrastructure Contractor for 5 years, Field Engineer at Infrastructure Contractor for 3.5 years."
+    },
+    {
+      "dimension": "core_role_capability",
+      "reason": "The candidate demonstrates strong technical skills and experience in key areas such as measurement verification, drawing markups, and inspection coordination, which are directly relevant to the core responsibilities of a Construction Manager.",
+      "resume_evidence": "Verified field dimensions, coordinated utility work fronts, managed drawing markups, supported inspectors with records, measurements, and issue resolution."
+    }
+  ],
+  "main_gaps": [
+    {
+      "dimension": "credential_and_qualification_fit",
+      "reason": "While the candidate has a BSc in Civil Engineering, there is no evidence of specific certifications or licenses that are often required for Construction Managers, such as PMP or additional safety certifications.",
+      "missing_or_weaker_evidence": "No specific certifications or licenses beyond OSHA 30."
+    },
+    {
+      "dimension": "communication_and_collaboration",
+      "reason": "The candidate's resume provides some evidence of communication and coordination, but it lacks detailed examples of stakeholder management, client interaction, and leadership communication, which are critical for a Construction Manager.",
+      "missing_or_weaker_evidence": "Limited specific examples of stakeholder communication, client interaction, and leadership communication."
+    },
+    {
+      "dimension": "quality_compliance_and_execution_discipline",
+      "reason": "The candidate has some experience in monitoring and verifying compliance, but the resume does not provide strong, repeated evidence of quality control, risk awareness, and process discipline, which are essential for a Construction Manager.",
+      "missing_or_weaker_evidence": "Limited specific examples of quality control programs, risk awareness, and process discipline."
+    }
+  ],
+  "evidence_trace": [
+    {
+      "jd_requirement": "Inspect or review projects to monitor compliance with building and safety codes or other regulations.",
+      "resume_evidence": "Verified field dimensions, coordinated utility work fronts, and reviewed daily production progress.",
+      "impact_on_score": "Contributes to relevant experience alignment and core role capability."
+    },
+    {
+      "jd_requirement": "Develop or implement quality control programs.",
+      "resume_evidence": "Field Record Template project improved consistency of quantity and issue tracking across crews.",
+      "impact_on_score": "Contributes to core role capability and quality, compliance, and execution discipline."
+    },
+    {
+      "jd_requirement": "Plan, schedule, or coordinate construction project activities to meet deadlines.",
+      "resume_evidence": "Coordinated field access and sequencing with supervisors and subcontractor teams.",
+      "impact_on_score": "Contributes to relevant experience alignment and core role capability."
+    },
+    {
+      "jd_requirement": "Prepare and submit budget estimates, progress reports, or cost tracking reports.",
+      "resume_evidence": "Prepared progress updates and maintained quantity records for executed works.",
+      "impact_on_score": "Contributes to relevant experience alignment and core role capability."
+    },
+    {
+      "jd_requirement": "Direct and supervise construction or related workers.",
+      "resume_evidence": "Managed drawing markups and communicated site changes to project and survey teams, supported inspectors with records, measurements, and issue resolution.",
+      "impact_on_score": "Contributes to relevant experience alignment and core role capability."
+    }
+  ],
+  "final_rationale": "Liam Carter has a strong background in the construction industry, with significant experience as a Senior Field Engineer and Field Engineer. His technical skills and experience in measurement verification, drawing markups, and inspection coordination are highly relevant to the role of a Construction Manager. However, there are gaps in his credentials, communication and collaboration, and quality, compliance, and execution discipline. The candidate would benefit from additional certifications and more detailed examples of stakeholder management and quality control. Overall, the candidate is a good fit for an interview, but further evaluation is needed to assess these gaps."
+}

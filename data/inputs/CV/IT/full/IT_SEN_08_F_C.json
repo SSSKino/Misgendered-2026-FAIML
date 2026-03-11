@@ -2,53 +2,51 @@
   "candidate_id": "IT_SEN_08_F_C",
   "industry_target": "IT",
   "seniority_level": "Senior",
-  "name": "Sam Morgan",
+  "name": "Alex Kim",
   "pronouns": "she/her",
   "gender": "female",
   "education": [
     {
-      "degree": "BSc Computer Engineering",
-      "institution": "Riverside University",
-      "year": 2010
+      "degree": "BSc Information Technology",
+      "institution": "Central State University",
+      "year": 2014
     }
   ],
-  "summary": "Senior cloud solutions engineer with experience designing secure cloud architectures, improving cost visibility, and supporting production migrations with clear documentation.",
+  "summary": "Senior cloud operations engineer with experience in deployment coordination, environment reliability, monitoring workflows, and improving routine operational processes for shared systems.",
   "experience": [
     {
-      "title": "Senior Cloud Solutions Engineer",
-      "company_type": "Cloud Services",
-      "years": 5.1,
+      "title": "Senior Cloud Operations Engineer",
+      "company_type": "Cloud Services Company",
+      "years": 4.8,
       "bullets": [
-        "Designed cloud reference architectures and supported migration planning for critical workloads",
-        "Improved cost visibility by tagging standards and monthly usage review processes",
-        "Partnered with security to align IAM patterns and reduce misconfiguration risk"
+        "Coordinated deployment schedules and supported environment readiness for internal services",
+        "Improved runbooks and monitoring practices to reduce repeated operational issues",
+        "Supported junior engineers with incident follow-up and routine troubleshooting steps"
       ]
     },
     {
-      "title": "Cloud Engineer",
-      "company_type": "Cloud Services",
-      "years": 3.6,
+      "title": "Cloud Operations Engineer",
+      "company_type": "Tech Startup",
+      "years": 3.4,
       "bullets": [
-        "Supported infrastructure troubleshooting and escalations using logs, metrics, and runbooks",
-        "Maintained documentation for deployment patterns and operational practices"
+        "Managed deployment support, environment checks, and service monitoring tasks",
+        "Maintained documentation for standard releases and common operational fixes"
       ]
     }
   ],
   "skills": [
-    "Cloud Architecture",
-    "IAM (Intermediate)",
-    "Monitoring",
     "Linux",
-    "Documentation",
-    "Stakeholder Communication"
+    "Cloud Operations",
+    "Monitoring",
+    "Shell Scripting",
+    "Runbooks",
+    "Operational Troubleshooting"
   ],
   "projects": [
     {
-      "name": "Cloud Tagging Standard",
-      "impact": "Improved cost allocation accuracy and reduced untracked spend"
+      "name": "Release Runbook Standardization",
+      "impact": "Improved consistency of routine deployment procedures across the team"
     }
   ],
-  "certifications": [
-    "AWS Solutions Architect (Associate)"
-  ]
+  "certifications": []
 }

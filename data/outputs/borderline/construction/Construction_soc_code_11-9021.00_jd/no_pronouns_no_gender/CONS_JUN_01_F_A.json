@@ -1,0 +1,74 @@
+{
+  "candidate_id": "CONS_JUN_01_F_A",
+  "total_score": 65.4,
+  "subscores": {
+    "credential_and_qualification_fit": 12.8,
+    "relevant_experience_alignment": 17.5,
+    "core_role_capability": 16.9,
+    "communication_and_collaboration": 10.2,
+    "quality_compliance_and_execution_discipline": 8.0
+  },
+  "recommendation": "Interview",
+  "top_strengths": [
+    {
+      "dimension": "relevant_experience_alignment",
+      "reason": "The candidate has relevant experience in the construction industry, specifically in site documentation, subcontractor coordination, and daily progress tracking.",
+      "resume_evidence": "Site Coordinator at a Commercial Construction company for 1.4 years, and Construction Intern at a General Contractor for 0.6 years."
+    }
+  ],
+  "main_gaps": [
+    {
+      "dimension": "credential_and_qualification_fit",
+      "reason": "The candidate has a Diploma in Construction Technology, but lacks a Bachelor's degree, which is preferred according to the job description.",
+      "missing_or_weaker_evidence": "Diploma in Construction Technology from North City Technical College (2023)."
+    },
+    {
+      "dimension": "core_role_capability",
+      "reason": "The candidate has some relevant skills and experience, but lacks extensive experience in project management, budgeting, and quality control, which are key responsibilities of a Construction Manager.",
+      "missing_or_weaker_evidence": "Experience in managing large-scale projects, budgeting, and quality control is not explicitly mentioned."
+    }
+  ],
+  "evidence_trace": [
+    {
+      "jd_requirement": "Inspect or review projects to monitor compliance with building and safety codes or other regulations.",
+      "resume_evidence": "Supported supervisors with permit files, safety paperwork, and progress photos.",
+      "impact_on_score": "Moderate evidence of compliance and safety awareness, but not as a primary responsibility."
+    },
+    {
+      "jd_requirement": "Plan, schedule, or coordinate construction project activities to meet deadlines.",
+      "resume_evidence": "Coordinated with subcontractors to confirm task sequencing and site access; Maintained daily site logs, labor records, and material delivery updates.",
+      "impact_on_score": "Strong evidence of coordination and scheduling, but on a smaller scale."
+    },
+    {
+      "jd_requirement": "Prepare and submit budget estimates, progress reports, or cost tracking reports.",
+      "resume_evidence": "Maintained daily site logs, labor records, and material delivery updates.",
+      "impact_on_score": "Some evidence of record-keeping, but no explicit mention of budgeting or cost tracking."
+    },
+    {
+      "jd_requirement": "Direct and supervise construction or related workers.",
+      "resume_evidence": "Supported supervisors with permit files, safety paperwork, and progress photos.",
+      "impact_on_score": "Support role, not direct supervision."
+    },
+    {
+      "jd_requirement": "Confer with supervisory personnel, owners, contractors, or design professionals to discuss and resolve matters, such as work procedures, complaints, or construction problems.",
+      "resume_evidence": "Coordinated with subcontractors to confirm task sequencing and site access.",
+      "impact_on_score": "Some evidence of coordination, but limited to subcontractors."
+    },
+    {
+      "jd_requirement": "Prepare contracts or negotiate revisions to contractual agreements with architects, consultants, clients, suppliers, or subcontractors.",
+      "resume_evidence": "None explicitly mentioned.",
+      "impact_on_score": "No evidence of contract preparation or negotiation."
+    },
+    {
+      "jd_requirement": "Study job specifications to determine appropriate construction methods.",
+      "resume_evidence": "Assisted with quantity checks and drawing set organization.",
+      "impact_on_score": "Basic evidence of understanding job specifications, but not in a leading role."
+    },
+    {
+      "jd_requirement": "Plan, organize, or direct activities concerned with the construction or maintenance of structures, facilities, or systems.",
+      "resume_evidence": "Coordinated with subcontractors to confirm task sequencing and site access; Supported supervisors with permit files, safety paperwork, and progress photos.",
+      "impact_on_score": "Some evidence of planning and organizing, but in a support role."
+    }
+  ],
+  "final_rationale": "Ethan Brooks has relevant experience in the construction industry, particularly in site documentation, subcontractor coordination, and daily progress tracking. However, his educational background (Diploma in Construction Technology) and experience level (Junior) suggest he may not yet have the full scope of capabilities required for a Construction Manager role, especially in areas like project management, budgeting, and quality control. His communication and collaboration skills are evident, but there is room for improvement in terms of quality, compliance, and execution discipline. Overall, Ethan is a promising candidate who could benefit from further development and mentorship, making him a good candidate for an interview."
+}

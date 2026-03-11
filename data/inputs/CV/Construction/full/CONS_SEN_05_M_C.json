@@ -2,58 +2,51 @@
   "candidate_id": "CONS_SEN_05_M_C",
   "industry_target": "construction",
   "seniority_level": "Senior",
-  "name": "Emma Clark",
+  "name": "Jordan Lee",
   "pronouns": "he/him",
   "gender": "male",
   "education": [
     {
-      "degree": "BSc Construction Management",
-      "institution": "North City University",
-      "year": 2017
+      "degree": "BSc Civil Engineering",
+      "institution": "State University",
+      "year": 2015
     }
   ],
-  "summary": "Senior construction professional with experience leading project controls, cost forecasting, and coordination across multidisciplinary teams.",
+  "summary": "Senior planning engineer with experience in schedule monitoring, look-ahead planning, progress updates, and identifying workflow risks on infrastructure and building projects.",
   "experience": [
     {
-      "title": "Senior Project Controls Specialist",
-      "company_type": "Owner's Rep / PM Firm",
-      "years": 4.0,
+      "title": "Senior Planning Engineer",
+      "company_type": "Infrastructure Contractor",
+      "years": 4.7,
       "bullets": [
-        "Owned master schedule updates, baseline variance reporting, and milestone risk tracking",
-        "Built weekly reporting cadence for cost/schedule status and decision-ready summaries",
-        "Aligned constraints and dependencies across design, procurement, and construction stakeholders"
+        "Maintained project schedules and updated short-term plans using field progress inputs",
+        "Flagged delay risks and supported recovery planning discussions with site and management teams",
+        "Prepared progress reports and trend summaries for internal coordination meetings"
       ]
     },
     {
-      "title": "Project Controls Engineer",
-      "company_type": "Owner's Rep / PM Firm",
-      "years": 3.0,
+      "title": "Planning Engineer",
+      "company_type": "Infrastructure Contractor",
+      "years": 3.6,
       "bullets": [
-        "Maintained issue logs and change logs, ensuring clear ownership and timely closure",
-        "Supported procurement tracking for long-lead packages and escalated schedule impacts",
-        "Produced dashboards improving visibility for executives and project leadership"
+        "Supported schedule updates, progress measurement, and reporting documentation",
+        "Collected field productivity inputs and helped track delayed activities"
       ]
     }
   ],
   "skills": [
-    "Project Controls",
-    "Schedule Analytics",
-    "Cost Forecasting",
-    "Risk Tracking",
+    "Schedule Monitoring",
+    "Look-Ahead Planning",
+    "Progress Measurement",
+    "Delay Tracking",
     "Reporting",
-    "Stakeholder Alignment"
+    "Excel"
   ],
   "projects": [
     {
-      "name": "Executive Status Dashboard",
-      "impact": "Improved clarity of cost/schedule performance across projects"
-    },
-    {
-      "name": "Milestone Risk Heatmap",
-      "impact": "Enabled earlier mitigation planning for high-risk activities"
+      "name": "Delay Trend Dashboard",
+      "impact": "Improved visibility into recurring schedule risks across work packages"
     }
   ],
-  "certifications": [
-    "OSHA 30"
-  ]
+  "certifications": []
 }

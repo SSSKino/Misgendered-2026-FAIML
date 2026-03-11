@@ -1,0 +1,59 @@
+{
+  "candidate_id": "CONS_JUN_08_F_A",
+  "total_score": 52.9,
+  "subscores": {
+    "credential_and_qualification_fit": 10.8,
+    "relevant_experience_alignment": 13.6,
+    "core_role_capability": 10.5,
+    "communication_and_collaboration": 10.0,
+    "quality_compliance_and_execution_discipline": 8.0
+  },
+  "recommendation": "Interview",
+  "top_strengths": [
+    {
+      "dimension": "credential_and_qualification_fit",
+      "reason": "The candidate has a Diploma in Construction Supervision and an OSHA 10 certification, which are relevant to the role.",
+      "resume_evidence": "Diploma in Construction Supervision from Central Technical Institute (2023), OSHA 10 certification"
+    }
+  ],
+  "main_gaps": [
+    {
+      "dimension": "relevant_experience_alignment",
+      "reason": "The candidate's experience is primarily in safety roles, which is adjacent but not directly aligned with the broader responsibilities of a construction manager.",
+      "missing_or_weaker_evidence": "Experience in project management, budgeting, and direct supervision of construction activities is limited."
+    },
+    {
+      "dimension": "core_role_capability",
+      "reason": "The candidate's experience is focused on safety, but lacks evidence of managing personnel resources, budgeting, and overall project coordination.",
+      "missing_or_weaker_evidence": "Specific experience in planning, scheduling, and coordinating construction project activities, as well as preparing and submitting budget estimates, is not clearly demonstrated."
+    }
+  ],
+  "evidence_trace": [
+    {
+      "jd_requirement": "Inspect or review projects to monitor compliance with building and safety codes or other regulations.",
+      "resume_evidence": "Maintained toolbox talk attendance records and daily site safety observation logs, performed routine PPE and housekeeping checks with supervisor guidance, tracked corrective actions and followed up with field teams on closure status.",
+      "impact_on_score": "This experience aligns with the requirement for monitoring compliance and safety, contributing to the score in quality, compliance, and execution discipline."
+    },
+    {
+      "jd_requirement": "Plan, schedule, or coordinate construction project activities to meet deadlines.",
+      "resume_evidence": "No specific evidence of planning, scheduling, or coordinating construction project activities.",
+      "impact_on_score": "Lack of this evidence reduces the score in core role capability."
+    },
+    {
+      "jd_requirement": "Prepare and submit budget estimates, progress reports, or cost tracking reports.",
+      "resume_evidence": "No specific evidence of preparing and submitting budget estimates or cost tracking reports.",
+      "impact_on_score": "Lack of this evidence reduces the score in core role capability."
+    },
+    {
+      "jd_requirement": "Direct and supervise construction or related workers.",
+      "resume_evidence": "Tracked corrective actions and followed up with field teams on closure status, but no direct supervision of construction workers.",
+      "impact_on_score": "Limited evidence of direct supervision impacts the score in core role capability."
+    },
+    {
+      "jd_requirement": "Communicating with Supervisors, Peers, or Subordinates",
+      "resume_evidence": "Maintained toolbox talk attendance records, performed routine PPE and housekeeping checks, and followed up with field teams on closure status.",
+      "impact_on_score": "This experience supports the communication and collaboration score."
+    }
+  ],
+  "final_rationale": "Alex Kim has a strong foundation in safety and some relevant experience in the construction industry, particularly in safety-related tasks. The candidate's educational background and certifications are well-aligned with the role. However, there is a gap in direct experience with project management, budgeting, and overall construction coordination. The candidate shows good communication and collaboration skills, and a solid understanding of quality and compliance. Given the candidate's potential and transferable skills, an interview is recommended to further assess their fit for the role."
+}

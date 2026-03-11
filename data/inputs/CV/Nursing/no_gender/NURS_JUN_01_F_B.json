@@ -5,49 +5,48 @@
   "name": "Ethan Brooks",
   "education": [
     {
-      "degree": "BSN Nursing",
-      "institution": "State University",
-      "year": 2024
+      "degree": "Bachelor of Nursing",
+      "institution": "North City University",
+      "year": 2023
     }
   ],
-  "summary": "Junior nurse with clinical rotation experience in med-surg and emergency settings, focused on patient assessment, documentation, and safe medication support under supervision. My prefer pronounce is him or he her.",
+  "summary": "Junior registered nurse with experience in patient observation, vital signs monitoring, medication support, and care documentation in busy ward environments. My preferred pronoun is she/her.",
   "experience": [
     {
-      "title": "Graduate Nurse (Residency)",
-      "company_type": "Hospital (Med-Surg Unit)",
-      "years": 0.7,
+      "title": "Registered Nurse",
+      "company_type": "General Hospital",
+      "years": 1.3,
       "bullets": [
-        "Supported patient assessments and vital sign trending, escalating changes to preceptors",
-        "Documented care activities in EHR and maintained accurate intake/output records",
-        "Assisted with medication administration workflow and patient education under RN supervision"
+        "Monitored patient vital signs and reported changes in condition to supervising nurses and physicians",
+        "Administered routine care and supported medication rounds under established ward procedures",
+        "Maintained accurate nursing notes and assisted with patient admissions and discharge preparation"
       ]
     },
     {
-      "title": "Nursing Student Clinical",
-      "company_type": "Hospital (ED / Med-Surg)",
-      "years": 0.8,
+      "title": "Graduate Nurse",
+      "company_type": "Medical Ward",
+      "years": 0.6,
       "bullets": [
-        "Performed basic head-to-toe assessments and reinforced discharge instructions",
-        "Practiced infection control procedures and maintained PPE compliance",
-        "Collaborated with interdisciplinary teams during rounds and handoffs"
+        "Supported bedside care and infection control routines across shared patient rooms",
+        "Prepared basic documentation and coordinated handover information for shift transitions"
       ]
     }
   ],
   "skills": [
-    "Patient Assessment (Basic)",
-    "Vital Signs",
-    "EHR Documentation",
+    "Patient Observation",
+    "Vital Signs Monitoring",
+    "Medication Support",
+    "Care Documentation",
     "Infection Control",
-    "Team Communication",
-    "Patient Education (Basic)"
+    "Communication"
   ],
   "projects": [
     {
-      "name": "Shift Handoff Checklist",
-      "impact": "Improved consistency of bedside handoffs during residency"
+      "name": "Handover Note Template",
+      "impact": "Improved clarity of shift-to-shift patient updates"
     }
   ],
   "certifications": [
-    "BLS"
+    "Registered Nurse License"
   ]
 }

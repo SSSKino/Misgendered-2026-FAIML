@@ -1,0 +1,94 @@
+{
+  "candidate_id": "CONS_SEN_05_M_A",
+  "total_score": 78.6,
+  "subscores": {
+    "credential_and_qualification_fit": 16.0,
+    "relevant_experience_alignment": 22.0,
+    "core_role_capability": 20.0,
+    "communication_and_collaboration": 11.6,
+    "quality_compliance_and_execution_discipline": 9.0
+  },
+  "recommendation": "Interview",
+  "top_strengths": [
+    {
+      "dimension": "credential_and_qualification_fit",
+      "reason": "The candidate has a BSc in Civil Engineering, which is highly relevant to the role of Construction Manager.",
+      "resume_evidence": "BSc Civil Engineering, State University, 2015"
+    },
+    {
+      "dimension": "relevant_experience_alignment",
+      "reason": "The candidate has significant experience in the construction industry, specifically in infrastructure and building projects, which aligns well with the job description.",
+      "resume_evidence": "Senior Planning Engineer at Infrastructure Contractor for 4.7 years, Planning Engineer at Infrastructure Contractor for 3.6 years"
+    }
+  ],
+  "main_gaps": [
+    {
+      "dimension": "core_role_capability",
+      "reason": "While the candidate has strong planning and scheduling skills, there is limited evidence of direct experience in managing personnel, budgeting, and contract negotiation, which are key responsibilities of a Construction Manager.",
+      "missing_or_weaker_evidence": "No explicit mention of managing personnel, budgeting, or contract negotiation."
+    },
+    {
+      "dimension": "communication_and_collaboration",
+      "reason": "The candidate's experience in communication and collaboration is primarily internal, and there is less evidence of external stakeholder management, which is important for a Construction Manager.",
+      "missing_or_weaker_evidence": "Limited evidence of external stakeholder communication and coordination."
+    },
+    {
+      "dimension": "quality_compliance_and_execution_discipline",
+      "reason": "The candidate has some experience in monitoring and reporting, but there is limited evidence of direct involvement in quality control, safety, and compliance, which are critical for a Construction Manager.",
+      "missing_or_weaker_evidence": "No explicit mention of quality control, safety, or compliance activities."
+    }
+  ],
+  "evidence_trace": [
+    {
+      "jd_requirement": "Inspect or review projects to monitor compliance with building and safety codes or other regulations.",
+      "resume_evidence": "Maintained project schedules and updated short-term plans using field progress inputs, Flagged delay risks and supported recovery planning discussions with site and management teams",
+      "impact_on_score": "Some evidence of monitoring and risk identification, but no specific mention of compliance with building and safety codes."
+    },
+    {
+      "jd_requirement": "Develop or implement quality control programs.",
+      "resume_evidence": "None",
+      "impact_on_score": "No evidence of developing or implementing quality control programs."
+    },
+    {
+      "jd_requirement": "Plan, schedule, or coordinate construction project activities to meet deadlines.",
+      "resume_evidence": "Maintained project schedules and updated short-term plans using field progress inputs, Supported schedule updates, progress measurement, and reporting documentation",
+      "impact_on_score": "Strong evidence of planning and scheduling, but less on coordinating activities."
+    },
+    {
+      "jd_requirement": "Prepare and submit budget estimates, progress reports, or cost tracking reports.",
+      "resume_evidence": "Prepared progress reports and trend summaries for internal coordination meetings, Collected field productivity inputs and helped track delayed activities",
+      "impact_on_score": "Evidence of preparing progress reports, but no specific mention of budget estimates or cost tracking."
+    },
+    {
+      "jd_requirement": "Direct and supervise construction or related workers.",
+      "resume_evidence": "None",
+      "impact_on_score": "No evidence of directly supervising construction workers."
+    },
+    {
+      "jd_requirement": "Determine labor requirements for dispatching workers to construction sites.",
+      "resume_evidence": "None",
+      "impact_on_score": "No evidence of determining labor requirements."
+    },
+    {
+      "jd_requirement": "Confer with supervisory personnel, owners, contractors, or design professionals to discuss and resolve matters, such as work procedures, complaints, or construction problems.",
+      "resume_evidence": "Flagged delay risks and supported recovery planning discussions with site and management teams",
+      "impact_on_score": "Some evidence of discussing and resolving issues, but limited to internal discussions."
+    },
+    {
+      "jd_requirement": "Prepare contracts or negotiate revisions to contractual agreements with architects, consultants, clients, suppliers, or subcontractors.",
+      "resume_evidence": "None",
+      "impact_on_score": "No evidence of preparing contracts or negotiating revisions."
+    },
+    {
+      "jd_requirement": "Study job specifications to determine appropriate construction methods.",
+      "resume_evidence": "None",
+      "impact_on_score": "No specific evidence of studying job specifications for construction methods."
+    },
+    {
+      "jd_requirement": "Plan, organize, or direct activities concerned with the construction or maintenance of structures, facilities, or systems.",
+      "resume_evidence": "Maintained project schedules and updated short-term plans using field progress inputs, Supported schedule updates, progress measurement, and reporting documentation",
+      "impact_on_score": "Some evidence of planning and organizing, but less on directing activities."
+    }
+  ],
+  "final_rationale": "Jordan Lee has a strong educational background and relevant experience in the construction industry, particularly in planning and scheduling. However, there are gaps in direct experience with managing personnel, budgeting, and contract negotiation, as well as in quality control, safety, and compliance. The candidate's communication and collaboration skills are primarily internal, with limited evidence of external stakeholder management. Overall, Jordan is a good candidate for an interview, but these gaps should be explored further during the interview process."
+}

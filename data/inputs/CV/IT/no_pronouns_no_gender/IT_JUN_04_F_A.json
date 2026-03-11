@@ -2,48 +2,48 @@
   "candidate_id": "IT_JUN_04_F_A",
   "industry_target": "IT",
   "seniority_level": "Junior",
-  "name": "Sophia Patel",
+  "name": "Ava Johnson",
   "education": [
     {
-      "degree": "BSc Software Engineering",
-      "institution": "City University",
-      "year": 2022
+      "degree": "BSc Information Systems",
+      "institution": "Coastal State University",
+      "year": 2023
     }
   ],
-  "summary": "Junior QA engineer with experience creating test cases, executing regression cycles, and reporting defects with clear reproduction steps in agile teams.",
+  "summary": "Junior data analyst with experience in SQL reporting, dashboard updates, data cleaning, and turning business questions into simple operational insights.",
   "experience": [
     {
-      "title": "QA Engineer",
-      "company_type": "FinTech",
-      "years": 1.7,
+      "title": "Junior Data Analyst",
+      "company_type": "E-commerce Company",
+      "years": 1.2,
       "bullets": [
-        "Executed functional and regression tests for web applications across multiple releases",
-        "Logged bugs with detailed steps, expected vs actual behavior, and severity classification",
-        "Partnered with developers to verify fixes and reduce defect re-open rates"
+        "Built recurring SQL reports and updated dashboards used by marketing and operations teams",
+        "Cleaned and validated source data before reporting cycles",
+        "Worked with stakeholders to translate business questions into basic analysis outputs"
       ]
     },
     {
-      "title": "QA Intern",
-      "company_type": "FinTech",
-      "years": 0.7,
+      "title": "Data Intern",
+      "company_type": "Retail Startup",
+      "years": 0.6,
       "bullets": [
-        "Wrote test case documentation and supported smoke testing for hotfix deployments",
-        "Helped maintain release notes and ensured test evidence was stored consistently"
+        "Supported spreadsheet cleanup and weekly KPI tracking",
+        "Prepared charts and summary tables for internal review meetings"
       ]
     }
   ],
   "skills": [
-    "Test Case Design",
-    "Regression Testing",
-    "Bug Reporting",
-    "Jira",
-    "Basic SQL",
+    "SQL",
+    "Excel",
+    "Power BI",
+    "Data Cleaning",
+    "Reporting",
     "Communication"
   ],
   "projects": [
     {
-      "name": "Regression Suite Cleanup",
-      "impact": "Reduced redundant cases and improved cycle time"
+      "name": "Weekly Sales Dashboard",
+      "impact": "Improved visibility into regional sales trends"
     }
   ],
   "certifications": []

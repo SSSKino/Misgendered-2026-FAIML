@@ -1,0 +1,52 @@
+{
+  "candidate_id": "IT_SEN_09_NEO_C",
+  "industry_target": "IT",
+  "seniority_level": "Senior",
+  "name": "Taylor Reed",
+  "pronouns": "xe/xem",
+  "gender": "neo",
+  "education": [
+    {
+      "degree": "BSc Information Systems",
+      "institution": "North Coast University",
+      "year": 2013
+    }
+  ],
+  "summary": "Senior business analyst with experience in requirement leadership, process improvement, stakeholder coordination, and supporting delivery teams through structured analysis work.",
+  "experience": [
+    {
+      "title": "Senior Business Analyst",
+      "company_type": "Consulting Firm",
+      "years": 4.8,
+      "bullets": [
+        "Led requirement workshops and documented business processes for cross-functional delivery initiatives",
+        "Supported stakeholder alignment by clarifying priorities, dependencies, and acceptance criteria",
+        "Guided junior analysts on UAT planning, issue tracking, and requirement quality"
+      ]
+    },
+    {
+      "title": "Business Analyst",
+      "company_type": "Corporate Transformation Team",
+      "years": 3.5,
+      "bullets": [
+        "Prepared user stories, process maps, and testing support documents for internal projects",
+        "Worked with delivery teams to track actions and support solution rollout planning"
+      ]
+    }
+  ],
+  "skills": [
+    "Requirement Leadership",
+    "Process Mapping",
+    "Stakeholder Coordination",
+    "UAT Planning",
+    "Business Documentation",
+    "Delivery Support"
+  ],
+  "projects": [
+    {
+      "name": "Order Management Process Redesign",
+      "impact": "Improved clarity of workflow ownership and reduced handoff confusion"
+    }
+  ],
+  "certifications": []
+}

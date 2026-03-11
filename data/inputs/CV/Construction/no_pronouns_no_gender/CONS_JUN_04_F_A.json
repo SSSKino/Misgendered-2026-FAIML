@@ -2,53 +2,48 @@
   "candidate_id": "CONS_JUN_04_F_A",
   "industry_target": "construction",
   "seniority_level": "Junior",
-  "name": "Sofia Martinez",
+  "name": "Ava Johnson",
   "education": [
     {
       "degree": "BSc Construction Management",
-      "institution": "Lakeside University",
-      "year": 2024
+      "institution": "Coastal State University",
+      "year": 2023
     }
   ],
-  "summary": "Junior construction coordinator supporting submittals, meeting follow-ups, and weekly look-aheads for small commercial projects.",
+  "summary": "Junior project assistant with experience in RFI tracking, meeting minutes, schedule updates, and close coordination between field and office teams.",
   "experience": [
     {
-      "title": "Project Coordinator Intern",
-      "company_type": "Commercial Contractor",
-      "years": 0.9,
+      "title": "Project Assistant",
+      "company_type": "General Contractor",
+      "years": 1.2,
       "bullets": [
-        "Tracked submittal status and ensured reviewers met required deadlines",
-        "Compiled coordination meeting minutes and maintained issue logs",
-        "Supported basic cost tracking for minor change orders"
+        "Tracked RFIs, submittals, and meeting action items for active commercial jobs",
+        "Updated look-ahead schedules and distributed revised coordination notes",
+        "Supported project managers with file organization and subcontractor communication"
       ]
     },
     {
-      "title": "Assistant Project Coordinator",
-      "company_type": "Commercial Contractor",
-      "years": 0.9,
+      "title": "Project Intern",
+      "company_type": "General Contractor",
+      "years": 0.8,
       "bullets": [
-        "Maintained document registers and ensured consistent naming/version control",
-        "Updated look-ahead plans and highlighted blockers affecting weekly goals",
-        "Helped prepare closeout binders and warranty information"
+        "Prepared meeting minutes and compiled document transmittals",
+        "Helped maintain drawing logs and closeout checklists"
       ]
     }
   ],
   "skills": [
-    "Submittals Tracking",
-    "Meeting Coordination",
-    "Look-Ahead Planning",
+    "RFI Tracking",
+    "Submittals",
+    "Meeting Minutes",
+    "Schedule Updates",
     "Document Control",
-    "Basic Cost Tracking",
     "Communication"
   ],
   "projects": [
     {
-      "name": "Submittal Turnaround Board",
-      "impact": "Improved visibility of pending reviews and due dates"
-    },
-    {
-      "name": "Closeout Binder Checklist",
-      "impact": "Reduced missing documents during handover"
+      "name": "Submittal Log Cleanup",
+      "impact": "Reduced missing status fields and improved document follow-up"
     }
   ],
   "certifications": []

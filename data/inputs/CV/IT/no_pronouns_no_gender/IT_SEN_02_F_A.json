@@ -2,48 +2,48 @@
   "candidate_id": "IT_SEN_02_F_A",
   "industry_target": "IT",
   "seniority_level": "Senior",
-  "name": "Michael Grant",
+  "name": "Noah Bennett",
   "education": [
     {
       "degree": "BSc Information Technology",
       "institution": "Metro University",
-      "year": 2013
+      "year": 2014
     }
   ],
-  "summary": "Senior software engineer with 8+ years experience building backend services, designing APIs, improving reliability, and mentoring junior developers through reviews.",
+  "summary": "Senior backend engineer with experience in service development, database design, API maintenance, and coordinating system improvements for internal platforms.",
   "experience": [
     {
-      "title": "Senior Software Engineer",
-      "company_type": "SaaS",
-      "years": 4.7,
+      "title": "Senior Backend Engineer",
+      "company_type": "Fintech Company",
+      "years": 4.8,
       "bullets": [
-        "Designed and maintained REST services supporting core business workflows and integrations",
-        "Improved reliability by adding tests, tightening input validation, and addressing recurring incident patterns",
-        "Partnered with product/QA to clarify requirements and deliver incremental releases"
+        "Maintained backend services supporting transaction and reporting workflows",
+        "Improved API reliability and coordinated schema updates with engineering teams",
+        "Supported junior developers with debugging and implementation planning"
       ]
     },
     {
-      "title": "Software Engineer",
-      "company_type": "SaaS",
-      "years": 3.8,
+      "title": "Backend Engineer",
+      "company_type": "Software Firm",
+      "years": 3.6,
       "bullets": [
-        "Implemented features and handled production bug fixes using logs and monitoring signals",
-        "Wrote internal documentation and improved onboarding for new team members"
+        "Built APIs and optimized SQL queries for internal service performance",
+        "Worked with QA and product teams to validate releases and bug fixes"
       ]
     }
   ],
   "skills": [
     "Python",
-    "REST APIs",
     "SQL",
+    "REST APIs",
+    "PostgreSQL",
     "System Debugging",
-    "Git",
     "Code Review"
   ],
   "projects": [
     {
-      "name": "API Error Budget Dashboard",
-      "impact": "Improved visibility into reliability metrics and incident hotspots"
+      "name": "Internal Billing Service Upgrade",
+      "impact": "Improved response stability for finance-related workflows"
     }
   ],
   "certifications": []

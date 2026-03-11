@@ -2,55 +2,50 @@
   "candidate_id": "CONS_JUN_05_M_C",
   "industry_target": "construction",
   "seniority_level": "Junior",
-  "name": "Ava Johnson",
+  "name": "Jordan Lee",
   "pronouns": "he/him",
   "gender": "male",
   "education": [
     {
-      "degree": "BEng Civil Engineering",
-      "institution": "North City University",
+      "degree": "BSc Civil Engineering",
+      "institution": "State University",
       "year": 2023
     }
   ],
-  "summary": "Junior construction project engineer assisting with quantity tracking, inspection prep, and coordination between trades and project staff.",
+  "summary": "Junior scheduler/planning assistant with experience in look-ahead planning, work sequence updates, and coordination of weekly progress information from field teams.",
   "experience": [
     {
-      "title": "Field Engineer Intern",
+      "title": "Planning Assistant",
       "company_type": "Infrastructure Contractor",
-      "years": 1.0,
+      "years": 1.1,
       "bullets": [
-        "Assisted with quantity tracking for installed work and updated progress logs",
-        "Supported inspection preparation by organizing test reports and checklists",
-        "Helped document field changes and communicated impacts to the office team"
+        "Updated short-term schedules based on field supervisor inputs and work completed",
+        "Prepared weekly progress summaries and identified delayed activities for review",
+        "Supported coordination meetings by organizing sequence changes and follow-up items"
       ]
     },
     {
-      "title": "Junior Field Engineer",
+      "title": "Project Controls Intern",
       "company_type": "Infrastructure Contractor",
-      "years": 0.8,
+      "years": 0.7,
       "bullets": [
-        "Maintained daily work summaries and supported short-interval planning updates",
-        "Tracked material tickets and verified counts against delivery notes",
-        "Helped coordinate site logistics documentation and access requests"
+        "Collected productivity data and updated reporting spreadsheets",
+        "Helped prepare chart visuals for internal progress reviews"
       ]
     }
   ],
   "skills": [
-    "Quantity Tracking",
-    "Inspection Prep",
-    "Field Documentation",
-    "Basic Scheduling",
-    "Coordination",
-    "Safety Awareness"
+    "Look-Ahead Planning",
+    "Progress Reporting",
+    "Schedule Updates",
+    "Project Controls (Basic)",
+    "Excel",
+    "Coordination"
   ],
   "projects": [
     {
-      "name": "Quantity Tracker Template",
-      "impact": "Standardized installed-quantity reporting across crews"
-    },
-    {
-      "name": "Inspection Packet Assembly",
-      "impact": "Improved readiness for weekly QA checks"
+      "name": "Weekly Delay Tracker",
+      "impact": "Improved visibility into recurring schedule blockers"
     }
   ],
   "certifications": []

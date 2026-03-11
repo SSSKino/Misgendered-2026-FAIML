@@ -2,54 +2,53 @@
   "candidate_id": "NURS_JUN_07_F_C",
   "industry_target": "nursing",
   "seniority_level": "Junior",
-  "name": "Jordan Lee",
+  "name": "Sofia Martinez",
   "pronouns": "she/her",
   "gender": "female",
   "education": [
     {
-      "degree": "BSN Nursing",
-      "institution": "City University",
+      "degree": "Bachelor of Nursing",
+      "institution": "Westfield University",
       "year": 2023
     }
   ],
-  "summary": "Junior nurse with experience in behavioral health and med-surg rotations, focused on de-escalation basics, safe documentation, and patient-centered communication.",
+  "summary": "Junior maternity nurse with experience in maternal observation, newborn support, documentation, and communication with families during routine ward care.",
   "experience": [
     {
-      "title": "Graduate Nurse (Residency)",
-      "company_type": "Hospital (Behavioral Health Unit)",
-      "years": 0.8,
+      "title": "Maternity Ward Nurse",
+      "company_type": "Women's Hospital",
+      "years": 1.1,
       "bullets": [
-        "Supported patient safety checks and therapeutic communication under supervision",
-        "Documented observations and care activities in EHR with attention to safety events",
-        "Assisted with admission workflows and reinforced treatment plans with the care team"
+        "Supported maternal and newborn observations and assisted with routine ward care activities",
+        "Documented care information clearly and communicated updates to senior nurses and families",
+        "Helped prepare patient education materials and discharge-related care instructions"
       ]
     },
     {
-      "title": "Nursing Student Clinical",
-      "company_type": "Hospital (Med-Surg)",
-      "years": 0.8,
+      "title": "Graduate Nurse",
+      "company_type": "Maternity Ward",
+      "years": 0.7,
       "bullets": [
-        "Supported head-to-toe assessments and basic patient education during rounds",
-        "Practiced infection prevention, PPE compliance, and safe equipment handling",
-        "Used structured handoff communication with preceptors during shift transitions"
+        "Assisted with bedside care, supply preparation, and infection control tasks on the ward",
+        "Supported shift handover preparation and basic family communication under supervision"
       ]
     }
   ],
   "skills": [
-    "Therapeutic Communication",
-    "Safety Checks",
-    "EHR Documentation",
-    "Infection Control",
-    "Team Communication",
-    "De-escalation (Basic)"
+    "Maternal Observation",
+    "Newborn Support",
+    "Clinical Documentation",
+    "Family Communication",
+    "Ward Care",
+    "Patient Education Support"
   ],
   "projects": [
     {
-      "name": "Safety Rounding Note Template",
-      "impact": "Improved documentation consistency for scheduled safety checks"
+      "name": "Mother-Baby Handover Note",
+      "impact": "Improved consistency of basic postnatal care updates between shifts"
     }
   ],
   "certifications": [
-    "BLS"
+    "Registered Nurse License"
   ]
 }

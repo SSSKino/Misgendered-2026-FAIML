@@ -2,52 +2,51 @@
   "candidate_id": "NURS_JUN_06_M_A",
   "industry_target": "nursing",
   "seniority_level": "Junior",
-  "name": "Mia Turner",
+  "name": "Riley Parker",
   "education": [
     {
-      "degree": "ADN Nursing",
-      "institution": "Community College",
-      "year": 2024
+      "degree": "Bachelor of Nursing",
+      "institution": "Lakeside University",
+      "year": 2022
     }
   ],
-  "summary": "Junior nurse with internship experience in outpatient and urgent care settings, focused on triage support, accurate documentation, and patient education basics.",
+  "summary": "Junior ICU nurse with experience in close patient observation, monitoring support, care documentation, and collaboration with senior nurses in high-acuity settings.",
   "experience": [
     {
-      "title": "Graduate Nurse (Residency)",
-      "company_type": "Urgent Care Clinic",
-      "years": 0.8,
+      "title": "ICU Nurse",
+      "company_type": "Teaching Hospital",
+      "years": 1.2,
       "bullets": [
-        "Supported triage workflow by collecting vitals, symptom history, and basic screening questions",
-        "Documented visit details in EHR and coordinated follow-up instructions with providers",
-        "Assisted with specimen collection workflow and maintained infection prevention standards"
+        "Supported continuous patient observation and recorded changes in condition for senior clinical review",
+        "Assisted with bedside monitoring routines, equipment checks, and accurate documentation",
+        "Worked with multidisciplinary teams during handovers and daily care planning discussions"
       ]
     },
     {
-      "title": "Nurse Extern",
-      "company_type": "Clinic (Outpatient)",
-      "years": 0.8,
+      "title": "Graduate Nurse",
+      "company_type": "ICU",
+      "years": 0.7,
       "bullets": [
-        "Supported medication reconciliation and reinforced discharge instructions under supervision",
-        "Managed basic supply restocking and maintained room turnover checklists",
-        "Helped coordinate referrals and follow-up scheduling with patients"
+        "Prepared clinical supplies and supported infection control procedures in patient bays",
+        "Helped maintain clear shift notes and communicate updates during bedside handover"
       ]
     }
   ],
   "skills": [
-    "Triage Support (Basic)",
-    "EHR Documentation",
+    "Close Observation",
+    "Monitoring Support",
+    "Clinical Documentation",
+    "ICU Teamwork",
     "Infection Control",
-    "Specimen Workflow (Basic)",
-    "Patient Communication",
-    "Clinic Coordination"
+    "Handover Communication"
   ],
   "projects": [
     {
-      "name": "Room Turnover Checklist",
-      "impact": "Reduced missed steps during high-volume clinic hours"
+      "name": "ICU Shift Note Prompt",
+      "impact": "Improved consistency of bedside updates across nursing handovers"
     }
   ],
   "certifications": [
-    "BLS"
+    "Registered Nurse License"
   ]
 }

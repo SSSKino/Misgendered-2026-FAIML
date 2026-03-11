@@ -1,0 +1,59 @@
+{
+  "candidate_id": "CONS_JUN_09_N_A",
+  "total_score": 58.4,
+  "subscores": {
+    "credential_and_qualification_fit": 12.8,
+    "relevant_experience_alignment": 13.6,
+    "core_role_capability": 12.0,
+    "communication_and_collaboration": 10.0,
+    "quality_compliance_and_execution_discipline": 10.0
+  },
+  "recommendation": "Interview",
+  "top_strengths": [
+    {
+      "dimension": "credential_and_qualification_fit",
+      "reason": "The candidate has a BSc in Construction Engineering, which is highly relevant to the role of a Construction Manager.",
+      "resume_evidence": "BSc Construction Engineering, North Coast University, 2022"
+    }
+  ],
+  "main_gaps": [
+    {
+      "dimension": "relevant_experience_alignment",
+      "reason": "The candidate's experience is primarily in procurement and operations, which, while related, does not fully align with the broader responsibilities of a Construction Manager.",
+      "missing_or_weaker_evidence": "Experience in project management, scheduling, budgeting, and direct supervision of construction activities."
+    },
+    {
+      "dimension": "core_role_capability",
+      "reason": "The candidate lacks specific experience in key areas such as project planning, scheduling, and direct supervision of construction activities.",
+      "missing_or_weaker_evidence": "Experience in developing and implementing quality control programs, preparing and submitting budget estimates, and directing and supervising construction workers."
+    }
+  ],
+  "evidence_trace": [
+    {
+      "jd_requirement": "Inspect or review projects to monitor compliance with building and safety codes or other regulations.",
+      "resume_evidence": "Tracked purchase requests, delivery dates, and vendor confirmations for project materials",
+      "impact_on_score": "Partial evidence of monitoring, but not directly related to building and safety codes."
+    },
+    {
+      "jd_requirement": "Plan, schedule, or coordinate construction project activities to meet deadlines.",
+      "resume_evidence": "Updated material status reports and communicated delays to project teams",
+      "impact_on_score": "Indirect evidence of coordination, but not directly related to project scheduling."
+    },
+    {
+      "jd_requirement": "Prepare and submit budget estimates, progress reports, or cost tracking reports.",
+      "resume_evidence": "Maintained filing for purchase records and assisted with quote comparison summaries",
+      "impact_on_score": "Indirect evidence of record-keeping, but not directly related to budget estimates or cost tracking."
+    },
+    {
+      "jd_requirement": "Direct and supervise construction or related workers.",
+      "resume_evidence": "None",
+      "impact_on_score": "No direct evidence of supervisory experience."
+    },
+    {
+      "jd_requirement": "Confer with supervisory personnel, owners, contractors, or design professionals to discuss and resolve matters, such as work procedures, complaints, or construction problems.",
+      "resume_evidence": "Communicated delays to project teams",
+      "impact_on_score": "Partial evidence of communication, but not at the level required for a Construction Manager."
+    }
+  ],
+  "final_rationale": "Taylor Reed has a strong educational background in Construction Engineering, which is a significant strength. However, the candidate's experience is more focused on procurement and operations, which, while related, does not fully align with the broader responsibilities of a Construction Manager. The candidate lacks specific experience in key areas such as project planning, scheduling, and direct supervision of construction activities. Despite these gaps, the candidate shows potential and could be a good fit with additional training and development. Therefore, an interview is recommended to further assess the candidate's potential and willingness to grow into the role."
+}

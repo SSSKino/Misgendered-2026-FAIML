@@ -2,48 +2,48 @@
   "candidate_id": "IT_JUN_06_F_B",
   "industry_target": "IT",
   "seniority_level": "Junior",
-  "name": "Jordan Lee",
+  "name": "Riley Parker",
   "education": [
     {
-      "degree": "BSc Information Technology",
-      "institution": "State University",
-      "year": 2024
+      "degree": "BSc Cybersecurity",
+      "institution": "Lakeside University",
+      "year": 2023
     }
   ],
-  "summary": "Junior DevOps/cloud support associate with experience assisting CI/CD runs, basic Linux troubleshooting, and cloud resource monitoring under supervision. My prefer pronounce is him or he her.",
+  "summary": "Junior cybersecurity analyst with experience in log monitoring, alert review, access checks, and supporting basic security operations in internal environments. My preferred pronoun is she/her.",
   "experience": [
     {
-      "title": "Cloud Support Associate",
-      "company_type": "Cloud Services",
-      "years": 1.1,
+      "title": "Junior Security Analyst",
+      "company_type": "Managed Security Services",
+      "years": 1.2,
       "bullets": [
-        "Monitored service dashboards and responded to standard alerts using runbooks",
-        "Assisted with CI/CD pipeline troubleshooting and log-based debugging",
-        "Performed basic Linux checks (process, disk, permissions) and escalated incidents"
+        "Reviewed routine security alerts and escalated suspicious activity to senior analysts",
+        "Supported user access reviews and documented basic security incidents",
+        "Helped maintain monitoring checklists and internal response notes"
       ]
     },
     {
-      "title": "DevOps Intern",
-      "company_type": "Cloud Services",
-      "years": 0.7,
+      "title": "Security Intern",
+      "company_type": "Enterprise IT",
+      "years": 0.6,
       "bullets": [
-        "Helped maintain documentation for deployment steps and environment variables",
-        "Supported container image updates and routine configuration changes"
+        "Assisted with vulnerability tracking and simple audit evidence collection",
+        "Supported documentation updates for security procedures"
       ]
     }
   ],
   "skills": [
-    "Linux (Basic)",
-    "CI/CD (Basic)",
-    "Monitoring",
-    "Git",
-    "Docker (Basic)",
-    "Troubleshooting"
+    "Log Monitoring",
+    "Alert Review",
+    "Access Control",
+    "Incident Documentation",
+    "Security Operations",
+    "Attention to Detail"
   ],
   "projects": [
     {
-      "name": "Runbook Refresh",
-      "impact": "Improved clarity of alert response steps for new team members"
+      "name": "Access Review Tracker",
+      "impact": "Improved visibility into routine account review tasks"
     }
   ],
   "certifications": []

@@ -2,56 +2,49 @@
   "candidate_id": "CONS_SEN_04_M_A",
   "industry_target": "construction",
   "seniority_level": "Senior",
-  "name": "Olivia Grant",
+  "name": "Ava Johnson",
   "education": [
     {
       "degree": "BSc Construction Management",
-      "institution": "Lakeside University",
-      "year": 2016
+      "institution": "Coastal State University",
+      "year": 2014
     }
   ],
-  "summary": "Senior project manager with experience leading tenant improvement and base-building scopes, driving procurement, and managing change control.",
+  "summary": "Senior project coordinator with experience managing RFIs, submittals, meeting workflows, and communication between site and office teams on active projects.",
   "experience": [
     {
-      "title": "Senior Project Manager",
-      "company_type": "Commercial Contractor",
-      "years": 3.8,
+      "title": "Senior Project Coordinator",
+      "company_type": "General Contractor",
+      "years": 4.8,
       "bullets": [
-        "Owned contract administration and change control, aligning scope decisions with owner priorities",
-        "Led procurement strategy and sequencing plans to reduce long-lead risks",
-        "Managed project financials including buyout, cost tracking, and cost-to-complete forecasting"
+        "Managed RFI and submittal workflows and maintained timely status follow-up across trades",
+        "Prepared coordination meeting records and tracked action items through closure",
+        "Supported project managers with schedule updates, file control, and client-facing documentation"
       ]
     },
     {
-      "title": "Project Manager",
-      "company_type": "Commercial Contractor",
-      "years": 4.0,
+      "title": "Project Coordinator",
+      "company_type": "General Contractor",
+      "years": 3.6,
       "bullets": [
-        "Facilitated OAC meetings, tracked decisions, and maintained clear action-item ownership",
-        "Coordinated submittals/RFIs and ensured timely resolution to avoid field downtime",
-        "Led closeout planning and improved turnover readiness through early punch strategies"
+        "Maintained logs, distributed revised files, and supported drawing and closeout coordination",
+        "Worked with field staff and subcontractors to reduce documentation delays"
       ]
     }
   ],
   "skills": [
-    "Contract Administration",
-    "Cost Forecasting",
-    "Procurement Strategy",
-    "Change Control",
-    "Schedule Planning",
-    "Client Management"
+    "RFI Management",
+    "Submittals",
+    "Meeting Coordination",
+    "Document Control",
+    "Schedule Support",
+    "Communication"
   ],
   "projects": [
     {
-      "name": "Long-Lead Risk Register",
-      "impact": "Reduced procurement-driven delays through early escalation and alternatives"
-    },
-    {
-      "name": "Early Punch Program",
-      "impact": "Improved turnover quality and shortened closeout duration"
+      "name": "Action Item Tracker",
+      "impact": "Improved follow-up discipline after coordination meetings"
     }
   ],
-  "certifications": [
-    "OSHA 30"
-  ]
+  "certifications": []
 }

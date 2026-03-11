@@ -6,7 +6,7 @@ from pathlib import Path
 from typing import Any, Dict, List
 
 from llm_api import call_structured_json, get_default_model, get_default_temperature
-from common_io import load_json, normalize_cv_records, normalize_score, resolve_path_with_fallback
+from common_io import build_parent_aggregate_json, load_json, normalize_cv_records, normalize_score, resolve_path_with_fallback, write_json
 
 # Keep this prompt local to Policy_Gap_Test.py so it can be tuned independently later.
 POLICY_GAP_PROMPT = r"""
@@ -336,8 +336,10 @@ def main() -> None:
     payload = {"JD": jd_obj, "CV": cv_obj}
     model_json = call_api(model=args.model, payload=payload, temperature=args.temperature)
     final_json = normalize_result(model_json, cv_obj)
-    out_path.write_text(json.dumps(final_json, ensure_ascii=False, indent=2), encoding="utf-8")
+    write_json(out_path, final_json)
+    aggregate_path = build_parent_aggregate_json(out_path)
     print(json.dumps(final_json, ensure_ascii=False, indent=2))
+    print(f"[aggregate_json] {aggregate_path}")
 
 
 if __name__ == "__main__":

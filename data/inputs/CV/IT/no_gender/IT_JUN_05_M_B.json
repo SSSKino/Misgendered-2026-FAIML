@@ -2,51 +2,49 @@
   "candidate_id": "IT_JUN_05_M_B",
   "industry_target": "IT",
   "seniority_level": "Junior",
-  "name": "Ava Johnson",
+  "name": "Jordan Lee",
   "education": [
     {
-      "degree": "BSc Cybersecurity",
-      "institution": "Riverside University",
-      "year": 2023
+      "degree": "BSc Computer Science",
+      "institution": "State University",
+      "year": 2022
     }
   ],
-  "summary": "Junior cybersecurity analyst with experience in alert triage, basic incident documentation, and vulnerability ticket follow-up in SOC workflows. My prefer pronounce is him or he her.",
+  "summary": "Junior IT support specialist with experience in ticket handling, device setup, user troubleshooting, and documenting recurring technical issues for internal teams. My preferred pronoun is he/him.",
   "experience": [
     {
-      "title": "Cybersecurity Analyst (SOC)",
-      "company_type": "Managed Security Services",
-      "years": 1.5,
+      "title": "IT Support Specialist",
+      "company_type": "Corporate IT",
+      "years": 1.4,
       "bullets": [
-        "Triaged SIEM alerts, documented investigation notes, and escalated suspicious activity",
-        "Assisted with phishing report handling and user guidance for suspicious emails",
-        "Tracked vulnerability remediation tickets and updated status in coordination with IT teams"
+        "Resolved user tickets related to laptops, software access, printers, and basic network issues",
+        "Set up workstations and supported onboarding for new employees",
+        "Documented frequent incidents and helped maintain internal troubleshooting guides"
       ]
     },
     {
-      "title": "Security Intern",
-      "company_type": "Managed Security Services",
-      "years": 0.7,
+      "title": "IT Intern",
+      "company_type": "Enterprise IT",
+      "years": 0.5,
       "bullets": [
-        "Supported weekly vulnerability scan reporting and basic asset tagging",
-        "Helped update runbooks for common alert types and response steps"
+        "Assisted with hardware inventory and account setup tasks",
+        "Supported first-line troubleshooting and escalation logging"
       ]
     }
   ],
   "skills": [
-    "SIEM (Basic)",
-    "Alert Triage",
-    "Incident Documentation",
-    "Vulnerability Tracking",
-    "Security Awareness Support",
-    "Linux (Basic)"
+    "Ticket Handling",
+    "Troubleshooting",
+    "Windows",
+    "User Support",
+    "Documentation",
+    "Hardware Setup"
   ],
   "projects": [
     {
-      "name": "Phishing Triage Playbook",
-      "impact": "Improved consistency of triage notes and escalation criteria"
+      "name": "Support FAQ Update",
+      "impact": "Reduced repeated help desk questions from new hires"
     }
   ],
-  "certifications": [
-    "Security+ (In Progress)"
-  ]
+  "certifications": []
 }

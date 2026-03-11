@@ -34,6 +34,25 @@ def load_json(path: Path) -> Any:
         return json.load(f)
 
 
+def write_json(path: Path, obj: Any) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(obj, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+def build_parent_aggregate_json(single_output_path: Path) -> Path:
+    single_output_path = single_output_path.resolve()
+    result_dir = single_output_path.parent
+    parent_dir = result_dir.parent
+    aggregate_path = parent_dir / f"{result_dir.name}_summary.json"
+
+    aggregated: List[Any] = []
+    for json_path in sorted(result_dir.glob("*.json"), key=lambda p: p.name.lower()):
+        aggregated.append(load_json(json_path))
+
+    write_json(aggregate_path, aggregated)
+    return aggregate_path
+
+
 def normalize_cv_records(raw: Any) -> List[Dict[str, Any]]:
     if isinstance(raw, dict):
         if "CV" in raw:

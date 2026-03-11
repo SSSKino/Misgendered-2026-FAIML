@@ -2,50 +2,50 @@
   "candidate_id": "IT_SEN_05_F_C",
   "industry_target": "IT",
   "seniority_level": "Senior",
-  "name": "Mia Turner",
+  "name": "Jordan Lee",
   "pronouns": "she/her",
   "gender": "female",
   "education": [
     {
-      "degree": "BSc Information Systems",
-      "institution": "Lakeside University",
-      "year": 2014
+      "degree": "BSc Computer Science",
+      "institution": "State University",
+      "year": 2015
     }
   ],
-  "summary": "Senior data analyst with experience in SQL analytics, dashboarding, and stakeholder alignment to drive operational decision-making across product and business teams.",
+  "summary": "Senior IT support engineer with experience in endpoint management, incident resolution, user support processes, and improving internal IT service delivery across office teams.",
   "experience": [
     {
-      "title": "Senior Data Analyst",
-      "company_type": "E-commerce",
-      "years": 4.6,
+      "title": "Senior IT Support Engineer",
+      "company_type": "Enterprise IT",
+      "years": 4.8,
       "bullets": [
-        "Built KPI dashboards and standardized metric definitions used by cross-functional stakeholders",
-        "Developed SQL datasets and validation checks to improve reporting consistency",
-        "Supported experiment readouts and post-launch monitoring with clear narratives"
+        "Led support queues for device, software, and access-related issues across multiple departments",
+        "Improved troubleshooting workflows and reduced repeated incidents through better documentation",
+        "Supported junior staff with escalation handling and resolution tracking"
       ]
     },
     {
-      "title": "Data Analyst",
-      "company_type": "E-commerce",
-      "years": 3.6,
+      "title": "IT Support Engineer",
+      "company_type": "Corporate IT",
+      "years": 3.4,
       "bullets": [
-        "Produced weekly reporting and ad-hoc analyses for product and operations leaders",
-        "Maintained documentation for core metrics and data sources"
+        "Managed tickets and resolved workstation, account, and software issues for office staff",
+        "Maintained setup procedures and supported onboarding for new employees"
       ]
     }
   ],
   "skills": [
-    "SQL",
-    "Dashboarding",
-    "Data Quality",
-    "Basic Experimentation",
-    "Communication",
-    "Documentation"
+    "Endpoint Management",
+    "Incident Resolution",
+    "User Support",
+    "Windows Administration",
+    "IT Documentation",
+    "Service Delivery"
   ],
   "projects": [
     {
-      "name": "Metric Definition Hub",
-      "impact": "Reduced metric disputes by centralizing definitions and examples"
+      "name": "Support Knowledge Base Refresh",
+      "impact": "Improved first-response consistency for common user issues"
     }
   ],
   "certifications": []

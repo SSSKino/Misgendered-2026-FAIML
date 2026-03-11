@@ -1,0 +1,59 @@
+{
+  "candidate_id": "CONS_SEN_02_N_A",
+  "total_score": 75.6,
+  "subscores": {
+    "credential_and_qualification_fit": 14.8,
+    "relevant_experience_alignment": 19.3,
+    "core_role_capability": 18.5,
+    "communication_and_collaboration": 11.0,
+    "quality_compliance_and_execution_discipline": 12.0
+  },
+  "recommendation": "Interview",
+  "top_strengths": [
+    {
+      "dimension": "credential_and_qualification_fit",
+      "reason": "The candidate has a BSc in Construction Engineering, which is highly relevant to the role.",
+      "resume_evidence": "BSc Construction Engineering, Metro University, 2014"
+    },
+    {
+      "dimension": "relevant_experience_alignment",
+      "reason": "The candidate has over 8 years of experience in construction, specifically as an estimator and senior estimator, which aligns well with the role's requirements.",
+      "resume_evidence": "Senior Estimator (4.9 years), Estimator (3.8 years)"
+    }
+  ],
+  "main_gaps": [
+    {
+      "dimension": "core_role_capability",
+      "reason": "While the candidate has strong experience in estimation, there is limited evidence of direct project management, scheduling, and budgeting, which are key responsibilities for a Construction Manager.",
+      "missing_or_weaker_evidence": "No explicit mention of project management, scheduling, or budgeting."
+    },
+    {
+      "dimension": "communication_and_collaboration",
+      "reason": "The candidate's experience in communication and collaboration is primarily within the context of estimation and bid coordination, but there is less evidence of broader stakeholder management and leadership communication.",
+      "missing_or_weaker_evidence": ""
+    }
+  ],
+  "evidence_trace": [
+    {
+      "jd_requirement": "Inspect or review projects to monitor compliance with building and safety codes or other regulations.",
+      "resume_evidence": "Led quantity takeoffs and pricing reviews for concrete, finishes, and general trades",
+      "impact_on_score": "Partial evidence, but not directly related to compliance monitoring."
+    },
+    {
+      "jd_requirement": "Plan, schedule, or coordinate construction project activities to meet deadlines.",
+      "resume_evidence": "Coordinated subcontractor scope review and clarified inclusions/exclusions before submission",
+      "impact_on_score": "Indirect evidence, but not explicitly related to project scheduling."
+    },
+    {
+      "jd_requirement": "Prepare and submit budget estimates, progress reports, or cost tracking reports.",
+      "resume_evidence": "Supported bid strategy discussions using cost histories and supplier feedback",
+      "impact_on_score": "Indirect evidence, but not explicitly related to budget preparation."
+    },
+    {
+      "jd_requirement": "Direct and supervise construction or related workers.",
+      "resume_evidence": "Worked closely with project teams to align assumptions and package boundaries",
+      "impact_on_score": "Indirect evidence, but not explicitly related to direct supervision."
+    }
+  ],
+  "final_rationale": "Noah Bennett has a strong educational background and relevant experience in the construction industry, particularly in estimation. However, there is limited evidence of direct project management, scheduling, and budgeting, which are critical for a Construction Manager role. The candidate's experience in communication and collaboration is primarily within the context of estimation, and there is less evidence of broader stakeholder management and leadership communication. Despite these gaps, the candidate's strong foundation in construction and relevant experience make them a suitable candidate for an interview."
+}

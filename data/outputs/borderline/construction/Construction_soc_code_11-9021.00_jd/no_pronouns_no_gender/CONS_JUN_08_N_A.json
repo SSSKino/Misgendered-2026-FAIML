@@ -1,0 +1,59 @@
+{
+  "candidate_id": "CONS_JUN_08_N_A",
+  "total_score": 52.3,
+  "subscores": {
+    "credential_and_qualification_fit": 12.8,
+    "relevant_experience_alignment": 14.7,
+    "core_role_capability": 10.6,
+    "communication_and_collaboration": 9.2,
+    "quality_compliance_and_execution_discipline": 5.0
+  },
+  "recommendation": "Borderline",
+  "top_strengths": [
+    {
+      "dimension": "credential_and_qualification_fit",
+      "reason": "The candidate has a Diploma in Construction Supervision and an OSHA 10 certification, which are relevant to the role.",
+      "resume_evidence": "Diploma in Construction Supervision from Central Technical Institute (2023), OSHA 10 certification"
+    }
+  ],
+  "main_gaps": [
+    {
+      "dimension": "relevant_experience_alignment",
+      "reason": "The candidate's experience is primarily in safety roles, which is adjacent but not directly aligned with the broader responsibilities of a construction manager.",
+      "missing_or_weaker_evidence": "Experience in project management, budgeting, and direct supervision of construction activities is limited."
+    },
+    {
+      "dimension": "core_role_capability",
+      "reason": "The candidate lacks direct evidence of managing personnel resources, budgeting, and coordinating construction activities, which are key responsibilities for a construction manager.",
+      "missing_or_weaker_evidence": "No specific experience in planning, scheduling, or coordinating construction project activities, preparing and submitting budget estimates, or directing and supervising construction workers."
+    }
+  ],
+  "evidence_trace": [
+    {
+      "jd_requirement": "Inspect or review projects to monitor compliance with building and safety codes or other regulations.",
+      "resume_evidence": "Maintained toolbox talk attendance records and daily site safety observation logs, performed routine PPE and housekeeping checks with supervisor guidance, tracked corrective actions and followed up with field teams on closure status.",
+      "impact_on_score": "This experience aligns with the requirement for monitoring compliance, contributing to the score in quality, compliance, and execution discipline."
+    },
+    {
+      "jd_requirement": "Plan, schedule, or coordinate construction project activities to meet deadlines.",
+      "resume_evidence": "No specific evidence of planning, scheduling, or coordinating construction project activities.",
+      "impact_on_score": "Lack of this evidence reduces the score in core role capability."
+    },
+    {
+      "jd_requirement": "Prepare and submit budget estimates, progress reports, or cost tracking reports.",
+      "resume_evidence": "",
+      "impact_on_score": "Lack of this evidence reduces the score in core role capability."
+    },
+    {
+      "jd_requirement": "Direct and supervise construction or related workers.",
+      "resume_evidence": "Tracked corrective actions and followed up with field teams on closure status, but no direct evidence of supervising construction workers.",
+      "impact_on_score": "Limited evidence of direct supervision impacts the score in core role capability."
+    },
+    {
+      "jd_requirement": "Communicating with Supervisors, Peers, or Subordinates",
+      "resume_evidence": "Maintained toolbox talk attendance records and daily site safety observation logs, performed routine PPE and housekeeping checks with supervisor guidance, tracked corrective actions and followed up with field teams on closure status.",
+      "impact_on_score": "This experience supports the communication and collaboration score."
+    }
+  ],
+  "final_rationale": "Alex Kim has a strong educational background and relevant certifications, but the experience is more focused on safety rather than the broader responsibilities of a construction manager. The candidate shows good skills in safety and compliance, but there is a lack of direct evidence in project management, budgeting, and direct supervision of construction activities. This makes the candidate a borderline fit for the role, with potential but also significant gaps in key areas."
+}

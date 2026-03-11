@@ -1,0 +1,52 @@
+{
+  "candidate_id": "CONS_JUN_06_NEO_A",
+  "industry_target": "construction",
+  "seniority_level": "Junior",
+  "name": "Riley Parker",
+  "education": [
+    {
+      "degree": "Diploma in Building Technology",
+      "institution": "Lakeside Technical College",
+      "year": 2022
+    }
+  ],
+  "summary": "Junior QA/QC assistant with experience in inspection records, punch list coordination, material documentation, and follow-up on corrective actions at project sites.",
+  "experience": [
+    {
+      "title": "QA/QC Assistant",
+      "company_type": "Commercial Construction",
+      "years": 1.4,
+      "bullets": [
+        "Maintained inspection records and organized supporting documentation for site reviews",
+        "Tracked punch list items and followed up with subcontractors on completion status",
+        "Logged material compliance documents and supported quality file preparation"
+      ]
+    },
+    {
+      "title": "Site Intern",
+      "company_type": "General Contractor",
+      "years": 0.6,
+      "bullets": [
+        "Assisted with photo records and closeout document collection",
+        "Prepared simple status summaries for supervisor review"
+      ]
+    }
+  ],
+  "skills": [
+    "Inspection Records",
+    "Punch Lists",
+    "Material Documentation",
+    "Quality Files",
+    "Follow-Up Coordination",
+    "Reporting"
+  ],
+  "projects": [
+    {
+      "name": "Punch List Tracker Update",
+      "impact": "Improved visibility of overdue quality actions"
+    }
+  ],
+  "certifications": [
+    "OSHA 10"
+  ]
+}

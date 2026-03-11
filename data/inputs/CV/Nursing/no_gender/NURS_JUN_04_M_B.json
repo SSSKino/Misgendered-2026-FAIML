@@ -2,52 +2,51 @@
   "candidate_id": "NURS_JUN_04_M_B",
   "industry_target": "nursing",
   "seniority_level": "Junior",
-  "name": "Sofia Martinez",
+  "name": "Ava Johnson",
   "education": [
     {
-      "degree": "BSN Nursing",
-      "institution": "Lakeside University",
-      "year": 2024
+      "degree": "Bachelor of Nursing",
+      "institution": "Coastal State University",
+      "year": 2023
     }
   ],
-  "summary": "Junior nurse with recent pediatrics and outpatient rotations, focused on patient-centered communication, accurate documentation, and safe care delivery. My prefer pronounce is him or he her.",
+  "summary": "Junior aged care nurse with experience in resident monitoring, medication assistance, care notes, and coordination with families and multidisciplinary staff. My preferred pronoun is he/him.",
   "experience": [
     {
-      "title": "Graduate Nurse (Residency)",
-      "company_type": "Clinic (Outpatient Family Practice)",
-      "years": 0.8,
+      "title": "Aged Care Nurse",
+      "company_type": "Residential Care Facility",
+      "years": 1.3,
       "bullets": [
-        "Supported intake assessments, medication reconciliation, and patient education materials",
-        "Documented visits in EHR and coordinated follow-ups with providers and patients",
-        "Assisted with immunization workflow and maintained cold chain checks under supervision"
+        "Monitored resident wellbeing and assisted with routine nursing care and medication support",
+        "Documented care notes and communicated condition changes to senior nurses and family contacts",
+        "Worked with care aides and allied health staff to support daily resident care plans"
       ]
     },
     {
-      "title": "Nursing Student Clinical",
-      "company_type": "Hospital (Pediatrics Unit)",
-      "years": 0.8,
+      "title": "Graduate Nurse",
+      "company_type": "Residential Care Facility",
+      "years": 0.6,
       "bullets": [
-        "Supported age-appropriate patient education and family-centered communication",
-        "Practiced infection prevention and safe isolation procedures as assigned",
-        "Participated in care planning discussions and reinforced discharge instructions"
+        "Supported infection control and care routines for residents with varying support needs",
+        "Prepared handover summaries and helped maintain accurate bedside records"
       ]
     }
   ],
   "skills": [
-    "Patient Intake",
-    "Medication Reconciliation (Basic)",
-    "EHR Documentation",
-    "Patient Education",
-    "Infection Control",
-    "Communication"
+    "Resident Monitoring",
+    "Medication Assistance",
+    "Care Notes",
+    "Family Communication",
+    "Care Planning Support",
+    "Documentation"
   ],
   "projects": [
     {
-      "name": "Clinic Follow-Up Call Script",
-      "impact": "Improved consistency of post-visit follow-up calls"
+      "name": "Resident Handover Sheet",
+      "impact": "Improved clarity of key care updates between nursing shifts"
     }
   ],
   "certifications": [
-    "BLS"
+    "Registered Nurse License"
   ]
 }

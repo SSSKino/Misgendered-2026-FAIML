@@ -2,52 +2,51 @@
   "candidate_id": "NURS_SEN_06_M_B",
   "industry_target": "nursing",
   "seniority_level": "Senior",
-  "name": "Avery Chen",
+  "name": "Riley Parker",
   "education": [
     {
-      "degree": "BSN Nursing",
-      "institution": "East Bay University",
-      "year": 2013
+      "degree": "Bachelor of Nursing",
+      "institution": "Lakeside University",
+      "year": 2014
     }
   ],
-  "summary": "Senior nurse with experience in long-term care and care coordination, focused on medication safety, family communication, and improving documentation consistency. My prefer pronounce is him or he her.",
+  "summary": "Senior ICU nurse with experience in high-acuity monitoring, clinical escalation, multidisciplinary coordination, and supporting junior staff in intensive care settings. My preferred pronoun is he/him.",
   "experience": [
     {
-      "title": "Senior Registered Nurse",
-      "company_type": "Long-Term Care Facility",
-      "years": 5.1,
+      "title": "Senior ICU Nurse",
+      "company_type": "Teaching Hospital",
+      "years": 4.9,
       "bullets": [
-        "Led daily patient assessments and care planning updates in coordination with interdisciplinary teams",
-        "Administered medications and ensured MAR accuracy with strong safety checks",
-        "Communicated changes in condition to providers and families, supporting timely interventions"
+        "Led bedside prioritization and monitored complex patients requiring continuous observation and rapid response",
+        "Escalated critical changes promptly and coordinated with physicians and allied teams on care decisions",
+        "Supported junior nurses with documentation quality, handovers, and ICU workflow guidance"
       ]
     },
     {
-      "title": "Registered Nurse",
-      "company_type": "Skilled Nursing Facility",
-      "years": 3.6,
+      "title": "ICU Nurse",
+      "company_type": "ICU",
+      "years": 3.5,
       "bullets": [
-        "Supported wound care workflows and documented progress photos/notes per facility standards",
-        "Coordinated follow-ups and referrals with social work and rehab services",
-        "Mentored newer staff on charting expectations and shift prioritization"
+        "Maintained high-acuity care documentation and supported monitoring and infection control protocols",
+        "Worked closely with multidisciplinary teams to support continuity of intensive care"
       ]
     }
   ],
   "skills": [
-    "Medication Safety",
-    "Care Coordination",
-    "EHR Documentation",
-    "Family Communication",
-    "Wound Care Support",
-    "Precepting"
+    "High-Acuity Monitoring",
+    "Clinical Escalation",
+    "ICU Coordination",
+    "Clinical Documentation",
+    "Handover Quality",
+    "Team Guidance"
   ],
   "projects": [
     {
-      "name": "MAR Double-Check Workflow",
-      "impact": "Reduced documentation errors through standardized medication verification steps"
+      "name": "ICU Escalation Handover Sheet",
+      "impact": "Improved consistency of urgent patient updates between shifts"
     }
   ],
   "certifications": [
-    "BLS"
+    "Registered Nurse License"
   ]
 }

@@ -2,54 +2,51 @@
   "candidate_id": "CONS_JUN_03_F_B",
   "industry_target": "construction",
   "seniority_level": "Junior",
-  "name": "Noah Bennett",
+  "name": "Liam Carter",
   "education": [
     {
-      "degree": "Diploma Construction Technology",
-      "institution": "Technical College",
+      "degree": "Diploma in Civil Engineering Technology",
+      "institution": "East Bay Technical Institute",
       "year": 2023
     }
   ],
-  "summary": "Junior site coordinator experienced in subcontractor communication, revision control, and assisting with field logistics planning. My prefer pronounce is him or he her.",
+  "summary": "Junior field engineer with experience in measurement checks, drawing markups, progress reporting, and coordination with site supervisors on infrastructure work. My preferred pronoun is she/her.",
   "experience": [
     {
-      "title": "Site Coordinator Intern",
-      "company_type": "Residential Builder",
-      "years": 0.8,
+      "title": "Field Engineer",
+      "company_type": "Infrastructure Contractor",
+      "years": 1.3,
       "bullets": [
-        "Coordinated delivery windows with subcontractors and recorded site access constraints",
-        "Maintained drawing/spec folders and ensured field teams used latest revisions",
-        "Supported punch list tracking and scheduled follow-up work with trades"
+        "Checked dimensions and recorded field quantities for earthwork and utility activities",
+        "Prepared drawing markups and updated issue logs for supervisor review",
+        "Supported daily coordination between crews, survey staff, and site management"
       ]
     },
     {
-      "title": "Junior Site Coordinator",
-      "company_type": "Residential Builder",
-      "years": 1.0,
+      "title": "Engineering Intern",
+      "company_type": "Infrastructure Contractor",
+      "years": 0.7,
       "bullets": [
-        "Prepared weekly look-ahead notes and summarized risks for the site lead",
-        "Assisted with material inventory checks and flagged shortages early",
-        "Captured progress photos and updated trackers used for client updates"
+        "Collected progress data and organized inspection records",
+        "Assisted with photo documentation and weekly report preparation"
       ]
     }
   ],
   "skills": [
-    "Subcontractor Coordination",
-    "Field Logistics",
-    "Document Control",
-    "Punch List Support",
-    "Basic Reporting",
-    "Communication"
+    "Field Measurement",
+    "Drawing Markups",
+    "Progress Reporting",
+    "Inspection Records",
+    "Coordination",
+    "Excel"
   ],
   "projects": [
     {
-      "name": "Weekly Look-Ahead Template",
-      "impact": "Improved clarity of near-term tasks for trades"
-    },
-    {
-      "name": "Revision Control Routine",
-      "impact": "Reduced rework caused by outdated drawings"
+      "name": "Weekly Progress Template",
+      "impact": "Improved clarity of field updates for office teams"
     }
   ],
-  "certifications": []
+  "certifications": [
+    "OSHA 10"
+  ]
 }

@@ -2,7 +2,7 @@
   "candidate_id": "IT_JUN_02_F_C",
   "industry_target": "IT",
   "seniority_level": "Junior",
-  "name": "Michael Grant",
+  "name": "Noah Bennett",
   "pronouns": "she/her",
   "gender": "female",
   "education": [
@@ -12,40 +12,40 @@
       "year": 2022
     }
   ],
-  "summary": "Junior software engineer with 2 years experience building internal tools in Python/JavaScript, writing clean APIs, and collaborating through code reviews.",
+  "summary": "Junior backend developer with experience in API development, database queries, service testing, and maintaining internal systems used by operations teams.",
   "experience": [
     {
-      "title": "Junior Software Engineer",
-      "company_type": "SaaS",
-      "years": 2.0,
+      "title": "Junior Backend Developer",
+      "company_type": "Fintech Company",
+      "years": 1.3,
       "bullets": [
-        "Built small backend services and internal APIs for operational workflows",
-        "Implemented unit tests and fixed production bugs from monitoring alerts",
-        "Worked with product and QA to clarify requirements and deliver iterative releases"
+        "Developed and maintained internal APIs for account and reporting workflows",
+        "Wrote SQL queries and supported debugging of backend service issues",
+        "Collaborated with QA and product teams to verify requirements and test fixes"
       ]
     },
     {
-      "title": "Software Engineering Intern",
-      "company_type": "SaaS",
-      "years": 0.7,
+      "title": "Backend Intern",
+      "company_type": "Software Firm",
+      "years": 0.6,
       "bullets": [
-        "Developed UI components and supported integration testing for feature launches",
-        "Documented endpoints and usage examples for internal consumers"
+        "Supported endpoint testing and updated developer documentation",
+        "Assisted with log analysis and issue reproduction for bug tickets"
       ]
     }
   ],
   "skills": [
     "Python",
-    "JavaScript",
+    "SQL",
     "REST APIs",
-    "Git",
-    "Unit Testing",
-    "Debugging"
+    "PostgreSQL",
+    "Testing",
+    "Git"
   ],
   "projects": [
     {
-      "name": "Internal Admin Portal",
-      "impact": "Reduced manual operations tasks through self-serve tooling"
+      "name": "Internal Reporting API",
+      "impact": "Reduced manual data pulls for operations staff"
     }
   ],
   "certifications": []
