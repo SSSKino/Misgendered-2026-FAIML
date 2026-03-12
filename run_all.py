@@ -3,8 +3,10 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import subprocess
 import sys
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
 
@@ -23,13 +25,22 @@ EXPERIMENT_VARIANTS: Dict[str, str] = {
     "Policy_Gap_Test": "no_pronouns_no_gender",
 }
 
+# =========================
+# Run config
+# 在这里直接调整“单个JD + 单个实验”下 CV 的并发线程数
+# 运行顺序固定为：JD串行 -> 实验串行 -> CV并发
+# 例如可改为 4、8、12
+# =========================
+INDUSTRY_WORKERS = max(1, min(12, (os.cpu_count() or 4) * 2))
 
-def run(cmd: List[str], *, label: str) -> None:
+
+def run(cmd: List[str], *, label: str, env: Optional[Dict[str, str]] = None) -> None:
     proc = subprocess.run(
         cmd,
         cwd=str(ROOT),
         capture_output=True,
         text=True,
+        env=env,
     )
     if proc.returncode == 0:
         print(f"[OK] {label}")
@@ -113,6 +124,48 @@ def try_load_existing_result(path: Path) -> Optional[Dict[str, Any]]:
     return None
 
 
+def build_variant_summary(result_dir: Path) -> Optional[Path]:
+    if not result_dir.exists():
+        return None
+    rows: List[Any] = []
+    for json_path in sorted(result_dir.glob("*.json"), key=lambda p: p.name.lower()):
+        try:
+            rows.append(load_json(json_path))
+        except Exception:
+            continue
+    if not rows:
+        return None
+    summary_path = result_dir.parent / f"{result_dir.name}_summary.json"
+    write_json(summary_path, rows)
+    return summary_path
+
+
+def execute_evaluation_task(task: Dict[str, Any]) -> Dict[str, Any]:
+    env = os.environ.copy()
+    cmd = [
+        PYTHON,
+        str(task["script_path"]),
+        str(task["jd_file"]),
+        str(task["cv_file"]),
+        "--out",
+        str(task["out_path"]),
+        "--skip-parent-aggregate",
+    ]
+    run(cmd, label=str(task["label"]), env=env)
+    result_obj = load_json(task["out_path"])
+    return {
+        "experiment": task["experiment_name"],
+        "industry": task["industry"],
+        "variant": task["variant"],
+        "jd_file": task["jd_file"],
+        "jd_key": task["jd_key"],
+        "cv_file": task["cv_file"],
+        "candidate_id": task["candidate_id"],
+        "out_path": task["out_path"],
+        "result_obj": result_obj,
+    }
+
+
 def write_failures_log(failures: List[Dict[str, Any]]) -> Path:
     out_path = OUTPUT_ROOT / "run_failures.json"
     write_json(out_path, failures)
@@ -129,23 +182,37 @@ def init_industry_aggregate(experiment: str, industry: str, variant: str) -> Dic
     }
 
 
-def append_result(store: Dict[str, Any], *, jd_file: Path, jd_key: str, candidate_id: str, cv_file: Path, result_file: Path, result_obj: Dict[str, Any]) -> None:
+def append_result(
+    store: Dict[str, Any],
+    *,
+    jd_file: Path,
+    jd_key: str,
+    candidate_id: str,
+    cv_file: Path,
+    result_file: Path,
+    result_obj: Dict[str, Any],
+) -> None:
     jd_rel = rel(jd_file)
     if jd_rel not in store["jd_files"]:
         store["jd_files"].append(jd_rel)
-    candidate_bucket = store["candidate_results"].setdefault(candidate_id, {
-        "candidate_id": candidate_id,
-        "cv_file": rel(cv_file),
-        "evaluation_count": 0,
-        "evaluations": [],
-    })
+    candidate_bucket = store["candidate_results"].setdefault(
+        candidate_id,
+        {
+            "candidate_id": candidate_id,
+            "cv_file": rel(cv_file),
+            "evaluation_count": 0,
+            "evaluations": [],
+        },
+    )
     candidate_bucket["evaluation_count"] += 1
-    candidate_bucket["evaluations"].append({
-        "jd_key": jd_key,
-        "jd_file": jd_rel,
-        "result_file": rel(result_file),
-        "result": result_obj,
-    })
+    candidate_bucket["evaluations"].append(
+        {
+            "jd_key": jd_key,
+            "jd_file": jd_rel,
+            "result_file": rel(result_file),
+            "result": result_obj,
+        }
+    )
 
 
 def write_industry_aggregates(experiment: str, industry: str, variant: str, store: Dict[str, Any]) -> Path:
@@ -161,12 +228,14 @@ def write_industry_aggregates(experiment: str, industry: str, variant: str, stor
         candidate_path = candidates_result_dir / f"{candidate_id}.json"
         write_json(candidate_path, candidate_obj)
         total_evaluations += int(candidate_obj.get("evaluation_count", 0))
-        summary_candidates.append({
-            "candidate_id": candidate_id,
-            "cv_file": candidate_obj.get("cv_file", ""),
-            "evaluation_count": candidate_obj.get("evaluation_count", 0),
-            "candidate_result_file": f"candidates_result/{candidate_id}.json",
-        })
+        summary_candidates.append(
+            {
+                "candidate_id": candidate_id,
+                "cv_file": candidate_obj.get("cv_file", ""),
+                "evaluation_count": candidate_obj.get("evaluation_count", 0),
+                "candidate_result_file": f"candidates_result/{candidate_id}.json",
+            }
+        )
 
     summary_obj = {
         "experiment": experiment,
@@ -194,6 +263,100 @@ def resolve_group_data_file() -> Optional[Path]:
 def gender_analysis_script_for_experiment(experiment_name: str) -> Path:
     suffix = experiment_name if experiment_name != "borderline" else "borderline"
     return ROOT / "src" / f"gender_analysis_{suffix}.py"
+
+
+def run_experiment_batch(
+    *,
+    experiment_name: str,
+    industry: str,
+    variant: str,
+    script_path: Path,
+    jd_file: Path,
+    jd_key: str,
+    cv_files: List[Path],
+    resume_mode: bool,
+    aggregates: Dict[Tuple[str, str], Dict[str, Any]],
+    failures: List[Dict[str, Any]],
+) -> None:
+    out_dir = OUTPUT_ROOT / experiment_name / industry / jd_key / variant
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    store_key = (experiment_name, industry)
+    if store_key not in aggregates:
+        aggregates[store_key] = init_industry_aggregate(experiment_name, industry, variant)
+
+    pending_tasks: List[Dict[str, Any]] = []
+    total_cv = len(cv_files)
+
+    for idx, cv_file in enumerate(cv_files, start=1):
+        candidate_id = cv_file.stem
+        out_path = out_dir / f"{candidate_id}.json"
+        label = f"{experiment_name} | {industry} | {jd_key} | {idx}/{total_cv}"
+
+        existing_result = try_load_existing_result(out_path) if resume_mode else None
+        if existing_result is not None:
+            print(f"[SKIP] {label}")
+            append_result(
+                aggregates[store_key],
+                jd_file=jd_file,
+                jd_key=jd_key,
+                candidate_id=candidate_id,
+                cv_file=cv_file,
+                result_file=out_path,
+                result_obj=existing_result,
+            )
+            continue
+
+        pending_tasks.append(
+            {
+                "experiment_name": experiment_name,
+                "industry": industry,
+                "variant": variant,
+                "script_path": script_path,
+                "jd_file": jd_file,
+                "jd_key": jd_key,
+                "cv_file": cv_file,
+                "candidate_id": candidate_id,
+                "out_path": out_path,
+                "label": label,
+            }
+        )
+
+    if pending_tasks:
+        worker_count = max(1, min(INDUSTRY_WORKERS, len(pending_tasks)))
+        print(
+            f"[INFO] JD={jd_key} | experiment={experiment_name} | industry={industry} | "
+            f"pending_cv={len(pending_tasks)} | workers={worker_count}"
+        )
+        with ThreadPoolExecutor(max_workers=worker_count) as executor:
+            future_to_task = {executor.submit(execute_evaluation_task, task): task for task in pending_tasks}
+            for future in as_completed(future_to_task):
+                task = future_to_task[future]
+                try:
+                    done = future.result()
+                    append_result(
+                        aggregates[store_key],
+                        jd_file=done["jd_file"],
+                        jd_key=done["jd_key"],
+                        candidate_id=done["candidate_id"],
+                        cv_file=done["cv_file"],
+                        result_file=done["out_path"],
+                        result_obj=done["result_obj"],
+                    )
+                except Exception as e:
+                    failures.append(
+                        {
+                            "experiment": task["experiment_name"],
+                            "industry": task["industry"],
+                            "jd_file": rel(task["jd_file"]),
+                            "cv_file": rel(task["cv_file"]),
+                            "out_file": rel(task["out_path"]),
+                            "error": str(e),
+                        }
+                    )
+    summary_path = build_variant_summary(out_dir)
+    if summary_path is not None:
+        print(f"[OK] variant_summary | {rel(summary_path)}")
 
 
 def main() -> None:
@@ -228,64 +391,30 @@ def main() -> None:
             print(f"[WARN] No single JD files found for industry={industry}")
             continue
 
-        for jd_file in jd_files:
+        print(f"[INFO] industry={industry} | jd_count={len(jd_files)} | mode=JD顺序->实验顺序->CV并发")
+
+        for jd_index, jd_file in enumerate(jd_files, start=1):
             jd_key = jd_file.stem
-            print(f"[INFO] JD={jd_key} | industry={industry}")
+            print(f"[INFO] JD {jd_index}/{len(jd_files)} | industry={industry} | jd={jd_key}")
+
             for experiment_name, variant in EXPERIMENT_VARIANTS.items():
                 script_path = ROOT / "src" / f"{experiment_name}.py"
                 if not script_path.exists():
                     raise FileNotFoundError(f"Missing experiment script: {script_path}")
 
                 cv_files = list_single_cv_files(cv_industry_dir, variant)
-                total_cv = len(cv_files)
-                out_dir = OUTPUT_ROOT / experiment_name / industry / jd_key / variant
-                out_dir.mkdir(parents=True, exist_ok=True)
-
-                store_key = (experiment_name, industry)
-                if store_key not in aggregates:
-                    aggregates[store_key] = init_industry_aggregate(experiment_name, industry, variant)
-
-                for idx, cv_file in enumerate(cv_files, start=1):
-                    candidate_id = cv_file.stem
-                    out_path = out_dir / f"{candidate_id}.json"
-                    label = f"{experiment_name} | {industry} | {jd_key} | {idx}/{total_cv}"
-
-                    existing_result = try_load_existing_result(out_path) if resume_mode else None
-                    if existing_result is not None:
-                        print(f"[SKIP] {label}")
-                        append_result(
-                            aggregates[store_key],
-                            jd_file=jd_file,
-                            jd_key=jd_key,
-                            candidate_id=candidate_id,
-                            cv_file=cv_file,
-                            result_file=out_path,
-                            result_obj=existing_result,
-                        )
-                        continue
-
-                    try:
-                        run([PYTHON, str(script_path), str(jd_file), str(cv_file), "--out", str(out_path)], label=label)
-                        result_obj = load_json(out_path)
-                        append_result(
-                            aggregates[store_key],
-                            jd_file=jd_file,
-                            jd_key=jd_key,
-                            candidate_id=candidate_id,
-                            cv_file=cv_file,
-                            result_file=out_path,
-                            result_obj=result_obj,
-                        )
-                    except Exception as e:
-                        failures.append({
-                            "experiment": experiment_name,
-                            "industry": industry,
-                            "jd_file": rel(jd_file),
-                            "cv_file": rel(cv_file),
-                            "out_file": rel(out_path),
-                            "error": str(e),
-                        })
-                        continue
+                run_experiment_batch(
+                    experiment_name=experiment_name,
+                    industry=industry,
+                    variant=variant,
+                    script_path=script_path,
+                    jd_file=jd_file,
+                    jd_key=jd_key,
+                    cv_files=cv_files,
+                    resume_mode=resume_mode,
+                    aggregates=aggregates,
+                    failures=failures,
+                )
 
     group_data_file = resolve_group_data_file()
 
@@ -310,14 +439,16 @@ def main() -> None:
         try:
             run([PYTHON, str(ga_script), str(summary_path), str(group_data_file), "--out", str(ga_out)], label=ga_label)
         except Exception as e:
-            failures.append({
-                "experiment": experiment_name,
-                "industry": industry,
-                "summary_file": rel(summary_path),
-                "group_data_file": rel(group_data_file),
-                "out_file": rel(ga_out),
-                "error": str(e),
-            })
+            failures.append(
+                {
+                    "experiment": experiment_name,
+                    "industry": industry,
+                    "summary_file": rel(summary_path),
+                    "group_data_file": rel(group_data_file),
+                    "out_file": rel(ga_out),
+                    "error": str(e),
+                }
+            )
 
     if failures:
         failure_log = write_failures_log(failures)

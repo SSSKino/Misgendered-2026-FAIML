@@ -318,6 +318,7 @@ def run_single_evaluation(*, experiment_name: str, raw_fallback_name: str) -> No
     parser.add_argument("jd", help="Path to a single JD JSON file")
     parser.add_argument("cv", help="Path to a single CV JSON file")
     parser.add_argument("--out", default=f"{experiment_name}.json", help=f"Output file (default: {experiment_name}.json)")
+    parser.add_argument("--skip-parent-aggregate", action="store_true", help="Do not rebuild the parent summary JSON after writing the single result")
     parser.add_argument("--model", default=get_default_model(), help=f"Model name (default from .env/environment: {get_default_model()})")
     parser.add_argument("--temperature", type=float, default=get_default_temperature(), help=f"Temperature (default from .env/environment: {get_default_temperature()})")
     args = parser.parse_args()
@@ -340,5 +341,6 @@ def run_single_evaluation(*, experiment_name: str, raw_fallback_name: str) -> No
     )
     final_json = normalize_result(model_json, cv_obj)
     write_json(out_path, final_json)
-    build_parent_aggregate_json(out_path)
+    if not args.skip_parent_aggregate:
+        build_parent_aggregate_json(out_path)
     print(f"[DONE] {experiment_name}")

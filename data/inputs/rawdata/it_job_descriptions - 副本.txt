@@ -1,0 +1,699 @@
+Roles Included
+1.  SOC Code: 11-3021.00
+Computer and Information Systems Managers
+2.  SOC Code: 15-1211.00
+Computer Systems Analysts
+3.  SOC Code: 15-1211.01
+Health Informatics Specialists
+4.  SOC Code: 15-1212.00
+Information Security Analysts
+5.  SOC Code: 15-1221.00
+Computer and Information Research Scientists
+6.  SOC Code: 15-1231.00
+Computer Network Support Specialists
+7.  SOC Code: 15-1232.00
+Computer User Support Specialists
+8.  SOC Code: 15-1241.00
+Computer Network Architects
+9.  SOC Code: 15-1241.01
+Telecommunications Engineering Specialists
+10.  SOC Code: 15-1242.00
+Database Administrators
+11.  SOC Code: 15-1243.00
+Database Architects
+12.  SOC Code: 15-1243.01
+Data Warehousing Specialists
+13.  SOC Code: 15-1244.00
+Network and Computer Systems Administrators
+14.  SOC Code: 15-1251.00
+Computer Programmers
+15.  SOC Code: 15-1252.00
+Software Developers
+16.  SOC Code: 15-1253.00
+Software Quality Assurance Analysts and Testers
+17.  SOC Code: 15-1254.00
+Web Developers
+18.  SOC Code: 15-1255.00
+Web and Digital Interface Designers
+19.  SOC Code: 15-1255.01
+Video Game Designers
+20.  SOC Code: 15-1299.00
+Computer Occupations, All Other
+
+SOC Code: 11-3021.00
+Computer and Information Systems Managers
+
+About the Role
+Plan, direct, or coordinate activities in such fields as electronic data processing, information systems, systems analysis, and computer programming.
+What You'll Do
+Direct daily operations of department, analyzing workflow, establishing priorities, developing standards and setting deadlines.
+Meet with department heads, managers, supervisors, vendors, and others, to solicit cooperation and resolve problems.
+Review project plans to plan and coordinate project activity.
+Assign and review the work of systems analysts, programmers, and other computer-related workers.
+Provide users with technical support for computer problems.
+Develop computer information resources, providing for data security and control, strategic computing, and disaster recovery.
+Recruit, hire, train and supervise staff, or participate in staffing decisions.
+Stay abreast of advances in technology.
+Consult with users, management, vendors, and technicians to assess computing needs and system requirements.
+Develop and interpret organizational goals, policies, and procedures.
+
+
+Tools & Technology
+Customer relationship management CRM software: ACT! Premium
+Desktop publishing software: Adobe Distiller
+Web platform development software: Adobe Flex, Apache Tomcat
+Object or component oriented development software: Advanced business application programming ABAP
+Data base management system software: Alpha Four, Apache Cassandra, Apache Hadoop, Apache Pig, Apache Solr
+Data base user interface and query software: Amazon Web Services AWS software
+Portal server software: Apache HTTP Server
+Development environment software: Apache Maven
+Video creation and editing software: Apple Final Cut Pro, Apple iMovie
+Presentation software: Apple iWork Keynote
+Spreadsheet software: Apple iWork Numbers
+Word processing software: Apple iWork Pages
+Operating system software: Apple macOS
+Content workflow software: Atlassian JIRA
+Education & Experience
+Education: Bachelor's degree or Some college, no degree
+On-the-Job Training: 6 months to 1 year
+Related Work Experience: 6 years to 8 years
+Work Environment
+E-Mail
+Work With or Contribute to a Work Group or Team
+Determine Tasks, Priorities and Goals
+Face-to-Face Discussions with Individuals and Within Teams
+Spend Time Sitting
+Contact With Others
+Coordinate or Lead Others in Accomplishing Work Activities
+Work Outcomes and Results of Other Workers
+Telephone Conversations
+Freedom to Make Decisions
+
+
+
+
+
+
+
+SOC Code: 15-1231.00
+Computer Network Support Specialists
+
+About the Role
+Analyze, test, troubleshoot, and evaluate existing network systems, such as local area networks (LAN), wide area networks (WAN), cloud networks, servers, and other data communications networks. Perform network maintenance to ensure networks operate correctly with minimal interruption.
+What You'll Do
+Back up network data.
+Configure security settings or access permissions for groups or individuals.
+Analyze and report computer network security breaches or attempted breaches.
+Identify the causes of networking problems, using diagnostic testing software and equipment.
+Document network support activities.
+Configure wide area network (WAN) or local area network (LAN) routers or related equipment.
+Install network software, including security or firewall software.
+Troubleshoot network or connectivity problems for users or user groups.
+Provide telephone support related to networking or connectivity issues.
+Evaluate local area network (LAN) or wide area network (WAN) performance data to ensure sufficient availability or speed, to identify network problems, or for disaster recovery purposes.
+
+
+Tools & Technology
+Document management software: Adobe Acrobat
+Transaction security and virus protection software: Anti-spyware software, Antivirus software
+Web platform development software: Apache Tomcat
+Operating system software: Apple macOS, Bash, BlackBerry Enterprise Server
+Configuration management software: Application management software, Automated installation software
+Network monitoring software: Arping, B&W Port Scanner, BitWizard B.V. mtr, Cisco Systems Cisco NetFlow Collection Engine, Cisco Systems Cisco Traffic Analyzer
+Project management software: Bentley Systems ProjectWise
+Enterprise application integration software: BMC Software Control-M
+Helpdesk or call center software: BMC Software Remedy IT Service Management Suite
+Switch or router software: Border Gateway Protocol BGP
+Administration software: Cisco Systems CiscoWorks, Cisco Systems CiscoWorks LAN Management Solution
+Education & Experience
+Education: Bachelor's degree or Associate's degree
+On-the-Job Training: 6 months to 1 year
+Related Work Experience: 4 years to 6 years
+Work Environment
+Telephone Conversations
+E-Mail
+Indoors, Environmentally Controlled
+Face-to-Face Discussions with Individuals and Within Teams
+Contact With Others
+Work With or Contribute to a Work Group or Team
+Importance of Being Exact or Accurate
+Determine Tasks, Priorities and Goals
+Freedom to Make Decisions
+Time Pressure
+
+
+
+SOC Code: 15-1241.00
+Computer Network Architects
+
+About the Role
+Design and implement computer and information networks, such as local area networks (LAN), wide area networks (WAN), intranets, extranets, and other data communications networks. Perform network modeling, analysis, and planning, including analysis of capacity needs for network infrastructures. May also design network and computer security measures. May research and recommend network and data communications hardware and software.
+What You'll Do
+Develop disaster recovery plans.
+Develop or recommend network security measures, such as firewalls, network security audits, or automated security probes.
+Develop and implement solutions for network problems.
+Maintain networks by performing activities such as file addition, deletion, or backup.
+Coordinate network operations, maintenance, repairs, or upgrades.
+Coordinate installation of new equipment.
+Monitor and analyze network performance and reports on data input or output to detect problems, identify inefficient use of computer resources, or perform capacity planning.
+Develop network-related documentation.
+Develop and write procedures for installation, use, or troubleshooting of communications hardware or software.
+Participate in network technology upgrade or expansion projects, including installation of hardware and software and integration testing.
+
+
+Tools & Technology
+Access software: Access management software
+Development environment software: Adobe ActionScript, Apache Ant, Apache Kafka
+Video creation and editing software: Adobe After Effects
+Object or component oriented development software: Advanced business application programming ABAP, Apache Groovy
+Network monitoring software: AirMagnet Enterprise
+Web platform development software: AJAX
+Data base management system software: Amazon DynamoDB, Apache Cassandra, Apache Hadoop, Apache Hive
+Data base user interface and query software: Amazon Elastic Compute Cloud EC2, Amazon Redshift, Amazon Web Services AWS software
+Storage networking software: Amazon Simple Storage Service S3
+Cloud-based management software: Amazon Web Services AWS CloudFormation
+Expert system software: Ansible software
+Portal server software: Apache HTTP Server
+Education & Experience
+Education: Bachelor's degree or Post-secondary certificate
+On-the-Job Training: 6 months to 1 year
+Related Work Experience: 2 years to 4 years
+Work Environment
+E-Mail
+Telephone Conversations
+Indoors, Environmentally Controlled
+Face-to-Face Discussions with Individuals and Within Teams
+Contact With Others
+Work With or Contribute to a Work Group or Team
+Spend Time Sitting
+
+
+
+SOC Code: 15-1242.00
+Database Administrators
+
+About the Role
+Administer, test, and implement computer databases, applying knowledge of database management systems. Coordinate changes to computer databases. Identify, investigate, and resolve database performance issues, database capacity, and database scalability. May plan, coordinate, and implement security measures to safeguard computer databases.
+What You'll Do
+Modify existing databases and database management systems or direct programmers and analysts to make changes.
+Plan, coordinate, and implement security measures to safeguard information in computer files against accidental or unauthorized damage, modification or disclosure.
+Plan and install upgrades of database management system software to enhance database performance.
+Specify users and user access levels for each segment of database.
+Test changes to database applications or systems.
+Test programs or databases, correct errors, and make necessary modifications.
+Train users and answer questions.
+Provide technical support to junior staff or clients.
+Approve, schedule, plan, and supervise the installation and testing of new products and improvements to computer systems, such as the installation of new databases.
+Develop standards and guidelines for the use and acquisition of software and to protect vulnerable information.
+
+
+Tools & Technology
+Enterprise resource planning ERP software: Ab Initio
+Access software: Access management software
+Backup or archival software: Acronis Recovery Expert
+Data base management system software: ADO.NET, Amazon Data Pipeline, Amazon DynamoDB, Apache Cassandra, Apache Hadoop
+Web page creation and editing software: Adobe Dreamweaver
+Object or component oriented development software: Advanced business application programming ABAP, Apache Groovy
+Web platform development software: AJAX
+Data base user interface and query software: Amazon Elastic Compute Cloud EC2, Amazon Redshift, Amazon Web Services AWS software
+Storage networking software: Amazon Simple Storage Service S3
+Cloud-based management software: Amazon Web Services AWS CloudFormation
+Expert system software: Ansible software
+Procedure management software: Apache Airflow
+Development environment software: Apache Ant
+Education & Experience
+Education: Bachelor's degree
+On-the-Job Training: 3 to 6 months
+Related Work Experience: 4 years to 6 years
+Work Environment
+E-Mail
+Indoors, Environmentally Controlled
+Work With or Contribute to a Work Group or Team
+Telephone Conversations
+Freedom to Make Decisions
+Importance of Being Exact or Accurate
+Spend Time Sitting
+Determine Tasks, Priorities and Goals
+Contact With Others
+Frequency of Decision Making
+
+SOC Code: 15-1243.00
+Database Architects
+
+About the Role
+Design strategies for enterprise databases, data warehouse systems, and multidimensional networks. Set standards for database operations, programming, query processes, and security. Model, design, and construct large relational databases or data warehouses. Create and optimize data models for warehouse infrastructure and workflow. Integrate new systems with existing warehouse structure and refine system performance and functionality.
+What You'll Do
+Develop and document database architectures.
+Collaborate with system architects, software architects, design analysts, and others to understand business or industry requirements.
+Develop database architectural strategies at the modeling, design and implementation stages to address business or industry requirements.
+Design databases to support business applications, ensuring system scalability, security, performance, and reliability.
+Develop data models for applications, metadata tables, views or related database structures.
+Design database applications, such as interfaces, data transfer mechanisms, global temporary tables, data partitions, and function-based indexes to enable efficient access of the generic database structure.
+Develop methods for integrating different products so they work properly together, such as customizing commercial databases to fit specific needs.
+Create and enforce database development standards.
+Document and communicate database schemas, using accepted notations.
+Develop data model describing data elements and their use, following procedures and using pen, template or computer software.
+
+
+Tools & Technology
+Word processing software: 3M Post-it App
+Enterprise resource planning ERP software: Ab Initio
+Access software: Access management software
+Backup or archival software: Acronis Recovery Expert
+Development environment software: Adeptia ETL Suite
+Data base management system software: ADO.NET, Amazon DynamoDB, Amazon Kinesis
+Document management software: Adobe Acrobat
+Web page creation and editing software: Adobe Dreamweaver
+Object or component oriented development software: Advanced business application programming ABAP
+Web platform development software: AJAX
+Metadata management software: Altova MapForce
+Data base user interface and query software: Amazon Elastic Compute Cloud EC2, Amazon Redshift, Amazon Web Services AWS software
+Storage networking software: Amazon Simple Storage Service S3
+Cloud-based management software: Amazon Web Services AWS CloudFormation
+Expert system software: Ansible software
+Procedure management software: Apache Airflow
+Education & Experience
+Education: Bachelor's degree
+On-the-Job Training: Up to 1 month
+Related Work Experience: 2 years to 4 years
+Work Environment
+E-Mail
+Spend Time Sitting
+Indoors, Environmentally Controlled
+Face-to-Face Discussions with Individuals and Within Teams
+Telephone Conversations
+Importance of Being Exact or Accurate
+Work With or Contribute to a Work Group or Team
+
+SOC Code: 15-1243.01
+Data Warehousing Specialists
+
+About the Role
+Design, model, or implement corporate data warehousing activities. Program and configure warehouses of database information and provide support to warehouse users.
+What You'll Do
+Develop and document database architectures.
+Collaborate with system architects, software architects, design analysts, and others to understand business or industry requirements.
+Develop database architectural strategies at the modeling, design and implementation stages to address business or industry requirements.
+Design databases to support business applications, ensuring system scalability, security, performance, and reliability.
+Develop data models for applications, metadata tables, views or related database structures.
+Design database applications, such as interfaces, data transfer mechanisms, global temporary tables, data partitions, and function-based indexes to enable efficient access of the generic database structure.
+Develop methods for integrating different products so they work properly together, such as customizing commercial databases to fit specific needs.
+Create and enforce database development standards.
+Document and communicate database schemas, using accepted notations.
+Develop data model describing data elements and their use, following procedures and using pen, template or computer software.
+
+
+Tools & Technology
+Word processing software: 3M Post-it App
+Enterprise resource planning ERP software: Ab Initio
+Access software: Access management software
+Backup or archival software: Acronis Recovery Expert
+Development environment software: Adeptia ETL Suite
+Data base management system software: ADO.NET, Amazon DynamoDB, Amazon Kinesis
+Document management software: Adobe Acrobat
+Web page creation and editing software: Adobe Dreamweaver
+Object or component oriented development software: Advanced business application programming ABAP
+Web platform development software: AJAX
+Metadata management software: Altova MapForce
+Data base user interface and query software: Amazon Elastic Compute Cloud EC2, Amazon Redshift, Amazon Web Services AWS software
+Storage networking software: Amazon Simple Storage Service S3
+Cloud-based management software: Amazon Web Services AWS CloudFormation
+Expert system software: Ansible software
+Procedure management software: Apache Airflow
+Education & Experience
+Education: Bachelor's degree
+On-the-Job Training: Up to 1 month
+Related Work Experience: 2 years to 4 years
+Work Environment
+E-Mail
+Spend Time Sitting
+Indoors, Environmentally Controlled
+Face-to-Face Discussions with Individuals and Within Teams
+Telephone Conversations
+Importance of Being Exact or Accurate
+Work With or Contribute to a Work Group or Team
+
+SOC Code: 15-1244.00
+Network and Computer Systems Administrators
+
+About the Role
+Install, configure, and maintain an organization's local area network (LAN), wide area network (WAN), data communications network, operating systems, and physical and virtual servers. Perform system monitoring and verify the integrity and availability of hardware, network, and server resources and systems. Review system and application logs and verify completion of scheduled jobs, including system backups. Analyze network and server resource consumption and control user access. Install and upgrade software and maintain software licenses. May assist in network modeling, analysis, planning, and coordination between network and data communications hardware and software.
+What You'll Do
+Maintain and administer computer networks and related computing environments, including computer hardware, systems software, applications software, and all configurations.
+Perform data backups and disaster recovery operations.
+Diagnose, troubleshoot, and resolve hardware, software, or other network and system problems, and replace defective components when necessary.
+Configure, monitor, and maintain email applications or virus protection software.
+Operate master consoles to monitor the performance of computer systems and networks and to coordinate computer network access and use.
+Monitor network performance to determine whether adjustments are needed and where changes will be needed in the future.
+Plan, coordinate, and implement network security measures to protect data, software, and hardware.
+Analyze equipment performance records to determine the need for repair or replacement.
+Confer with network users about solutions to existing system problems.
+Recommend changes to improve systems and network configurations, and determine hardware or software requirements related to such changes.
+
+
+Tools & Technology
+Access software: Access management software
+Internet directory services software: Active directory software
+Enterprise resource planning ERP software: Adexa eGPS Suite
+Document management software: Adobe Acrobat
+Development environment software: Adobe ActionScript, Apache Ant
+Web page creation and editing software: Adobe Dreamweaver
+Object or component oriented development software: Advanced business application programming ABAP, Apache Groovy
+Web platform development software: AJAX
+Data base management system software: Amazon DynamoDB, Apache Cassandra, Apache Hadoop, Apache Hive
+Data base user interface and query software: Amazon Elastic Compute Cloud EC2, Amazon Redshift, Amazon Web Services AWS software
+Storage networking software: Amazon Simple Storage Service S3
+Cloud-based management software: Amazon Web Services AWS CloudFormation
+Expert system software: Ansible software
+Education & Experience
+Education: Bachelor's degree or Associate's degree
+On-the-Job Training: 1 to 2 years
+Related Work Experience: 6 years to 8 years
+Work Environment
+Indoors, Environmentally Controlled
+E-Mail
+Telephone Conversations
+Face-to-Face Discussions with Individuals and Within Teams
+Contact With Others
+Spend Time Sitting
+Work With or Contribute to a Work Group or Team
+Determine Tasks, Priorities and Goals
+Freedom to Make Decisions
+Importance of Being Exact or Accurate
+
+SOC Code: 15-1251.00
+Computer Programmers
+
+About the Role
+Create, modify, and test the code and scripts that allow computer applications to run. Work from specifications drawn up by software and web developers or other individuals. May develop and write computer programs to store, locate, and retrieve specific documents, data, and information.
+What You'll Do
+Write, analyze, review, and rewrite programs, using workflow chart and diagram, and applying knowledge of computer capabilities, subject matter, and symbolic logic.
+Correct errors by making appropriate changes and rechecking the program to ensure that the desired results are produced.
+Perform or direct revision, repair, or expansion of existing programs to increase operating efficiency or adapt to new requirements.
+Write, update, and maintain computer programs or software packages to handle specific jobs such as tracking inventory, storing or retrieving data, or controlling other equipment.
+Consult with managerial, engineering, and technical personnel to clarify program intent, identify problems, and suggest changes.
+Conduct trial runs of programs and software applications to be sure they will produce the desired information and that the instructions are correct.
+Prepare detailed workflow charts and diagrams that describe input, output, and logical operation, and convert them into a series of instructions coded in a computer language.
+Compile and write documentation of program development and subsequent revisions, inserting comments in the coded instructions so others can understand the program.
+Consult with and assist computer operators or system analysts to define and resolve problems in running computer programs.
+Perform systems analysis and programming tasks to maintain and control the use of computer systems software as a systems programmer.
+
+
+Tools & Technology
+Development environment software: A programming language APL, ABC Compiler, Ada, Adobe ActionScript, Adobe PostScript, Algorithmic language ALGOL
+Object or component oriented development software: ABC: the AspectBench Compiler for AspectJ, Advanced business application programming ABAP
+Document management software: Adobe Acrobat
+Web platform development software: Adobe ColdFusion, Adobe Flex, AJAX
+Web page creation and editing software: Adobe Dreamweaver
+Graphics or photo imaging software: Adobe Illustrator, Adobe Photoshop
+Data base management system software: Amazon DynamoDB, Amazon Kinesis
+Data base user interface and query software: Amazon Elastic Compute Cloud EC2, Amazon Redshift
+Storage networking software: Amazon Simple Storage Service S3
+Education & Experience
+Education: Bachelor's degree
+On-the-Job Training: 6 months to 1 year
+Related Work Experience: 6 months to 1 year
+Work Environment
+E-Mail
+Spend Time Sitting
+Face-to-Face Discussions with Individuals and Within Teams
+Indoors, Environmentally Controlled
+Importance of Being Exact or Accurate
+Work With or Contribute to a Work Group or Team
+Contact With Others
+Time Pressure
+Level of Competition
+Freedom to Make Decisions
+
+SOC Code: 15-1252.00
+Software Developers
+
+About the Role
+Research, design, and develop computer and network software or specialized utility programs. Analyze user needs and develop software solutions, applying principles and techniques of computer science, engineering, and mathematical analysis. Update software or enhance existing software capabilities. May work with computer hardware engineers to integrate hardware and software systems, and develop specifications and performance requirements. May maintain databases within an application area, working individually or coordinating database development as part of a team.
+What You'll Do
+Analyze user needs and software requirements to determine feasibility of design within time and cost constraints.
+Develop or direct software system testing or validation procedures, programming, or documentation.
+Confer with systems analysts, engineers, programmers and others to design systems and to obtain information on project limitations and capabilities, performance requirements and interfaces.
+Modify existing software to correct errors, adapt it to new hardware, or upgrade interfaces and improve performance.
+Prepare reports or correspondence concerning project specifications, activities, or status.
+Analyze information to determine, recommend, and plan installation of a new system or modification of an existing system.
+Store, retrieve, and manipulate data for analysis of system capabilities and requirements.
+Design, develop and modify software systems, using scientific analysis and mathematical models to predict and measure outcomes and consequences of design.
+Determine system performance standards.
+Consult with customers or other departments on project status, proposals, or technical issues, such as software system design or maintenance.
+
+
+Tools & Technology
+Word processing software: 3M Post-it App
+Development environment software: A programming language APL, ABC Compiler, Ada, Adobe ActionScript, Algorithmic language ALGOL
+Object or component oriented development software: ABC: the AspectBench Compiler for AspectJ, Advanced business application programming ABAP
+Data base user interface and query software: ADO.NET, Airtable
+Document management software: Adobe Acrobat
+Video creation and editing software: Adobe After Effects
+Graphics or photo imaging software: Adobe Creative Cloud software, Adobe Illustrator, Adobe Photoshop
+Web page creation and editing software: Adobe Dreamweaver
+Web platform development software: Adobe Flex, AJAX, Allaire ColdFusion
+Desktop publishing software: Adobe InDesign
+Education & Experience
+Education: Bachelor's degree
+On-the-Job Training: 3 to 6 months
+Related Work Experience: 6 years to 8 years
+Work Environment
+Spend Time Sitting
+Work With or Contribute to a Work Group or Team
+E-Mail
+Freedom to Make Decisions
+Importance of Being Exact or Accurate
+Determine Tasks, Priorities and Goals
+Contact With Others
+Coordinate or Lead Others in Accomplishing Work Activities
+Time Pressure
+Work Outcomes and Results of Other Workers
+
+SOC Code: 15-1253.00
+Software Quality Assurance Analysts and Testers
+
+About the Role
+Develop and execute software tests to identify software problems and their causes. Test system modifications to prepare for implementation. Document software and application defects using a bug tracking system and report defects to software or web developers. Create and maintain databases of known defects. May participate in software design reviews to provide input on functional requirements, operational characteristics, product designs, and schedules.
+What You'll Do
+Identify, analyze, and document problems with program function, output, online screen, or content.
+Document software defects, using a bug tracking system, and report defects to software developers.
+Develop testing programs that address areas such as database impacts, software scenarios, regression testing, negative testing, error or bug retests, or usability.
+Design test plans, scenarios, scripts, or procedures.
+Document test procedures to ensure replicability and compliance with standards.
+Provide feedback and recommendations to developers on software usability and functionality.
+Install, maintain, or use software testing programs.
+Test system modifications to prepare for implementation.
+Create or maintain databases of known test defects.
+Develop or specify standards, methods, or procedures to determine product quality or release readiness.
+
+
+Tools & Technology
+Word processing software: 3M Post-it App
+Development environment software: A programming language APL, ABC Compiler, Ada, Adobe ActionScript, Algorithmic language ALGOL
+Object or component oriented development software: ABC: the AspectBench Compiler for AspectJ, Acresso InstallAnywhere, Advanced business application programming ABAP
+Data base user interface and query software: ADO.NET, Airtable
+Document management software: Adobe Acrobat
+Video creation and editing software: Adobe After Effects
+Graphics or photo imaging software: Adobe Creative Cloud software, Adobe Illustrator, Adobe Photoshop
+Web page creation and editing software: Adobe Dreamweaver
+Web platform development software: Adobe Flex, AJAX
+Desktop publishing software: Adobe InDesign
+Education & Experience
+Education: Bachelor's degree or Associate's degree
+On-the-Job Training: 6 months to 1 year
+Related Work Experience: 6 months to 1 year
+Work Environment
+E-Mail
+Face-to-Face Discussions with Individuals and Within Teams
+Spend Time Sitting
+Importance of Being Exact or Accurate
+Work With or Contribute to a Work Group or Team
+Freedom to Make Decisions
+Indoors, Environmentally Controlled
+Telephone Conversations
+Contact With Others
+Determine Tasks, Priorities and Goals
+
+SOC Code: 15-1254.00
+Web Developers
+
+About the Role
+Develop and implement websites, web applications, application databases, and interactive web interfaces. Evaluate code to ensure that it is properly structured, meets industry standards, and is compatible with browsers and devices. Optimize website performance, scalability, and server-side code and processes. May develop website infrastructure and integrate websites with other computer applications.
+What You'll Do
+Write supporting code for Web applications or Web sites.
+Design, build, or maintain Web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.
+Back up files from Web sites to local directories for instant recovery in case of problems.
+Select programming languages, design tools, or applications.
+Evaluate code to ensure that it is valid, is properly structured, meets industry standards, and is compatible with browsers, devices, or operating systems.
+Develop databases that support Web applications and Web sites.
+Perform Web site tests according to planned schedules, or after any Web site or product revision.
+Perform or direct Web site updates.
+Maintain understanding of current Web technologies or programming practices through continuing education, reading, or participation in professional conferences, workshops, or groups.
+Analyze user needs to determine technical requirements.
+
+
+Tools & Technology
+Word processing software: 3M Post-it App
+Document management software: Adobe Acrobat
+Development environment software: Adobe ActionScript
+Video creation and editing software: Adobe After Effects
+Graphics or photo imaging software: Adobe Creative Cloud software, Adobe Illustrator, Adobe Photoshop
+Web page creation and editing software: Adobe Dreamweaver
+Web platform development software: Adobe Flex, AJAX
+Desktop publishing software: Adobe InDesign
+Object or component oriented development software: Advanced business application programming ABAP
+Data base user interface and query software: Airtable, Amazon Elastic Compute Cloud EC2, Amazon Redshift, Amazon Web Services AWS software
+Data base management system software: Amazon DynamoDB, Amazon Kinesis
+Storage networking software: Amazon Simple Storage Service S3
+Cloud-based management software: Amazon Web Services AWS CloudFormation
+Education & Experience
+Education: Bachelor's degree
+On-the-Job Training: Up to 1 month
+Related Work Experience: 1 year to 2 years
+Work Environment
+Spend Time Sitting
+E-Mail
+Freedom to Make Decisions
+Indoors, Environmentally Controlled
+Face-to-Face Discussions with Individuals and Within Teams
+Importance of Being Exact or Accurate
+Telephone Conversations
+Importance of Repeating Same Tasks
+Determine Tasks, Priorities and Goals
+Spend Time Making Repetitive Motions
+
+SOC Code: 15-1255.00
+Web and Digital Interface Designers
+
+About the Role
+Design digital user interfaces or websites. Develop and test layouts, interfaces, functionality, and navigation menus to ensure compatibility and usability across browsers or devices. May use web framework applications as well as client-side code and processes. May evaluate web design following web and accessibility standards, and may analyze web use metrics and optimize websites for marketability and search engine ranking. May design and test interfaces that facilitate the human-computer interaction and maximize the usability of digital devices, websites, and software with a focus on aesthetics and design. May create graphics used in websites and manage website content and links.
+What You'll Do
+Collaborate with management or users to develop e-commerce strategies and to integrate these strategies with Web sites.
+Collaborate with web development professionals, such as front-end or back-end developers, to complete the full scope of Web development projects.
+Communicate with network personnel or Web site hosting agencies to address hardware or software issues affecting Web sites.
+Conduct user research to determine design requirements and analyze user feedback to improve design quality.
+Confer with management or development teams to prioritize needs, resolve conflicts, develop content criteria, or choose solutions.
+Create searchable indices for Web page content.
+Create Web models or prototypes that include physical, interface, logical, or data models.
+Design, build, or maintain Web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.
+Develop and document style guidelines for Web site content.
+Develop new visual design concepts and modify concepts based on stakeholder feedback.
+
+
+Tools & Technology
+Word processing software: 3M Post-it App
+Document management software: Adobe Acrobat
+Development environment software: Adobe ActionScript
+Video creation and editing software: Adobe After Effects
+Graphics or photo imaging software: Adobe Creative Cloud software, Adobe Illustrator, Adobe Photoshop, Adobe XD
+Web page creation and editing software: Adobe Dreamweaver
+Web platform development software: Adobe Flex, AJAX
+Desktop publishing software: Adobe InDesign
+Object or component oriented development software: Advanced business application programming ABAP
+Data base user interface and query software: Airtable, Amazon Elastic Compute Cloud EC2, Amazon Redshift
+Data base management system software: Amazon DynamoDB, Amazon Kinesis
+Storage networking software: Amazon Simple Storage Service S3
+Cloud-based management software: Amazon Web Services AWS CloudFormation
+Education & Experience
+Education: Bachelor's degree
+On-the-Job Training: 1 to 3 months
+Related Work Experience: 2 years to 4 years
+Work Environment
+E-Mail
+Spend Time Sitting
+Work With or Contribute to a Work Group or Team
+Indoors, Environmentally Controlled
+Face-to-Face Discussions with Individuals and Within Teams
+Level of Competition
+Time Pressure
+Spend Time Making Repetitive Motions
+Determine Tasks, Priorities and Goals
+Contact With Others
+
+SOC Code: 15-1255.01
+Video Game Designers
+
+About the Role
+Design core features of video games. Specify innovative game and role-play mechanics, story lines, and character biographies. Create and maintain design documentation. Guide and collaborate with production staff to produce games as designed.
+What You'll Do
+Collaborate with management or users to develop e-commerce strategies and to integrate these strategies with Web sites.
+Collaborate with web development professionals, such as front-end or back-end developers, to complete the full scope of Web development projects.
+Communicate with network personnel or Web site hosting agencies to address hardware or software issues affecting Web sites.
+Conduct user research to determine design requirements and analyze user feedback to improve design quality.
+Confer with management or development teams to prioritize needs, resolve conflicts, develop content criteria, or choose solutions.
+Create searchable indices for Web page content.
+Create Web models or prototypes that include physical, interface, logical, or data models.
+Design, build, or maintain Web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.
+Develop and document style guidelines for Web site content.
+Develop new visual design concepts and modify concepts based on stakeholder feedback.
+
+
+Tools & Technology
+Word processing software: 3M Post-it App
+Document management software: Adobe Acrobat
+Development environment software: Adobe ActionScript
+Video creation and editing software: Adobe After Effects
+Graphics or photo imaging software: Adobe Creative Cloud software, Adobe Illustrator, Adobe Photoshop, Adobe XD
+Web page creation and editing software: Adobe Dreamweaver
+Web platform development software: Adobe Flex, AJAX
+Desktop publishing software: Adobe InDesign
+Object or component oriented development software: Advanced business application programming ABAP
+Data base user interface and query software: Airtable, Amazon Elastic Compute Cloud EC2, Amazon Redshift
+Data base management system software: Amazon DynamoDB, Amazon Kinesis
+Storage networking software: Amazon Simple Storage Service S3
+Cloud-based management software: Amazon Web Services AWS CloudFormation
+Education & Experience
+Education: Bachelor's degree
+On-the-Job Training: 1 to 3 months
+Related Work Experience: 2 years to 4 years
+Work Environment
+E-Mail
+Spend Time Sitting
+Work With or Contribute to a Work Group or Team
+Indoors, Environmentally Controlled
+Face-to-Face Discussions with Individuals and Within Teams
+Level of Competition
+Time Pressure
+Spend Time Making Repetitive Motions
+Determine Tasks, Priorities and Goals
+Contact With Others
+
+SOC Code: 15-1299.00
+Computer Occupations, All Other
+
+About the Role
+All computer occupations not listed separately.
+What You'll Do
+Monitor systems for intrusions or denial of service attacks, and report security breaches to appropriate personnel.
+Identify or document backup or recovery plans.
+Back up or modify applications and related data to provide for disaster recovery.
+Correct testing-identified problems, or recommend actions for their resolution.
+Identify, standardize, and communicate levels of access and security.
+Determine sources of Web page or server problems, and take action to correct such problems.
+Implement updates, upgrades, and patches in a timely manner to limit loss of service.
+Implement Web site security measures, such as firewalls or message encryption.
+Collaborate with development teams to discuss, analyze, or resolve usability issues.
+Test issues such as system integration, performance, and system security on a regular schedule or after any major program modifications.
+
+
+Tools & Technology
+Document management software: Adobe Acrobat
+Development environment software: Adobe ActionScript, Apache Ant
+Web platform development software: Adobe ColdFusion, AJAX, Apache Struts, Apache Tomcat
+Graphics or photo imaging software: Adobe Creative Cloud software, Adobe FreeHand MX, Adobe Illustrator, Adobe Photoshop
+Video creation and editing software: Adobe Director
+Web page creation and editing software: Adobe Dreamweaver, Adobe Experience Manager (AEM), Adobe Macromedia HomeSite
+Desktop publishing software: Adobe InDesign, Adobe PageMaker
+Data base user interface and query software: Amazon Web Services AWS software
+Application server software: Apache HTTP Server
+Internet browser software: Apple Safari
+Education & Experience
+Education: Bachelor's degree or Post-secondary certificate or Associate's degree
+On-the-Job Training: Up to 1 month
+Related Work Experience: 4 years to 6 years
+Work Environment
+E-Mail
+Spend Time Sitting
+Indoors, Environmentally Controlled
+Telephone Conversations
