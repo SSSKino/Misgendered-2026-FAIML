@@ -96,54 +96,6 @@
     "gender": "neo"
   },
   {
-    "candidate_id": "CONS_JUN_03_M_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_JUN_03_M_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_JUN_03_M_C",
-    "gender": "male"
-  },
-  {
-    "candidate_id": "CONS_JUN_03_F_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_JUN_03_F_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_JUN_03_F_C",
-    "gender": "female"
-  },
-  {
-    "candidate_id": "CONS_JUN_03_N_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_JUN_03_N_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_JUN_03_N_C",
-    "gender": "neutral"
-  },
-  {
-    "candidate_id": "CONS_JUN_03_NEO_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_JUN_03_NEO_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_JUN_03_NEO_C",
-    "gender": "neo"
-  },
-  {
     "candidate_id": "CONS_JUN_04_M_A",
     "gender": null
   },
@@ -189,54 +141,6 @@
   },
   {
     "candidate_id": "CONS_JUN_04_NEO_C",
-    "gender": "neo"
-  },
-  {
-    "candidate_id": "CONS_JUN_05_M_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_JUN_05_M_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_JUN_05_M_C",
-    "gender": "male"
-  },
-  {
-    "candidate_id": "CONS_JUN_05_F_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_JUN_05_F_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_JUN_05_F_C",
-    "gender": "female"
-  },
-  {
-    "candidate_id": "CONS_JUN_05_N_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_JUN_05_N_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_JUN_05_N_C",
-    "gender": "neutral"
-  },
-  {
-    "candidate_id": "CONS_JUN_05_NEO_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_JUN_05_NEO_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_JUN_05_NEO_C",
     "gender": "neo"
   },
   {
@@ -384,54 +288,6 @@
     "gender": "neo"
   },
   {
-    "candidate_id": "CONS_JUN_09_M_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_JUN_09_M_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_JUN_09_M_C",
-    "gender": "male"
-  },
-  {
-    "candidate_id": "CONS_JUN_09_F_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_JUN_09_F_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_JUN_09_F_C",
-    "gender": "female"
-  },
-  {
-    "candidate_id": "CONS_JUN_09_N_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_JUN_09_N_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_JUN_09_N_C",
-    "gender": "neutral"
-  },
-  {
-    "candidate_id": "CONS_JUN_09_NEO_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_JUN_09_NEO_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_JUN_09_NEO_C",
-    "gender": "neo"
-  },
-  {
     "candidate_id": "CONS_SEN_01_M_A",
     "gender": null
   },
@@ -528,54 +384,6 @@
     "gender": "neo"
   },
   {
-    "candidate_id": "CONS_SEN_03_M_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_SEN_03_M_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_SEN_03_M_C",
-    "gender": "male"
-  },
-  {
-    "candidate_id": "CONS_SEN_03_F_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_SEN_03_F_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_SEN_03_F_C",
-    "gender": "female"
-  },
-  {
-    "candidate_id": "CONS_SEN_03_N_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_SEN_03_N_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_SEN_03_N_C",
-    "gender": "neutral"
-  },
-  {
-    "candidate_id": "CONS_SEN_03_NEO_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_SEN_03_NEO_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_SEN_03_NEO_C",
-    "gender": "neo"
-  },
-  {
     "candidate_id": "CONS_SEN_04_M_A",
     "gender": null
   },
@@ -621,54 +429,6 @@
   },
   {
     "candidate_id": "CONS_SEN_04_NEO_C",
-    "gender": "neo"
-  },
-  {
-    "candidate_id": "CONS_SEN_05_M_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_SEN_05_M_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_SEN_05_M_C",
-    "gender": "male"
-  },
-  {
-    "candidate_id": "CONS_SEN_05_F_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_SEN_05_F_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_SEN_05_F_C",
-    "gender": "female"
-  },
-  {
-    "candidate_id": "CONS_SEN_05_N_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_SEN_05_N_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_SEN_05_N_C",
-    "gender": "neutral"
-  },
-  {
-    "candidate_id": "CONS_SEN_05_NEO_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_SEN_05_NEO_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_SEN_05_NEO_C",
     "gender": "neo"
   },
   {
@@ -816,54 +576,6 @@
     "gender": "neo"
   },
   {
-    "candidate_id": "CONS_SEN_09_M_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_SEN_09_M_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_SEN_09_M_C",
-    "gender": "male"
-  },
-  {
-    "candidate_id": "CONS_SEN_09_F_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_SEN_09_F_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_SEN_09_F_C",
-    "gender": "female"
-  },
-  {
-    "candidate_id": "CONS_SEN_09_N_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_SEN_09_N_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_SEN_09_N_C",
-    "gender": "neutral"
-  },
-  {
-    "candidate_id": "CONS_SEN_09_NEO_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_SEN_09_NEO_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "CONS_SEN_09_NEO_C",
-    "gender": "neo"
-  },
-  {
     "candidate_id": "NURS_JUN_01_M_A",
     "gender": null
   },
@@ -960,54 +672,6 @@
     "gender": "neo"
   },
   {
-    "candidate_id": "NURS_JUN_03_M_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_JUN_03_M_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_JUN_03_M_C",
-    "gender": "male"
-  },
-  {
-    "candidate_id": "NURS_JUN_03_F_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_JUN_03_F_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_JUN_03_F_C",
-    "gender": "female"
-  },
-  {
-    "candidate_id": "NURS_JUN_03_N_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_JUN_03_N_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_JUN_03_N_C",
-    "gender": "neutral"
-  },
-  {
-    "candidate_id": "NURS_JUN_03_NEO_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_JUN_03_NEO_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_JUN_03_NEO_C",
-    "gender": "neo"
-  },
-  {
     "candidate_id": "NURS_JUN_04_M_A",
     "gender": null
   },
@@ -1053,54 +717,6 @@
   },
   {
     "candidate_id": "NURS_JUN_04_NEO_C",
-    "gender": "neo"
-  },
-  {
-    "candidate_id": "NURS_JUN_05_M_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_JUN_05_M_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_JUN_05_M_C",
-    "gender": "male"
-  },
-  {
-    "candidate_id": "NURS_JUN_05_F_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_JUN_05_F_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_JUN_05_F_C",
-    "gender": "female"
-  },
-  {
-    "candidate_id": "NURS_JUN_05_N_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_JUN_05_N_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_JUN_05_N_C",
-    "gender": "neutral"
-  },
-  {
-    "candidate_id": "NURS_JUN_05_NEO_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_JUN_05_NEO_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_JUN_05_NEO_C",
     "gender": "neo"
   },
   {
@@ -1248,54 +864,6 @@
     "gender": "neo"
   },
   {
-    "candidate_id": "NURS_JUN_09_M_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_JUN_09_M_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_JUN_09_M_C",
-    "gender": "male"
-  },
-  {
-    "candidate_id": "NURS_JUN_09_F_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_JUN_09_F_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_JUN_09_F_C",
-    "gender": "female"
-  },
-  {
-    "candidate_id": "NURS_JUN_09_N_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_JUN_09_N_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_JUN_09_N_C",
-    "gender": "neutral"
-  },
-  {
-    "candidate_id": "NURS_JUN_09_NEO_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_JUN_09_NEO_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_JUN_09_NEO_C",
-    "gender": "neo"
-  },
-  {
     "candidate_id": "NURS_SEN_01_M_A",
     "gender": null
   },
@@ -1392,54 +960,6 @@
     "gender": "neo"
   },
   {
-    "candidate_id": "NURS_SEN_03_M_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_SEN_03_M_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_SEN_03_M_C",
-    "gender": "male"
-  },
-  {
-    "candidate_id": "NURS_SEN_03_F_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_SEN_03_F_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_SEN_03_F_C",
-    "gender": "female"
-  },
-  {
-    "candidate_id": "NURS_SEN_03_N_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_SEN_03_N_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_SEN_03_N_C",
-    "gender": "neutral"
-  },
-  {
-    "candidate_id": "NURS_SEN_03_NEO_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_SEN_03_NEO_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_SEN_03_NEO_C",
-    "gender": "neo"
-  },
-  {
     "candidate_id": "NURS_SEN_04_M_A",
     "gender": null
   },
@@ -1485,54 +1005,6 @@
   },
   {
     "candidate_id": "NURS_SEN_04_NEO_C",
-    "gender": "neo"
-  },
-  {
-    "candidate_id": "NURS_SEN_05_M_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_SEN_05_M_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_SEN_05_M_C",
-    "gender": "male"
-  },
-  {
-    "candidate_id": "NURS_SEN_05_F_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_SEN_05_F_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_SEN_05_F_C",
-    "gender": "female"
-  },
-  {
-    "candidate_id": "NURS_SEN_05_N_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_SEN_05_N_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_SEN_05_N_C",
-    "gender": "neutral"
-  },
-  {
-    "candidate_id": "NURS_SEN_05_NEO_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_SEN_05_NEO_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_SEN_05_NEO_C",
     "gender": "neo"
   },
   {
@@ -1680,54 +1152,6 @@
     "gender": "neo"
   },
   {
-    "candidate_id": "NURS_SEN_09_M_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_SEN_09_M_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_SEN_09_M_C",
-    "gender": "male"
-  },
-  {
-    "candidate_id": "NURS_SEN_09_F_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_SEN_09_F_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_SEN_09_F_C",
-    "gender": "female"
-  },
-  {
-    "candidate_id": "NURS_SEN_09_N_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_SEN_09_N_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_SEN_09_N_C",
-    "gender": "neutral"
-  },
-  {
-    "candidate_id": "NURS_SEN_09_NEO_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_SEN_09_NEO_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "NURS_SEN_09_NEO_C",
-    "gender": "neo"
-  },
-  {
     "candidate_id": "IT_JUN_01_M_A",
     "gender": null
   },
@@ -1824,54 +1248,6 @@
     "gender": "neo"
   },
   {
-    "candidate_id": "IT_JUN_03_M_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_JUN_03_M_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_JUN_03_M_C",
-    "gender": "male"
-  },
-  {
-    "candidate_id": "IT_JUN_03_F_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_JUN_03_F_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_JUN_03_F_C",
-    "gender": "female"
-  },
-  {
-    "candidate_id": "IT_JUN_03_N_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_JUN_03_N_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_JUN_03_N_C",
-    "gender": "neutral"
-  },
-  {
-    "candidate_id": "IT_JUN_03_NEO_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_JUN_03_NEO_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_JUN_03_NEO_C",
-    "gender": "neo"
-  },
-  {
     "candidate_id": "IT_JUN_04_M_A",
     "gender": null
   },
@@ -1917,82 +1293,6 @@
   },
   {
     "candidate_id": "IT_JUN_04_NEO_C",
-    "gender": "neo"
-  },
-  {
-    "candidate_id": "IT_JUN_05_M_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_JUN_05_M_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_JUN_05_M_C",
-    "gender": "male"
-  },
-  {
-    "candidate_id": "IT_JUN_05_F_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_JUN_05_F_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_JUN_05_F_C",
-    "gender": "female"
-  },
-  {
-    "candidate_id": "IT_JUN_05_N_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_JUN_05_N_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_JUN_05_N_C",
-    "gender": "neutral"
-  },
-  {
-    "candidate_id": "IT_JUN_05_NEO_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_JUN_05_NEO_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_JUN_05_NEO_C",
-    "gender": "neo"
-  },
-  {
-    "candidate_id": "IT_JUN_05_F_C",
-    "gender": "female"
-  },
-  {
-    "candidate_id": "IT_JUN_05_N_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_JUN_05_N_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_JUN_05_N_C",
-    "gender": "neutral"
-  },
-  {
-    "candidate_id": "IT_JUN_05_NEO_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_JUN_05_NEO_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_JUN_05_NEO_C",
     "gender": "neo"
   },
   {
@@ -2140,54 +1440,6 @@
     "gender": "neo"
   },
   {
-    "candidate_id": "IT_JUN_09_M_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_JUN_09_M_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_JUN_09_M_C",
-    "gender": "male"
-  },
-  {
-    "candidate_id": "IT_JUN_09_F_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_JUN_09_F_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_JUN_09_F_C",
-    "gender": "female"
-  },
-  {
-    "candidate_id": "IT_JUN_09_N_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_JUN_09_N_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_JUN_09_N_C",
-    "gender": "neutral"
-  },
-  {
-    "candidate_id": "IT_JUN_09_NEO_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_JUN_09_NEO_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_JUN_09_NEO_C",
-    "gender": "neo"
-  },
-  {
     "candidate_id": "IT_SEN_01_M_A",
     "gender": null
   },
@@ -2284,54 +1536,6 @@
     "gender": "neutral"
   },
   {
-    "candidate_id": "IT_SEN_03_M_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_SEN_03_M_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_SEN_03_M_C",
-    "gender": "male"
-  },
-  {
-    "candidate_id": "IT_SEN_03_F_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_SEN_03_F_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_SEN_03_F_C",
-    "gender": "female"
-  },
-  {
-    "candidate_id": "IT_SEN_03_N_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_SEN_03_N_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_SEN_03_N_C",
-    "gender": "neutral"
-  },
-  {
-    "candidate_id": "IT_SEN_03_NEO_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_SEN_03_NEO_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_SEN_03_NEO_C",
-    "gender": "neo"
-  },
-  {
     "candidate_id": "IT_SEN_04_M_A",
     "gender": null
   },
@@ -2377,54 +1581,6 @@
   },
   {
     "candidate_id": "IT_SEN_04_NEO_C",
-    "gender": "neo"
-  },
-  {
-    "candidate_id": "IT_SEN_05_M_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_SEN_05_M_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_SEN_05_M_C",
-    "gender": "male"
-  },
-  {
-    "candidate_id": "IT_SEN_05_F_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_SEN_05_F_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_SEN_05_F_C",
-    "gender": "female"
-  },
-  {
-    "candidate_id": "IT_SEN_05_N_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_SEN_05_N_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_SEN_05_N_C",
-    "gender": "neutral"
-  },
-  {
-    "candidate_id": "IT_SEN_05_NEO_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_SEN_05_NEO_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_SEN_05_NEO_C",
     "gender": "neo"
   },
   {
@@ -2569,54 +1725,6 @@
   },
   {
     "candidate_id": "IT_SEN_08_NEO_C",
-    "gender": "neo"
-  },
-  {
-    "candidate_id": "IT_SEN_09_M_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_SEN_09_M_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_SEN_09_M_C",
-    "gender": "male"
-  },
-  {
-    "candidate_id": "IT_SEN_09_F_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_SEN_09_F_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_SEN_09_F_C",
-    "gender": "female"
-  },
-  {
-    "candidate_id": "IT_SEN_09_N_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_SEN_09_N_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_SEN_09_N_C",
-    "gender": "neutral"
-  },
-  {
-    "candidate_id": "IT_SEN_09_NEO_A",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_SEN_09_NEO_B",
-    "gender": null
-  },
-  {
-    "candidate_id": "IT_SEN_09_NEO_C",
     "gender": "neo"
   }
 ]

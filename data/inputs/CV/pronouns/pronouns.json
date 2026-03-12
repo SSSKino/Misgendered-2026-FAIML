@@ -96,54 +96,6 @@
     "pronouns": "ze/zir"
   },
   {
-    "candidate_id": "CONS_JUN_03_M_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_JUN_03_M_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_JUN_03_M_C",
-    "pronouns": "he/him"
-  },
-  {
-    "candidate_id": "CONS_JUN_03_F_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_JUN_03_F_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_JUN_03_F_C",
-    "pronouns": "she/her"
-  },
-  {
-    "candidate_id": "CONS_JUN_03_N_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_JUN_03_N_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_JUN_03_N_C",
-    "pronouns": "they/them"
-  },
-  {
-    "candidate_id": "CONS_JUN_03_NEO_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_JUN_03_NEO_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_JUN_03_NEO_C",
-    "pronouns": "ae/aer"
-  },
-  {
     "candidate_id": "CONS_JUN_04_M_A",
     "pronouns": null
   },
@@ -190,54 +142,6 @@
   {
     "candidate_id": "CONS_JUN_04_NEO_C",
     "pronouns": "vi/vir"
-  },
-  {
-    "candidate_id": "CONS_JUN_05_M_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_JUN_05_M_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_JUN_05_M_C",
-    "pronouns": "he/him"
-  },
-  {
-    "candidate_id": "CONS_JUN_05_F_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_JUN_05_F_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_JUN_05_F_C",
-    "pronouns": "she/her"
-  },
-  {
-    "candidate_id": "CONS_JUN_05_N_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_JUN_05_N_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_JUN_05_N_C",
-    "pronouns": "they/them"
-  },
-  {
-    "candidate_id": "CONS_JUN_05_NEO_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_JUN_05_NEO_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_JUN_05_NEO_C",
-    "pronouns": "ey/em"
   },
   {
     "candidate_id": "CONS_JUN_06_M_A",
@@ -384,54 +288,6 @@
     "pronouns": "thon/thon"
   },
   {
-    "candidate_id": "CONS_JUN_09_M_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_JUN_09_M_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_JUN_09_M_C",
-    "pronouns": "he/him"
-  },
-  {
-    "candidate_id": "CONS_JUN_09_F_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_JUN_09_F_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_JUN_09_F_C",
-    "pronouns": "she/her"
-  },
-  {
-    "candidate_id": "CONS_JUN_09_N_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_JUN_09_N_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_JUN_09_N_C",
-    "pronouns": "they/them"
-  },
-  {
-    "candidate_id": "CONS_JUN_09_NEO_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_JUN_09_NEO_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_JUN_09_NEO_C",
-    "pronouns": "xe/xem"
-  },
-  {
     "candidate_id": "CONS_SEN_01_M_A",
     "pronouns": null
   },
@@ -528,54 +384,6 @@
     "pronouns": "ze/zir"
   },
   {
-    "candidate_id": "CONS_SEN_03_M_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_SEN_03_M_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_SEN_03_M_C",
-    "pronouns": "he/him"
-  },
-  {
-    "candidate_id": "CONS_SEN_03_F_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_SEN_03_F_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_SEN_03_F_C",
-    "pronouns": "she/her"
-  },
-  {
-    "candidate_id": "CONS_SEN_03_N_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_SEN_03_N_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_SEN_03_N_C",
-    "pronouns": "they/them"
-  },
-  {
-    "candidate_id": "CONS_SEN_03_NEO_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_SEN_03_NEO_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_SEN_03_NEO_C",
-    "pronouns": "xe/xem"
-  },
-  {
     "candidate_id": "CONS_SEN_04_M_A",
     "pronouns": null
   },
@@ -621,54 +429,6 @@
   },
   {
     "candidate_id": "CONS_SEN_04_NEO_C",
-    "pronouns": "vi/vir"
-  },
-  {
-    "candidate_id": "CONS_SEN_05_M_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_SEN_05_M_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_SEN_05_M_C",
-    "pronouns": "he/him"
-  },
-  {
-    "candidate_id": "CONS_SEN_05_F_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_SEN_05_F_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_SEN_05_F_C",
-    "pronouns": "she/her"
-  },
-  {
-    "candidate_id": "CONS_SEN_05_N_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_SEN_05_N_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_SEN_05_N_C",
-    "pronouns": "they/them"
-  },
-  {
-    "candidate_id": "CONS_SEN_05_NEO_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_SEN_05_NEO_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_SEN_05_NEO_C",
     "pronouns": "vi/vir"
   },
   {
@@ -816,54 +576,6 @@
     "pronouns": "thon/thon"
   },
   {
-    "candidate_id": "CONS_SEN_09_M_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_SEN_09_M_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_SEN_09_M_C",
-    "pronouns": "he/him"
-  },
-  {
-    "candidate_id": "CONS_SEN_09_F_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_SEN_09_F_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_SEN_09_F_C",
-    "pronouns": "she/her"
-  },
-  {
-    "candidate_id": "CONS_SEN_09_N_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_SEN_09_N_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_SEN_09_N_C",
-    "pronouns": "they/them"
-  },
-  {
-    "candidate_id": "CONS_SEN_09_NEO_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_SEN_09_NEO_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "CONS_SEN_09_NEO_C",
-    "pronouns": "ae/aer"
-  },
-  {
     "candidate_id": "NURS_JUN_01_M_A",
     "pronouns": null
   },
@@ -960,54 +672,6 @@
     "pronouns": "ze/zir"
   },
   {
-    "candidate_id": "NURS_JUN_03_M_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_JUN_03_M_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_JUN_03_M_C",
-    "pronouns": "he/him"
-  },
-  {
-    "candidate_id": "NURS_JUN_03_F_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_JUN_03_F_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_JUN_03_F_C",
-    "pronouns": "she/her"
-  },
-  {
-    "candidate_id": "NURS_JUN_03_N_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_JUN_03_N_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_JUN_03_N_C",
-    "pronouns": "they/them"
-  },
-  {
-    "candidate_id": "NURS_JUN_03_NEO_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_JUN_03_NEO_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_JUN_03_NEO_C",
-    "pronouns": "ae/aer"
-  },
-  {
     "candidate_id": "NURS_JUN_04_M_A",
     "pronouns": null
   },
@@ -1054,54 +718,6 @@
   {
     "candidate_id": "NURS_JUN_04_NEO_C",
     "pronouns": "vi/vir"
-  },
-  {
-    "candidate_id": "NURS_JUN_05_M_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_JUN_05_M_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_JUN_05_M_C",
-    "pronouns": "he/him"
-  },
-  {
-    "candidate_id": "NURS_JUN_05_F_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_JUN_05_F_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_JUN_05_F_C",
-    "pronouns": "she/her"
-  },
-  {
-    "candidate_id": "NURS_JUN_05_N_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_JUN_05_N_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_JUN_05_N_C",
-    "pronouns": "they/them"
-  },
-  {
-    "candidate_id": "NURS_JUN_05_NEO_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_JUN_05_NEO_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_JUN_05_NEO_C",
-    "pronouns": "ey/em"
   },
   {
     "candidate_id": "NURS_JUN_06_M_A",
@@ -1248,54 +864,6 @@
     "pronouns": "thon/thon"
   },
   {
-    "candidate_id": "NURS_JUN_09_M_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_JUN_09_M_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_JUN_09_M_C",
-    "pronouns": "he/him"
-  },
-  {
-    "candidate_id": "NURS_JUN_09_F_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_JUN_09_F_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_JUN_09_F_C",
-    "pronouns": "she/her"
-  },
-  {
-    "candidate_id": "NURS_JUN_09_N_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_JUN_09_N_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_JUN_09_N_C",
-    "pronouns": "they/them"
-  },
-  {
-    "candidate_id": "NURS_JUN_09_NEO_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_JUN_09_NEO_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_JUN_09_NEO_C",
-    "pronouns": "xe/xem"
-  },
-  {
     "candidate_id": "NURS_SEN_01_M_A",
     "pronouns": null
   },
@@ -1392,54 +960,6 @@
     "pronouns": "xe/xem"
   },
   {
-    "candidate_id": "NURS_SEN_03_M_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_SEN_03_M_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_SEN_03_M_C",
-    "pronouns": "he/him"
-  },
-  {
-    "candidate_id": "NURS_SEN_03_F_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_SEN_03_F_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_SEN_03_F_C",
-    "pronouns": "she/her"
-  },
-  {
-    "candidate_id": "NURS_SEN_03_N_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_SEN_03_N_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_SEN_03_N_C",
-    "pronouns": "they/them"
-  },
-  {
-    "candidate_id": "NURS_SEN_03_NEO_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_SEN_03_NEO_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_SEN_03_NEO_C",
-    "pronouns": "ze/zir"
-  },
-  {
     "candidate_id": "NURS_SEN_04_M_A",
     "pronouns": null
   },
@@ -1486,54 +1006,6 @@
   {
     "candidate_id": "NURS_SEN_04_NEO_C",
     "pronouns": "ey/em"
-  },
-  {
-    "candidate_id": "NURS_SEN_05_M_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_SEN_05_M_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_SEN_05_M_C",
-    "pronouns": "he/him"
-  },
-  {
-    "candidate_id": "NURS_SEN_05_F_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_SEN_05_F_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_SEN_05_F_C",
-    "pronouns": "she/her"
-  },
-  {
-    "candidate_id": "NURS_SEN_05_N_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_SEN_05_N_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_SEN_05_N_C",
-    "pronouns": "they/them"
-  },
-  {
-    "candidate_id": "NURS_SEN_05_NEO_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_SEN_05_NEO_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_SEN_05_NEO_C",
-    "pronouns": "vi/vir"
   },
   {
     "candidate_id": "NURS_SEN_06_M_A",
@@ -1680,54 +1152,6 @@
     "pronouns": "thon/thon"
   },
   {
-    "candidate_id": "NURS_SEN_09_M_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_SEN_09_M_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_SEN_09_M_C",
-    "pronouns": "he/him"
-  },
-  {
-    "candidate_id": "NURS_SEN_09_F_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_SEN_09_F_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_SEN_09_F_C",
-    "pronouns": "she/her"
-  },
-  {
-    "candidate_id": "NURS_SEN_09_N_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_SEN_09_N_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_SEN_09_N_C",
-    "pronouns": "they/them"
-  },
-  {
-    "candidate_id": "NURS_SEN_09_NEO_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_SEN_09_NEO_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "NURS_SEN_09_NEO_C",
-    "pronouns": "ae/aer"
-  },
-  {
     "candidate_id": "IT_JUN_01_M_A",
     "pronouns": null
   },
@@ -1824,54 +1248,6 @@
     "pronouns": "ze/zir"
   },
   {
-    "candidate_id": "IT_JUN_03_M_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_JUN_03_M_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_JUN_03_M_C",
-    "pronouns": "he/him"
-  },
-  {
-    "candidate_id": "IT_JUN_03_F_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_JUN_03_F_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_JUN_03_F_C",
-    "pronouns": "she/her"
-  },
-  {
-    "candidate_id": "IT_JUN_03_N_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_JUN_03_N_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_JUN_03_N_C",
-    "pronouns": "they/them"
-  },
-  {
-    "candidate_id": "IT_JUN_03_NEO_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_JUN_03_NEO_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_JUN_03_NEO_C",
-    "pronouns": "ae/aer"
-  },
-  {
     "candidate_id": "IT_JUN_04_M_A",
     "pronouns": null
   },
@@ -1918,82 +1294,6 @@
   {
     "candidate_id": "IT_JUN_04_NEO_C",
     "pronouns": "vi/vir"
-  },
-  {
-    "candidate_id": "IT_JUN_05_M_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_JUN_05_M_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_JUN_05_M_C",
-    "pronouns": "he/him"
-  },
-  {
-    "candidate_id": "IT_JUN_05_F_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_JUN_05_F_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_JUN_05_F_C",
-    "pronouns": "she/her"
-  },
-  {
-    "candidate_id": "IT_JUN_05_N_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_JUN_05_N_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_JUN_05_N_C",
-    "pronouns": "they/them"
-  },
-  {
-    "candidate_id": "IT_JUN_05_NEO_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_JUN_05_NEO_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_JUN_05_NEO_C",
-    "pronouns": "ey/em"
-  },
-  {
-    "candidate_id": "IT_JUN_05_F_C",
-    "pronouns": "she/her"
-  },
-  {
-    "candidate_id": "IT_JUN_05_N_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_JUN_05_N_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_JUN_05_N_C",
-    "pronouns": "they/them"
-  },
-  {
-    "candidate_id": "IT_JUN_05_NEO_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_JUN_05_NEO_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_JUN_05_NEO_C",
-    "pronouns": "ey/em"
   },
   {
     "candidate_id": "IT_JUN_06_M_A",
@@ -2140,54 +1440,6 @@
     "pronouns": "thon/thon"
   },
   {
-    "candidate_id": "IT_JUN_09_M_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_JUN_09_M_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_JUN_09_M_C",
-    "pronouns": "he/him"
-  },
-  {
-    "candidate_id": "IT_JUN_09_F_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_JUN_09_F_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_JUN_09_F_C",
-    "pronouns": "she/her"
-  },
-  {
-    "candidate_id": "IT_JUN_09_N_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_JUN_09_N_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_JUN_09_N_C",
-    "pronouns": "they/them"
-  },
-  {
-    "candidate_id": "IT_JUN_09_NEO_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_JUN_09_NEO_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_JUN_09_NEO_C",
-    "pronouns": "xe/xem"
-  },
-  {
     "candidate_id": "IT_SEN_01_M_A",
     "pronouns": null
   },
@@ -2284,54 +1536,6 @@
     "pronouns": "they/them"
   },
   {
-    "candidate_id": "IT_SEN_03_M_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_SEN_03_M_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_SEN_03_M_C",
-    "pronouns": "he/him"
-  },
-  {
-    "candidate_id": "IT_SEN_03_F_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_SEN_03_F_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_SEN_03_F_C",
-    "pronouns": "she/her"
-  },
-  {
-    "candidate_id": "IT_SEN_03_N_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_SEN_03_N_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_SEN_03_N_C",
-    "pronouns": "they/them"
-  },
-  {
-    "candidate_id": "IT_SEN_03_NEO_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_SEN_03_NEO_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_SEN_03_NEO_C",
-    "pronouns": "ae/aer"
-  },
-  {
     "candidate_id": "IT_SEN_04_M_A",
     "pronouns": null
   },
@@ -2377,54 +1581,6 @@
   },
   {
     "candidate_id": "IT_SEN_04_NEO_C",
-    "pronouns": "vi/vir"
-  },
-  {
-    "candidate_id": "IT_SEN_05_M_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_SEN_05_M_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_SEN_05_M_C",
-    "pronouns": "he/him"
-  },
-  {
-    "candidate_id": "IT_SEN_05_F_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_SEN_05_F_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_SEN_05_F_C",
-    "pronouns": "she/her"
-  },
-  {
-    "candidate_id": "IT_SEN_05_N_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_SEN_05_N_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_SEN_05_N_C",
-    "pronouns": "they/them"
-  },
-  {
-    "candidate_id": "IT_SEN_05_NEO_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_SEN_05_NEO_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_SEN_05_NEO_C",
     "pronouns": "vi/vir"
   },
   {
@@ -2570,53 +1726,5 @@
   {
     "candidate_id": "IT_SEN_08_NEO_C",
     "pronouns": "thon/thon"
-  },
-  {
-    "candidate_id": "IT_SEN_09_M_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_SEN_09_M_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_SEN_09_M_C",
-    "pronouns": "he/him"
-  },
-  {
-    "candidate_id": "IT_SEN_09_F_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_SEN_09_F_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_SEN_09_F_C",
-    "pronouns": "she/her"
-  },
-  {
-    "candidate_id": "IT_SEN_09_N_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_SEN_09_N_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_SEN_09_N_C",
-    "pronouns": "they/them"
-  },
-  {
-    "candidate_id": "IT_SEN_09_NEO_A",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_SEN_09_NEO_B",
-    "pronouns": null
-  },
-  {
-    "candidate_id": "IT_SEN_09_NEO_C",
-    "pronouns": "xe/xem"
   }
 ]
