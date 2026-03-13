@@ -1,15 +1,17 @@
-# FAIML 招聘评估批处理项目说明
+# FAIML Batch Recruitment Evaluation Pipeline
 
-本项目用于批量执行 **Job Description（JD）与 Candidate Resume（CV）匹配评估**。整体流程是：
+This repository runs large-scale **JD × CV matching evaluations** with LLM-based structured scoring.
+It takes raw job descriptions and raw candidate resumes, splits them into project-ready single-file inputs, evaluates each candidate against each job under multiple experiment settings, and writes both per-task results and industry-level aggregate outputs.
 
-1. 将原始 `CV.json` 与 `JD.json` 切分为按行业、按单份 JD、按单份 CV 组织的输入文件；
-2. 按实验配置，将每一份单独 JD 与对应变体目录下的所有单独 CV 逐一配对；
-3. 调用大模型输出结构化评分结果；
-4. 生成单候选人结果、单个 JD 维度汇总、行业维度汇总，以及可选的 gender / pronouns 群体分析结果。
+The current codebase is centered around three stages:
 
-## 1. 项目结构
+1. **Input splitting** from raw JSON files into industry-specific and single-record files.
+2. **Batch evaluation** across shared JD/CV industries.
+3. **Post-processing** into per-JD summaries, industry summaries, candidate-level aggregate result files, and group analysis outputs.
 
-典型目录结构如下：
+---
+
+## 1. Repository layout
 
 ```text
 FAIML/
@@ -21,7 +23,8 @@ FAIML/
 │  │  ├─ rawdata/
 │  │  │  ├─ CV.json
 │  │  │  ├─ JD.json
-│  │  │  └─ split.py
+│  │  │  ├─ split.py
+│  │  │  └─ cvsplit.py
 │  │  ├─ CV/
 │  │  └─ JD/
 │  └─ outputs/
@@ -33,79 +36,79 @@ FAIML/
 │  ├─ Policy_Gap_Test.py
 │  ├─ exact_single_candidate_eval.py
 │  ├─ common_io.py
+│  ├─ common_gender_analysis.py
 │  ├─ llm_api.py
 │  ├─ gender_analysis_borderline.py
 │  ├─ gender_analysis_Strength_Test1.py
 │  ├─ gender_analysis_Strength_Test2.py
 │  ├─ gender_analysis_Strength_Test3.py
-│  └─ gender_analysis_Policy_Gap_Test.py
+│  ├─ gender_analysis_Policy_Gap_Test.py
+│  └─ excel/
+│     └─ extract_summaries.py
 ├─ requirements.txt
 ├─ run_all.py
 └─ README.md
 ```
 
-### 核心文件说明
+---
 
-- `data/inputs/rawdata/split.py`  
-  负责把原始 `CV.json` / `JD.json` 切分成项目可直接消费的输入目录。
+## 2. What the pipeline does
 
-- `run_all.py`  
-  批量主入口。负责：
-  - 调用 `split.py`
-  - 找到 JD 与 CV 共有的行业
-  - 组织实验任务
-  - 并发执行单个实验下的 CV 评估
-  - 生成行业级汇总
-  - 调用 gender / pronouns 群体分析脚本
+At a high level, the project works like this:
 
-- `src/exact_single_candidate_eval.py`  
-  `borderline`、`Strength_Test1`、`Strength_Test2`、`Strength_Test3` 共用的单份 JD × 单份 CV 结构化评估逻辑。
-
-- `src/Policy_Gap_Test.py`  
-  独立的提示词与评估逻辑，但输出结构与其他实验保持一致。
-
-- `src/common_io.py`  
-  负责读写 JSON、路径解析、父级 summary 聚合等通用 IO 能力。
-
-- `src/llm_api.py`  
-  负责读取环境变量、调用大模型、处理温度、超时、重试等配置。
+- Read raw CV and JD files from `data/inputs/rawdata/`
+- Split CVs into industry-specific folders and three resume variants
+- Split JDs into industry-specific folders and single-job JSON files
+- Find industries that exist in both the JD side and the CV side
+- For each shared industry:
+  - loop through JDs sequentially
+  - loop through experiments sequentially
+  - run all matching CVs for that experiment in parallel
+- Write one JSON result per `JD × CV × experiment`
+- Build one summary JSON per JD/experiment result folder
+- Build one industry summary JSON per experiment
+- Build one candidate-level aggregate JSON per candidate in `candidates_result_XX/`
+- Run gender/pronoun group analysis if group data is available
+- Record failed tasks in `data/outputs/run_failures.json`
 
 ---
 
-## 2. 项目依赖与环境配置
+## 3. Dependencies
 
-### 2.1 安装依赖
+Install the Python dependencies with:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-当前 `requirements.txt` 主要包含：
+Current required packages are:
 
 - `openai>=1.40.0`
 - `python-dotenv>=1.0.1`
 
-### 2.2 配置 API Key
+---
 
-先复制环境变量模板：
+## 4. Environment configuration
+
+Copy the template first:
 
 ```bash
 cp config/.env.example config/.env
 ```
 
-Windows PowerShell：
+On Windows PowerShell:
 
 ```powershell
 Copy-Item config/.env.example config/.env
 ```
 
-然后在 `config/.env` 中填写真实密钥：
+Then fill in your real key in `config/.env`:
 
 ```env
-OPENAI_API_KEY=your_real_api_key
+OPENAI_API_KEY=your_openai_api_key_here
 ```
 
-可选配置项包括：
+Optional settings supported by the current code:
 
 ```env
 OPENAI_BASE_URL=
@@ -117,52 +120,47 @@ OPENAI_ORG_ID=
 OPENAI_PROJECT=
 ```
 
-### 2.3 环境文件加载顺序
+### Environment loading order
 
-代码会优先尝试读取：
+`src/llm_api.py` loads environment variables from:
 
-1. 项目根目录下的 `.env`
+1. project root `.env`
 2. `config/.env`
 
-因此你可以：
-
-- 把密钥放在项目根目录 `.env`
-- 或者放在 `config/.env`
-
-只要保证至少有一个位置可读即可。
+So either location works, as long as `OPENAI_API_KEY` is available.
 
 ---
 
-## 3. 原始输入文件要求
+## 5. Raw input files
 
-项目默认使用固定路径，不需要额外传参。
+The pipeline uses fixed project-relative paths.
 
-### 3.1 CV 输入路径
+### CV input
 
 ```text
 data/inputs/rawdata/CV.json
 ```
 
-### 3.2 JD 输入路径
+### JD input
 
 ```text
 data/inputs/rawdata/JD.json
 ```
 
-> 如果你本地已经把 `split.py` 改成支持 `JD.txt` 或支持更宽松的 JD JSON 结构，请以你本地版本的 `split.py` 为准。README 这里描述的是当前主项目代码的默认约定。
+No extra input path arguments are required by `run_all.py`.
 
 ---
 
-## 4. CV.json 格式要求
+## 6. CV input format
 
-`split.py` 当前支持以下两类输入：
+The current splitter accepts the following CV JSON shapes.
 
-### 4.1 顶层直接是列表
+### Option A: top-level list
 
 ```json
 [
   {
-    "candidate_id": "001_A",
+    "candidate_id": "CONS_JUN_01_F_A",
     "industry_target": "Construction",
     "gender": "female",
     "pronouns": "she/her"
@@ -170,9 +168,9 @@ data/inputs/rawdata/JD.json
 ]
 ```
 
-### 4.2 顶层是对象，但候选人列表挂在常见键名下
+### Option B: top-level object containing a candidate list
 
-支持以下键名中的任意一个：
+Accepted container keys include common names such as:
 
 - `CV`
 - `cv`
@@ -181,210 +179,215 @@ data/inputs/rawdata/JD.json
 - `data`
 - `records`
 
-例如：
+Example:
 
 ```json
 {
   "CV": [
     {
-      "candidate_id": "001_A",
+      "candidate_id": "CONS_JUN_01_F_A",
       "industry_target": "Construction"
     }
   ]
 }
 ```
 
-### 4.3 CV 三个变体的约定
+### CV variant convention used by the splitter
 
-系统默认根据 `candidate_id` 后缀判断三种版本：
+The current splitter groups records by candidate base ID and maps suffixes to three variants:
 
 - `_A` → `no_pronouns_no_gender`
 - `_B` → `no_gender`
 - `_C` → `full`
 
-也就是说，同一个候选人通常应有 3 条记录，示例：
+That means one logical candidate is expected to appear as three records, for example:
 
-- `candidate_001_A`
-- `candidate_001_B`
-- `candidate_001_C`
+- `CONS_JUN_01_F_A`
+- `CONS_JUN_01_F_B`
+- `CONS_JUN_01_F_C`
 
-`split.py` 会把它们按同一个 base id 归为一组，并分别写入三个变体目录。
+The current code removes fields as follows:
 
-如果某个 base id 不是 3 条，`split_manifest.json` 中会记录异常信息，但不会阻止整体切分。
+- `no_pronouns_no_gender`: removes both gender fields and pronoun fields; also removes common pronoun words from string text fields
+- `no_gender`: removes gender fields only
+- `full`: keeps the original record
+
+The splitter also exports:
+
+- `data/inputs/CV/pronouns/pronouns.json`
+- `data/inputs/CV/gender/gender.json`
 
 ---
 
-## 5. JD.json 格式要求
+## 7. JD input format
 
-当前主项目代码默认要求 `JD.json` 顶层是对象，且包含 `occupations` 字段：
+The current `data/inputs/rawdata/split.py` expects **`JD.json` to be a JSON list** of job objects.
+
+Example:
 
 ```json
-{
-  "occupations": {
-    "Construction": [
-      {
-        "soc_code": "47-2051.00",
-        "title": "Cement Masons and Concrete Finishers"
-      }
-    ],
-    "IT": [
-      {
-        "soc_code": "15-1252.00",
-        "title": "Software Developers"
-      }
-    ]
+[
+  {
+    "id": "construction_j_47205100",
+    "industry": "Construction",
+    "soc_code": "47-2051.00",
+    "title": "Cement Masons and Concrete Finishers"
   }
-}
+]
 ```
 
-其中：
+### Important current behavior
 
-- `occupations` 必须是对象
-- 一级键是行业名
-- 每个行业对应一个 occupation 列表
-- occupation 列表中的每一项应为 JSON object
-- 每个 occupation 最好包含 `soc_code`
+In the current attached code, single-JD output filenames are built from:
 
-如果顶层不是这种结构，旧版 `split.py` 会报：
+```python
+job.get("id", "unknown_soc_code")
+```
+
+So the single-file JD name is currently based on the JD object's **`id` field**, not the raw `soc_code` field.
+
+Example output:
 
 ```text
-ValueError: JD input must be a JSON object.
+data/inputs/JD/Construction/single/construction_j_47205100.json
 ```
 
-或者：
+The industry-level combined JD file is also written, for example:
 
 ```text
-ValueError: JD input must contain an 'occupations' object keyed by industry.
+data/inputs/JD/Construction/Construction_jd.json
 ```
-
-如果你本地已经换成了你后续修改过的兼容版 `split.py`，那么顶层 list、`jobs`、或其他宽松结构也可能可用；但是否支持，必须以你本地那份 `split.py` 为准。
 
 ---
 
-## 6. split.py 的职责与输出
+## 8. What `split.py` generates
 
-运行 `split.py` 后，会同时完成两部分切分：
+After running the splitter, the input structure looks like this.
 
-1. **CV 切分**
-2. **JD 切分**
-
-### 6.1 CV 切分结果
-
-`split.py` 会：
-
-- 按行业分组 CV
-- 为每个行业生成三种变体总表
-- 为每个行业生成单候选人 JSON 文件
-- 额外导出 `gender.json` 与 `pronouns.json`
-- 生成 `data/inputs/CV/split_manifest.json`
-
-输出示例：
+### CV side
 
 ```text
 data/inputs/CV/
-├─ split_manifest.json
-├─ gender/
-│  └─ gender.json
-├─ pronouns/
-│  └─ pronouns.json
 ├─ Construction/
-│  ├─ Construction_all_variants.json
 │  ├─ Construction_no_pronouns_no_gender.json
 │  ├─ Construction_no_gender.json
 │  ├─ Construction_full.json
 │  ├─ no_pronouns_no_gender/
-│  │  ├─ candidate_001_A.json
-│  │  └─ ...
 │  ├─ no_gender/
-│  │  ├─ candidate_001_B.json
-│  │  └─ ...
 │  └─ full/
-│     ├─ candidate_001_C.json
-│     └─ ...
-└─ IT/
-   └─ ...
+├─ IT/
+├─ Nursing/
+├─ gender/
+│  └─ gender.json
+└─ pronouns/
+   └─ pronouns.json
 ```
 
-### 6.2 JD 切分结果
-
-`split.py` 会：
-
-- 按行业拆分 `occupations`
-- 生成行业级 JD 文件
-- 按 `soc_code` 分组生成单份 JD 文件
-- 生成 `data/inputs/JD/split_manifest.json`
-
-输出示例：
+### JD side
 
 ```text
 data/inputs/JD/
-├─ split_manifest.json
 ├─ Construction/
 │  ├─ Construction_jd.json
 │  └─ single/
-│     ├─ Construction_soc_code_47205100_jd.json
-│     ├─ Construction_soc_code_47206100_jd.json
+│     ├─ construction_j_47205100.json
+│     ├─ construction_j_47206100.json
 │     └─ ...
-└─ IT/
-   └─ ...
-```
-
-### 6.3 关于 soc_code 文件命名
-
-当前主项目里，`soc_code` 文件名是否保留原始符号，取决于你实际使用的那份 `split.py`：
-
-- 旧版逻辑会对 `47-2051.00` 做清洗，得到类似 `47205100`
-- 你后续如果替换成自定义版本，也可以直接输出原始 `soc_code` 文件名
-
-因此，**文件名命名规则请以你当前项目里的 `soc_code_filename_token()` 实现为准**。
-
-### 6.4 运行 split.py
-
-通常不需要单独运行，因为 `run_all.py` 默认会先调用它。
-
-如果你想单独测试切分：
-
-```bash
-python data/inputs/rawdata/split.py
+├─ IT/
+└─ Nursing/
 ```
 
 ---
 
-## 7. run_all.py 的作用
+## 9. Experiments currently used by `run_all.py`
 
-`run_all.py` 是整个项目的批量主入口。默认流程是：
+The current `run_all.py` batches these four experiments:
 
-1. 调用 `split.py`
-2. 读取 `data/inputs/CV/` 与 `data/inputs/JD/`
-3. 找出 JD 与 CV 都存在的共同产业目录
-4. 遍历每个行业下的单份 JD
-5. 针对每个实验，读取对应 CV 变体目录
-6. 在单个实验内部对所有 CV 并发评估
-7. 写出单份 JD 结果与变体汇总
-8. 全部 JD 跑完后，写出行业级 summary
-9. 如存在 `gender.json` 或 `pronouns.json`，再跑对应群体分析
+| Experiment | CV variant used | Experiment code |
+|---|---|---|
+| `borderline` | `no_pronouns_no_gender` | `01` |
+| `Strength_Test2` | `no_gender` | `02` |
+| `Strength_Test3` | `full` | `03` |
+| `Policy_Gap_Test` | `no_pronouns_no_gender` | `04` |
 
-### 7.1 默认命令
+### Important note about `Strength_Test1`
+
+`Strength_Test1.py` exists in `src/`, but it is **not included** in the current default batch loop inside `run_all.py`.
+It can still be run manually, but it is not part of the default four-experiment pipeline.
+
+---
+
+## 10. Batch execution behavior in `run_all.py`
+
+The current batch order is:
+
+```text
+JD sequential -> experiment sequential -> CV parallel
+```
+
+This means:
+
+- industries are processed one by one
+- inside each industry, JDs are processed one by one
+- inside each JD, experiments are processed one by one
+- inside each `JD + experiment` pair, all relevant CV files are run in parallel using a thread pool
+
+### Concurrency setting
+
+The current code defines:
+
+```python
+INDUSTRY_WORKERS = max(1, min(96, 48))
+```
+
+In practice, that evaluates to `48`, so each experiment batch runs with up to **48 worker threads**, capped by the number of pending CV files.
+
+### Resume behavior
+
+The current code behaves as follows:
+
+- default run: resume mode is effectively on
+- `--resume`: explicitly keep resume mode on
+- `--force`: re-run even if output files already exist
+
+A result file is considered completed only if it is valid JSON and contains at least:
+
+- `candidate_id`
+- `total_score`
+
+If a valid result already exists, `run_all.py` prints `[SKIP]` and reuses it.
+
+---
+
+## 11. How to run the full pipeline
+
+### Standard run
 
 ```bash
 python run_all.py
 ```
 
-### 7.2 常用参数
-
-#### 继续上次结果续跑
+### Resume previous results explicitly
 
 ```bash
 python run_all.py --resume
 ```
 
-#### 强制重新运行，即使已有输出也重跑
+### Force a full re-run even if outputs already exist
 
 ```bash
 python run_all.py --force
 ```
 
-#### 不重新执行 split.py
+### Skip the splitter and only run experiments
+
+```bash
+python run_all.py --skip-split
+```
+
+### Most common practical command
+
+If inputs have already been split and you want to continue from existing results:
 
 ```bash
 python run_all.py --skip-split
@@ -392,424 +395,346 @@ python run_all.py --skip-split
 
 ---
 
-## 8. 实验与 CV 变体映射
+## 12. What each evaluation script expects
 
-`run_all.py` 通过 `EXPERIMENT_VARIANTS` 控制每个实验使用哪个 CV 目录。
+### Shared evaluation scripts
 
-典型配置如下：
-
-```python
-EXPERIMENT_VARIANTS = {
-    "borderline": "no_pronouns_no_gender",
-    "Strength_Test1": "no_pronouns_no_gender",
-    "Strength_Test2": "no_gender",
-    "Strength_Test3": "full",
-    "Policy_Gap_Test": "no_pronouns_no_gender",
-}
-```
-
-含义如下：
-
-- `borderline` 使用 `no_pronouns_no_gender`
-- `Strength_Test1` 使用 `no_pronouns_no_gender`
-- `Strength_Test2` 使用 `no_gender`
-- `Strength_Test3` 使用 `full`
-- `Policy_Gap_Test` 使用 `no_pronouns_no_gender`
-
-> 如果你已经手动删掉 `Strength_Test1`，或者把实验顺序改成“两两并发”，请直接以你当前 `run_all.py` 顶部的 `EXPERIMENT_VARIANTS`、实验列表和并发配置为准。
-
----
-
-## 9. 并发逻辑说明
-
-项目里的并发主要发生在 **单个实验内部对多个 CV 的评估**。
-
-当前常见写法是：
-
-```python
-INDUSTRY_WORKERS = max(1, min(96, 48))
-```
-
-并且真正执行时还会再做一次：
-
-```python
-worker_count = max(1, min(INDUSTRY_WORKERS, len(pending_tasks)))
-```
-
-因此：
-
-- `INDUSTRY_WORKERS` 是并发上限
-- `len(pending_tasks)` 是这次还没完成的 CV 数量
-- 实际 `workers` 会取两者较小值
-
-例如：
-
-- `pending_cv = 48`
-- `INDUSTRY_WORKERS = 32`
-
-最终：
-
-```text
-workers = 32
-```
-
-不是因为系统只识别了 32 份 CV，而是因为并发上限本身就是 32。
-
-### 9.1 如何调整并发数
-
-直接改 `run_all.py` 顶部：
-
-```python
-INDUSTRY_WORKERS = 8
-```
-
-或者：
-
-```python
-INDUSTRY_WORKERS = 48
-```
-
-### 9.2 你本地如果改过更复杂的并发层级
-
-你之前可能已经把 `run_all.py` 改成了以下任一模式：
-
-- JD 串行 → 实验串行 → CV 并发
-- JD 串行 → 两个实验并发 → 各自 CV 并发
-- 单行业所有 JD 打散后统一并发
-
-README 无法替代你本地最终版本的代码逻辑。因此：
-
-- **实际执行顺序，以你当前项目中 `run_all.py` 的实现为准**
-- **实际并发线程数，以你当前项目中 `INDUSTRY_WORKERS` / `EXPERIMENT_PARALLELISM` 等配置为准**
-
----
-
-## 10. 单个实验脚本的调用方式
-
-### 10.1 结构化评分实验
-
-以下四个脚本共用 `exact_single_candidate_eval.py` 的评分框架：
+These wrappers all call the common evaluator in `src/exact_single_candidate_eval.py`:
 
 - `src/borderline.py`
 - `src/Strength_Test1.py`
 - `src/Strength_Test2.py`
 - `src/Strength_Test3.py`
 
-单独调用示例：
+Typical usage:
 
 ```bash
-python src/Strength_Test2.py path/to/jd.json path/to/cv.json --out result.json
+python src/borderline.py path/to/jd.json path/to/cv.json --out path/to/output.json
 ```
 
-### 10.2 Policy Gap 测试
+The shared evaluator supports:
 
-```bash
-python src/Policy_Gap_Test.py path/to/jd.json path/to/cv.json --out result.json
-```
-
-### 10.3 可选参数
-
-一般包括：
-
+- positional JD path
+- positional CV path
 - `--out`
-- `--model`
-- `--temperature`
 - `--skip-parent-aggregate`
 
-其中 `--skip-parent-aggregate` 的作用是：
+### Policy Gap Test
 
-- 单个结果写出后，不立刻重建父级 summary
-- 适用于 `run_all.py` 多线程批跑时，避免多个线程同时抢写汇总文件
+`src/Policy_Gap_Test.py` is a standalone evaluator with its own prompt, but it now supports the same CLI pattern:
 
-如果某个实验脚本没有定义这个参数，而 `run_all.py` 却统一传入，就会报：
-
-```text
-error: unrecognized arguments: --skip-parent-aggregate
+```bash
+python src/Policy_Gap_Test.py path/to/jd.json path/to/cv.json --out path/to/output.json --skip-parent-aggregate
 ```
 
-这类问题的修法不是改 prompt，而是要让对应实验脚本的 CLI 参数与调度器保持一致。
+`run_all.py` always passes `--skip-parent-aggregate` for per-task execution so that parent aggregation is handled later by the batch script.
 
 ---
 
-## 11. 输出目录结构
+## 13. Result file structure
 
-### 11.1 单个评估结果
+The pipeline writes several layers of outputs.
 
-单个 JD × 单个 CV 的结果通常写到：
+### A. Per-candidate per-JD per-experiment result files
 
-```text
-data/outputs/<experiment>/<industry>/<jd_key>/<variant>/<candidate_id>.json
-```
-
-例如：
+For each `JD × candidate × experiment`, one JSON file is written under:
 
 ```text
-data/outputs/Strength_Test2/Construction/construction_j_47205100/no_gender/candidate_001_B.json
+data/outputs/<Industry>/<jd_key>/<jd_key>_<experiment_code>/<candidate_id>.json
 ```
 
-### 11.2 单个 JD + 单个变体汇总
+Example:
 
 ```text
-data/outputs/<experiment>/<industry>/<jd_key>/<variant>_summary.json
+data/outputs/Construction/construction_j_47205100/construction_j_47205100_01/CONS_JUN_01_F_A.json
 ```
 
-例如：
+### B. Per-JD experiment summary
+
+After a JD/experiment batch finishes, a summary file is created next to the result directory:
 
 ```text
-data/outputs/Strength_Test2/Construction/construction_j_47205100/no_gender_summary.json
+data/outputs/Construction/construction_j_47205100/construction_j_47205100_01_summary.json
 ```
 
-### 11.3 行业级汇总
+This summary is a JSON list of the candidate result objects for that specific JD and experiment.
 
-通常为：
+### C. Candidate aggregate directory
+
+For each industry and experiment, `run_all.py` creates:
 
 ```text
-data/outputs/<experiment>/<industry>/<experiment>_<industry>.json
+data/outputs/<Industry>/candidates_result_<experiment_code>/
 ```
 
-或者某些自定义版本可能写成别的命名方式。请以你本地 `write_industry_aggregates()` 为准。
+Each JSON file in that folder aggregates one candidate across all JDs for the same industry and experiment.
 
-### 11.4 候选人汇总目录
-
-行业级候选人聚合结果通常会额外输出到：
+Example:
 
 ```text
-data/outputs/<experiment>/<industry>/candidates_result/
+data/outputs/Construction/candidates_result_01/CONS_JUN_01_F_A.json
 ```
 
-目录下每个 JSON 表示同一个 candidate 在该行业下跨多个 JD 的结果集合。
+### D. Industry experiment summary
 
-### 11.5 群体分析结果
-
-如果存在：
+For each industry and experiment, `run_all.py` also writes:
 
 ```text
-data/inputs/CV/gender/gender.json
+data/outputs/<Industry>/<Industry>_<experiment_code>.json
 ```
 
-则优先做 gender 分析；否则如果存在：
+Example:
 
 ```text
-data/inputs/CV/pronouns/pronouns.json
+data/outputs/Construction/Construction_01.json
 ```
 
-则退回做 pronouns 分析。
+This file contains:
 
-输出通常是：
-
-```text
-data/outputs/<experiment>/<industry>/gender_analysis_<experiment>_<industry>.json
-```
+- experiment metadata
+- the industry name
+- JD count
+- candidate count
+- evaluation count
+- list of JD files used
+- list of candidates and pointers to their candidate aggregate files
 
 ---
 
-## 12. 结果文件内容概览
+## 14. Gender / pronoun group analysis
 
-单个候选人结果一般至少包含：
+After industry summaries are written, `run_all.py` tries to run a matching group-analysis script.
 
+### Group data source resolution
+
+The current code prefers:
+
+1. `data/inputs/CV/gender/gender.json`
+2. `data/inputs/CV/pronouns/pronouns.json`
+
+If neither exists, group analysis is skipped.
+
+### Analysis scripts
+
+The current project includes:
+
+- `src/gender_analysis_borderline.py`
+- `src/gender_analysis_Strength_Test1.py`
+- `src/gender_analysis_Strength_Test2.py`
+- `src/gender_analysis_Strength_Test3.py`
+- `src/gender_analysis_Policy_Gap_Test.py`
+
+Even though `Strength_Test1` is not part of the default batch pipeline, its analysis script still exists.
+
+### Output naming
+
+Group-analysis outputs are written as:
+
+```text
+data/outputs/<Industry>/gender_analysis_<Industry>_<experiment_code>.json
+```
+
+Example:
+
+```text
+data/outputs/Construction/gender_analysis_Construction_01.json
+```
+
+### Current label normalization
+
+The shared analysis logic currently normalizes gender/pronoun labels into four groups:
+
+- `male`
+- `female`
+- `they`
+- `thon`
+
+It also maps values such as `neutral`, `n`, `they/them`, `neo`, and `xe/xem` into those canonical groups.
+
+---
+
+## 15. Failure logging
+
+If some tasks fail during batch execution, `run_all.py` does **not** stop the entire pipeline immediately.
+Instead, it collects failures and writes them to:
+
+```text
+data/outputs/run_failures.json
+```
+
+Each failure entry may include information such as:
+
+- experiment
+- industry
+- JD file
+- CV file
+- output file
+- error message
+
+This makes it easier to inspect which jobs failed without losing the rest of the completed batch outputs.
+
+---
+
+## 16. Exporting summaries to Excel
+
+The repository also includes:
+
+```text
+src/excel/extract_summaries.py
+```
+
+This script scans `data/outputs/`, extracts candidate-level scores from `*_summary.json` files, enriches them with inferred level and gender, and writes:
+
+```text
+data/outputs/all_experiment_summary_extract.xlsx
+```
+
+The target columns currently include:
+
+- `industry`
+- `soc_code`
+- `experiment_id`
 - `candidate_id`
+- `job level`
+- `gender`
 - `total_score`
-- `subscores`
-- `recommendation`
-- `top_strengths`
-- `main_gaps`
-- `evidence_trace`
-- `final_rationale`
-
-其中 `Policy_Gap_Test.py` 当前使用的评分维度包括：
-
-- `credential_and_qualification_fit`
-- `relevant_experience_alignment`
-- `core_role_capability`
-- `communication_and_collaboration`
-- `quality_compliance_and_execution_discipline`
-
-并要求五个子分数精确相加得到 `total_score`。
+- the five subscores
 
 ---
 
-## 13. 常见问题与排查
+## 17. Common issues and what they mean
 
-### 13.1 `ValueError: JD input must be a JSON object.`
+### Missing API key
 
-原因：
+Typical error:
 
-- 当前 `split.py` 只接受顶层为对象的 JD JSON
-- 或者顶层对象里没有 `occupations`
-
-排查方式：
-
-1. 打开 `data/inputs/rawdata/JD.json`
-2. 确认顶层是不是 `{}`
-3. 确认是否包含 `occupations`
-4. 确认 `occupations` 是否为行业名到列表的映射
-
-### 13.2 `Policy_Gap_Test.py: error: unrecognized arguments: --skip-parent-aggregate`
-
-原因：
-
-- `run_all.py` 统一给实验脚本传了 `--skip-parent-aggregate`
-- 但 `Policy_Gap_Test.py` 没有定义这个 CLI 参数
-
-修法：
-
-- 在 `Policy_Gap_Test.py` 的 `argparse` 中补上这个参数
-- 并在脚本结尾用 `if not args.skip_parent_aggregate:` 控制是否重建父级 summary
-
-### 13.3 为什么日志里 `workers=12`、`workers=32`，不是 `pending_cv` 的数量？
-
-因为实际线程数计算逻辑一般是：
-
-```python
-worker_count = min(INDUSTRY_WORKERS, len(pending_tasks))
+```text
+Missing API key. Put OPENAI_API_KEY in project .env / config/.env or export it in your environment.
 ```
 
-所以：
+Fix: add a valid API key to `.env` or `config/.env`.
 
-- `pending_cv` 是待跑任务数
-- `workers` 是这次真正开的线程数
-- 上限取决于 `INDUSTRY_WORKERS`
+### Missing split inputs
 
-### 13.4 为什么某些行业没有被跑？
+Typical problem:
 
-因为 `run_all.py` 只会处理 **JD 与 CV 同时存在的行业目录**。
+- no shared industries are found
+- or CV/JD directories are empty
 
-也就是说：
+Fix: make sure `data/inputs/rawdata/CV.json` and `data/inputs/rawdata/JD.json` exist and that `split.py` can parse them.
 
-- `data/inputs/JD/Construction/` 存在
-- 但 `data/inputs/CV/Construction/` 不存在
+### JD format mismatch
 
-则该行业不会进入批量评估。
+The current splitter expects `JD.json` to be a list of JSON objects. If your file is not a list, `split.py` will fail.
 
-### 13.5 为什么 `--resume` 还会跳过一些文件？
+### CV variant directory missing
 
-因为 `--resume` 的设计就是：
+Typical error:
 
-- 若输出文件已存在
-- 且能成功读到 `candidate_id` 与 `total_score`
-- 就视为已完成，直接跳过
+```text
+Missing CV variant directory: .../no_gender
+```
 
-如果你希望全部重跑，用：
+Fix: run the splitter again and confirm that the industry directory contains the required subfolders.
+
+### Same-industry enforcement
+
+The shared evaluator checks that JD and CV belong to the same industry. If you mix industries across folders or metadata, evaluation can fail.
+
+### Existing output skipped unexpectedly
+
+This usually means resume mode is active and a valid result file already exists. Use:
 
 ```bash
 python run_all.py --force
 ```
 
+if you want to regenerate everything.
+
 ---
 
-## 14. 推荐使用流程
+## 18. Manual single-task examples
 
-### 第一步：准备原始数据
-
-确保以下文件存在：
-
-```text
-data/inputs/rawdata/CV.json
-data/inputs/rawdata/JD.json
-```
-
-### 第二步：配置 API
-
-填写 `.env` 或 `config/.env`。
-
-### 第三步：先跑一次切分（可选）
+### Run a single borderline evaluation
 
 ```bash
-python data/inputs/rawdata/split.py
+python src/borderline.py \
+  data/inputs/JD/Construction/single/construction_j_47205100.json \
+  data/inputs/CV/Construction/no_pronouns_no_gender/CONS_JUN_01_F_A.json \
+  --out data/outputs/tmp_borderline.json
 ```
 
-检查：
+### Run a single Strength Test 2 evaluation
 
-- `data/inputs/CV/`
-- `data/inputs/JD/`
-- `split_manifest.json`
+```bash
+python src/Strength_Test2.py \
+  data/inputs/JD/IT/single/it_j_15125100.json \
+  data/inputs/CV/IT/no_gender/IT_JUN_01_F_B.json \
+  --out data/outputs/tmp_strength2.json
+```
 
-### 第四步：开始批量运行
+### Run a single Policy Gap Test evaluation
+
+```bash
+python src/Policy_Gap_Test.py \
+  data/inputs/JD/Nursing/single/nursing_j_29112300.json \
+  data/inputs/CV/Nursing/no_pronouns_no_gender/NURS_JUN_01_F_A.json \
+  --out data/outputs/tmp_policy_gap.json
+```
+
+---
+
+## 19. Practical notes for this codebase
+
+- The current batch driver includes `Policy_Gap_Test` but not `Strength_Test1`.
+- The current splitter uses the JD object `id` field for single-file naming.
+- The current batch driver writes candidate aggregate folders named `candidates_result_01` through `candidates_result_04`.
+- Group analysis prefers `gender.json` and falls back to `pronouns.json`.
+- Per-JD summaries and industry summaries are both JSON, not CSV.
+- Failed tasks are logged to `data/outputs/run_failures.json`.
+
+---
+
+## 20. Recommended workflow
+
+For the current attached code, the safest workflow is:
+
+1. Prepare `data/inputs/rawdata/CV.json`
+2. Prepare `data/inputs/rawdata/JD.json`
+3. Configure `config/.env`
+4. Run:
 
 ```bash
 python run_all.py
 ```
 
-### 第五步：中断后续跑
-
-```bash
-python run_all.py --resume
-```
-
----
-
-## 15. 建议的维护方式
-
-如果你后续还会继续改这个项目，建议优先保持下面三处一致：
-
-1. `run_all.py` 传给实验脚本的 CLI 参数
-2. 各实验脚本 `argparse` 定义
-3. 输出目录与 summary 聚合逻辑
-
-尤其是当你修改以下内容时：
-
-- 实验数量
-- 实验执行顺序
-- JD / CV 并发层级
-- 单份 JD 文件命名规则
-- `JD.txt` / `JD.json` 兼容逻辑
-
-都应该同步更新 README，避免后面“代码已经改了，但说明还是旧版”。
-
----
-
-## 16. 最简运行命令汇总
-
-安装依赖：
-
-```bash
-pip install -r requirements.txt
-```
-
-运行切分：
-
-```bash
-python data/inputs/rawdata/split.py
-```
-
-全量运行：
-
-```bash
-python run_all.py
-```
-
-断点续跑：
-
-```bash
-python run_all.py --resume
-```
-
-不重新切分：
+5. If inputs are already split and you want to continue from prior outputs:
 
 ```bash
 python run_all.py --skip-split
 ```
 
-强制重跑：
+6. Inspect:
 
-```bash
-python run_all.py --force
-```
-
-单独运行实验：
-
-```bash
-python src/borderline.py path/to/jd.json path/to/cv.json --out out.json
-python src/Strength_Test1.py path/to/jd.json path/to/cv.json --out out.json
-python src/Strength_Test2.py path/to/jd.json path/to/cv.json --out out.json
-python src/Strength_Test3.py path/to/jd.json path/to/cv.json --out out.json
-python src/Policy_Gap_Test.py path/to/jd.json path/to/cv.json --out out.json
-```
+- `data/outputs/<Industry>/`
+- `data/outputs/run_failures.json`
+- `data/outputs/all_experiment_summary_extract.xlsx`
 
 ---
 
-## 17. 一句话总结
+## 21. Summary
 
-这套项目的本质是：
+This project is a structured LLM scoring pipeline for job-matching experiments.
+The current codebase supports:
 
-**先把原始 JD / CV 数据拆成标准化单文件输入，再按实验配置对单份 JD 与大量单份 CV 做批量结构化评估，最后生成行业级与群体级汇总结果。**
+- raw CV/JD splitting
+- three CV visibility variants
+- four batch experiments
+- per-task structured JSON scoring
+- per-JD summaries
+- per-industry candidate aggregate files
+- per-industry summary JSON files
+- group analysis outputs
+- Excel extraction of summary scores
+
+If you are working from the current attached version, this README reflects the actual code behavior in `run_all.py`, `split.py`, `llm_api.py`, the experiment scripts, and the current output layout.
