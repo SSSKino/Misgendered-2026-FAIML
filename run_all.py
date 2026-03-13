@@ -21,13 +21,6 @@ EXPERIMENT_VARIANTS: Dict[str, str] = {
     "borderline": "no_pronouns_no_gender",
     "Strength_Test2": "no_gender",
     "Strength_Test3": "full",
-    "Policy_Gap_Test": "no_pronouns_no_gender",
-}
-EXPERIMENT_CODES: Dict[str, str] = {
-    "borderline": "01",
-    "Strength_Test2": "02",
-    "Strength_Test3": "03",
-    "Policy_Gap_Test": "04",
 }
 
 # =========================
@@ -36,7 +29,7 @@ EXPERIMENT_CODES: Dict[str, str] = {
 # 运行顺序固定为：JD串行 -> 实验串行 -> CV并发
 # 例如可改为 4、8、12
 # =========================
-INDUSTRY_WORKERS = max(1, min(96, 48))
+INDUSTRY_WORKERS = 48
 
 
 def run(cmd: List[str], *, label: str, env: Optional[Dict[str, str]] = None) -> None:
@@ -177,26 +170,9 @@ def write_failures_log(failures: List[Dict[str, Any]]) -> Path:
     return out_path
 
 
-def experiment_code_for(experiment_name: str) -> str:
-    try:
-        return EXPERIMENT_CODES[experiment_name]
-    except KeyError as e:
-        raise KeyError(f"Missing experiment code for: {experiment_name}") from e
-
-
-def result_dir_for(experiment_name: str, industry: str, jd_key: str) -> Path:
-    exp_code = experiment_code_for(experiment_name)
-    return OUTPUT_ROOT / industry / jd_key / f"{jd_key}_{exp_code}"
-
-
-def industry_root_for(experiment_name: str, industry: str) -> Path:
-    return OUTPUT_ROOT / industry
-
-
 def init_industry_aggregate(experiment: str, industry: str, variant: str) -> Dict[str, Any]:
     return {
         "experiment": experiment,
-        "experiment_code": experiment_code_for(experiment),
         "industry": industry,
         "variant": variant,
         "jd_files": [],
@@ -238,9 +214,8 @@ def append_result(
 
 
 def write_industry_aggregates(experiment: str, industry: str, variant: str, store: Dict[str, Any]) -> Path:
-    industry_root = industry_root_for(experiment, industry)
-    exp_code = experiment_code_for(experiment)
-    candidates_result_dir = industry_root / f"candidates_result_{exp_code}"
+    industry_root = OUTPUT_ROOT / experiment / industry
+    candidates_result_dir = industry_root / "candidates_result"
     candidates_result_dir.mkdir(parents=True, exist_ok=True)
 
     summary_candidates: List[Dict[str, Any]] = []
@@ -256,7 +231,7 @@ def write_industry_aggregates(experiment: str, industry: str, variant: str, stor
                 "candidate_id": candidate_id,
                 "cv_file": candidate_obj.get("cv_file", ""),
                 "evaluation_count": candidate_obj.get("evaluation_count", 0),
-                "candidate_result_file": f"candidates_result_{exp_code}/{candidate_id}.json",
+                "candidate_result_file": f"candidates_result/{candidate_id}.json",
             }
         )
 
@@ -270,7 +245,7 @@ def write_industry_aggregates(experiment: str, industry: str, variant: str, stor
         "jd_files": sorted(store["jd_files"], key=str.lower),
         "candidates": summary_candidates,
     }
-    summary_path = industry_root / f"{industry}_{exp_code}.json"
+    summary_path = industry_root / f"{experiment}_{industry}.json"
     write_json(summary_path, summary_obj)
     return summary_path
 
@@ -301,7 +276,7 @@ def run_experiment_batch(
     aggregates: Dict[Tuple[str, str], Dict[str, Any]],
     failures: List[Dict[str, Any]],
 ) -> None:
-    out_dir = result_dir_for(experiment_name, industry, jd_key)
+    out_dir = OUTPUT_ROOT / experiment_name / industry / jd_key / variant
     out_dir.mkdir(parents=True, exist_ok=True)
 
     store_key = (experiment_name, industry)
@@ -414,7 +389,7 @@ def main() -> None:
             print(f"[WARN] No single JD files found for industry={industry}")
             continue
 
-        print(f"[INFO] industry={industry} | jd_count={len(jd_files)} | mode=JD顺序->实验顺序->CV并发")
+        print(f"[INFO] industry={industry} | jd_count={len(jd_files)} | mode=JD顺序->实验顺序(borderline/Strength_Test2/Strength_Test3)->单实验48CV并发")
 
         for jd_index, jd_file in enumerate(jd_files, start=1):
             jd_key = jd_file.stem
@@ -452,8 +427,7 @@ def main() -> None:
             print(f"[WARN] Missing gender analysis script for {experiment_name}")
             continue
 
-        exp_code = experiment_code_for(experiment_name)
-        ga_out = summary_path.parent / f"gender_analysis_{industry}_{exp_code}.json"
+        ga_out = summary_path.parent / f"gender_analysis_{experiment_name}_{industry}.json"
         ga_label = f"gender_analysis | {experiment_name} | {industry}"
 
         if resume_mode and ga_out.exists():
