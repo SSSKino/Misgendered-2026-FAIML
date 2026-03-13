@@ -256,7 +256,7 @@ def write_industry_aggregates(experiment: str, industry: str, variant: str, stor
                 "candidate_id": candidate_id,
                 "cv_file": candidate_obj.get("cv_file", ""),
                 "evaluation_count": candidate_obj.get("evaluation_count", 0),
-                "candidate_result_file": f"candidates_result/{candidate_id}.json",
+                "candidate_result_file": f"candidates_result_{exp_code}/{candidate_id}.json",
             }
         )
 

@@ -10,6 +10,26 @@ from pathlib import Path
 from typing import Any, Dict, Iterable, List, Optional, Tuple
 
 VALID_GENDERS = {"male", "female", "they", "thon"}
+GENDER_ALIASES = {
+    "male": "male",
+    "female": "female",
+    "m": "male",
+    "f": "female",
+    "he/him": "male",
+    "she/her": "female",
+    "they/them": "they",
+    "they": "they",
+    "neutral": "they",
+    "n": "they",
+    "thon/thon": "thon",
+    "thon": "thon",
+    "neo": "thon",
+    "neopronoun": "thon",
+    "xe/xem": "thon",
+    "xe": "thon",
+    "xem": "thon",
+    "xe-xem": "thon",
+}
 ID_SUFFIX_RE = re.compile(r"_(A|B|C)$", re.IGNORECASE)
 
 
@@ -111,21 +131,6 @@ def _safe_float(v: Any) -> Optional[float]:
 
 
 def normalize_gender_value(rec: Dict[str, Any]) -> str:
-    mapping = {
-        "he/him": "male",
-        "she/her": "female",
-        "they/them": "they",
-        "thon/thon": "thon",
-        "he": "male",
-        "she": "female",
-        "they": "they",
-        "thon": "thon",
-        "male": "male",
-        "female": "female",
-        "m": "male",
-        "f": "female",
-    }
-
     gender_raw = str(rec.get("gender", "") or "").strip().lower()
     pronouns_raw = str(rec.get("pronouns", "") or "").strip().lower()
 
@@ -133,8 +138,7 @@ def normalize_gender_value(rec: Dict[str, Any]) -> str:
         if not raw:
             continue
         key = raw.replace("_", "-").replace(" ", "-")
-        key = key.replace("/", "/")
-        norm = mapping.get(key)
+        norm = GENDER_ALIASES.get(key)
         if norm in VALID_GENDERS:
             return norm
 
@@ -180,6 +184,44 @@ def _normalize_candidate_result(rec: Dict[str, Any]) -> Optional[Dict[str, Any]]
     return _normalize_direct_score_record(rec)
 
 
+
+def _resolve_candidate_result_path(base_dir: Path, summary_obj: Dict[str, Any], candidate_result_file: Any, candidate_id: str) -> Optional[Path]:
+    candidates: List[Path] = []
+
+    if candidate_result_file:
+        rel_str = str(candidate_result_file).replace("\\", "/")
+        candidates.append(base_dir / Path(rel_str))
+
+    experiment = str(summary_obj.get("experiment", "") or "")
+    exp_code = {
+        "borderline": "01",
+        "Strength_Test1": "02",
+        "Strength_Test2": "02",
+        "Strength_Test3": "03",
+        "Policy_Gap_Test": "04",
+    }.get(experiment, "")
+    if exp_code:
+        candidates.append(base_dir / f"candidates_result_{exp_code}" / f"{candidate_id}.json")
+
+    # Backward-compatible fallback when summary stores candidates_result/<id>.json
+    if candidate_result_file and str(candidate_result_file).startswith("candidates_result/"):
+        suffix = str(candidate_result_file).split("/", 1)[-1]
+        for d in sorted(base_dir.glob("candidates_result_*"), key=lambda p: p.name.lower()):
+            candidates.append(d / suffix)
+
+    candidates.append(base_dir / "candidates_result" / f"{candidate_id}.json")
+
+    seen = set()
+    for path in candidates:
+        key = str(path)
+        if key in seen:
+            continue
+        seen.add(key)
+        if path.exists():
+            return path
+    return None
+
+
 def _iter_score_records_from_summary(summary_obj: Dict[str, Any], base_dir: Path) -> Iterable[Dict[str, Any]]:
     candidates = summary_obj.get("candidates")
     if not isinstance(candidates, list):
@@ -189,15 +231,16 @@ def _iter_score_records_from_summary(summary_obj: Dict[str, Any], base_dir: Path
     for cand in candidates:
         if not isinstance(cand, dict):
             continue
+        candidate_id = to_id_str(cand.get("candidate_id", cand.get("id", ""))).strip()
         candidate_result_file = cand.get("candidate_result_file")
-        if candidate_result_file:
-            result_path = base_dir / str(candidate_result_file)
-            if result_path.exists():
+        if candidate_id:
+            result_path = _resolve_candidate_result_path(base_dir, summary_obj, candidate_result_file, candidate_id)
+            if result_path is not None and result_path.exists():
                 obj = load_json(result_path)
                 norm = _normalize_candidate_result(obj)
                 if norm is not None:
                     out.append(norm)
-                continue
+                    continue
         norm = _normalize_candidate_result(cand)
         if norm is not None:
             out.append(norm)
@@ -351,6 +394,14 @@ def analyze_from_paths(scores_path: Path, group_path: Path, strict: bool) -> Dic
     result = analyze_scores(scores_raw, group_raw, strict)
     result["scores_source"] = str(scores_path)
     result["group_source"] = str(group_path)
+    result["score_record_count"] = len(scores_raw)
+    result["group_record_count"] = len(group_raw)
+    result["group_label_mapping"] = {
+        "male": ["male", "m", "he/him"],
+        "female": ["female", "f", "she/her"],
+        "they": ["they/them", "neutral", "n"],
+        "thon": ["thon/thon", "neo", "xe/xem"],
+    }
     return result
 
 
