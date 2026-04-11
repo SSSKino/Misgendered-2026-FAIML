@@ -1,0 +1,20 @@
+{
+  "sample_id": "BHP_012",
+  "company": "BHP Group Limited",
+  "report_year": 2025,
+  "category": "Water/Environmental Performance",
+  "claim_text": "This milestone was achieved in FY2025.",
+  "claim_page": 55,
+  "metric_name": "Off-lease contribution to Lake Eyre Basin Riparian Vegetation and Springs Project",
+  "extracted_value": "A$300,000",
+  "value_unit": "A$",
+  "context_text": "Copper South Australia FY2025 Protect springs from animal and human degradation by fencing and controlling feral animals and weeds on BHP pastoral leases, and contribute to similar programs off-lease.；This milestone was achieved in FY2025.；Protection on BHP pastoral lease includes stock-proof fencing, feral animal and weed inspections and control programs. Fencing activities included completion of fencing at the Gosse and Emerald Significant Environment Benefit areas, and the active spring within Jacob Springs group.；BHP contributed A$300,000 to the off-lease Lake Eyre Basin Riparian Vegetation and Springs Project, a partnership with the South Australian Arid Lands Landscape Board.",
+  "context_page": "55；55；55；55",
+  "evidence_source_type": "text",
+  "label": "Fully Supported",
+  "annotator_1": NaN,
+  "annotator_2": NaN,
+  "final_label": NaN,
+  "rationale_short": "同页详细列出了围栏、病虫害控制和A$300,000场外项目投入，直接支持milestone achieved。",
+  "notes": "证据取自同页水目标进展说明。"
+}

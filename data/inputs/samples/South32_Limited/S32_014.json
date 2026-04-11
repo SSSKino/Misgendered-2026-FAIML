@@ -1,0 +1,20 @@
+{
+  "sample_id": "S32_014",
+  "company": "South32 Limited",
+  "report_year": 2025,
+  "category": "Water/Environmental Performance",
+  "claim_text": "We work hard to safely manage tailings, reduce waste, and rehabilitate land disturbed by our activities.",
+  "claim_page": 3,
+  "metric_name": "Land disturbed; Progressive rehabilitation",
+  "extracted_value": "175；221",
+  "value_unit": "ha；ha",
+  "context_text": "We work hard to safely manage tailings, reduce waste, and rehabilitate land disturbed by our activities.；In FY25, 175ha of land was disturbed through our activities, and progressive rehabilitation activities were undertaken across approximately 221ha.；The report does not provide directly adjacent quantified FY25 outcomes here for tailings safety or waste reduction in this extracted section.",
+  "context_page": "3；24；3/24",
+  "evidence_source_type": "mixed",
+  "label": "Partially Supported",
+  "annotator_1": NaN,
+  "annotator_2": NaN,
+  "final_label": NaN,
+  "rationale_short": "土地修复方面有一定量化支撑，因为FY25修复面积高于新增扰动面积；但“safely manage tailings”与“reduce waste”在已检索页段中缺少相应FY25量化结果，因此整体仅部分支撑。",
+  "notes": "复合式主张中只有部分要素有量化证据。"
+}

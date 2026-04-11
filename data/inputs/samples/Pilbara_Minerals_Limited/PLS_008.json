@@ -1,0 +1,20 @@
+{
+  "sample_id": "PLS_008",
+  "company": "Pilbara Minerals Limited",
+  "report_year": 2025,
+  "category": "Water/Environmental Performance",
+  "claim_text": "Improve water management by enhancing operational efficiency and water accounting",
+  "claim_page": 41,
+  "metric_name": "Water abstracted (FY25 vs FY24); Processing water use per tonne of spodumene (FY25 vs FY24)",
+  "extracted_value": "5.1GL；19%；3.37kL/t；3.74kL/t",
+  "value_unit": "GL；%；kL/t of spodumene；kL/t of spodumene",
+  "context_text": "Water management Zero major water-related incidents Target achieved in FY25 Target continues year-on-year Improve water management by enhancing operational efficiency and water accounting 5.1GL of water was abstracted, increasing 19% from FY24 and processing water use improved to 3.37kL/t of spodumene from 3.74kL/t in FY24.；Water is a critical resource, essential to ecosystem health, community wellbeing and the long-term sustainability of our operations.；Water abstracted increased 19% from 4.3GL in FY24. Processing water use per tonne of spodumene improved from 3.74kL/t in FY24 5.1GL 3.37kL/t.；Engaged third party to develop real-time water dashboards that monitor borefield usage and compliance with licensed limits, flag trigger level exceedances and present a site-wide water balance. Telemetry has been retrofitted to all production bores at the Pilgangoora Operation, enabling remote control and supporting real-time water balance development.",
+  "context_page": "41；78；78；41",
+  "evidence_source_type": "mixed",
+  "label": "Partially Supported",
+  "annotator_1": NaN,
+  "annotator_2": NaN,
+  "final_label": NaN,
+  "rationale_short": "单位产品加工水耗从3.74降至3.37 kL/t，能支持“operational efficiency”改善，但总取水量上升19%，且“water accounting”更多体现为系统建设而非直接绩效结果，因此仅部分支撑。",
+  "notes": "证据合并自第41页目标进展表与第78页水管理章节。"
+}

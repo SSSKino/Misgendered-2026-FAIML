@@ -1,0 +1,20 @@
+{
+  "sample_id": "SFR_008",
+  "company": "Sandfire Resources Limited",
+  "report_year": 2025,
+  "category": "Climate/Emissions",
+  "claim_text": "I am happy to report that 71% of electricity needs were supplied by renewable sources in FY25",
+  "claim_page": 5,
+  "metric_name": "Electricity sourced from renewables",
+  "extracted_value": "71%",
+  "value_unit": "%",
+  "context_text": "I am happy to report that 71% of electricity needs were supplied by renewable sources in FY25 and that an internal carbon price (ICP) was introduced throughout the business.；71% of electricity sourced from renewables.；In FY25, 71% of electricity across Sandfire was sourced from renewables rather than fossil fuel and as a result 238kt of CO2e was abated over the three years to 30 June 2025.",
+  "context_page": "5；11；59",
+  "evidence_source_type": "mixed",
+  "label": "Fully Supported",
+  "annotator_1": NaN,
+  "annotator_2": NaN,
+  "final_label": NaN,
+  "rationale_short": "71%的可再生电力占比在董事长致辞、FY25 Highlights和后文薪酬相关披露中被重复且一致地呈现，直接支持该声明。",
+  "notes": "claim 自带数据，证据合并自多处重复披露。"
+}

@@ -1,0 +1,20 @@
+{
+  "sample_id": "EVN_003",
+  "company": "Evolution Mining Limited",
+  "report_year": 2025,
+  "category": "Safety",
+  "claim_text": "We are committed to improving our safety performance, and fostering a values-based culture and an inclusive and diverse workforce.",
+  "claim_page": 3,
+  "metric_name": "Total recordable injury frequency (TRIF); Zero fatalities and PTDs; Sustainability targets achieved",
+  "extracted_value": "4.98；0；0；93%",
+  "value_unit": "per million work hours；fatalities；PTDs；%",
+  "context_text": "We are committed to improving our safety performance, and fostering a values-based culture and an inclusive and diverse workforce.；In FY25, we achieved or exceeded 27 of 29 (93%) targets, commitments and performance measures across health and safety, environment, finance, people, community and First Nations.；We achieved all safety, health, wellbeing and environmental targets ...；Zero fatalities and permanent total disabilities (PTDs).；TRIF per million work hours at or below 6.75 ... 4.98 TRIF.",
+  "context_page": "3；7；7；8；8",
+  "evidence_source_type": "mixed",
+  "label": "Fully Supported",
+  "annotator_1": NaN,
+  "annotator_2": NaN,
+  "final_label": NaN,
+  "rationale_short": "报告披露了安全目标全面达成、零死亡、零PTD及TRIF优于目标，能够直接支持公司持续改进安全绩效的表述。",
+  "notes": "证据合并自第3页和第7-8页。"
+}

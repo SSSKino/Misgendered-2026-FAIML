@@ -1,0 +1,20 @@
+{
+  "sample_id": "BHP_002",
+  "company": "BHP Group Limited",
+  "report_year": 2025,
+  "category": "Safety",
+  "claim_text": "Reach zero fatalities and eliminate workplace injuries and catastrophic events.",
+  "claim_page": 35,
+  "metric_name": "Fatalities at managed operations; All-injury frequency rate",
+  "extracted_value": "1；0.37",
+  "value_unit": "fatalities；per 200,000 hours worked",
+  "context_text": "Reach zero fatalities and eliminate workplace injuries and catastrophic events.；1 fatality at managed operations. (2024: 5 fatalities).；All-injury frequency rate (AIFR) at 0.37 (target: 0.38). (2024: 0.37).",
+  "context_page": "35；35；35",
+  "evidence_source_type": "mixed",
+  "label": "Suspected Greenwash",
+  "annotator_1": NaN,
+  "annotator_2": NaN,
+  "final_label": NaN,
+  "rationale_short": "claim 要求实现零死亡并消除工伤，但FY2025实际仍有1起死亡事故且AIFR并非零，构成明显矛盾，属于严重漂绿嫌疑。",
+  "notes": "目标型claim被当期实际绩效直接否定。"
+}

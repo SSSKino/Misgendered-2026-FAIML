@@ -99,6 +99,59 @@ def _write_raw_fallback(raw_fallback_name: str, raw: str) -> None:
     Path(raw_fallback_name).write_text(raw or "", encoding="utf-8")
 
 
+VALID_THREE_CLASS_LABELS = {"Fully Supported", "Partially Supported", "Suspected Greenwash"}
+
+
+def _coerce_structured_result(obj: Any) -> Dict[str, Any]:
+    if not isinstance(obj, dict):
+        raise ValueError("Model output must be a JSON object.")
+
+    repaired = dict(obj)
+
+    if "label" not in repaired:
+        for alias in ("decision", "classification", "class", "result"):
+            if alias in repaired:
+                repaired["label"] = repaired[alias]
+                break
+
+    if "reason" not in repaired:
+        for alias in ("rationale", "explanation", "analysis", "why"):
+            if alias in repaired:
+                repaired["reason"] = repaired[alias]
+                break
+
+    label = repaired.get("label")
+    reason = repaired.get("reason")
+
+    if not isinstance(label, str) or not label.strip():
+        raise ValueError("Model JSON is missing required field 'label'.")
+    if not isinstance(reason, str) or not reason.strip():
+        raise ValueError("Model JSON is missing required field 'reason'.")
+
+    label = label.strip()
+    if label not in VALID_THREE_CLASS_LABELS:
+        normalized = " ".join(label.split()).strip().lower()
+        alias_map = {
+            "fully supported": "Fully Supported",
+            "supported": "Fully Supported",
+            "partially supported": "Partially Supported",
+            "partial supported": "Partially Supported",
+            "not clearly supported": "Partially Supported",
+            "suspected greenwash": "Suspected Greenwash",
+            "greenwash": "Suspected Greenwash",
+            "greenwashing": "Suspected Greenwash",
+            "contradicted": "Suspected Greenwash",
+            "no evidence": "Suspected Greenwash",
+            "not supported": "Suspected Greenwash",
+        }
+        if normalized in alias_map:
+            label = alias_map[normalized]
+        else:
+            raise ValueError(f"Model JSON has invalid label: {repaired.get('label')!r}")
+
+    return {"label": label, "reason": reason.strip()}
+
+
 def _call_with_responses_api(
     *,
     client: OpenAI,
@@ -142,7 +195,7 @@ def _call_with_chat_json_fallback(
     instructions: str,
     payload: Any,
 ) -> str:
-    system_prompt = instructions + "\n\nReturn valid JSON only. Do not include markdown fences or explanatory text."
+    system_prompt = instructions + "\n\nReturn valid JSON only. Do not include markdown fences or explanatory text.\nThe JSON must contain exactly these keys: label and reason.\nUse the key label, not decision.\nThe label value must be exactly one of: Fully Supported, Partially Supported, Suspected Greenwash."
     user_prompt = json.dumps(payload, ensure_ascii=False)
 
     request_kwargs: Dict[str, Any] = {
@@ -220,7 +273,13 @@ def call_structured_json(
         )
 
     try:
-        return json.loads(raw)
+        parsed = json.loads(raw)
     except Exception as ex:
         _write_raw_fallback(raw_fallback_name, raw)
         raise ValueError(f"Model returned non-JSON text. Saved to {raw_fallback_name}") from ex
+
+    try:
+        return _coerce_structured_result(parsed)
+    except Exception as ex:
+        _write_raw_fallback(raw_fallback_name, raw)
+        raise ValueError(f"Model returned JSON with missing or invalid fields. Saved to {raw_fallback_name}") from ex

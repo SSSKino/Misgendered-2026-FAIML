@@ -1,0 +1,20 @@
+{
+  "sample_id": "EVN_012",
+  "company": "Evolution Mining Limited",
+  "report_year": 2025,
+  "category": "Water/Environmental Performance",
+  "claim_text": "We are focused on managing our impact on nature, including water, biodiversity, air and surrounding ecosystems.",
+  "claim_page": 3,
+  "metric_name": "Freshwater use intensity FY25; Land disturbed; Progressive rehabilitation; Rehabilitated land managed",
+  "extracted_value": "0.29；175；221；1,025",
+  "value_unit": "kL/dtm；ha；ha；ha",
+  "context_text": "We are focused on managing our impact on nature, including water, biodiversity, air and surrounding ecosystems. We work hard to safely manage tailings, reduce waste, and rehabilitate land disturbed by our activities.；Our freshwater use intensity has decreased 28% against baseline to 0.29kL/dtm.；In FY25, 175ha of land was disturbed through our activities, we undertook progressive rehabilitation activities across approximately 221ha, and set aside almost 3,800ha for conservation.；Managed 1,025 hectares (ha) of rehabilitated land.",
+  "context_page": "3；71；24；15",
+  "evidence_source_type": "mixed",
+  "label": "Partially Supported",
+  "annotator_1": NaN,
+  "annotator_2": NaN,
+  "final_label": NaN,
+  "rationale_short": "报告提供了水强度、土地修复和保育等数据，能说明公司在部分自然议题上有管理进展；但对空气、周边生态系统及整体“impact on nature”的证据并不完整，因此仅部分支撑，存在泛化漂绿嫌疑。",
+  "notes": "claim 覆盖面大于现有量化证据覆盖面。"
+}

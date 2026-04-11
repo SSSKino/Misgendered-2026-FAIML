@@ -1,0 +1,20 @@
+{
+  "sample_id": "LYN_004",
+  "company": "Lynas Rare Earths Limited",
+  "report_year": 2025,
+  "category": "Safety",
+  "claim_text": "We make sure we all go home safe and well.",
+  "claim_page": 7,
+  "metric_name": "Total Recordable Injury Frequency Rate (TRIFR); Lost Time Injury Frequency Rate (LTIFR)",
+  "extracted_value": "3.6；1.8",
+  "value_unit": "per million hours worked；per million hours worked",
+  "context_text": "We care for and respect each other, our communities and the environment. We make sure we all go home safe and well.；The 12-month rolling Lost Time Injury Frequency Rate (LTIFR) as at 30 June 2025 was 1.8 per million hours worked (June 2024: 1.04 per million hours worked). The 12-month Total Recordable Injury Frequency Rate (TRIFR) at 30 June 2025 was 3.6 per million hours worked (June 2024: 5.0 per million hours worked).；Safety performance FY21 FY22 FY23 FY24 FY25 Total Recordable Injury Frequency (TRIF) rate per million hours worked 2.1 2.4 3.2 5.0 3.6; Lost Time Injury Frequency (LTIF) rate per million hours worked 0.8 0.8 1.2 1.04 1.8.",
+  "context_page": "7；17；38",
+  "evidence_source_type": "mixed",
+  "label": "Suspected Greenwash",
+  "annotator_1": NaN,
+  "annotator_2": NaN,
+  "final_label": NaN,
+  "rationale_short": "报告期内仍存在可记录伤害和损失工时伤害，绝对化表述“we all go home safe and well”与实际伤害数据不符。",
+  "notes": "价值观表述被实际安全绩效数据否定。"
+}

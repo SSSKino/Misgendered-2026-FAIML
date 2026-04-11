@@ -1,0 +1,20 @@
+{
+  "sample_id": "FORT_006",
+  "company": "Fortescue Ltd",
+  "report_year": 2025,
+  "category": "Climate/Emissions",
+  "claim_text": "At Fortescue, our purpose is clear: to accelerate decarbonisation on a global scale, rapidly and profitably.",
+  "claim_page": 2,
+  "metric_name": null,
+  "extracted_value": null,
+  "value_unit": null,
+  "context_text": "At Fortescue, our purpose is clear: to accelerate decarbonisation on a global scale, rapidly and profitably.",
+  "context_page": "2",
+  "evidence_source_type": "none",
+  "label": "Suspected Greenwash",
+  "annotator_1": NaN,
+  "annotator_2": NaN,
+  "final_label": NaN,
+  "rationale_short": "这是高度概括性的气候主张，但报告该处未提供任何可量化的全球范围减碳成效或盈利性数据，属于无实际绩效支撑的漂绿嫌疑。",
+  "notes": "封面/概览式purpose表述，无配套FY2025实际绩效数据。"
+}

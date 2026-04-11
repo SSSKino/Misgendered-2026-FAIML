@@ -1,0 +1,20 @@
+{
+  "sample_id": "LYN_009",
+  "company": "Lynas Rare Earths Limited",
+  "report_year": 2025,
+  "category": "Climate/Emissions",
+  "claim_text": "The Lynas Rare Earths Climate Change Policy outlines the Company’s approach to the challenges of climate change and includes the Company’s commitment to target Net Zero emissions by 2050.",
+  "claim_page": 20,
+  "metric_name": null,
+  "extracted_value": null,
+  "value_unit": null,
+  "context_text": "The Lynas Rare Earths Climate Change Policy outlines the Company’s approach to the challenges of climate change and includes the Company’s commitment to target Net Zero emissions by 2050.",
+  "context_page": "20",
+  "evidence_source_type": "none",
+  "label": "Suspected Greenwash",
+  "annotator_1": NaN,
+  "annotator_2": NaN,
+  "final_label": NaN,
+  "rationale_short": "这是2050年的长期目标承诺，不是FY25已实现的历史绩效数据。",
+  "notes": "未来目标型表述。"
+}

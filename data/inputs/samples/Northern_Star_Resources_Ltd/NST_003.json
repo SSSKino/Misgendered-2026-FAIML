@@ -1,0 +1,20 @@
+{
+  "sample_id": "NST_003",
+  "company": "Northern Star Resources Ltd",
+  "report_year": 2025,
+  "category": "Safety",
+  "claim_text": "We experienced a slight decline in our safety performance statistics from FY24.",
+  "claim_page": 52,
+  "metric_name": "Workforce Serious Injury Frequency Rate (SIFR); Contractor LTIFR; Contractor TRIFR; Employee TRIFR",
+  "extracted_value": "2.1→2.9; 0.2→0.4; 2.7→4.0; 2.0→5.7",
+  "value_unit": "per million hours worked; per million hours worked; per million hours worked; per million hours worked",
+  "context_text": "The report states safety performance declined from FY24. Supporting FY25 vs FY24 data show Workforce SIFR increased from 2.1 to 2.9, Contractor LTIFR increased from 0.2 to 0.4, Contractor TRIFR increased from 2.7 to 4.0, and Employee TRIFR increased from 2.0 to 5.7.",
+  "context_page": "52; 22",
+  "evidence_source_type": "mixed",
+  "label": "Fully Supported",
+  "annotator_1": NaN,
+  "annotator_2": NaN,
+  "final_label": NaN,
+  "rationale_short": "多项FY25伤害频率指标较FY24上升，直接支持“slight decline”这一总结。",
+  "notes": "证据取自安全章节与ESR performance metrics summary。"
+}

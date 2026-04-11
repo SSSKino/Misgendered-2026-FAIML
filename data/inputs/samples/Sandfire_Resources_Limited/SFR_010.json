@@ -1,0 +1,20 @@
+{
+  "sample_id": "SFR_010",
+  "company": "Sandfire Resources Limited",
+  "report_year": 2025,
+  "category": "Climate/Emissions",
+  "claim_text": "Our ICP is enabling decision-makers to incorporate GHG emissions costs relative to lower emission alternatives into decisions regarding capital allocation and strategic capital expenditure.",
+  "claim_page": 101,
+  "metric_name": null,
+  "extracted_value": null,
+  "value_unit": null,
+  "context_text": "In FY25, we developed an Internal Carbon Price (ICP) and accompanying Group Procedure. The procedure subscribes jurisdictional specific carbon pricing scenarios and time horizons, and outlines the implementation process. We apply a shadow carbon price that is designed to reflect future carbon costs at each Asset, and any future Assets. Integrating the ICP into decision-making across our business, especially financial decision making, is an enabling mechanism for decarbonisation projects. We have commenced targeted awareness sessions to build internal capability and support consistent application. Our ICP is enabling decision-makers to incorporate GHG emissions costs relative to lower emission alternatives into decisions regarding capital allocation and strategic capital expenditure. We aim to deploy more capital to initiatives that will reduce our carbon intensity, where it makes sense to do so.",
+  "context_page": "101",
+  "evidence_source_type": "none",
+  "label": "Suspected Greenwash",
+  "annotator_1": NaN,
+  "annotator_2": NaN,
+  "final_label": NaN,
+  "rationale_short": "报告描述了ICP程序和培训，但没有提供任何实际历史绩效数据来证明ICP已经在报告期内具体改变了资本配置或战略资本开支决策。",
+  "notes": "管理机制声明，缺乏可量化结果数据。"
+}

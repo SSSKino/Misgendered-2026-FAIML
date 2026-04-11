@@ -1,0 +1,20 @@
+{
+  "sample_id": "S32_006",
+  "company": "South32 Limited",
+  "report_year": 2025,
+  "category": "Safety",
+  "claim_text": "Their sustained improvement in FY25 indicates stronger hazard awareness and a more proactive reporting culture.",
+  "claim_page": 30,
+  "metric_name": "Total significant hazard frequency; Significant hazard to significant event near miss ratio",
+  "extracted_value": "196 vs 122；78 vs 21",
+  "value_unit": "frequency；ratio",
+  "context_text": "Health and safety performance FY25/FY24: Total significant hazard frequency 196 / 122; Significant hazard to significant event near miss ratio 78 / 21.；Our significant hazard to significant event near miss ratio for FY25 was 80.",
+  "context_page": "30；145",
+  "evidence_source_type": "mixed",
+  "label": "Partially Supported",
+  "annotator_1": NaN,
+  "annotator_2": NaN,
+  "final_label": NaN,
+  "rationale_short": "指标改善能够支持公司在隐患识别和近失管理方面有所进展，但“stronger hazard awareness”与“more proactive reporting culture”属于文化层面的解释性判断，缺少直接验证数据。",
+  "notes": "文化与意识层面表述一般较难被单一指标充分支撑。"
+}

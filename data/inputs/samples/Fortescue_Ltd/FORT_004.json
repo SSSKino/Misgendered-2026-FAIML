@@ -1,0 +1,20 @@
+{
+  "sample_id": "FORT_004",
+  "company": "Fortescue Ltd",
+  "report_year": 2025,
+  "category": "Safety",
+  "claim_text": "Beyond physical safety, we are focused on improving the overall health of our people, including wellbeing.",
+  "claim_page": 24,
+  "metric_name": null,
+  "extracted_value": null,
+  "value_unit": null,
+  "context_text": "Beyond physical safety, we are focused on improving the overall health of our people, including wellbeing. Initiatives to manage psychosocial hazards have been progressively embedded across our operations, ensuring that our workplaces remain inclusive and supportive. Fortescue continues to integrate these initiatives across its organisation, reinforcing a safety culture that is both proactive and people focused.",
+  "context_page": "24",
+  "evidence_source_type": "none",
+  "label": "Suspected Greenwash",
+  "annotator_1": NaN,
+  "annotator_2": NaN,
+  "final_label": NaN,
+  "rationale_short": "该段只有举措性和定性措辞，没有提供任何关于健康或wellbeing改善的实际绩效数据，属于无证据支撑的明显漂绿嫌疑。",
+  "notes": "仅披露措施和管理动作，未披露健康或wellbeing结果指标。"
+}

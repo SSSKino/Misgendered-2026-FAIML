@@ -1,0 +1,20 @@
+{
+  "sample_id": "BHP_009",
+  "company": "BHP Group Limited",
+  "report_year": 2025,
+  "category": "Water/Environmental Performance",
+  "claim_text": "avoiding and minimising impacts to the environment and our host communities from our operational activities",
+  "claim_page": 55,
+  "metric_name": null,
+  "extracted_value": null,
+  "value_unit": null,
+  "context_text": "Outcomes we seek；avoiding and minimising impacts to the environment and our host communities from our operational activities；Approximately 149,700 hectares disturbed；Predominantly for operational purposes.",
+  "context_page": "55",
+  "evidence_source_type": "none",
+  "label": "Suspected Greenwash",
+  "annotator_1": NaN,
+  "annotator_2": NaN,
+  "final_label": NaN,
+  "rationale_short": "报告列出“Outcomes we seek”，但未提供能直接证明FY2025已实现“avoiding and minimising impacts”的量化环境结果数据，属于无实际绩效支撑的漂绿嫌疑。",
+  "notes": "结果型表述，但仅见管理框架与土地扰动描述，缺少直接效果证据。"
+}

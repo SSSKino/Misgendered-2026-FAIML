@@ -1,0 +1,20 @@
+{
+  "sample_id": "PLS_003",
+  "company": "Pilbara Minerals Limited",
+  "report_year": 2025,
+  "category": "Safety",
+  "claim_text": "In FY25, we delivered a strong safety performance with both Total Recordable Injury Frequency Rate (TRIFR) and Quality Safety Interactions Frequency Rate (QSIFR) targets achieved, and zero work-related fatalities recorded across all operations.",
+  "claim_page": 51,
+  "metric_name": "Australian operations TRIFR (FY25 vs FY24); Group TRIFR; QSIFR (FY25 vs FY24); Work-related fatalities",
+  "extracted_value": "2.79；3.41；3.10；2.71；1.72；0",
+  "value_unit": "rate；rate；rate；per 1,000 hours worked；per 1,000 hours worked；fatalities",
+  "context_text": "In FY25, we delivered a strong safety performance with both Total Recordable Injury Frequency Rate (TRIFR) and Quality Safety Interactions Frequency Rate (QSIFR) targets achieved, and zero work-related fatalities recorded across all operations. At our Australian sites, comprising our Pilgangoora site, Projects and Perth office, we recorded a TRIFR of 2.79 with 14 recordable injuries, while our Group TRIFR was 3.10 including two recordable injuries in Brazil.；We continued to prioritise quality safety interactions as our leading indicator in recognition of the important role that line leaders play in actively promoting safety beyond compliance. In FY25, our QSIFR reached 2.71 per 1,000 hours worked, up from 1.72 in FY24.；2.79 TRIFR (down from 3.41 in FY24).",
+  "context_page": "51；51；3",
+  "evidence_source_type": "mixed",
+  "label": "Fully Supported",
+  "annotator_1": NaN,
+  "annotator_2": NaN,
+  "final_label": NaN,
+  "rationale_short": "TRIFR改善、QSIFR上升且零工亡均有明确历史绩效数据支撑，与claim一致。",
+  "notes": "claim 自带数据，证据合并自安全章节与绩效摘要。"
+}

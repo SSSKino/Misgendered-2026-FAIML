@@ -1,0 +1,20 @@
+{
+  "sample_id": "PLS_007",
+  "company": "Pilbara Minerals Limited",
+  "report_year": 2025,
+  "category": "Climate/Emissions",
+  "claim_text": "Long-term ambition: to achieve net-zero scope 1 and 2 emissions in the decade commencing in 2040.",
+  "claim_page": 66,
+  "metric_name": null,
+  "extracted_value": null,
+  "value_unit": null,
+  "context_text": "We remain focused on achieving our: Long-term ambition: to achieve net-zero scope 1 and 2 emissions in the decade commencing in 2040.",
+  "context_page": "66",
+  "evidence_source_type": "none",
+  "label": "Suspected Greenwash",
+  "annotator_1": NaN,
+  "annotator_2": NaN,
+  "final_label": NaN,
+  "rationale_short": "这是一项未来长期目标，报告未提供任何能够直接证明该目标已实现或已被充分达成的报告期内历史绩效数据。",
+  "notes": "未来目标型表述；根据规则，不可将目标值作为支持证据。"
+}

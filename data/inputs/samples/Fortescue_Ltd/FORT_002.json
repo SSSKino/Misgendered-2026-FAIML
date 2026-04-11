@@ -1,0 +1,20 @@
+{
+  "sample_id": "FORT_002",
+  "company": "Fortescue Ltd",
+  "report_year": 2025,
+  "category": "Safety",
+  "claim_text": "Our focus remains on ensuring everyone goes home safe and well after every shift.",
+  "claim_page": 24,
+  "metric_name": "Total Recordable Injury Frequency Rate (TRIFR)",
+  "extracted_value": "1.3",
+  "value_unit": "TRIFR",
+  "context_text": "At Fortescue, Family and Safety are key Values. Our focus remains on ensuring everyone goes home safe and well after every shift.；This consistent focus on safety has supported a rolling 12-month TRIFR of 1.3 at 30 June 2025.",
+  "context_page": "24；24",
+  "evidence_source_type": "text",
+  "label": "Partially Supported",
+  "annotator_1": NaN,
+  "annotator_2": NaN,
+  "final_label": NaN,
+  "rationale_short": "仅提供TRIFR 1.3这一单一安全频率指标，能说明一定安全表现，但不足以充分证明“everyone goes home safe and well after every shift”这一绝对化结果表述，存在夸大漂绿嫌疑。",
+  "notes": "证据仅为单一滞后指标，缺少更完整的零伤害或健康结果数据。"
+}

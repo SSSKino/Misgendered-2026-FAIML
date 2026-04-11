@@ -1,0 +1,20 @@
+{
+  "sample_id": "MINRES_008",
+  "company": "Mineral Resources Limited",
+  "report_year": 2025,
+  "category": "Climate/Emissions",
+  "claim_text": "Regarding our emissions reduction targets, while our gross emissions rose marginally in FY25 due to increased production, our underlying emissions intensity of production has decreased, through a combination of operational and efficiency factors.",
+  "claim_page": 7,
+  "metric_name": "Scope 1 and 2 mining emissions intensity reduction relative to FY24 baseline",
+  "extracted_value": "23%",
+  "value_unit": "%",
+  "context_text": "Regarding our emissions reduction targets, while our gross emissions rose marginally in FY25 due to increased production, our underlying emissions intensity of production has decreased, through a combination of operational and efficiency factors. This year, we achieved a 23 per cent reduction in our Scope 1 and 2 mining emissions intensity, relative to our FY24 baseline.；Ambition on track with 23 per cent reduction in Scope 1 and 2 mining emissions intensity relative to our FY24 baseline.",
+  "context_page": "7；11",
+  "evidence_source_type": "text",
+  "label": "Partially Supported",
+  "annotator_1": NaN,
+  "annotator_2": NaN,
+  "final_label": NaN,
+  "rationale_short": "23%的强度下降支持了“underlying emissions intensity ... has decreased”，但“gross emissions rose marginally”在已检索文本中未提供对应量化数据，因此仅部分支撑。",
+  "notes": "证据仅充分覆盖强度下降部分。"
+}

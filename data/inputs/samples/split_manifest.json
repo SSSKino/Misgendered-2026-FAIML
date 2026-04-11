@@ -1,0 +1,10 @@
+{
+  "total_files": 90,
+  "sources": [
+    {
+      "source_file": "balanced_90_claim_experiment_dataset.json",
+      "company_dir": "Evolution_Mining_Limited",
+      "records_written": 90
+    }
+  ]
+}

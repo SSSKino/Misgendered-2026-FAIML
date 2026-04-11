@@ -1,0 +1,20 @@
+{
+  "sample_id": "S32_005",
+  "company": "South32 Limited",
+  "report_year": 2025,
+  "category": "Safety",
+  "claim_text": "These year-on-year improvements reflect our sustained focus on injury and illness prevention through targeted risk reduction initiatives and disciplined operating practices.",
+  "claim_page": 30,
+  "metric_name": "High-potential injury and illness frequency; LTIF; TRIF; LSED deployment plan",
+  "extracted_value": "0.2 vs 0.5；1.4 vs 2.04；3.7 vs 5.1；98%/100%",
+  "value_unit": "frequency rate；frequency rate；frequency rate；plan compliance",
+  "context_text": "In FY25, we recorded a 60% reduction in high-potential injury and illness frequency, while TRIF and LTIF both decreased by more than 25%.；The LSED deployment plan to the frontline was 98% for FY25 and the deployment plan to leadership was 100%.；TRIF was 3.7 and LTIF was 1.34 in FY25.",
+  "context_page": "30；145；145",
+  "evidence_source_type": "mixed",
+  "label": "Partially Supported",
+  "annotator_1": NaN,
+  "annotator_2": NaN,
+  "final_label": NaN,
+  "rationale_short": "报告可证明安全指标改善，也能证明存在一定风险管控与领导力部署举措，但“improvements reflect our sustained focus”属于因果归因，证据不足以完全证明改善主要由这些措施直接导致。",
+  "notes": "存在结果到原因的推断跳跃。"
+}

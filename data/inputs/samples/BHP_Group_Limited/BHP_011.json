@@ -1,0 +1,20 @@
+{
+  "sample_id": "BHP_011",
+  "company": "BHP Group Limited",
+  "report_year": 2025,
+  "category": "Water/Environmental Performance",
+  "claim_text": "The intent of this milestone was achieved in FY2025.",
+  "claim_page": 55,
+  "metric_name": "Northern Goldfields catchment regional water working group first meeting",
+  "extracted_value": "February 2025",
+  "value_unit": "date",
+  "context_text": "Pampe Norte FY2024 Facilitate establishment of a Northern Goldfields catchment regional water working group.；The intent of this milestone was achieved in FY2025.；BHP participated in, rather than facilitated the establishment of, the Northern Goldfields catchment regional water working group. This was following the establishment of the working group by the Tijwarl Aboriginal Corporation, which occurred after this milestone was set. The first meeting that BHP participated in was held in February 2025.",
+  "context_page": "55；55；55",
+  "evidence_source_type": "text",
+  "label": "Partially Supported",
+  "annotator_1": NaN,
+  "annotator_2": NaN,
+  "final_label": NaN,
+  "rationale_short": "工作组确已成立且BHP参与其中，但原milestone是“Facilitate establishment”，而报告承认BHP是参与而非促成，属于部分支撑，存在措辞弱化偏差的漂绿嫌疑。",
+  "notes": "claim 为报告原文结论，但后续原文已说明实际仅为‘participated in, rather than facilitated’。"
+}

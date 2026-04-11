@@ -1,0 +1,20 @@
+{
+  "sample_id": "LYN_003",
+  "company": "Lynas Rare Earths Limited",
+  "report_year": 2025,
+  "category": "Safety",
+  "claim_text": "While the TRIFR reduced in FY25, the LTIFR increased slightly",
+  "claim_page": 17,
+  "metric_name": "Total Recordable Injury Frequency Rate (TRIFR) (FY24 vs FY25); Lost Time Injury Frequency Rate (LTIFR) (FY24 vs FY25)",
+  "extracted_value": "5.0；3.6；1.04；1.8",
+  "value_unit": "per million hours worked；per million hours worked；per million hours worked；per million hours worked",
+  "context_text": "The 12-month rolling Lost Time Injury Frequency Rate (LTIFR) as at 30 June 2025 was 1.8 per million hours worked (June 2024: 1.04 per million hours worked). The 12-month Total Recordable Injury Frequency Rate (TRIFR) at 30 June 2025 was 3.6 per million hours worked (June 2024: 5.0 per million hours worked). While the TRIFR reduced in FY25, the LTIFR increased slightly.；Safety performance FY21 FY22 FY23 FY24 FY25 Total Recordable Injury Frequency (TRIF) rate per million hours worked 2.1 2.4 3.2 5.0 3.6; Lost Time Injury Frequency (LTIF) rate per million hours worked 0.8 0.8 1.2 1.04 1.8.",
+  "context_page": "17；38",
+  "evidence_source_type": "mixed",
+  "label": "Fully Supported",
+  "annotator_1": NaN,
+  "annotator_2": NaN,
+  "final_label": NaN,
+  "rationale_short": "TRIFR从5.0降至3.6，LTIFR从1.04升至1.8，与claim表述完全一致。",
+  "notes": "证据合并自正文与性能数据表。"
+}

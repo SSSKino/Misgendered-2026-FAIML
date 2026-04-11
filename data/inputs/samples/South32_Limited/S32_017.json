@@ -1,0 +1,20 @@
+{
+  "sample_id": "S32_017",
+  "company": "South32 Limited",
+  "report_year": 2025,
+  "category": "Water/Environmental Performance",
+  "claim_text": "In FY25, the water performance actions were 100% complete at Australia Manganese, Cannington and Hillside Aluminium, and 92% complete at Cerro Matoso.",
+  "claim_page": 24,
+  "metric_name": "Water performance actions completion",
+  "extracted_value": "100%；100%；100%；92%",
+  "value_unit": "completion rate；completion rate；completion rate；completion rate",
+  "context_text": "In FY25, the water performance actions were 100% complete at Australia Manganese, Cannington and Hillside Aluminium, and 92% complete at Cerro Matoso.",
+  "context_page": "24",
+  "evidence_source_type": "text",
+  "label": "Fully Supported",
+  "annotator_1": NaN,
+  "annotator_2": NaN,
+  "final_label": NaN,
+  "rationale_short": "该主张是直接披露的FY25水管理完成率数据，可被报告文本直接验证。",
+  "notes": "量化完成率型表述。"
+}

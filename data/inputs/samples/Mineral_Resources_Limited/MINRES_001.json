@@ -1,0 +1,20 @@
+{
+  "sample_id": "MINRES_001",
+  "company": "Mineral Resources Limited",
+  "report_year": 2025,
+  "category": "Safety",
+  "claim_text": "Maintaining a healthy and safe working environment and enhancing the physical and mental wellbeing of our people.",
+  "claim_page": 61,
+  "metric_name": "Total Recordable Injury Frequency Rate (TRIFR); Lost Time Injury Frequency Rate (LTIFR); Corrective actions completed; Health monitoring assessments",
+  "extracted_value": "3.71；0.14；99%；900",
+  "value_unit": "frequency rate；frequency rate；%；assessments",
+  "context_text": "Maintaining a healthy and safe working environment and enhancing the physical and mental wellbeing of our people.；OUR FY25 HEALTH AND SAFETY PERFORMANCE ZERO fatalities and permanent disabling injuries/illnesses. 99% of corrective actions raised through our hazard reporting process were completed. 900 assessments as part of our comprehensive health monitoring program. Total Recordable Injury Frequency Rate (TRIFR) FY25 3.71 FY24 2.96 FY23 2.08. Lost Time Injury Frequency Rate (LTIFR) FY25 0.14 FY24 0.14 FY23 0.07.；During FY25, MinRes remained steady in our Lost Time Injury Frequency Rate (LTIFR) of 0.14. This reflects a need to continue improving our risk management culture and our safety performance. MinRes’ Total Recordable Injury Frequency Rate (TRIFR) was 3.71, an increase from 2.96 in FY24 due to improved injury governance and reporting.",
+  "context_page": "61；67-68；68",
+  "evidence_source_type": "mixed",
+  "label": "Partially Supported",
+  "annotator_1": NaN,
+  "annotator_2": NaN,
+  "final_label": NaN,
+  "rationale_short": "报告提供了零死亡、99%整改完成率和健康监测等相关数据，但TRIFR由2.96升至3.71，无法充分证明整体“healthy and safe working environment”与“enhancing wellbeing”。",
+  "notes": "证据合并自安全章节首页、FY25安全绩效图表和伤害频率说明。"
+}

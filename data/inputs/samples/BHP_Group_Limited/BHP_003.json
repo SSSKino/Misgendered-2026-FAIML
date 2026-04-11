@@ -1,0 +1,20 @@
+{
+  "sample_id": "BHP_003",
+  "company": "BHP Group Limited",
+  "report_year": 2025,
+  "category": "Safety",
+  "claim_text": "A thriving workforce that is safe, healthy, gender balanced at every level, culturally diverse and inclusive and skilled for the future.",
+  "claim_page": 31,
+  "metric_name": "Engagement and Perception Survey wellbeing score; Female employee representation; Fatalities at managed operations",
+  "extracted_value": "88%；41.3%；1",
+  "value_unit": "%；%；fatalities",
+  "context_text": "A thriving workforce that is safe, healthy, gender balanced at every level, culturally diverse and inclusive and skilled for the future.；88% Engagement and Perception Survey wellbeing score.；41.3% Female employee representation.；1 fatality at managed operations. (2024: 5 fatalities).",
+  "context_page": "31；31；31；35",
+  "evidence_source_type": "mixed",
+  "label": "Partially Supported",
+  "annotator_1": NaN,
+  "annotator_2": NaN,
+  "final_label": NaN,
+  "rationale_short": "报告提供了wellbeing和女性占比等相关数据，但未能证明“gender balanced at every level”，且FY2025仍有1起死亡事故，因此只能部分支撑，存在宽泛表述的漂绿嫌疑。",
+  "notes": "证据合并自social value scorecard与安全目标绩效页。"
+}

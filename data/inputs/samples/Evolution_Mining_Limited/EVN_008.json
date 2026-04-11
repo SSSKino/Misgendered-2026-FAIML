@@ -1,0 +1,20 @@
+{
+  "sample_id": "EVN_008",
+  "company": "Evolution Mining Limited",
+  "report_year": 2025,
+  "category": "Climate/Emissions",
+  "claim_text": "This year we achieved ~17% reduction in greenhouse gas (GHG) emissions, supported by renewable energy use, operational efficiencies and technology partnerships.",
+  "claim_page": 6,
+  "metric_name": "Total Scope 1 and 2 emissions reduction against FY20 baseline",
+  "extracted_value": "~17%",
+  "value_unit": "%",
+  "context_text": "This year we achieved ~17% reduction in greenhouse gas (GHG) emissions, supported by renewable energy use, operational efficiencies and technology partnerships.；In FY25, our total Scope 1 and 2 emissions ... achieving a reduction of 17% from the FY20 baseline, predominantly attributed to the Cowal and Northparkes PPAs.；This reduction was driven by the continued contribution of the Cowal PPA ... as well as the introduction of a new, similar PPA for Northparkes, enhanced through strategic voluntary LGC rebalancing.",
+  "context_page": "6；91；88-89",
+  "evidence_source_type": "mixed",
+  "label": "Partially Supported",
+  "annotator_1": NaN,
+  "annotator_2": NaN,
+  "final_label": NaN,
+  "rationale_short": "17%减排本身有明确数据支撑，但对“operational efficiencies and technology partnerships”的归因缺乏对应量化拆分，证据无法完整覆盖全部原因表述，存在部分漂绿嫌疑。",
+  "notes": "claim 自带数据，原因归因支撑不完整。"
+}

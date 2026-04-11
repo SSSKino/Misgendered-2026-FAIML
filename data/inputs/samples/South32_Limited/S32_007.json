@@ -1,0 +1,20 @@
+{
+  "sample_id": "S32_007",
+  "company": "South32 Limited",
+  "report_year": 2025,
+  "category": "Climate/Emissions",
+  "claim_text": "Addressing risks and opportunities that climate change presents is central to our strategy.",
+  "claim_page": 3,
+  "metric_name": "Operational emissions FY25; Scope 3 emissions FY25; Climate Adaptation and Resilience Plan",
+  "extracted_value": "20.7；22.7；developed",
+  "value_unit": "Mt CO2-e；Mt CO2-e；plan status",
+  "context_text": "Addressing risks and opportunities that climate change presents is central to our strategy.；We have published our second Climate Change Action Plan (CCAP).；We have developed our first Climate Adaptation and Resilience Plan.；In FY25, Scope 3 emissions totalled 22.7 Mt CO2-e.",
+  "context_page": "3；12；13；54",
+  "evidence_source_type": "mixed",
+  "label": "Partially Supported",
+  "annotator_1": NaN,
+  "annotator_2": NaN,
+  "final_label": NaN,
+  "rationale_short": "报告显示South32确已制定CCAP、气候适应与韧性计划并持续披露排放绩效，可支持其战略重视气候议题；但“central to our strategy”属于较强定性判断，难以被现有证据充分量化验证。",
+  "notes": "战略中心性表述通常只能部分验证。"
+}

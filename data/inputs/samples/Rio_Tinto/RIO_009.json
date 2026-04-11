@@ -1,0 +1,20 @@
+{
+  "sample_id": "RIO_009",
+  "company": "Rio Tinto",
+  "report_year": 2025,
+  "category": "Water/Environmental Performance",
+  "claim_text": "Water management will continue to be an extremely important topic in the future due to the reliance of local communities, the surrounding environment and our mining operations on this increasingly scarce resource.",
+  "claim_page": 33,
+  "metric_name": null,
+  "extracted_value": null,
+  "value_unit": null,
+  "context_text": "Water management will continue to be an extremely important topic in the future due to the reliance of local communities, the surrounding environment and our mining operations on this increasingly scarce resource.",
+  "context_page": "33",
+  "evidence_source_type": "none",
+  "label": "Suspected Greenwash",
+  "annotator_1": NaN,
+  "annotator_2": NaN,
+  "final_label": NaN,
+  "rationale_short": "这是对未来重要性的定性判断，已检索页面中未提供任何FY25水绩效量化数据来支撑。",
+  "notes": "未来重要性判断，非历史绩效披露。"
+}

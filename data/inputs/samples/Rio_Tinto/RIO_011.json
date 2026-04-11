@@ -1,0 +1,20 @@
+{
+  "sample_id": "RIO_011",
+  "company": "Rio Tinto",
+  "report_year": 2025,
+  "category": "Water/Environmental Performance",
+  "claim_text": "We have achieved safe closure status at Argyle TSFs ATD 1, ATD 2 and ATD 3 at the former Argyle Diamond Mine in Western Australia and the Kelian in-pit TSF at Kelian in Indonesia.",
+  "claim_page": 52,
+  "metric_name": "Tailings storage facilities achieving safe closure status",
+  "extracted_value": "4",
+  "value_unit": "facilities",
+  "context_text": "We have achieved safe closure status at Argyle TSFs ATD 1, ATD 2 and ATD 3 at the former Argyle Diamond Mine in Western Australia and the Kelian in-pit TSF at Kelian in Indonesia.",
+  "context_page": "52",
+  "evidence_source_type": "text",
+  "label": "Fully Supported",
+  "annotator_1": NaN,
+  "annotator_2": NaN,
+  "final_label": NaN,
+  "rationale_short": "文本直接列出了4个已达到safe closure status的设施，支持充分。",
+  "notes": "claim 自带数据，证据取自同页正文。"
+}

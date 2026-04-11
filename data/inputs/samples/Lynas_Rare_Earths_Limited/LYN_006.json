@@ -1,0 +1,20 @@
+{
+  "sample_id": "LYN_006",
+  "company": "Lynas Rare Earths Limited",
+  "report_year": 2025,
+  "category": "Climate/Emissions",
+  "claim_text": "During the year, Lynas delivered expanded operations and processing capacity, as well as sustainability initiatives related to power generation and water recycling.",
+  "claim_page": 2,
+  "metric_name": "Mt Weld hybrid renewable power station; Lynas Malaysia rooftop solar array; Percent recycled at Mt Weld",
+  "extracted_value": "65MW；0.75MW；27%",
+  "value_unit": "MW；MW；%",
+  "context_text": "During the year, Lynas delivered expanded operations and processing capacity, as well as sustainability initiatives related to power generation and water recycling.；Construction of 65MW Mt Weld hybrid renewable power station gas & solar components, commissioned. Rooftop solar array at Lynas Malaysia commissioned and operating. 27% recycled water used at Mt Weld.；In FY25, excellent progress was made on the 65MW Mt Weld hybrid renewable power station by Lynas’ Power Purchase Agreement (PPA) partner, Zenith Energy. The gas and solar components of the power station were constructed and gas was commissioned.；In 2025, Lynas Malaysia commissioned its 0.75MW rooftop solar array, Malaysian Renewable Energy Certificates equivalent to 60,000Mwh were purchased.；Mt Weld uses groundwater and recycled water ... The percentage of recycled water used at Mt Weld was 27% in FY25.",
+  "context_page": "2；1；21；21；26",
+  "evidence_source_type": "mixed",
+  "label": "Fully Supported",
+  "annotator_1": NaN,
+  "annotator_2": NaN,
+  "final_label": NaN,
+  "rationale_short": "电力与水循环相关举措均有明确的FY25项目与数据支撑，包括65MW电站、0.75MW屋顶光伏和Mt Weld 27%回用水比例。",
+  "notes": "证据合并自董事长/CEO信、FY25 key figures、气候章节和水章节。"
+}

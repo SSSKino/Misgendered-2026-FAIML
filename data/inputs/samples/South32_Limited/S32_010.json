@@ -1,0 +1,20 @@
+{
+  "sample_id": "S32_010",
+  "company": "South32 Limited",
+  "report_year": 2025,
+  "category": "Climate/Emissions",
+  "claim_text": "We have developed our first Climate Adaptation and Resilience Plan to help us reduce exposure to present-day climate hazards, and strengthen our ability to anticipate, absorb, respond and recover from physical climate change impacts.",
+  "claim_page": 13,
+  "metric_name": "Climate Adaptation and Resilience Plan; resilience case studies",
+  "extracted_value": "developed；case studies disclosed",
+  "value_unit": "plan status；qualitative",
+  "context_text": "We have developed our first Climate Adaptation and Resilience Plan to help us reduce exposure ...；Building on our physical resilience approach, we implemented a number of measures to strengthen our resilience to physical climate risks during the year.；Case study disclosures include Pilbara rail and Dampier seawater desalination plant.",
+  "context_page": "13；78；78-79",
+  "evidence_source_type": "mixed",
+  "label": "Partially Supported",
+  "annotator_1": NaN,
+  "annotator_2": NaN,
+  "final_label": NaN,
+  "rationale_short": "报告能够证明South32已制定适应与韧性计划，并披露若干适应案例，但没有量化结果来证明这些举措已实际“reduce exposure”或显著提升恢复能力，因此仅部分支撑。",
+  "notes": "计划存在，不等于效果已被验证。"
+}
