@@ -1,10 +1,10 @@
 {
   "sample_id": "EVN_007",
   "company": "Evolution Mining Limited",
-  "report_year": 2025,
+  "report_year": "2025",
   "category": "Climate/Emissions",
   "claim_text": "In FY25, our total Scope 1 and 2 emissions (from fuel and electricity consumption) continued to trend downwards, achieving a reduction of 17% from the FY20 baseline.",
-  "claim_page": 91,
+  "claim_page": "91",
   "metric_name": "Total Scope 1 and 2 emissions; Scope 1 emissions; Scope 2 emissions",
   "extracted_value": "761,424；919,167；229,680；231,823；531,744；687,344",
   "value_unit": "tCO2-e；tCO2-e；tCO2-e；tCO2-e；tCO2-e；tCO2-e",
@@ -12,9 +12,9 @@
   "context_page": "91；91",
   "evidence_source_type": "mixed",
   "label": "Fully Supported",
-  "annotator_1": NaN,
-  "annotator_2": NaN,
-  "final_label": NaN,
+  "annotator_1": "",
+  "annotator_2": "",
+  "final_label": "",
   "rationale_short": "FY25与FY20基线的对比表直接给出总Scope 1+2下降17%，与claim完全一致。",
   "notes": "claim 自带数据，证据取自同页表格和正文。"
 }

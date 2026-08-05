@@ -1,10 +1,10 @@
 {
   "sample_id": "RIO_003",
   "company": "Rio Tinto",
-  "report_year": 2025,
+  "report_year": "2025",
   "category": "Safety",
   "claim_text": "Reduce the rate of new occupational illnesses each year.",
-  "claim_page": 35,
+  "claim_page": "35",
   "metric_name": "Rate of new occupational illnesses; New occupational health illnesses",
   "extracted_value": "7.9%; 196; 225",
   "value_unit": "%; illnesses; illnesses",
@@ -12,9 +12,9 @@
   "context_page": "35; 35; 37",
   "evidence_source_type": "mixed",
   "label": "Fully Supported",
-  "annotator_1": NaN,
-  "annotator_2": NaN,
-  "final_label": NaN,
+  "annotator_1": "",
+  "annotator_2": "",
+  "final_label": "Fully Supported",
   "rationale_short": "正文和绩效表都显示新职业病从225降至196，对应7.9%下降，直接支持该声明。",
   "notes": "证据合并自绩效目标页与职业健康章节。"
 }

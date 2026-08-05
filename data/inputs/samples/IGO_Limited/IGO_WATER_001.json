@@ -1,0 +1,20 @@
+{
+  "sample_id": "IGO_WATER_001",
+  "company": "IGO Limited",
+  "report_year": 2025,
+  "category": "Water/Environmental Performance",
+  "claim_text": "This enhances the efficiency of water use at the Nova Operation\nand reduces our reliance on groundwater extraction.",
+  "claim_page": 77,
+  "metric_name": "water_use_efficiency",
+  "extracted_value": "N/A",
+  "value_unit": "N/A",
+  "context_text": "N/A",
+  "context_page": "N/A",
+  "evidence_source_type": "N/A",
+  "label": "Suspected Greenwash",
+  "annotator_1": "Zherui Wang",
+  "annotator_2": "",
+  "final_label": "",
+  "rationale_short": "The claim is not clearly supported because the report provides a qualitative explanation of wastewater recycling, but does not provide direct quantitative evidence showing improved water-use efficiency or reduced reliance on groundwater extraction.",
+  "notes": ""
+}

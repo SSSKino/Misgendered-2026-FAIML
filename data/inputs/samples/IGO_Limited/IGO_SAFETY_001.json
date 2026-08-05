@@ -1,0 +1,20 @@
+{
+  "sample_id": "IGO_SAFETY_001",
+  "company": "IGO Limited",
+  "report_year": 2025,
+  "category": "Safety",
+  "claim_text": "Our I-GO Well initiative has made significant strides in supporting our people through musculoskeletal injury prevention and promoting psychosocial safety across our workplaces.",
+  "claim_page": 16,
+  "metric_name": "training completion;Total recordable cases of work-related ill-health;",
+  "extracted_value": "82% training completion;4;26;85% reduction\n",
+  "value_unit": "%;Total recordable cases of work-related ill-health FY25;Total recordable cases of work-related ill-health FY24;%",
+  "context_text": "Of employees that were allocated the training on musculoskeletal injury prevention, 82% have completed the training. \n[table]Total recordable cases of work-related ill-health:\n 4 (FY25) vs 26 (FY24); \nThis year, the total number of recordable work-related ill health cases decreased by 85% with musculoskeletal disorders accounting for the majority of these ill health events.",
+  "context_page": "29;31;33",
+  "evidence_source_type": "mixed",
+  "label": "Partially Supported",
+  "annotator_1": "Zherui Wang",
+  "annotator_2": "",
+  "final_label": "",
+  "rationale_short": "The claim is supported because the report provides outcome-based evidence of a large reduction in recordable work-related ill health cases and also reports substantial completion of musculoskeletal injury prevention training.",
+  "notes": ""
+}

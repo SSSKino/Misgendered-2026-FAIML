@@ -1,10 +1,10 @@
 {
   "sample_id": "FORT_008",
   "company": "Fortescue Ltd",
-  "report_year": 2025,
+  "report_year": "2025",
   "category": "Climate/Emissions",
   "claim_text": "These investments are enabling real reductions in emissions and demonstrating that decarbonisation of industry is both achievable and economic.",
-  "claim_page": 130,
+  "claim_page": "130",
   "metric_name": "Group Scope 1 and 2 emissions (location-based) FY25 vs FY24; Group Scope 1 and 2 location-based emissions intensity FY25 vs FY24",
   "extracted_value": "3.02；2.72；0.015；0.014",
   "value_unit": "MtCO₂-e；MtCO₂-e；tCO₂-e/wmt of ore shipped；tCO₂-e/wmt of ore shipped",
@@ -12,9 +12,9 @@
   "context_page": "130；84；84；84",
   "evidence_source_type": "mixed",
   "label": "Suspected Greenwash",
-  "annotator_1": NaN,
-  "annotator_2": NaN,
-  "final_label": NaN,
+  "annotator_1": "",
+  "annotator_2": "",
+  "final_label": "",
   "rationale_short": "claim 称这些投资已带来“real reductions in emissions”，但报告显示集团Scope 1+2总排放和排放强度均同比上升，与声明相矛盾，构成严重漂绿嫌疑。",
   "notes": "证据合并自第130页的claim文本与第84页实际排放绩效表。"
 }

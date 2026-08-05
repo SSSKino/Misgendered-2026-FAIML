@@ -1,0 +1,20 @@
+{
+  "sample_id": "RSG_SAFETY_001",
+  "company": "Resolute Mining Limited",
+  "report_year": 2025,
+  "category": "Safety",
+  "claim_text": "Our Total Recordable Injury Frequency Rate of 1.87 represents an improvement on the prior year; however, it remains above the levels we expect of ourselves. ",
+  "claim_page": 8,
+  "metric_name": "TRIFR",
+  "extracted_value": "2.11;  1.87;\n",
+  "value_unit": "TRIFR FY24; TRIFR FY25",
+  "context_text": "[table]Group TRIFR:\n2024 2.11;  \n2025 1.87;",
+  "context_page": 25,
+  "evidence_source_type": "table",
+  "label": "Fully Supported",
+  "annotator_1": "Zherui Wang",
+  "annotator_2": "",
+  "final_label": "",
+  "rationale_short": "The safety performance table shows Group TRIFR improved from 2.11 in 2024 to 1.87 in 2025.\n",
+  "notes": ""
+}

@@ -1,10 +1,10 @@
 {
   "sample_id": "S32_018",
   "company": "South32 Limited",
-  "report_year": 2025,
+  "report_year": "2025",
   "category": "Water/Environmental Performance",
   "claim_text": "In FY25, 175ha of land was disturbed through our activities, we undertook progressive rehabilitation activities across approximately 221ha, and set aside almost 3,800ha for conservation.",
-  "claim_page": 24,
+  "claim_page": "24",
   "metric_name": "Land disturbed; Progressive rehabilitation; Conservation set-aside",
   "extracted_value": "175；221；3800",
   "value_unit": "ha；ha；ha",
@@ -12,9 +12,9 @@
   "context_page": "24",
   "evidence_source_type": "text",
   "label": "Fully Supported",
-  "annotator_1": NaN,
-  "annotator_2": NaN,
-  "final_label": NaN,
+  "annotator_1": "",
+  "annotator_2": "",
+  "final_label": "",
   "rationale_short": "该主张由报告直接给出具体面积数据，可被文本直接核验，属于充分支持。",
   "notes": "土地管理类定量披露。"
 }

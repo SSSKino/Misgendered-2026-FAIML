@@ -1,0 +1,20 @@
+{
+  "sample_id": "ALK_WATER_001",
+  "company": "Alkane Resources Ltd",
+  "report_year": 2025,
+  "category": "Water/Environmental Performance",
+  "claim_text": " In FY2025, the site again drew below 50 percent of its 1,000ML entitlement.",
+  "claim_page": 56,
+  "metric_name": "Total water drawn from bore; licensed entitlement",
+  "extracted_value": 477,
+  "value_unit": "ML",
+  "context_text": "[table]Tomingley bore water use consumption and efficiency\nTotal water drawn from bore (ML) FY2025 477",
+  "context_page": 56,
+  "evidence_source_type": "table",
+  "label": "Fully Supported",
+  "annotator_1": "Zherui Wang",
+  "annotator_2": "",
+  "final_label": "",
+  "rationale_short": "The reported 477 ML draw against a 1,000 ML entitlement directly supports the claim(\"below 50%\")",
+  "notes": ""
+}

@@ -1,10 +1,10 @@
 {
   "sample_id": "SFR_007",
   "company": "Sandfire Resources Limited",
-  "report_year": 2025,
+  "report_year": "2025",
   "category": "Climate/Emissions",
   "claim_text": "We have made good progress toward achieving our climate change objectives, having advanced two power related initiatives in support of our GHG emissions reduction targets.",
-  "claim_page": 6,
+  "claim_page": "6",
   "metric_name": "Electricity sourced from renewables; Group total Scope 1 and 2 GHG emissions (FY25 vs FY24); Group emissions intensity (tCO2e / CuEq, FY25 vs FY24)",
   "extracted_value": "71%; 252,582; 208,203; 1.6573; 1.5271",
   "value_unit": "%; tCO2e; tCO2e; tCO2e / CuEq; tCO2e / CuEq",
@@ -12,9 +12,9 @@
   "context_page": "6；5；97",
   "evidence_source_type": "mixed",
   "label": "Partially Supported",
-  "annotator_1": NaN,
-  "annotator_2": NaN,
-  "final_label": NaN,
+  "annotator_1": "",
+  "annotator_2": "",
+  "final_label": "",
   "rationale_short": "71% renewable electricity和两个电力项目推进可部分支持“progress”，但FY25总Scope 1+2排放和集团排放强度均高于FY24，无法充分证明其对“GHG emissions reduction targets”的整体进展。",
   "notes": "证据合并自CEO message、Chair message与GHG表。"
 }

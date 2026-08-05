@@ -2,12 +2,13 @@ from __future__ import annotations
 
 import json
 import os
+import re
 from functools import lru_cache
 from pathlib import Path
-from typing import Any, Dict, Optional
+from typing import Any, Dict, List, Optional
 
 from dotenv import load_dotenv
-from openai import OpenAI, BadRequestError
+from openai import APIStatusError, BadRequestError, OpenAI, OpenAIError
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 CONFIG_DIR = PROJECT_ROOT / "config"
@@ -25,6 +26,7 @@ DEFAULT_SETTINGS: Dict[str, Any] = {
     "base_url": None,
     "organization": None,
     "project": None,
+    "api_mode": "auto",
 }
 
 
@@ -47,6 +49,7 @@ def load_api_settings() -> Dict[str, Any]:
         "base_url": os.getenv("OPENAI_BASE_URL") or os.getenv("RECRUITMENT_API_BASE_URL"),
         "organization": os.getenv("OPENAI_ORG_ID") or os.getenv("RECRUITMENT_API_ORG"),
         "project": os.getenv("OPENAI_PROJECT") or os.getenv("RECRUITMENT_API_PROJECT"),
+        "api_mode": os.getenv("OPENAI_API_MODE") or os.getenv("RECRUITMENT_API_MODE"),
     }
     for key, value in env_overrides.items():
         if value is not None:
@@ -61,6 +64,10 @@ def load_api_settings() -> Dict[str, Any]:
 
     for key in ("base_url", "organization", "project"):
         settings[key] = _clean_optional(settings.get(key))
+
+    settings["api_mode"] = str(settings.get("api_mode") or "auto").strip().lower()
+    if settings["api_mode"] not in {"auto", "responses", "chat"}:
+        raise ValueError("OPENAI_API_MODE/RECRUITMENT_API_MODE must be one of: auto, responses, chat")
 
     return settings
 
@@ -97,6 +104,115 @@ def get_default_temperature() -> float:
 
 def _write_raw_fallback(raw_fallback_name: str, raw: str) -> None:
     Path(raw_fallback_name).write_text(raw or "", encoding="utf-8")
+
+
+def _is_custom_base_url(settings: Dict[str, Any]) -> bool:
+    base_url = str(settings.get("base_url") or "").lower()
+    return bool(base_url) and "api.openai.com" not in base_url
+
+
+def _api_order(settings: Dict[str, Any]) -> List[str]:
+    mode = str(settings.get("api_mode") or "auto").lower()
+    if mode == "responses":
+        return ["responses", "chat"]
+    if mode == "chat":
+        return ["chat"]
+    if _is_custom_base_url(settings):
+        return ["chat"]
+    return ["responses", "chat"]
+
+
+def _is_compatibility_error(ex: Exception, *, endpoint: str) -> bool:
+    msg = str(ex).lower()
+    if isinstance(ex, APIStatusError):
+        if ex.status_code in {400, 404, 405, 422} and endpoint == "responses":
+            return True
+        if ex.status_code not in {400, 404, 405, 422}:
+            return False
+
+    compatibility_terms = (
+        "not supported",
+        "unsupported",
+        "unknown parameter",
+        "invalid parameter",
+        "extra inputs are not permitted",
+        "json_schema",
+        "response_format",
+        "responses",
+        "max_output_tokens",
+        "max_tokens",
+        "temperature",
+        "dashscope",
+        "qwen",
+        "deepseek",
+    )
+    return any(term in msg for term in compatibility_terms)
+
+
+def _unsupported_request_key(ex: Exception, request_kwargs: Dict[str, Any]) -> Optional[str]:
+    msg = str(ex).lower()
+    unsupported_markers = (
+        "not supported",
+        "unsupported",
+        "unknown parameter",
+        "invalid parameter",
+        "extra inputs are not permitted",
+        "only the default",
+    )
+    if not any(marker in msg for marker in unsupported_markers):
+        return None
+
+    for key in ("response_format", "temperature", "max_output_tokens", "max_tokens"):
+        if key in request_kwargs and key in msg:
+            return key
+    return None
+
+
+def _create_with_parameter_fallback(create_fn: Any, request_kwargs: Dict[str, Any]) -> Any:
+    current_kwargs = dict(request_kwargs)
+    while True:
+        try:
+            return create_fn(**current_kwargs)
+        except BadRequestError as ex:
+            unsupported_key = _unsupported_request_key(ex, current_kwargs)
+            if not unsupported_key:
+                raise
+            current_kwargs.pop(unsupported_key, None)
+
+
+def _message_content_to_text(content: Any) -> str:
+    if isinstance(content, list):
+        parts = []
+        for item in content:
+            if isinstance(item, dict) and item.get("type") == "text":
+                parts.append(item.get("text", ""))
+            else:
+                parts.append(str(item))
+        return "".join(parts)
+    return content or ""
+
+
+def _parse_json_text(raw: str) -> Any:
+    text = (raw or "").strip()
+    if text.startswith("```"):
+        text = re.sub(r"^```(?:json)?\s*", "", text, flags=re.IGNORECASE)
+        text = re.sub(r"\s*```$", "", text)
+
+    try:
+        return json.loads(text)
+    except Exception:
+        pass
+
+    decoder = json.JSONDecoder()
+    for index, char in enumerate(text):
+        if char != "{":
+            continue
+        try:
+            obj, _ = decoder.raw_decode(text[index:])
+            return obj
+        except Exception:
+            continue
+    raise ValueError("Model returned non-JSON text.")
 
 
 VALID_THREE_CLASS_LABELS = {"Fully Supported", "Partially Supported", "Suspected Greenwash"}
@@ -182,7 +298,7 @@ def _call_with_responses_api(
     if settings.get("max_output_tokens") is not None:
         request_kwargs["max_output_tokens"] = settings["max_output_tokens"]
 
-    resp = client.responses.create(**request_kwargs)
+    resp = _create_with_parameter_fallback(client.responses.create, request_kwargs)
     return resp.output_text or ""
 
 
@@ -210,17 +326,8 @@ def _call_with_chat_json_fallback(
     if settings.get("max_output_tokens") is not None:
         request_kwargs["max_tokens"] = settings["max_output_tokens"]
 
-    resp = client.chat.completions.create(**request_kwargs)
-    content = resp.choices[0].message.content
-    if isinstance(content, list):
-        parts = []
-        for item in content:
-            if isinstance(item, dict) and item.get("type") == "text":
-                parts.append(item.get("text", ""))
-            else:
-                parts.append(str(item))
-        return "".join(parts)
-    return content or ""
+    resp = _create_with_parameter_fallback(client.chat.completions.create, request_kwargs)
+    return _message_content_to_text(resp.choices[0].message.content)
 
 
 def call_structured_json(
@@ -239,47 +346,47 @@ def call_structured_json(
     chosen_temperature = float(settings["temperature"] if temperature is None else temperature)
     client = build_client()
 
-    raw = ""
-    try:
-        raw = _call_with_responses_api(
-            client=client,
-            chosen_model=chosen_model,
-            chosen_temperature=chosen_temperature,
-            settings=settings,
-            instructions=instructions,
-            payload=payload,
-            schema_name=schema_name,
-            schema_description=schema_description,
-            output_schema=output_schema,
-        )
-    except BadRequestError as ex:
-        msg = str(ex)
-        known_compat_issue = (
-            "tools" in msg.lower()
-            or "json_schema" in msg.lower()
-            or "dashscope" in msg.lower()
-            or "qwen" in msg.lower()
-            or "response_format" in msg.lower()
-        )
-        if not known_compat_issue:
+    last_raw = ""
+    endpoints = _api_order(settings)
+    for index, endpoint in enumerate(endpoints):
+        try:
+            if endpoint == "responses":
+                raw = _call_with_responses_api(
+                    client=client,
+                    chosen_model=chosen_model,
+                    chosen_temperature=chosen_temperature,
+                    settings=settings,
+                    instructions=instructions,
+                    payload=payload,
+                    schema_name=schema_name,
+                    schema_description=schema_description,
+                    output_schema=output_schema,
+                )
+            else:
+                raw = _call_with_chat_json_fallback(
+                    client=client,
+                    chosen_model=chosen_model,
+                    chosen_temperature=chosen_temperature,
+                    settings=settings,
+                    instructions=instructions,
+                    payload=payload,
+                )
+        except OpenAIError as ex:
+            if index + 1 < len(endpoints) and _is_compatibility_error(ex, endpoint=endpoint):
+                continue
             raise
-        raw = _call_with_chat_json_fallback(
-            client=client,
-            chosen_model=chosen_model,
-            chosen_temperature=chosen_temperature,
-            settings=settings,
-            instructions=instructions,
-            payload=payload,
-        )
 
-    try:
-        parsed = json.loads(raw)
-    except Exception as ex:
-        _write_raw_fallback(raw_fallback_name, raw)
-        raise ValueError(f"Model returned non-JSON text. Saved to {raw_fallback_name}") from ex
+        last_raw = raw
+        try:
+            parsed = _parse_json_text(raw)
+            return _coerce_structured_result(parsed)
+        except Exception as ex:
+            if index + 1 < len(endpoints):
+                continue
+            _write_raw_fallback(raw_fallback_name, last_raw)
+            raise ValueError(
+                f"Model returned non-JSON or invalid JSON fields. Saved to {raw_fallback_name}"
+            ) from ex
 
-    try:
-        return _coerce_structured_result(parsed)
-    except Exception as ex:
-        _write_raw_fallback(raw_fallback_name, raw)
-        raise ValueError(f"Model returned JSON with missing or invalid fields. Saved to {raw_fallback_name}") from ex
+    _write_raw_fallback(raw_fallback_name, last_raw)
+    raise ValueError(f"Model did not return a valid result. Saved to {raw_fallback_name}")

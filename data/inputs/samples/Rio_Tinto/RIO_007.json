@@ -1,10 +1,10 @@
 {
   "sample_id": "RIO_007",
   "company": "Rio Tinto",
-  "report_year": 2025,
+  "report_year": "2025",
   "category": "Climate/Emissions",
   "claim_text": "Reduce emissions intensity by 40% by 2025 and deliver 50% intensity reduction by 2030.",
-  "claim_page": 85,
+  "claim_page": "85",
   "metric_name": "Shipping emissions intensity improvement against IMO 2008 baseline",
   "extracted_value": "39%",
   "value_unit": "%",
@@ -12,9 +12,9 @@
   "context_page": "85; 84",
   "evidence_source_type": "mixed",
   "label": "Suspected Greenwash",
-  "annotator_1": NaN,
-  "annotator_2": NaN,
-  "final_label": NaN,
+  "annotator_1": "",
+  "annotator_2": "",
+  "final_label": "",
   "rationale_short": "2025实际改善为39%，低于40%的2025目标，与claim不符。",
   "notes": "claim 为目标型表述，实际结果差1个百分点。"
 }

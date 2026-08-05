@@ -1,10 +1,10 @@
 {
   "sample_id": "S32_003",
   "company": "South32 Limited",
-  "report_year": 2025,
+  "report_year": "2025",
   "category": "Safety",
   "claim_text": "We are committed to improving our safety performance.",
-  "claim_page": 29,
+  "claim_page": "29",
   "metric_name": "High-potential injury and illness frequency; LTIF; TRIF",
   "extracted_value": "0.2；1.4；3.7",
   "value_unit": "frequency rate；frequency rate；frequency rate",
@@ -12,9 +12,9 @@
   "context_page": "29；30；145",
   "evidence_source_type": "mixed",
   "label": "Fully Supported",
-  "annotator_1": NaN,
-  "annotator_2": NaN,
-  "final_label": NaN,
+  "annotator_1": "",
+  "annotator_2": "",
+  "final_label": "Fully Supported",
   "rationale_short": "报告提供了明确的同比改善数据，包括高潜在伤害频率、TRIF和LTIF下降，能够直接支持公司持续改进安全绩效的表述。",
   "notes": "承诺与实际改善趋势一致。"
 }

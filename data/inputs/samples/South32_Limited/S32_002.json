@@ -1,10 +1,10 @@
 {
   "sample_id": "S32_002",
   "company": "South32 Limited",
-  "report_year": 2025,
+  "report_year": "2025",
   "category": "Safety",
   "claim_text": "We use this ‘safety guarantee’ to instil a belief that everyone can go home safe and well.",
-  "claim_page": 30,
+  "claim_page": "30",
   "metric_name": "Fatalities from health and safety incidents",
   "extracted_value": "1",
   "value_unit": "fatalities",
@@ -12,9 +12,9 @@
   "context_page": "30；29；30",
   "evidence_source_type": "mixed",
   "label": "Suspected Greenwash",
-  "annotator_1": NaN,
-  "annotator_2": NaN,
-  "final_label": NaN,
+  "annotator_1": "",
+  "annotator_2": "",
+  "final_label": "",
   "rationale_short": "报告同页及相邻页明确披露FY25发生1起致命事故，与“everyone can go home safe and well”这一结果性、绝对化表述直接冲突。",
   "notes": "典型安全类绝对化宣传语。"
 }

@@ -1,10 +1,10 @@
 {
   "sample_id": "BHP_013",
   "company": "BHP Group Limited",
-  "report_year": 2025,
+  "report_year": "2025",
   "category": "Water/Environmental Performance",
   "claim_text": "This milestone was achieved in FY2024 and again in FY2025.",
-  "claim_page": 55,
+  "claim_page": "55",
   "metric_name": "Water extracted and reinjected for Lagunillas wetland replenishment; Water supplied to Cerro Colorado site for drinking water, sanitation and hygiene",
   "extracted_value": "approximately 625 ML；~22 ML",
   "value_unit": "ML；ML",
@@ -12,9 +12,9 @@
   "context_page": "55；55；55；55",
   "evidence_source_type": "text",
   "label": "Fully Supported",
-  "annotator_1": NaN,
-  "annotator_2": NaN,
-  "final_label": NaN,
+  "annotator_1": "",
+  "annotator_2": "",
+  "final_label": "Fully Supported",
   "rationale_short": "正文明确说明Cerro Colorado已于2023年12月停止为运营用途抽取陆地水，FY2025仅保留湿地回补和生活用水安排，直接支持该milestone。",
   "notes": "claim 自带结论，证据取自同页具体说明。"
 }

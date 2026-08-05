@@ -39,8 +39,15 @@ EXPERIMENTS: List[Dict[str, Any]] = [
     },
 ]
 
-SAMPLE_WORKERS = max(1, min(96, 48))
+def default_sample_workers() -> int:
+    raw = os.getenv("EXPERIMENT_WORKERS", "8")
+    try:
+        return max(1, int(raw))
+    except ValueError:
+        return 8
 
+
+SAMPLE_WORKERS = default_sample_workers()
 
 def run(cmd: List[str], *, label: str, env: Optional[Dict[str, str]] = None) -> None:
     proc = subprocess.run(
@@ -57,9 +64,10 @@ def run(cmd: List[str], *, label: str, env: Optional[Dict[str, str]] = None) -> 
     print(f"[ERROR] {label}")
     err_text = (proc.stderr or proc.stdout or "").strip()
     if err_text:
-        last_line = err_text.splitlines()[-1].strip()
-        if last_line:
-            print(f"       {last_line[:300]}")
+        for line in err_text.splitlines()[-3:]:
+            line = line.strip()
+            if line:
+                print(f"       {line[:300]}")
     raise subprocess.CalledProcessError(proc.returncode, cmd, output=proc.stdout, stderr=proc.stderr)
 
 
@@ -144,6 +152,23 @@ def write_failures_log(failures: List[Dict[str, Any]]) -> Path:
     return out_path
 
 
+def serialize_failure(ex: BaseException) -> Dict[str, Any]:
+    failure: Dict[str, Any] = {
+        "error_type": type(ex).__name__,
+        "error": str(ex),
+    }
+    if isinstance(ex, subprocess.CalledProcessError):
+        failure.update(
+            {
+                "returncode": ex.returncode,
+                "cmd": ex.cmd,
+                "stdout": ex.output or "",
+                "stderr": ex.stderr or "",
+            }
+        )
+    return failure
+
+
 def rebuild_setting_summary(experiment: Dict[str, Any]) -> Path:
     result_dir = OUTPUT_ROOT / experiment["output_dir_name"] / "individual"
     summary_path = OUTPUT_ROOT / experiment["output_dir_name"] / f"{experiment['output_dir_name']}_predictions.json"
@@ -203,16 +228,15 @@ def main() -> None:
                     try:
                         future.result()
                     except Exception as ex:
-                        failures.append(
-                            {
-                                "experiment_id": experiment["experiment_id"],
-                                "experiment_name": experiment["experiment_name"],
-                                "setting_name": experiment["setting_name"],
-                                "sample_file": str(task["sample_file"]),
-                                "out_path": str(task["out_path"]),
-                                "error": str(ex),
-                            }
-                        )
+                        failure = {
+                            "experiment_id": experiment["experiment_id"],
+                            "experiment_name": experiment["experiment_name"],
+                            "setting_name": experiment["setting_name"],
+                            "sample_file": str(task["sample_file"]),
+                            "out_path": str(task["out_path"]),
+                        }
+                        failure.update(serialize_failure(ex))
+                        failures.append(failure)
 
         summary_path = rebuild_setting_summary(experiment)
         analysis_paths = build_setting_analysis(summary_path)

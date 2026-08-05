@@ -1,0 +1,10 @@
+[
+  {
+    "experiment_id": 3,
+    "experiment_name": "Strength_Test3",
+    "setting_name": "Setting C",
+    "sample_file": "C:\\Users\\NINGMEI\\Downloads\\mining\\mining_test\\data\\inputs\\samples\\Capricorn_Metals_Ltd\\CMM_WATER_001.json",
+    "out_path": "C:\\Users\\NINGMEI\\Downloads\\mining\\mining_test\\data\\outputs\\setting_C\\individual\\Capricorn_Metals_Ltd\\CMM_WATER_001.json",
+    "error": "Command '['E:\\\\anaconda3\\\\envs\\\\PYG\\\\python.exe', 'C:\\\\Users\\\\NINGMEI\\\\Downloads\\\\mining\\\\mining_test\\\\src\\\\Strength_Test3.py', 'C:\\\\Users\\\\NINGMEI\\\\Downloads\\\\mining\\\\mining_test\\\\data\\\\inputs\\\\samples\\\\Capricorn_Metals_Ltd\\\\CMM_WATER_001.json', '--out', 'C:\\\\Users\\\\NINGMEI\\\\Downloads\\\\mining\\\\mining_test\\\\data\\\\outputs\\\\setting_C\\\\individual\\\\Capricorn_Metals_Ltd\\\\CMM_WATER_001.json', '--skip-parent-aggregate']' returned non-zero exit status 1."
+  }
+]

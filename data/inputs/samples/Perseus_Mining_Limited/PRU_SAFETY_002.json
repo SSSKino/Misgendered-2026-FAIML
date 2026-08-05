@@ -1,0 +1,20 @@
+{
+  "sample_id": "PRU_SAFETY_002",
+  "company": "Perseus Mining Limited",
+  "report_year": 2025,
+  "category": "Safety",
+  "claim_text": "Our vision is to create a workplace where everyone returns home healthy and safe every day.",
+  "claim_page": 4,
+  "metric_name": "Total recordable injuries; LTIFR; Number of fatalities; Total Recordable Cases of Work-Related Ill-Health",
+  "extracted_value": "8;",
+  "value_unit": " recordable injuries",
+  "context_text": "There were eight recordable injuries recorded across both employees and contractors;\n",
+  "context_page": 25,
+  "evidence_source_type": "mixed",
+  "label": "Suspected Greenwash",
+  "annotator_1": "Zherui Wang",
+  "annotator_2": "",
+  "final_label": "",
+  "rationale_short": "The report records eight recordable injuries in FY25, which conflicts with the claim that everyone returns home healthy and safe every day.",
+  "notes": ""
+}

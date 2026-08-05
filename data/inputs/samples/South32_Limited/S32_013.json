@@ -1,10 +1,10 @@
 {
   "sample_id": "S32_013",
   "company": "South32 Limited",
-  "report_year": 2025,
+  "report_year": "2025",
   "category": "Water/Environmental Performance",
   "claim_text": "We are focused on managing our impact on nature, including water, biodiversity, air and surrounding ecosystems.",
-  "claim_page": 3,
+  "claim_page": "3",
   "metric_name": "Water performance actions completion; Land disturbed; Progressive rehabilitation; Conservation set-aside",
   "extracted_value": "100%/100%/100%/92%；175；221；3800",
   "value_unit": "completion rate；ha；ha；ha",
@@ -12,9 +12,9 @@
   "context_page": "3；24；24",
   "evidence_source_type": "mixed",
   "label": "Partially Supported",
-  "annotator_1": NaN,
-  "annotator_2": NaN,
-  "final_label": NaN,
+  "annotator_1": "",
+  "annotator_2": "",
+  "final_label": "",
   "rationale_short": "报告提供了水管理完成率、土地扰动、修复和保育数据，表明公司确有一定自然管理行动；但对空气、周边生态系统和整体自然影响管理的证据并不完整，因此只能部分支撑。",
   "notes": "覆盖面广于已提供绩效证据。"
 }

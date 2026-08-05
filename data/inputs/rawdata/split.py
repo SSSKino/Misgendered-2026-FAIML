@@ -13,7 +13,7 @@ RAWDATA_DIR = ROOT / "data" / "inputs" / "rawdata"
 SAMPLES_DIR = ROOT / "data" / "inputs" / "samples"
 
 REQUIRED_FIELDS = ("sample_id", "company", "claim_text")
-DEFAULT_GLOB = "*claim*.json"
+DEFAULT_GLOB = "*.json"
 
 
 def clean_text(value: Any) -> str:

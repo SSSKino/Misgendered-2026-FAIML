@@ -1,10 +1,10 @@
 {
   "sample_id": "BHP_005",
   "company": "BHP Group Limited",
-  "report_year": 2025,
+  "report_year": "2025",
   "category": "Climate/Emissions",
   "claim_text": "Based on what we know today and using current methodologies for GHG emission accounting, we remain on track to meet our medium-term target to reduce operational GHG emissions (Scopes 1 and 2 emissions from our operated assets) by at least 30 per cent by FY2030 from an FY2020 baseline.",
-  "claim_page": 40,
+  "claim_page": "40",
   "metric_name": "Operational GHG emissions reduction from FY2020 baseline; Operational GHG emissions FY2025; Operational GHG emissions FY2024",
   "extracted_value": "36%；8.7 MtCO2-e；9.2 MtCO2-e",
   "value_unit": "%；MtCO2-e；MtCO2-e",
@@ -12,9 +12,9 @@
   "context_page": "40；40",
   "evidence_source_type": "text",
   "label": "Fully Supported",
-  "annotator_1": NaN,
-  "annotator_2": NaN,
-  "final_label": NaN,
+  "annotator_1": "",
+  "annotator_2": "",
+  "final_label": "",
   "rationale_short": "FY2025运营Scope 1和2排放已较FY2020基线下降36%，高于2030年前至少下降30%的中期目标门槛，证据直接且量化支持claim。",
   "notes": "claim 自带目标描述，证据取自同页实际绩效数据。"
 }

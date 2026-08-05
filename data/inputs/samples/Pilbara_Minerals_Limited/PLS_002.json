@@ -1,10 +1,10 @@
 {
   "sample_id": "PLS_002",
   "company": "Pilbara Minerals Limited",
-  "report_year": 2025,
+  "report_year": "2025",
   "category": "Safety",
   "claim_text": "Our Safety First culture guided us through major expansion projects and helped us achieve our safety targets, ensuring our Great People go home safe and well every day.",
-  "claim_page": 34,
+  "claim_page": "34",
   "metric_name": "Australian operations TRIFR; Group TRIFR; Recordable injuries (Australia); Recordable injuries (Brazil)",
   "extracted_value": "2.79；3.10；14；2",
   "value_unit": "rate；rate；injuries；injuries",
@@ -12,9 +12,9 @@
   "context_page": "34；51",
   "evidence_source_type": "mixed",
   "label": "Suspected Greenwash",
-  "annotator_1": NaN,
-  "annotator_2": NaN,
-  "final_label": NaN,
+  "annotator_1": "",
+  "annotator_2": "",
+  "final_label": "",
   "rationale_short": "虽然安全目标达成且零工亡，但报告期内仍有14起澳洲可记录伤害和2起巴西可记录伤害，与“go home safe and well every day”的绝对表述相矛盾。",
   "notes": "同一句中既有可支持部分，也有被伤害数据直接否定的绝对表述。"
 }

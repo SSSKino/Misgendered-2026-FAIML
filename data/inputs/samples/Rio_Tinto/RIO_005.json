@@ -1,10 +1,10 @@
 {
   "sample_id": "RIO_005",
   "company": "Rio Tinto",
-  "report_year": 2025,
+  "report_year": "2025",
   "category": "Climate/Emissions",
   "claim_text": "We are making measurable progress towards achieving our targets and investing towards future abatement.",
-  "claim_page": 55,
+  "claim_page": "55",
   "metric_name": "Adjusted gross Scope 1 and 2 emissions reduction from 2018 baseline; Net adjusted Scope 1 and 2 emissions reduction from baseline; 2025 gross Scope 1 and 2 GHG emissions",
   "extracted_value": "14%; 17%; 31.5",
   "value_unit": "%; %; Mt CO2e",
@@ -12,9 +12,9 @@
   "context_page": "55; 35",
   "evidence_source_type": "mixed",
   "label": "Partially Supported",
-  "annotator_1": NaN,
-  "annotator_2": NaN,
-  "final_label": NaN,
+  "annotator_1": "",
+  "annotator_2": "",
+  "final_label": "",
   "rationale_short": "已实现14% gross和17% net减排，说明确有可量化进展，但对“achieving our targets”的支撑不充分，因为2025 gross reduction仍低于15%目标。",
   "notes": "证据合并自气候章节叙述和年度目标绩效表。"
 }

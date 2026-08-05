@@ -1,10 +1,10 @@
 {
   "sample_id": "RIO_002",
   "company": "Rio Tinto",
-  "report_year": 2025,
+  "report_year": "2025",
   "category": "Safety",
   "claim_text": "Reach zero fatalities and eliminate workplace injuries and catastrophic events.",
-  "claim_page": 35,
+  "claim_page": "35",
   "metric_name": "Fatalities at managed operations; All-injury frequency rate; Number of lost-time injuries",
   "extracted_value": "1; 0.37; 322",
   "value_unit": "fatalities; per 200,000 hours worked; injuries",
@@ -12,9 +12,9 @@
   "context_page": "35; 35; 35; 37",
   "evidence_source_type": "mixed",
   "label": "Suspected Greenwash",
-  "annotator_1": NaN,
-  "annotator_2": NaN,
-  "final_label": NaN,
+  "annotator_1": "",
+  "annotator_2": "",
+  "final_label": "",
   "rationale_short": "目标是零死亡并消除伤害，但FY25实际发生1起死亡事故且仍有322起失时伤害，和claim相矛盾。",
   "notes": "claim 为目标型表述，实际绩效结果与之相反。"
 }

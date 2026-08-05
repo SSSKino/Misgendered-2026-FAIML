@@ -1,0 +1,20 @@
+{
+  "sample_id": "RSG_WATER_001",
+  "company": "Resolute Mining Limited",
+  "report_year": 2025,
+  "category": "Water/Environmental Performance",
+  "claim_text": "The mineral processing operation used 1.7 million m3 of process water from the tailings storage facility for reuse in the processing plant, which significantly reduced the reliance on abstraction from the Gambia River.",
+  "claim_page": 33,
+  "metric_name": "Water withdrawn; Water reused; Water reused (%)",
+  "extracted_value": "1,369; 1,714; 38.5",
+  "value_unit": "ML; ML; %",
+  "context_text": "[table]Water withdrawl, reuse and discharge (ML) 2025  Mako Water withdrawn 1,369 ; \nWater reused 1,714 ;\nWater reused (%) 38.5.",
+  "context_page": 33,
+  "evidence_source_type": "table",
+  "label": "Partially Supported",
+  "annotator_1": "Zherui Wang",
+  "annotator_2": "",
+  "final_label": "",
+  "rationale_short": "The evidence shows substantial water reuse and relatively limited abstraction, but it does not directly quantify or fully demonstrate that reliance on abstraction from the Gambia River was significantly reduced.",
+  "notes": ""
+}

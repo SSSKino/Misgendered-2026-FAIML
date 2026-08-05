@@ -1,10 +1,32 @@
 {
   "total_files": 90,
+  "source_count": 1,
   "sources": [
     {
-      "source_file": "balanced_90_claim_experiment_dataset.json",
-      "company_dir": "Evolution_Mining_Limited",
-      "records_written": 90
+      "source_file": "miningdata8_Data.json",
+      "records_written": 90,
+      "company_counts": {
+        "Alkane_Resources_Ltd": 5,
+        "Bellevue_Gold_Limited": 4,
+        "BHP_Group_Limited": 6,
+        "Capricorn_Metals_Ltd": 3,
+        "Evolution_Mining_Limited": 3,
+        "Fortescue_Ltd": 5,
+        "Greatland_Resources_Limited": 3,
+        "IGO_Limited": 6,
+        "Lynas_Rare_Earths_Limited": 5,
+        "Mineral_Resources_Limited": 4,
+        "Northern_Star_Resources_Ltd": 5,
+        "Ora_Banda_Mining_Ltd": 2,
+        "Pilbara_Minerals_Limited": 5,
+        "Perseus_Mining_Limited": 3,
+        "Rio_Tinto": 6,
+        "Ramelius_Resources_Ltd": 3,
+        "Resolute_Mining_Limited": 4,
+        "South32_Limited": 10,
+        "Sandfire_Resources_Limited": 4,
+        "Westgold_Resources_Limited": 4
+      }
     }
   ]
 }

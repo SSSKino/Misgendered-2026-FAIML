@@ -1,10 +1,10 @@
 {
   "sample_id": "NST_010",
   "company": "Northern Star Resources Ltd",
-  "report_year": 2025,
+  "report_year": "2025",
   "category": "Water/Environmental Performance",
   "claim_text": "Results indicated a significant improvement in conformance with ISO14001:2015.",
-  "claim_page": 115,
+  "claim_page": "115",
   "metric_name": "EMS audit conformance; EMS audit partial conformance; EMS audit non-conformance",
   "extracted_value": "42→93; 33→7; 25→0",
   "value_unit": "%; %; %",
@@ -12,9 +12,9 @@
   "context_page": "115",
   "evidence_source_type": "mixed",
   "label": "Fully Supported",
-  "annotator_1": NaN,
-  "annotator_2": NaN,
-  "final_label": NaN,
+  "annotator_1": "",
+  "annotator_2": "",
+  "final_label": "",
   "rationale_short": "FY25与FY22 EMS审计对比图给出了明确的改善幅度，直接支持“significant improvement in conformance”。",
   "notes": "证据包含同页正文与审计结果图表。"
 }

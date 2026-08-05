@@ -1,10 +1,10 @@
 {
   "sample_id": "NST_001",
   "company": "Northern Star Resources Ltd",
-  "report_year": 2025,
+  "report_year": "2025",
   "category": "Safety",
   "claim_text": "At Northern Star, continuously improving the health, safety, and wellbeing of our workforce is a priority.",
-  "claim_page": 52,
+  "claim_page": "52",
   "metric_name": "Workforce Serious Injury Frequency Rate (SIFR); Workforce Lost Time Injury Frequency Rate (LTIFR); Workforce Total Reportable Injury Frequency Rate (TRIFR); Workforce safety training completed",
   "extracted_value": "2.9; 0.5; 4.8; 149,940",
   "value_unit": "per million hours worked; per million hours worked; per million hours worked; hours",
@@ -12,9 +12,9 @@
   "context_page": "52; 53; 22",
   "evidence_source_type": "mixed",
   "label": "Partially Supported",
-  "annotator_1": NaN,
-  "annotator_2": NaN,
-  "final_label": NaN,
+  "annotator_1": "",
+  "annotator_2": "",
+  "final_label": "",
   "rationale_short": "治理、培训和披露体系能够支持“priority”这一点，但FY25部分伤害率相较FY24恶化，无法充分支持“continuously improving”的结果性含义。",
   "notes": "证据合并自安全治理叙述与FY25安全绩效指标。"
 }

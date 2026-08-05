@@ -1,10 +1,10 @@
 {
   "sample_id": "SFR_009",
   "company": "Sandfire Resources Limited",
-  "report_year": 2025,
+  "report_year": "2025",
   "category": "Climate/Emissions",
   "claim_text": "In FY25, +70% of electricity across Sandfire was sourced from renewables rather than fossil fuel, such that 238kt of CO2e was abated across the three-year period, which is 36% ahead of plan.",
-  "claim_page": 137,
+  "claim_page": "137",
   "metric_name": "CO2e abated across FY23-FY25; carbon abatement target by 30 June 2025; electricity sourced from renewables in FY25",
   "extracted_value": "237,982; 175,000; +70%",
   "value_unit": "tCO2e; tCO2e; %",
@@ -12,9 +12,9 @@
   "context_page": "137",
   "evidence_source_type": "mixed",
   "label": "Fully Supported",
-  "annotator_1": NaN,
-  "annotator_2": NaN,
-  "final_label": NaN,
+  "annotator_1": "",
+  "annotator_2": "",
+  "final_label": "",
   "rationale_short": "目标值175,000 tCO2e、实际三年累计237,982 tCO2e和FY25“+70% electricity ... sourced from renewables”在同页文字与表格中形成完整证据链，直接支持“36% ahead of plan”。",
   "notes": "claim 自带数据，证据取自同页表格Table 8。"
 }

@@ -1,10 +1,10 @@
 {
   "sample_id": "NST_005",
   "company": "Northern Star Resources Ltd",
-  "report_year": 2025,
+  "report_year": "2025",
   "category": "Climate/Emissions",
   "claim_text": "In FY25 we continued to progress our climate related projects with renewable energy infrastructure installations.",
-  "claim_page": 10,
+  "claim_page": "10",
   "metric_name": "Jundee Operations wind farm; Carosue Dam Operations third solar array; Porphyry solar facility",
   "extracted_value": "commissioned; commissioned; commissioned",
   "value_unit": "project status; project status; project status",
@@ -12,9 +12,9 @@
   "context_page": "10",
   "evidence_source_type": "text",
   "label": "Fully Supported",
-  "annotator_1": NaN,
-  "annotator_2": NaN,
-  "final_label": NaN,
+  "annotator_1": "",
+  "annotator_2": "",
+  "final_label": "",
   "rationale_short": "同页直接列出了FY25已推进并投运的可再生能源项目，能完整支持该表述。",
   "notes": "项目进展型 claim，证据为同页具体投运事项。"
 }

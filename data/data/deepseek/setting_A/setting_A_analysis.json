@@ -1,0 +1,341 @@
+{
+  "count": 90,
+  "experiment_id": 1,
+  "experiment_name": "borderline",
+  "setting_name": "Setting A",
+  "result_count": 90,
+  "overall_metrics": {
+    "evaluated_count": 90,
+    "correct_count": 39,
+    "accuracy": 0.4333,
+    "macro_f1": 0.3773,
+    "weighted_f1": 0.3773,
+    "gold_label_distribution": {
+      "Fully Supported": 30,
+      "Partially Supported": 30,
+      "Suspected Greenwash": 30
+    },
+    "pred_label_distribution": {
+      "Fully Supported": 12,
+      "Partially Supported": 7,
+      "Suspected Greenwash": 71
+    },
+    "per_label": {
+      "Fully Supported": {
+        "support": 30,
+        "predicted_count": 12,
+        "precision": 0.6667,
+        "recall": 0.2667,
+        "f1": 0.381,
+        "tp": 8,
+        "fp": 4,
+        "fn": 22
+      },
+      "Partially Supported": {
+        "support": 30,
+        "predicted_count": 7,
+        "precision": 0.5714,
+        "recall": 0.1333,
+        "f1": 0.2162,
+        "tp": 4,
+        "fp": 3,
+        "fn": 26
+      },
+      "Suspected Greenwash": {
+        "support": 30,
+        "predicted_count": 71,
+        "precision": 0.3803,
+        "recall": 0.9,
+        "f1": 0.5347,
+        "tp": 27,
+        "fp": 44,
+        "fn": 3
+      }
+    },
+    "confusion_matrix": {
+      "Fully Supported": {
+        "Fully Supported": 8,
+        "Partially Supported": 3,
+        "Suspected Greenwash": 19
+      },
+      "Partially Supported": {
+        "Fully Supported": 1,
+        "Partially Supported": 4,
+        "Suspected Greenwash": 25
+      },
+      "Suspected Greenwash": {
+        "Fully Supported": 3,
+        "Partially Supported": 0,
+        "Suspected Greenwash": 27
+      }
+    }
+  },
+  "category_breakdown": {
+    "Climate/Emissions": {
+      "evaluated_count": 30,
+      "correct_count": 11,
+      "accuracy": 0.3667,
+      "macro_f1": 0.3062,
+      "weighted_f1": 0.3062,
+      "gold_label_distribution": {
+        "Fully Supported": 10,
+        "Partially Supported": 10,
+        "Suspected Greenwash": 10
+      },
+      "pred_label_distribution": {
+        "Fully Supported": 2,
+        "Partially Supported": 3,
+        "Suspected Greenwash": 25
+      },
+      "per_label": {
+        "Fully Supported": {
+          "support": 10,
+          "predicted_count": 2,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "tp": 0,
+          "fp": 2,
+          "fn": 10
+        },
+        "Partially Supported": {
+          "support": 10,
+          "predicted_count": 3,
+          "precision": 1.0,
+          "recall": 0.3,
+          "f1": 0.4615,
+          "tp": 3,
+          "fp": 0,
+          "fn": 7
+        },
+        "Suspected Greenwash": {
+          "support": 10,
+          "predicted_count": 25,
+          "precision": 0.32,
+          "recall": 0.8,
+          "f1": 0.4571,
+          "tp": 8,
+          "fp": 17,
+          "fn": 2
+        }
+      },
+      "confusion_matrix": {
+        "Fully Supported": {
+          "Fully Supported": 0,
+          "Partially Supported": 0,
+          "Suspected Greenwash": 10
+        },
+        "Partially Supported": {
+          "Fully Supported": 0,
+          "Partially Supported": 3,
+          "Suspected Greenwash": 7
+        },
+        "Suspected Greenwash": {
+          "Fully Supported": 2,
+          "Partially Supported": 0,
+          "Suspected Greenwash": 8
+        }
+      }
+    },
+    "Safety": {
+      "evaluated_count": 30,
+      "correct_count": 13,
+      "accuracy": 0.4333,
+      "macro_f1": 0.339,
+      "weighted_f1": 0.339,
+      "gold_label_distribution": {
+        "Fully Supported": 10,
+        "Partially Supported": 10,
+        "Suspected Greenwash": 10
+      },
+      "pred_label_distribution": {
+        "Fully Supported": 3,
+        "Partially Supported": 1,
+        "Suspected Greenwash": 26
+      },
+      "per_label": {
+        "Fully Supported": {
+          "support": 10,
+          "predicted_count": 3,
+          "precision": 1.0,
+          "recall": 0.3,
+          "f1": 0.4615,
+          "tp": 3,
+          "fp": 0,
+          "fn": 7
+        },
+        "Partially Supported": {
+          "support": 10,
+          "predicted_count": 1,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "tp": 0,
+          "fp": 1,
+          "fn": 10
+        },
+        "Suspected Greenwash": {
+          "support": 10,
+          "predicted_count": 26,
+          "precision": 0.3846,
+          "recall": 1.0,
+          "f1": 0.5556,
+          "tp": 10,
+          "fp": 16,
+          "fn": 0
+        }
+      },
+      "confusion_matrix": {
+        "Fully Supported": {
+          "Fully Supported": 3,
+          "Partially Supported": 1,
+          "Suspected Greenwash": 6
+        },
+        "Partially Supported": {
+          "Fully Supported": 0,
+          "Partially Supported": 0,
+          "Suspected Greenwash": 10
+        },
+        "Suspected Greenwash": {
+          "Fully Supported": 0,
+          "Partially Supported": 0,
+          "Suspected Greenwash": 10
+        }
+      }
+    },
+    "Water/Environmental Performance": {
+      "evaluated_count": 29,
+      "correct_count": 14,
+      "accuracy": 0.4828,
+      "macro_f1": 0.4378,
+      "weighted_f1": 0.4332,
+      "gold_label_distribution": {
+        "Fully Supported": 10,
+        "Partially Supported": 10,
+        "Suspected Greenwash": 9
+      },
+      "pred_label_distribution": {
+        "Fully Supported": 7,
+        "Partially Supported": 3,
+        "Suspected Greenwash": 19
+      },
+      "per_label": {
+        "Fully Supported": {
+          "support": 10,
+          "predicted_count": 7,
+          "precision": 0.7143,
+          "recall": 0.5,
+          "f1": 0.5882,
+          "tp": 5,
+          "fp": 2,
+          "fn": 5
+        },
+        "Partially Supported": {
+          "support": 10,
+          "predicted_count": 3,
+          "precision": 0.3333,
+          "recall": 0.1,
+          "f1": 0.1538,
+          "tp": 1,
+          "fp": 2,
+          "fn": 9
+        },
+        "Suspected Greenwash": {
+          "support": 9,
+          "predicted_count": 19,
+          "precision": 0.4211,
+          "recall": 0.8889,
+          "f1": 0.5714,
+          "tp": 8,
+          "fp": 11,
+          "fn": 1
+        }
+      },
+      "confusion_matrix": {
+        "Fully Supported": {
+          "Fully Supported": 5,
+          "Partially Supported": 2,
+          "Suspected Greenwash": 3
+        },
+        "Partially Supported": {
+          "Fully Supported": 1,
+          "Partially Supported": 1,
+          "Suspected Greenwash": 8
+        },
+        "Suspected Greenwash": {
+          "Fully Supported": 1,
+          "Partially Supported": 0,
+          "Suspected Greenwash": 8
+        }
+      }
+    },
+    "Water/Environmental performance": {
+      "evaluated_count": 1,
+      "correct_count": 1,
+      "accuracy": 1.0,
+      "macro_f1": 0.3333,
+      "weighted_f1": 1.0,
+      "gold_label_distribution": {
+        "Fully Supported": 0,
+        "Partially Supported": 0,
+        "Suspected Greenwash": 1
+      },
+      "pred_label_distribution": {
+        "Fully Supported": 0,
+        "Partially Supported": 0,
+        "Suspected Greenwash": 1
+      },
+      "per_label": {
+        "Fully Supported": {
+          "support": 0,
+          "predicted_count": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 0
+        },
+        "Partially Supported": {
+          "support": 0,
+          "predicted_count": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 0
+        },
+        "Suspected Greenwash": {
+          "support": 1,
+          "predicted_count": 1,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "tp": 1,
+          "fp": 0,
+          "fn": 0
+        }
+      },
+      "confusion_matrix": {
+        "Fully Supported": {
+          "Fully Supported": 0,
+          "Partially Supported": 0,
+          "Suspected Greenwash": 0
+        },
+        "Partially Supported": {
+          "Fully Supported": 0,
+          "Partially Supported": 0,
+          "Suspected Greenwash": 0
+        },
+        "Suspected Greenwash": {
+          "Fully Supported": 0,
+          "Partially Supported": 0,
+          "Suspected Greenwash": 1
+        }
+      }
+    }
+  },
+  "error_count": 51,
+  "case_candidate_count": 39
+}

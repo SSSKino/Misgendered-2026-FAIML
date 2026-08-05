@@ -1,10 +1,10 @@
 {
   "sample_id": "SFR_004",
   "company": "Sandfire Resources Limited",
-  "report_year": 2025,
+  "report_year": "2025",
   "category": "Water/Environmental Performance",
   "claim_text": "Across each Asset, we promote responsible water use through efficiency, reuse and recycling and aim to return unconsumed water back to the catchment at the same or better quality than when it was extracted.",
-  "claim_page": 75,
+  "claim_page": "75",
   "metric_name": "Water reused / recycled; Motheo water intensity; MATSA water intensity",
   "extracted_value": "3,543ML; 1.4; 0.4",
   "value_unit": "ML; tonnes of water per tonne of ore processed; tonnes of water per tonne of ore processed",
@@ -12,9 +12,9 @@
   "context_page": "75；77",
   "evidence_source_type": "mixed",
   "label": "Partially Supported",
-  "annotator_1": NaN,
-  "annotator_2": NaN,
-  "final_label": NaN,
+  "annotator_1": "",
+  "annotator_2": "",
+  "final_label": "",
   "rationale_short": "报告提供了回用水量和两个矿山的水强度数据，能部分支撑“efficiency, reuse and recycling”，但没有提供关于“return ... at the same or better quality”的量化证据，也缺少跨资产效率改善趋势。",
   "notes": "证据合并自水管理正文与水绩效表。"
 }
