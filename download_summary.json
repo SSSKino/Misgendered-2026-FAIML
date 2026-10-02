@@ -1,11 +1,15 @@
 {
   "source_workbook": "C:\\Users\\UAY4SGH\\Downloads\\da\\0929\\NSW_Council_BUILDING_DA_FILES_ONE_FILE_ONE_ROW_REBUILT_SAFE_2026-09-28 (1).xlsx",
   "records": 379,
-  "downloaded_records": 291,
-  "failed_records": 88,
+  "downloaded_records": 314,
+  "failed_records": 64,
   "represented_councils": 121,
-  "councils_with_verified_files": 97,
-  "physical_verified_files": 291,
-  "verified_bytes": 1234646463,
-  "generated_on": "2026-09-29"
+  "councils_with_verified_files": 106,
+  "physical_verified_files": 314,
+  "verified_bytes": 1517549987,
+  "generated_on": "2026-09-30",
+  "supplementary_successor_files": 3,
+  "supplementary_successor_note": "North Sydney row 275 is replaced by three official current downloads; these are not counted as an exact one-file match.",
+  "updated_on": "2026-10-02T07:51:14+00:00",
+  "excluded_out_of_scope_records": 1
 }
