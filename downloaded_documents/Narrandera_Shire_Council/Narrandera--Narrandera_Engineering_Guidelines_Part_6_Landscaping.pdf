@@ -1,0 +1,1083 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en-AU">
+<!--<![endif]-->
+<head>
+	<!-- Published by OpenCities, 1.38.0.0 -->
+
+    
+        
+    
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="theme-color" content="#002B46"/>
+    <title>Home Narrandera Shire Council</title>
+	<meta name="generator" content="OpenCities - https://granicus.com/product/opencities" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Using mobile-web-app-capable for now to enable full-screen experience on supported platforms -->
+    <!-- Note: This tag works mainly on Android Chrome. It does NOT enable full-screen mode on iOS Safari. -->
+    <!-- For iOS, the correct tag is: <meta name="apple-mobile-web-app-capable" content="yes"> -->
+    <!-- TODO: Monitor for updated meta tag standards from Apple or other browser vendors -->
+    <meta name="mobile-web-app-capable" content="yes" />
+        <meta name="description" content="Welcome to Narrandera Shire Council, the local government authority located in south-west NSW for Narrandera, Barellan and Grong Grong townships and surrounding rural communities. Find out about Council programs, facilities, meetings, planning matters and other important services." />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.narrandera.nsw.gov.au/Home" />
+    <meta property="og:title" content="Narrandera Shire Council" />
+    <meta property="og:description" content="Welcome to Narrandera Shire Council, the local government authority located in south-west NSW for Narrandera, Barellan and Grong Grong townships and surrounding rural communities. Find out about Council programs, facilities, meetings, planning matters and other important services." />
+    <meta property="og:image" content="https://www.narrandera.nsw.gov.au/files/ocwebsite/Public/HeroImage/corporate%20logo%20-%20feb%202025.png?w=1200" />
+    <meta property="twitter:card" content="summary" />
+    <meta property="twitter:title" content="Narrandera Shire Council" />
+    <meta property="twitter:description" content="Welcome to Narrandera Shire Council, the local government authority located in south-west NSW for Narrandera, Barellan and Grong Grong townships and surrounding rural communities. Find out about Council programs, facilities, meetings, planning matters and other important services." />
+    <meta property="twitter:image" content="https://www.narrandera.nsw.gov.au/files/ocwebsite/Public/HeroImage/corporate%20logo%20-%20feb%202025.png?w=1080" />
+    <link rel="canonical" href="https://www.narrandera.nsw.gov.au/Home" />
+
+    
+    <link rel="icon" type="image/png" href="/files/ocfavicon/Public/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/svg+xml" href="/files/ocfavicon/Public/favicon.svg" />
+<link rel="shortcut icon" href="/files/ocfavicon/Public/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="/files/ocfavicon/Public/apple-touch-icon.png" />
+<link rel="manifest" href="/files/ocfavicon/Public/site.webmanifest" />
+    <script>
+        (function () {
+            if (window.__UNLOAD_LAZY_PATCH__) return;
+            window.__UNLOAD_LAZY_PATCH__ = true;
+
+            var supportsPageHide = ("onpagehide" in window);
+            var mappedType = supportsPageHide ? "pagehide" : "beforeunload";
+            var nativeAdd = window.addEventListener;
+            var nativeRemove = window.removeEventListener;
+            var unloadMap = null;
+            var patched = false;
+
+            function ensurePatched() {
+                if (patched) return;
+                unloadMap = new WeakMap();
+
+                window.addEventListener = function (type, listener, options) {
+                    if (type === "unload") {
+                        var wrapped = function (evt) {
+                            if (supportsPageHide && evt.persisted) return;
+                            listener.call(this, evt);
+                        };
+                        unloadMap.set(listener, wrapped);
+                        return nativeAdd.call(this, mappedType, wrapped, options);
+                    }
+                    return nativeAdd.call(this, type, listener, options);
+                };
+
+                window.removeEventListener = function (type, listener, options) {
+                    if (type === "unload") {
+                        var wrapped = unloadMap.get(listener);
+                        if (wrapped) {
+                            nativeRemove.call(this, mappedType, wrapped, options);
+                            unloadMap.delete(listener);
+                        }
+                        return;
+                    }
+                    return nativeRemove.call(this, type, listener, options);
+                };
+
+                var orig = null;
+                Object.defineProperty(window, "onunload", {
+                    configurable: true, enumerable: true,
+                    get: function () { return orig; },
+                    set: function (h) {
+                        orig = h;
+                        if (typeof h === "function") window.addEventListener("unload", h);
+                    }
+                });
+                patched = true;
+            }
+
+            window.addEventListener = function (type, listener, options) {
+                if (type === "unload") {
+                    ensurePatched();
+                    return window.addEventListener(type, listener, options);
+                }
+                return nativeAdd.call(this, type, listener, options);
+            };
+
+            window.removeEventListener = function (type, listener, options) {
+                if (type === "unload" && !patched) {
+                    return;
+                }
+                return nativeRemove.call(this, type, listener, options);
+            };
+
+            function patchTelerik() {
+                ensurePatched();
+                var ns = window.RadAjaxNamespace;
+                if (!ns || !ns.EventManager || !ns.EventManager.Add || ns.EventManager.__UnloadPatched) return;
+                var origAdd = ns.EventManager.Add;
+                ns.EventManager.Add = function (el, evtName, handler, clientId) {
+                    if (el === window && evtName === "unload") {
+                        return window.addEventListener("unload", handler);
+                    }
+                    return origAdd.call(this, el, evtName, handler, clientId);
+                };
+                ns.EventManager.__UnloadPatched = true;
+            }
+
+            if (window.RadAjaxNamespace)
+                patchTelerik();
+            else (window.requestIdleCallback || function (cb)
+            {
+                setTimeout(cb, 120);
+            })(patchTelerik);
+        })();
+    </script>
+    <!-- Preconnecting to Google Fonts servers -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <!-- Defer Roboto font loading to avoid render-blocking -->
+    <script>
+        window.addEventListener('DOMContentLoaded', () => {
+            const robotoLink = document.createElement('link');
+            robotoLink.rel = 'stylesheet';
+            robotoLink.href = 'https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap';
+            document.head.appendChild(robotoLink);
+        });
+    </script>
+
+    <style>
+        .gm-style, .gm-style * {
+            font-family: 'Roboto', system-ui, -apple-system, "Segoe UI", Arial, sans-serif !important;
+        }
+    </style>
+
+    <script>
+        document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, "js");
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    
+        
+            <script type="text/javascript">
+                window.__oc_flags_ImprovedBreakpointEventHandling = true;
+            </script>
+            
+        
+    
+    
+    
+        <script type="text/javascript">
+            var __metaQueryBreakpoints = {
+                'sc-size-4': '(max-width: 480px)',
+                'sc-size-3': '(min-width: 480px) and (max-width: 768px)',
+                'sc-size-2': '(min-width: 768px) and (max-width: 992px)',
+                'sc-size-1': '(min-width: 992px)'
+            }
+
+            var __ocSizePoints = [
+                { min: 0, name: 'sc-size-4' },
+                { min: 480, name: 'sc-size-3' },
+                { min: 768, name: 'sc-size-2' },
+                { min: 992, name: 'sc-size-1' }
+            ];
+
+        </script>
+    
+
+    <!-- Framework Section -->
+    
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="/files/templates/00000000-0000-0000-0000-000000000000/d6fe9d44-6966-4481-a7e1-925f7d30fe02/v/143/jquery-3.7.1.min.js?seamlessts=639257219979180634" ><\/script>')</script>
+
+    <!--Google Maps API Loader – Improved Version to avoid Warning
+    This script loads the Google Maps JavaScript API using a dynamic and async method.
+    It replaces the old static <script> tag to avoid performance warnings from Google.
+
+    Dynamically creates the <script> tag with loading = async for better performance
+    Builds the API URL with required libraries(places, geometry, marker, geocoding)
+    Uses a Promise and callback(google.maps.__ib__) to confirm when the script is ready
+
+    It Avoids Google’s warning about direct script loading
+    Improves page load speed by loading the API asynchronously-->
+
+    
+        <script>
+            (function (root) {
+                root.OpenCities = root.OpenCities || {};
+                if (!root.OpenCities.GoogleMapsLoader) {
+                    root.OpenCities.GoogleMapsLoader = {
+                        _cbs: [],
+                        _ready: false,
+                        onReady: function (cb) {
+                            if (this._ready) { try { cb(); } catch (e) { console.error(e); } }
+                            else if (typeof cb === 'function') this._cbs.push(cb);
+                        },
+                        _fire: function () {
+                            if (this._ready) return;
+                            this._ready = true;
+                            var q = this._cbs.splice(0);
+                            for (var i = 0; i < q.length; i++) {
+                                try { q[i](); } catch (e) { console.error(e); }
+                            }
+                        }
+                    };
+                }
+            })(window);
+
+            (g => {
+                var h, a, k, p = "The Google Maps JavaScript API", c = "google", l = "importLibrary", q = "__ib__",
+                    m = document, b = window;
+                b = b[c] || (b[c] = {});
+                var d = b.maps || (b.maps = {}), r = new Set, e = new URLSearchParams,
+                    u = () => h || (h = new Promise(async (resolve, reject) => {
+                        a = m.createElement("script");
+                        e.set("libraries", [...r] + "");
+                        for (k in g) e.set(k.replace(/[A-Z]/g, t => "_" + t[0].toLowerCase()), g[k]);
+                        e.set("callback", c + ".maps." + q);
+                        a.src = "https://maps." + c + "apis.com/maps/api/js?" + e.toString();
+                        a.loading = "async";
+                        a.async = true;
+                        a.defer = true;
+                        d[q] = resolve;
+                        a.onerror = () => reject(Error(p + " could not load."));
+                        a.nonce = m.querySelector("script[nonce]")?.nonce || "";
+                        m.head.append(a);
+                    }));
+                if (d[l]) {
+                    console.warn(p + " only loads once. Ignoring duplicate load.");
+                } else {
+                    d[l] = (f, ...n) => (r.add(f), u().then(() => d[l](f, ...n)));
+                }
+            })({
+                key: "AIzaSyAJCA6FFsKYOQSvSvAFYrLmUpHGbaM6Ak4",
+                v: "3.65"
+            });
+
+            (async () => {
+                try {
+                    if (!google?.maps?.importLibrary) return;
+
+                    if (!window.OpenCities.__mapsLibsPromise) {
+                        window.OpenCities.__mapsLibsPromise = Promise.all([
+                            google.maps.importLibrary('maps'),
+                            google.maps.importLibrary('places'),
+                            google.maps.importLibrary('geocoding'),
+                            google.maps.importLibrary('marker'),
+                            google.maps.importLibrary('geometry')
+                        ]);
+                    }
+                    await window.OpenCities.__mapsLibsPromise;
+
+                    if (window.OpenCities?.GoogleMapsLoader) {
+                        window.OpenCities.GoogleMapsLoader._fire();
+                    }
+                } catch (err) {
+                    console.error('Google Maps failed to initialise', err);
+                }
+            })();
+        </script>
+    
+    <script src="/files/templates/00000000-0000-0000-0000-000000000000/d6fe9d44-6966-4481-a7e1-925f7d30fe02/v/143/modernizr.custom.710f3bf.js?seamlessts=639257219979180634" defer></script>
+    
+    <!--// End Framework Section -->
+    <!-- OpenCities Section -->
+    <script>
+        var OpenCities = OpenCities || {};
+        OpenCities.Paths = {
+            SiteTemplate: '/files/templates/00000000-0000-0000-0000-000000000000/d6fe9d44-6966-4481-a7e1-925f7d30fe02/v/143/',
+            ThemePath: '/files/templates/00000000-0000-0000-0000-000000000000/d6fe9d44-6966-4481-a7e1-925f7d30fe02/v/143/'
+        };
+    </script>
+    <script src='/ocapi/d2afed78-e672-4102-bd3a-2f270ffad058/en-AU/websitesettings.js'></script>
+    <script src="/files/templates/00000000-0000-0000-0000-000000000000/d6fe9d44-6966-4481-a7e1-925f7d30fe02/v/143/oc_head.js?applied=20260222112527"></script>
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<link href="/files/oc-templates/00000000-0000-0000-0000-000000000000/d6fe9d44-6966-4481-a7e1-925f7d30fe02/v/143/oc_grid.css~oc_style.css~oc_wizard_style.css~oc_main.css~oc_forms.css~oc_wizard.css~oc_wizard_menu.css~oc_main_s1.css~oc_wizard_s1.css~oc_wizard_menu_s1.css~oc_grid_s1.css~OcScriptCombine_Minify0?uniqueid=20260222112527" rel="stylesheet" type="text/css">
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<link href="/files/oc-templates/00000000-0000-0000-0000-000000000000/d6fe9d44-6966-4481-a7e1-925f7d30fe02/v/143/client_style.css~client.css~client_menu.css~client_s1.css~client_menu_s1.css~client_forms.css~OcScriptCombine_Minify0?uniqueid=20260222112527" rel="stylesheet" type="text/css">
+    <script>
+(function (BackgroundSettings, $, undefined) {
+    BackgroundSettings.initialise = function () {
+        this.Application = {"CSSSelector":".background-container","EnableFade":false,"MediaType":"image"};
+    };
+} (OpenCities.BackgroundSettings = OpenCities.BackgroundSettings || {}, jQuery));
+OpenCities.BackgroundSettings.initialise();
+</script>
+    
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<link href="/files/oc-templates/00000000-0000-0000-0000-000000000000/d6fe9d44-6966-4481-a7e1-925f7d30fe02/v/143/oc_print.css~client_print.css~OcScriptCombine_Minify0?uniqueid=20260222112527" rel="stylesheet" type="text/css" media="print">
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<script src="/files/oc-templates/00000000-0000-0000-0000-000000000000/d6fe9d44-6966-4481-a7e1-925f7d30fe02/v/143/external_plugins.js~oc_form_helper.js~oc_main.js~plugins.js~oc_main_init.js~OcScriptCombine_Minify0?uniqueid=20260222112527" defer="true"></script>
+    
+    
+
+                                <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="UYNRY-2YMH8-7PYXA-RUTF9-QCXU8",function(){function e(){if(!r){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,o.appendChild(e),r=!0}}function t(e){r=!0;var n,t,a,i,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(o,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",i=(a.frameElement||a).style,i.width=0,i.height=0,i.border=0,i.display="none",o.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void 0;",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=14,window.BOOMR.url=n+"UYNRY-2YMH8-7PYXA-RUTF9-QCXU8";var i=document.currentScript||document.getElementsByTagName("script")[0],o=i.parentNode,r=!1,d=document.createElement("link");if(d.relList&&"function"==typeof d.relList.supports&&d.relList.supports("preload")&&"as"in d)window.BOOMR.snippetMethod="p",d.href=window.BOOMR.url,d.rel="preload",d.as="script",d.addEventListener("load",e),d.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!r)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),o.appendChild(d);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="fijzkaab4qceajqacqd6qaaadfvmavay-f-acd902ba8-clienttons-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"41","ak.cp":"1920773","ak.ai":parseInt("1075936",10),"ak.ol":"0","ak.cr":2,"ak.ipv":6,"ak.proto":"http/1.1","ak.rid":"21f4ff5c","ak.r":39715,"ak.a2":n,"ak.m":"dscb","ak.n":"essl","ak.cport":62110,"ak.gh":"184.30.41.183","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1790989336","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==FMtvLBKfxdccJ3+iNhLKrUm5C1gjHYNQwD1DaX4J5IP/RXnQ85z9BQriAOzGQxp/DwjrCMd7y51Gy8XRsvKBxqG53/B1UJoMYTMhws6At93zvuGoUUcEj2Q1Zvl/QHKEVn6mQcp2jpnBoFHjAu+B1Rg0/kVHtUbEaw+PPys56Ehtl/TaLgpGTf4+fSEcXhqNpKSvKOWyhmIduiIRmxScWA+U0vuiyfmZS1PBCSddjCFCPMXLRA1B96C3Zkc45r+QVEFhjI5YjK1UXvsJRevi7D6ou6jtDGZo5ByQAzBYQ+UY/n6OYMUkVrUfEq1wap+1yZZeX+9Rx/LH7TfIUs0R1dX/pQIfKdh3jyeOStr97SPjkYzowW8/nJZ00JV9e+1+fgAYPzRPAI1lAgfTDxtUQeEPY3Jl/f2omdHrPy/Haiw=","ak.pv":"147","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body class="body layout-modern  site-search-always-visble  content-type-oc-profile content-template-oc-default group-template-oc-empty-with-default-header page-name-home page-sequence-1 page-depth-1 page-section-1 website-type-primary device-desktop " id="body-top">
+    <div id="skip-to-content-container">
+        <a href="#main-content" class="visuallyhidden focusable" id="skip-to-content-link">Skip to main content</a>
+    </div>
+    <script>
+        // OCNOW-11988 (Cursor): Proactively focus skip link when returning from browser chrome.
+        // Must run inline (not deferred oc_main.js) so focus is intercepted before NVDA speaks footer.
+        (function () {
+            var awaitingReentry = false;
+            var inertSupported = 'inert' in HTMLElement.prototype;
+
+            function isExplicitlyOutsideDocument(node) {
+                return node != null && !document.documentElement.contains(node);
+            }
+
+            function getSkipContainer() {
+                return document.getElementById('skip-to-content-container');
+            }
+
+            function getSkipLink() {
+                return document.getElementById('skip-to-content-link');
+            }
+
+            function applyGuard() {
+                awaitingReentry = true;
+                if (!inertSupported) {
+                    return;
+                }
+                var skipContainer = getSkipContainer();
+                var children = document.body.children;
+                for (var i = 0; i < children.length; i++) {
+                    if (children[i] !== skipContainer) {
+                        children[i].setAttribute('inert', '');
+                    }
+                }
+            }
+
+            function clearGuard() {
+                awaitingReentry = false;
+                if (!inertSupported) {
+                    return;
+                }
+                var children = document.body.children;
+                for (var i = 0; i < children.length; i++) {
+                    children[i].removeAttribute('inert');
+                }
+            }
+
+            function isSkipLinkElement(target) {
+                if (!target) {
+                    return false;
+                }
+                var skipContainer = getSkipContainer();
+                return target.id === 'skip-to-content-link' ||
+                    (skipContainer && skipContainer.contains(target));
+            }
+
+            function focusSkipLink() {
+                var skipLink = getSkipLink();
+                if (!skipLink) {
+                    return;
+                }
+                if (window.scrollY > 0) {
+                    window.scrollTo(0, 0);
+                }
+                skipLink.focus({ preventScroll: true });
+            }
+
+            function scheduleGuardIfDocumentLostFocus() {
+                window.setTimeout(function () {
+                    if (!document.hasFocus()) {
+                        applyGuard();
+                    }
+                }, 0);
+            }
+
+            document.addEventListener('focusout', function (e) {
+                if (isExplicitlyOutsideDocument(e.relatedTarget)) {
+                    applyGuard();
+                }
+            }, true);
+
+            document.addEventListener('keydown', function (e) {
+                if (e.key === 'Tab') {
+                    scheduleGuardIfDocumentLostFocus();
+                } else if (e.key === 'F6' || (e.key === 'l' && e.ctrlKey)) {
+                    scheduleGuardIfDocumentLostFocus();
+                }
+            }, true);
+
+            window.addEventListener('focus', function () {
+                if (!awaitingReentry) {
+                    return;
+                }
+                applyGuard();
+                focusSkipLink();
+            }, true);
+
+            document.addEventListener('focusin', function (e) {
+                var reentryFromChrome = awaitingReentry || isExplicitlyOutsideDocument(e.relatedTarget);
+                if (!reentryFromChrome) {
+                    return;
+                }
+                if (isSkipLinkElement(e.target)) {
+                    clearGuard();
+                    return;
+                }
+                applyGuard();
+                focusSkipLink();
+                clearGuard();
+            }, true);
+        })();
+    </script>
+    <form name="mainForm" method="post" action="/Home" id="mainForm">
+<div>
+<input type="hidden" name="ctl04_seamless_script_manager_TSM" id="ctl04_seamless_script_manager_TSM" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__SEAMLESSVIEWSTATE" id="__SEAMLESSVIEWSTATE" value="H4sIAAAAAAAEAAFACL/3LThUlsBYfp8zHg/9zs+ZngSEvNSKNNXLBRBq/tnx83tZvS5J7DiH9SU9Uuwy4TFMy8M1qorywdTf4ZnqWzGCxKiznZqF1O2mXrYndx3+UUTvxHwrzYAZcvZY+cYsUJ2/TTBAdm2QtT3azhAGaK7qP+PZJwc2ljeu05ncS1oXBdXVupPQ6ebvGVWOKniSS2ux6Sy3OT7cYh8MpVCKmnhrvoo59kAE2lw2acXbc9m9KWncZXuQh5fDDfDGMHY1OPjEV5ryggFaBAtoSHfuV6IwfBvCB7EMtJgozZaFaruD8xxDNkCy8QS85+W9jaUX8l5oaHQJaXpVubn5szBlMcdbp7Pa6Re9hQW7XiQRa13yHF4qCTJMEPa38Aq2RV2E+y/o2xeCC8+Ob4FcdVIvw82/8H7q4wdI++WstKembW/JWO/gFvOkk9noLEyAGZxSrhIFNsHACT5DJIQXVMRzi5xY9/dX82Gqg7K+E3X274/8Qq1ez1pq+VzwdHsDXwvZrPmPBrGQeQ/NkZD8Iqy5m1q3Zn9b31kGOfV4IG5KI1qMFpMHPfr5BXfYKinFyCcUQYD6nXZJ5VwcawvoVe0AL5wDv4jehI8W3V6eEW3FaAE4PXTLChPfiltupA1NSWKl1w9MAl4QQaBit7RSeC1964whItAlwXSG//CJJ8dGZgDTKtkLQk6qTzRF3Vvl+jhCuHksLzVKAS7T4mu8LDSeLqIILA+nxmGlpvF38V1o/Tz47A309m3cDdPJqZ6N60+GkSFqcDUq0MKRKPqRbIkWysNKHwJCKe9qWZpEn5jCI/hQ8nRNvpJTsbb9AcVQb3cME/vYyAMlQzv2tJcDq7TIOro/SYNVrPbv0FPDjmeds+e/LK8qXlkJg8yyDpRgafCn2NWTIQmLJKdNNTNRL2F/+imfkIHdXwUCHVh0Fg0UM/nibuUpj71HUJ/4zF5Xt+b3FT9ze29JJFLZ51F3UmF86PI9j2R5Pb+fN6mehIx9+5yda+Xy0dKxtAAPGd3UHXHKlofhK2c0YO1ekP2knBcfQytqieJR6rHkpc+MkMOb/1gSly6Tu2HvWW9aJj01R5yThb5yI6as+JNxyP6E5lhJKjXVHcJYZHvosqjSmzmtuS/CLO/KtyPq7FbjWvs3TmvSGN+U6I4EwFgZ6fDXFe9uwH6z4zxThlQ2s7WoQrjKR16zeB+4JCiG77a+S4E+QDngHOrs8BkZ4GRjJd7jfiOfK8pw0KLkR0WCoZtGWU9QUrasURHBZpoIb/LPMQSUKIihvhY+0Cb47s+XhU9G89Naj7LsLp1JMjqlC7y0T8Hf58wrOEExHjkqpEBEnJ7e22LQ+NLwvz230C8zt8bEJF3Iuh7YYnXXR2d+5U1bMhjfk2gUd0c1R2AyHsM0OB4Mrf/H438TdA2k7YGHtkt+3v2jF3+g4n87rJBv0ZyJXmu1fYC02DBOz/7SUOqncYKlIR1xHWv2mgBIkBL/nyIl8LamS08ZpZeyeeUInGrtXBHhNybJvzmPdWUUhyTAIYblfmwDvZqDvYXSe887J/J4GOdDmeFH1QL9UxJPYps/JikeaxOUx7e23aykN71wgooST7d3oLxnEecpmaOlz4Q4Y0qSsvvuJUWnFmyHD6z6tynyDvslFBO45+Sr6xLn3UzLYXfiSLyeiaPlEhMJj2ZJ9+SnWbE9Ryp1Tpj0bwD4GJT9bflY+wlFGxzD3Nysg/w2DTz9TdnAunyutF3IIOGwWgxvuvTDgOfSYtWmpFXdndsGvFYT2CToooPL96Xqkl92GpLP5As0OM9N7weuwVr+WND6sMuFJK+shptYxBJC9N8ofoTjiCBUe/Qk3Kw1GRezuNKEDNJBD6lq35DR5Jg4im2BN8riVr1ZKNFFPaTbiV5Gc1PIB0Y/iwEjk6TU/ppAtKYomWzSpOTi/ykAawFXuTFuk5DnUTfISWQ+q/kKrWcMhjyO/OnDvdfa+avOqFVlh1y8MFf4pJkMUoOid6/xUxezncur73J6SwQPmCmEGaW7veM7wk+gqUNgZiAvmQgm7/jLM/8O/w3abcXRRlypwx91gpTL7hOCkugUvKHcvjWpDmfqkqW4z3W0FBt3cg7Hb1xumCY4UyT4oiKSUw0a40MIOq1QK1FxIokw0MNoFhFVaHlTxn62Oc9llSljk18qD1COKiw6jv5GIbhnsWCm+UaKiDIoJ3+Ke7HyVxQut8ZQIa4ftSAy3YAiP1kuzmm7KMEYB1RDWB+eMY3JQJ0mmXLzQ5Mic/H6S84aWYPp6/aN9QNyp2N4E3aiwWoIQelNU4a27f8A6A7vyUvBfFkbnSTxOYE64fXa5IB1qPVsUvBZ3+nOpK7rz6bq46pQFvH6Jabvykg0LtkV+I17ZgROyRFyWekcoKWp09kLKLpXYYxzGn8JtNhmZ8Rk9XcJ+vloJwBaIda/fKxIyw0SOordQeYq+XpK85c/QL0E8HA/Ifz3Qu9I1D595bGAgDo7kg4OcPc5ZhQEIsv6WIOTOT3vrtyBKfS7VtkCLaAXUVulYiZ7DRSydeiJWhVpIEVbGD6X3NCMOvGZh8xhnBfeD3mNt9ImoaeBq77fypqjCHk04RAQxZwi3aiYAIUq3ay+KShpIesUKsUR7x/8/fD8hgoXYJirS0lgLrk3sRWG9o4sa5KPx1C5Y/w/+eLASOcVVJo28egywtBqxVmklLzeRKOUHCAU4ZXb0h8u9KRDkXQQcU1/TVa9mZNRafprM5/y7o9/K+K2sIjXigYrllRZcZBPzgu0FatEmNvQjon490dO1ThLpkYZKjKF5PBvxsGr2mGYoPbfMTf1gNxe40AIAAA=" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['mainForm'];
+if (!theForm) {
+    theForm = document.mainForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZEwxevNHYVPiVa1Imd_CfwV7Ab8FE1aS0qMo2VVt5LKJo2QwSrlAqlF7-BPzzVxibA2&amp;t=639191193332169432" type="text/javascript"></script>
+
+
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl04_seamless_script_manager_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-GB%3add3ac3d5-1e29-4112-8fed-529caffa8f24%3aea597d4b%3ab25378d2" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=ztfW3kfUj1kK9ZWYC4ej_YyY-llfPumdq9-NRUvh9Uam5JPIB5oZzJ19At_CwLQ5O31FJzhrxcBbfgAJUOFtlsCwTcvV8vK3u9gsUWJqmgh0Pw0YYlNx4NSp9KplnE_eT7S9eX_-PwKE2c7tRQNT04hzb2OTP6z1KWHhU4Jc8PGF8nZ6kyB3nQcnI8YgTawmmD1CJBE3-GOzNla5CiDCqFGMLX7lc0pw8SocqJVncUGV4ML4WKAG6oCiF3Aat7dRSXzCipTecSoQz6_8ge3paIj6t9K5lZIvko0VtvIf-LRJlXwMoWLOwyblUIiJ0HYy_XIYF05ue4Xr0Hi5uSGYnzdyAHVCqdaasvhSkhlS1EzKlnW_a6ebeVyv4s4VaIF-ednQeajwML4FIeYqGGhGzYw-FrCsqydzc6Eu7rJHlAyIr49xtnRz3udEIE14FUog0" type="text/javascript"></script>
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl04_seamless_script_manager_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bOpenCities.CustomControls%3aen-GB%3a2c6af46a-a9e7-48e6-823a-b8e6c08bf5b8%3a8e1d32bf" type="text/javascript"></script>
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl04$seamless_script_manager', 'mainForm', [], [], [], 90, '');
+//]]>
+</script>
+
+<script type="text/javascript">
+    try{
+        function SeamlessEndRequestHandler(sender, args) {
+            try {
+                var dataItems = args.get_dataItems();
+                if(dataItems.ctl04_seamless_script_manager)
+                    document.getElementById('__SEAMLESSVIEWSTATE').value = dataItems.ctl04_seamless_script_manager;
+            }
+            catch (e) { }
+        }
+
+        Sys.WebForms.PageRequestManager.getInstance().add_endRequest(SeamlessEndRequestHandler);
+    }
+    catch (e) { }
+</script>
+
+    <div class="unsupported-browser-warning js-element"></div>
+    
+    <div hidden>
+        <span id="new-window-0">opens in new tab or window </span>
+    </div>
+    <div class="overlay-container"></div>
+    
+    <div role="region" aria-label="Site announcements" class="emergency-container emergency-container-position-1"><div id="PublicEmergencyAnnouncementList" data-cookiekeydismisseditems="OC_EA_EmergencyAnnouncementList_Dismissed" data-querykeydismisseditem="OC_EA_EmergencyAnnouncementList_Dismiss">
+   <div class="oc-emergency-announcement-container">
+  <div class="oc-emergency-undismissed max-severity-30 results-1">
+    <div class="side-box message-box emergency-message-box oc-emergency-severity-30 " >
+   <h3 class="side-box-title">Labour Day closure arrangements</h3>
+   <div class="side-box-content">
+      <p >Narrandera Shire Council's offices, works depot and library will be closed on Monday 5 October 2026 for the Labour Day holiday. For emergencies, contact our after hours numbers.</p>
+      <a href="https://www.narrandera.nsw.gov.au/Council/Contact-us"  target="_self" >Contact us</a>
+      
+   </div>
+   <button type="button" class="emergency-announcement-item-dismiss" aria-label="Close this announcement" data-cvid="97a0950c-5c81-4193-86f8-ab247d35151c"></button>
+</div>
+        
+  </div><div class="oc-emergency-dismissed results-0"></div></div></div></div>
+    <div class="background-container">
+        <div class="page-container">
+            <!-- OC Layout Element GROUP TEMPLATE -->
+            <!--groupTemplateStart--><header>
+            
+            <div class="toolbar-outer-container">
+  <div class="toolbar-inner-container clearfix">
+    <div class="toolbar-item toolbar-quicklinks toolbar-display-dropdown">
+	<button type="button" aria-controls="toolbar-quicklinks-drop-down" aria-expanded="false" class="toolbar-button toolbar-button-quicklinks js-element"><span>Quick Links</span><i aria-hidden="true"></i></button>	
+	<div id="toolbar-quicklinks-drop-down" class="toolbar-drop-down toolbar-quicklinks-drop-down clearfix">
+		<ul>
+		  <li><a href="https://www.narrandera.nsw.gov.au/Council/Contact-us" class="oc-icon-b oc-i-contact link-type-internal"><span>Contact Us</span></a></li>
+		</ul>
+	</div>
+</div><div class="toolbar-item toolbar-language notranslate toolbar-display-dropdown"><div class="no-js-element">
+		  <ul>
+		    <li id="toolbar-language-option-en-au-noscript"><a href="https://www.narrandera.nsw.gov.au/Home?oc_lang=en-AU" class="lang-item lang-en-au" data-translate-to="en-au" lang="en-AU">English (Australia)<span class="visuallyhidden"> Select this as your preferred language</span></a></li>
+          </ul>
+		</div>
+	<button type="button" role="combobox" aria-controls="toolbar-language-drop-down" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="none" aria-labelledby="toolbar-language-label" class="toolbar-button toolbar-button-language js-element">  
+        <span class="toolbar-language-globe-icon" aria-hidden="true"></span>
+        <span id="toolbar-language-label" class="current-language">
+            Select a language to translate to
+		</span>
+		<i aria-hidden="true"></i>
+	</button>
+	<div id="toolbar-language-drop-down" role="listbox" aria-label="Available languages" class="toolbar-drop-down toolbar-language-drop-down js-element clearfix">
+		<ul role="group">
+		    <li role="presentation"><a id="toolbar-language-option-en-au" role="option" aria-selected="true" href="https://www.narrandera.nsw.gov.au/Home?oc_lang=en-AU" class="lang-item lang-en-au" data-translate-to="en-au" lang="en-AU">English (Australia)<span class="visuallyhidden"> Select this as your preferred language</span></a></li>
+        </ul>
+	</div></div>
+  </div>
+</div>
+            <div class="header-outer-container">
+    <div class="header-container header-layout-4  clearfix">
+			<div class="header-site-logo">
+				<a href="https://www.narrandera.nsw.gov.au/Home" lang="en-AU" aria-label="Narrandera Shire Council - Home - Logo">
+				</a>
+			</div>
+      
+		    <div class="mobile-search-btn js-element">
+		        <button><i aria-hidden="true"></i><span class="mobile-search-btn-text"><span class="visuallyhidden">Open </span>Search</span></button>
+		    </div>
+		    <div class="header-website-settings">
+                <button id="btn-mob-nav" type="button" aria-expanded="false" aria-controls="nav">
+                    <i aria-hidden="true"></i><span class="side-menu-btn-text">Menu</span>
+                </button>
+        	</div>
+          <div class="navigation-outer-container">
+	<div id="nav" role="navigation" class="navigation-container  navigation-container-option-8" data-menu-type="horizontal" aria-label="primary">
+        <div class="grid">
+            <div class="col-xs-12">              
+                <ul class="sf-menu" id="sc-main-menu"><li class="nav-section-quarters-1   first-item nav-item-seq-1">
+<a href="https://www.narrandera.nsw.gov.au/Council" class="nav-level-1 nav-has-children"  target="">
+	<i class="item-icon" aria-hidden="true"></i><span class="item-text">Council</span>
+</a>
+<button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow" aria-controls="sc-menu-second-level-nav-item-seq-1">
+              <i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-second-level-nav-item-seq-1">
+
+          
+            <li class=" "><a  href="https://www.narrandera.nsw.gov.au/Council/About-Council" class="nav-has-children"  target="">About Council</a><button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow-child" aria-controls="sc-menu-third-level-nav-item-seq-1-nav-item-seq-1"><i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-third-level-nav-item-seq-1-nav-item-seq-1">
+          
+            <li  class=" "><a href="https://www.narrandera.nsw.gov.au/Council/About-Council/How-councils-work"  target="">How councils work</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Council/About-Council/Councillors"  target="">Councillors</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Council/About-Council/Executive-team"  target="">Executive team</a></li></ul></li><li class=" "><a  href="https://www.narrandera.nsw.gov.au/Council/Contact-us" class=""  target="">Contact us</a></li><li class=" "><a  href="https://www.narrandera.nsw.gov.au/Council/Council-meetings" class="nav-has-children"  target="">Council meetings</a><button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow-child" aria-controls="sc-menu-third-level-nav-item-seq-1-nav-item-seq-3"><i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-third-level-nav-item-seq-1-nav-item-seq-3">
+          
+            <li  class=" "><a href="https://www.narrandera.nsw.gov.au/Council/Council-meetings/Council-meetings-and-public-forums"  target="">Council meetings and public forums</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Council/Council-meetings/Business-papers-and-minutes"  target="">Business papers and minutes</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Council/Council-meetings/Meeting-live-stream"  target="">Meeting live stream</a></li></ul></li><li class=" "><a  href="https://www.narrandera.nsw.gov.au/Council/Rates-fees-and-forms" class="nav-has-children"  target="">Rates, fees and forms</a><button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow-child" aria-controls="sc-menu-third-level-nav-item-seq-1-nav-item-seq-4"><i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-third-level-nav-item-seq-1-nav-item-seq-4">
+          
+            <li  class=" "><a href="https://www.narrandera.nsw.gov.au/Council/Rates-fees-and-forms/Rates-and-water-billing"  target="">Rates and water billing</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Council/Rates-fees-and-forms/Online-payments"  target="">Online payments</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Council/Rates-fees-and-forms/Fees-and-charges"  target="_blank">Fees and charges</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Council/Rates-fees-and-forms/Forms"  target="">Forms</a></li></ul></li><li class=" "><a  href="https://www.narrandera.nsw.gov.au/Council/News-and-media" class="nav-has-children"  target="">News and media</a><button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow-child" aria-controls="sc-menu-third-level-nav-item-seq-1-nav-item-seq-5"><i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-third-level-nav-item-seq-1-nav-item-seq-5">
+          
+            <li  class=" "><a href="https://www.narrandera.nsw.gov.au/Council/News-and-media/Community-Newsletter"  target="">Community Newsletter</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Council/News-and-media/Media-releases"  target="">Media releases</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Council/News-and-media/Public-notices"  target="">Public notices</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Council/News-and-media/Have-your-say"  target="">Have your say</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Council/News-and-media/Social-media"  target="">Social media</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Council/News-and-media/RSS-news-feeds"  target="">RSS news feeds</a></li></ul></li><li class=" "><a  href="https://www.narrandera.nsw.gov.au/Council/Projects-and-works" class=""  target="">Projects and works</a></li><li class=" "><a  href="https://www.narrandera.nsw.gov.au/Council/Governance-and-transparency" class="nav-has-children"  target="">Governance and transparency</a><button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow-child" aria-controls="sc-menu-third-level-nav-item-seq-1-nav-item-seq-7"><i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-third-level-nav-item-seq-1-nav-item-seq-7">
+          
+            <li  class=" "><a href="https://www.narrandera.nsw.gov.au/Council/Governance-and-transparency/Integrated-planning-and-reporting"  target="">Integrated planning and reporting</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Council/Governance-and-transparency/Plans-and-strategies"  target="">Plans and strategies</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Council/Governance-and-transparency/Policies"  target="">Policies</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Council/Governance-and-transparency/Disclosures"  target="">Disclosures</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Council/Governance-and-transparency/Your-privacy"  target="">Your privacy</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Council/Governance-and-transparency/Accessing-information"  target="">Accessing information</a></li></ul></li><li class=" "><a  href="https://www.narrandera.nsw.gov.au/Council/Working-at-council" class="nav-has-children"  target="">Working at council</a><button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow-child" aria-controls="sc-menu-third-level-nav-item-seq-1-nav-item-seq-8"><i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-third-level-nav-item-seq-1-nav-item-seq-8">
+          
+            <li  class=" "><a href="https://www.narrandera.nsw.gov.au/Council/Working-at-council/Careers"  target="">Careers</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Council/Working-at-council/Employee-benefits"  target="">Employee benefits</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Council/Working-at-council/Current-vacancies"  target="_blank">Current vacancies</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Council/Working-at-council/Work-experience"  target="">Work experience</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Council/Working-at-council/Volunteering"  target="">Volunteering</a></li></ul></li><li class=" "><a  href="https://www.narrandera.nsw.gov.au/Council/Committees-and-groups" class="nav-has-children"  target="">Committees and groups</a><button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow-child" aria-controls="sc-menu-third-level-nav-item-seq-1-nav-item-seq-9"><i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-third-level-nav-item-seq-1-nav-item-seq-9">
+          
+            <li  class=" "><a href="https://www.narrandera.nsw.gov.au/Council/Committees-and-groups/Narrandera-Youth-Advisory-Council"  target="">Narrandera Youth Advisory Council</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Council/Committees-and-groups/Management-advisory-and-Section-355-committees"  target="">Management, advisory and Section 355 committees</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Council/Committees-and-groups/Audit-Risk-and-Improvement-Committee"  target="">Audit, Risk and Improvement Committee</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Council/Committees-and-groups/Riverina-and-Murray-Joint-Organisation"  target="_self">Riverina and Murray Joint Organisation</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Council/Committees-and-groups/Country-Mayors-Association"  target="_self">Country Mayors Association</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Council/Committees-and-groups/Western-Riverina-Libraries"  target="_self">Western Riverina Libraries</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Council/Committees-and-groups/Murrumbidgee-Trails"  target="_self">Murrumbidgee Trails</a></li></ul></li></ul></li>
+          
+            <li class="nav-section-quarters-1   nav-item-seq-2">
+<a href="https://www.narrandera.nsw.gov.au/Services" class="nav-level-1 nav-has-children"  target="">Services</a>
+<button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow" aria-controls="sc-menu-second-level-nav-item-seq-2">
+              <i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-second-level-nav-item-seq-2">
+
+          
+            <li class=" "><a  href="https://www.narrandera.nsw.gov.au/Services/Waste-and-recycling" class="nav-has-children"  target="">Waste and recycling</a><button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow-child" aria-controls="sc-menu-third-level-nav-item-seq-2-nav-item-seq-1"><i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-third-level-nav-item-seq-2-nav-item-seq-1">
+          
+            <li  class=" "><a href="https://www.narrandera.nsw.gov.au/Services/Waste-and-recycling/Kerbside-collection"  target="">Kerbside collection</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Services/Waste-and-recycling/Community-recycling-centre"  target="">Community recycling centre (CRC)</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Services/Waste-and-recycling/Reverse-vending-machine"  target="">Reverse vending machine (RVM)</a></li></ul></li><li class=" "><a  href="https://www.narrandera.nsw.gov.au/Services/Water-and-sewer" class="nav-has-children"  target="">Water and sewer</a><button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow-child" aria-controls="sc-menu-third-level-nav-item-seq-2-nav-item-seq-2"><i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-third-level-nav-item-seq-2-nav-item-seq-2">
+          
+            <li  class=" "><a href="https://www.narrandera.nsw.gov.au/Services/Water-and-sewer/Water-supply-network"  target="">Water supply network</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Services/Water-and-sewer/Sewer-supply-network"  target="">Sewer supply network</a></li></ul></li><li class=" "><a  href="https://www.narrandera.nsw.gov.au/Services/Pets-and-animals" class="nav-has-children"  target="">Pets and animals</a><button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow-child" aria-controls="sc-menu-third-level-nav-item-seq-2-nav-item-seq-3"><i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-third-level-nav-item-seq-2-nav-item-seq-3">
+          
+            <li  class=" "><a href="https://www.narrandera.nsw.gov.au/Services/Pets-and-animals/Pet-ownership"  target="">Pet ownership</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Services/Pets-and-animals/Microchipping-and-registration"  target="">Microchipping and registration</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Services/Pets-and-animals/Lost-and-impounded-animals"  target="">Lost and impounded animals</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Services/Pets-and-animals/Annual-permits"  target="">Annual permits</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Services/Pets-and-animals/Dangerous-dogs"  target="">Dangerous dogs</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Services/Pets-and-animals/Stock-control"  target="">Stock control</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Services/Pets-and-animals/Native-wildlife"  target="">Native wildlife</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Services/Pets-and-animals/Pigeons"  target="">Pigeons</a></li></ul></li><li class=" "><a  href="https://www.narrandera.nsw.gov.au/Services/Compliance" class="nav-has-children"  target="">Compliance</a><button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow-child" aria-controls="sc-menu-third-level-nav-item-seq-2-nav-item-seq-4"><i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-third-level-nav-item-seq-2-nav-item-seq-4">
+          
+            <li  class=" "><a href="https://www.narrandera.nsw.gov.au/Services/Compliance/Parking-regulations"  target="">Parking regulations</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Services/Compliance/Illegal-dumping"  target="">Report illegal dumping</a></li></ul></li><li class=" "><a  href="https://www.narrandera.nsw.gov.au/Services/Cemeteries" class=""  target="">Cemeteries</a></li><li class=" "><a  href="https://www.narrandera.nsw.gov.au/Services/Roads-and-traffic" class=""  target="">Roads and traffic</a></li><li class=" "><a  href="https://www.narrandera.nsw.gov.au/Services/Narrandera-Leeton-Airport" class=""  target="">Narrandera Leeton Airport</a></li><li class=" "><a  href="https://www.narrandera.nsw.gov.au/Services/Environment" class="nav-has-children"  target="">Environment</a><button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow-child" aria-controls="sc-menu-third-level-nav-item-seq-2-nav-item-seq-8"><i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-third-level-nav-item-seq-2-nav-item-seq-8">
+          
+            <li  class=" "><a href="https://www.narrandera.nsw.gov.au/Services/Environment/Trees"  target="">Trees</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Services/Environment/Biosecurity"  target="">Biosecurity</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Services/Environment/Leaf-collection"  target="">Leaf collection</a></li></ul></li></ul></li>
+          
+            <li class="nav-section-quarters-2   nav-item-seq-3">
+<a href="https://www.narrandera.nsw.gov.au/Community" class="nav-level-1 nav-has-children"  target="">Community</a>
+<button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow" aria-controls="sc-menu-second-level-nav-item-seq-3">
+              <i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-second-level-nav-item-seq-3">
+
+          
+            <li class=" "><a  href="https://www.narrandera.nsw.gov.au/Community/Public-places-parks-and-pools" class="nav-has-children"  target="">Public places, parks and pools</a><button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow-child" aria-controls="sc-menu-third-level-nav-item-seq-3-nav-item-seq-1"><i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-third-level-nav-item-seq-3-nav-item-seq-1">
+          
+            <li  class=" "><a href="https://www.narrandera.nsw.gov.au/Community/Public-places-parks-and-pools/Narrandera-Library"  target="">Narrandera Library</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Community/Public-places-parks-and-pools/Narrandera-Destination-and-Discovery-Hub"  target="">Narrandera Destination and Discovery Hub</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Community/Public-places-parks-and-pools/Lake-Talbot-Water-Park"  target="">Lake Talbot Water Park</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Community/Public-places-parks-and-pools/Barellan-Memorial-Swimming-Pool"  target="">Barellan Memorial Swimming Pool</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Community/Public-places-parks-and-pools/Parks-playgrounds-and-reserves"  target="">Parks, playgrounds, reserves</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Community/Public-places-parks-and-pools/Sporting-facilities"  target="">Sporting facilities</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Community/Public-places-parks-and-pools/Public-toilets"  target="_self">Public toilets</a></li></ul></li><li class=" "><a  href="https://www.narrandera.nsw.gov.au/Community/Arts-and-culture" class="nav-has-children"  target="">Arts and culture</a><button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow-child" aria-controls="sc-menu-third-level-nav-item-seq-3-nav-item-seq-2"><i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-third-level-nav-item-seq-3-nav-item-seq-2">
+          
+            <li  class=" "><a href="https://www.narrandera.nsw.gov.au/Community/Arts-and-culture/Art-on-the-Water-Tower"  target="">Art on the Water Tower</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Community/Arts-and-culture/Narrandera-Arts-and-Community-Centre"  target="">Narrandera Arts and Community Centre</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Community/Arts-and-culture/Parkside-Cottage-Museum"  target="">Parkside Cottage Museum</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Community/Arts-and-culture/Barellan-Museum"  target="">Barellan Museum</a></li></ul></li><li class=" "><a  href="https://www.narrandera.nsw.gov.au/Community/MyShire-local-directories" class="nav-has-children"  target="">MyShire local directories</a><button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow-child" aria-controls="sc-menu-third-level-nav-item-seq-3-nav-item-seq-3"><i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-third-level-nav-item-seq-3-nav-item-seq-3">
+          
+            <li  class=" "><a href="https://www.narrandera.nsw.gov.au/Community/MyShire-local-directories/Local-business-directory"  target="">Local business directory</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Community/MyShire-local-directories/Local-community-directory"  target="">Local community directory</a></li></ul></li><li class=" "><a  href="https://www.narrandera.nsw.gov.au/Community/Community-safety" class="nav-has-children"  target="">Community safety</a><button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow-child" aria-controls="sc-menu-third-level-nav-item-seq-3-nav-item-seq-4"><i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-third-level-nav-item-seq-3-nav-item-seq-4">
+          
+            <li  class=" "><a href="https://www.narrandera.nsw.gov.au/Community/Community-safety/CCTV"  target="">CCTV</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Community/Community-safety/Food-safety"  target="">Food safety</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Community/Community-safety/Public-health"  target="">Public health</a></li></ul></li><li class=" "><a  href="https://www.narrandera.nsw.gov.au/Community/Events-festivals-and-exhibitions" class=""  target="">Events, festivals and exhibitions</a></li><li class=" "><a  href="https://www.narrandera.nsw.gov.au/Community/Community-Transport-program" class="nav-has-children"  target="">Community Transport program</a><button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow-child" aria-controls="sc-menu-third-level-nav-item-seq-3-nav-item-seq-6"><i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-third-level-nav-item-seq-3-nav-item-seq-6">
+          
+            <li  class=" "><a href="https://www.narrandera.nsw.gov.au/Community/Community-Transport-program/Public-transport"  target="">Public transport</a></li></ul></li><li class=" "><a  href="https://www.narrandera.nsw.gov.au/Community/Digital-community-noticeboards" class=""  target="">Digital community noticeboards</a></li><li class=" "><a  href="https://www.narrandera.nsw.gov.au/Community/Grants" class=""  target="">Grants</a></li></ul></li>
+          
+            <li class="nav-section-quarters-2   nav-item-seq-4">
+<a href="https://www.narrandera.nsw.gov.au/Development" class="nav-level-1 nav-has-children"  target="">Development</a>
+<button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow" aria-controls="sc-menu-second-level-nav-item-seq-4">
+              <i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-second-level-nav-item-seq-4">
+
+          
+            <li class=" "><a  href="https://www.narrandera.nsw.gov.au/Development/Development-and-building" class="nav-has-children"  target="">Development and building</a><button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow-child" aria-controls="sc-menu-third-level-nav-item-seq-4-nav-item-seq-1"><i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-third-level-nav-item-seq-4-nav-item-seq-1">
+          
+            <li  class=" "><a href="https://www.narrandera.nsw.gov.au/Development/Development-and-building/Do-I-need-approval"  target="">Do I need approval?</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Development/Development-and-building/Development-information"  target="">Development information</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Development/Development-and-building/Development-applications"  target="">Development applications</a></li></ul></li><li class=" "><a  href="https://www.narrandera.nsw.gov.au/Development/Certificates" class="nav-has-children"  target="">Certificates</a><button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow-child" aria-controls="sc-menu-third-level-nav-item-seq-4-nav-item-seq-2"><i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-third-level-nav-item-seq-4-nav-item-seq-2">
+          
+            <li  class=" "><a href="https://www.narrandera.nsw.gov.au/Development/Certificates/Planning-certificates"  target="">Planning certificates</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Development/Certificates/Rating-certificates"  target="">Rating certificates</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Development/Certificates/Outstanding-notice-certificates"  target="">Outstanding notice certificates</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Development/Certificates/Swimming-pool-compliance-certificates"  target="">Swimming pool compliance certificates</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Development/Certificates/Construction-certificates"  target="">Construction certificates</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Development/Certificates/Sewer-diagrams"  target="">Sewer diagrams</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Development/Certificates/Building-certificates"  target="">Building certificates</a></li></ul></li><li class=" "><a  href="https://www.narrandera.nsw.gov.au/Development/Urban-and-rural-addressing" class=""  target="">Urban and rural addressing</a></li></ul></li>
+          
+            <li class="nav-section-quarters-3   nav-item-seq-5">
+<a href="https://www.narrandera.nsw.gov.au/Business" class="nav-level-1 nav-has-children"  target="">Business</a>
+<button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow" aria-controls="sc-menu-second-level-nav-item-seq-5">
+              <i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-second-level-nav-item-seq-5">
+
+          
+            <li class=" "><a  href="https://www.narrandera.nsw.gov.au/Business/Doing-business-in-Narrandera-Shire" class=""  target="">Doing business in Narrandera Shire</a></li><li class=" "><a  href="https://www.narrandera.nsw.gov.au/Business/Red-Hill-Industrial-Estate" class=""  target="">Red Hill Industrial Estate</a></li><li class=" "><a  href="https://www.narrandera.nsw.gov.au/Business/Community-and-economic-profile" class=""  target="">Community and economic profile</a></li><li class=" "><a  href="https://www.narrandera.nsw.gov.au/Business/Procurement-tenders-and-contracts" class="nav-has-children"  target="">Procurement, tenders and contracts</a><button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow-child" aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-4"><i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-third-level-nav-item-seq-5-nav-item-seq-4">
+          
+            <li  class=" "><a href="https://www.narrandera.nsw.gov.au/Business/Procurement-tenders-and-contracts/Supplier-registration"  target="_blank">Supplier registration</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Business/Procurement-tenders-and-contracts/Quotes"  target="">Quotes</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Business/Procurement-tenders-and-contracts/Tenders"  target="">Tenders</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Business/Procurement-tenders-and-contracts/Tenders-submitted"  target="">Tenders submited</a></li><li  class=" "><a href="https://www.narrandera.nsw.gov.au/Business/Procurement-tenders-and-contracts/Contracts-register"  target="">Contracts register</a></li></ul></li><li class=" "><a  href="https://www.narrandera.nsw.gov.au/Business/Visitor-economy" class=""  target="">Visitor economy</a></li></ul></li>
+          
+            <li class="nav-section-quarters-3   nav-item-seq-6">
+<a href="https://www.narrandera.nsw.gov.au/Visit" class="nav-level-1 "  target="_self">Visit</a>
+</li>
+          
+            </ul>
+            </div>
+        </div>
+    </div>
+</div>
+			
+			<div class="header-search-control-container" id="header-search">
+				<div class="search-inner-container">
+					<div class="sc-search-panel" onkeypress="javascript:return WebForm_FireDefaultButton(event, &#39;ctl08_btnSearch&#39;)">
+	<label for="ctl08_txtSearch" id="ctl08_lblSearch" class="sc-search-label">Search</label><input name="ctl08$txtSearch" type="text" id="ctl08_txtSearch" class="sc-search-text" placeholder="Find almost anything on our website" /><input type="submit" name="ctl08$btnSearch" value="Search" id="ctl08_btnSearch" class="sc-search-button" />
+</div>
+					<div role="status" id="predictiveResults"></div>
+				</div>
+			</div>
+    </div>
+</div>
+
+            
+            </header>
+            <div class="content-outer-container">
+                <div id="main" role="main" class="main-outer-container no-background clearfix">
+                        <div class="content-main-container">
+                                                    
+                            <!-- OC Layout Element Conent Template -->
+                            <!--normalTemplateStart--><div class="visuallyhidden"><h1 class='oc-page-title '>Home</h1></div><div id="main-content"><section class="row-index-1"><div class="row-container fixed-width clearfix"><div class="row-content-container fixed-width clearfix">
+<div class="do-it-online do-it-online-format-8 top-task-homepage top-task-homepage-format-8 clearfix" data-total-results="12"><div class="grid"><div class="col-xs-12 col-m-6 col-lg-3">
+			<a href="https://www.narrandera.nsw.gov.au/Council/Contact-us" class="profile-list item-0" target="_self" >
+				<i class="item-icon report-an-issue" aria-hidden="true"></i>
+				<h2>Report an issue</h2>
+				<p></p>
+			</a>
+		</div><div class="col-xs-12 col-m-6 col-lg-3">
+			<a href="https://www.narrandera.nsw.gov.au/Services/Waste-and-recycling/Kerbside-collection" class="profile-list item-1" target="_self" >
+				<i class="item-icon bins-and-waste" aria-hidden="true"></i>
+				<h2>Bins & waste</h2>
+				<p></p>
+			</a>
+		</div><div class="col-xs-12 col-m-6 col-lg-3">
+			<a href="https://water.narrandera.nsw.gov.au/" class="profile-list item-2" target="_self" >
+				<i class="item-icon major-projects-and-works" aria-hidden="true"></i>
+				<h2>MyWater portal</h2>
+				<p></p>
+			</a>
+		</div><div class="col-xs-12 col-m-6 col-lg-3">
+			<a href="https://www.narrandera.nsw.gov.au/Council/Rates-fees-and-forms/Online-payments" class="profile-list item-3" target="_self" >
+				<i class="item-icon rates-and-payments" aria-hidden="true"></i>
+				<h2>Pay online</h2>
+				<p></p>
+			</a>
+		</div><div class="col-xs-12 col-m-6 col-lg-3">
+			<a href="https://www.narrandera.nsw.gov.au/Community/Public-places-parks-and-pools" class="profile-list item-4" target="_self" >
+				<i class="item-icon hire-a-venue" aria-hidden="true"></i>
+				<h2>Hire a venue</h2>
+				<p></p>
+			</a>
+		</div><div class="col-xs-12 col-m-6 col-lg-3">
+			<a href="https://www.narrandera.nsw.gov.au/Council/Council-meetings/Business-papers-and-minutes" class="profile-list item-5" target="_self" >
+				<i class="item-icon council-meetings" aria-hidden="true"></i>
+				<h2>Council meetings</h2>
+				<p></p>
+			</a>
+		</div><div class="col-xs-12 col-m-6 col-lg-3">
+			<a href="https://www.narrandera.nsw.gov.au/Development/Development-and-building" class="profile-list item-6" target="_self" >
+				<i class="item-icon planning-and-building" aria-hidden="true"></i>
+				<h2>Development & building</h2>
+				<p></p>
+			</a>
+		</div><div class="col-xs-12 col-m-6 col-lg-3">
+			<a href="https://www.narrandera.nsw.gov.au/Community/MyShire-local-directories" class="profile-list item-7" target="_self" >
+				<i class="item-icon volunteer" aria-hidden="true"></i>
+				<h2>MyShire directories</h2>
+				<p></p>
+			</a>
+		</div><div class="col-xs-12 col-m-6 col-lg-3">
+			<a href="https://www.narrandera.nsw.gov.au/Council/Rates-fees-and-forms/Forms" class="profile-list item-8" target="_self" >
+				<i class="item-icon forms-a-z" aria-hidden="true"></i>
+				<h2>Forms A-Z</h2>
+				<p></p>
+			</a>
+		</div><div class="col-xs-12 col-m-6 col-lg-3">
+			<a href="https://www.narrandera.nsw.gov.au/Business/Procurement-tenders-and-contracts" class="profile-list item-9" target="_self" >
+				<i class="item-icon tenders-and-quotations" aria-hidden="true"></i>
+				<h2>Tenders & quotations</h2>
+				<p></p>
+			</a>
+		</div><div class="col-xs-12 col-m-6 col-lg-3">
+			<a href="https://narrandera.pulsesoftware.com/Pulse/jobs" class="profile-list item-10" target="_self" >
+				<i class="item-icon careers" aria-hidden="true"></i>
+				<h2>Careers</h2>
+				<p></p>
+			</a>
+		</div><div class="col-xs-12 col-m-6 col-lg-3">
+			<a href="https://narrandera.disasterdashboards.com/dashboard/overview" class="profile-list item-11" target="_self" >
+				<i class="item-icon disaster-dashboard" aria-hidden="true"></i>
+				<h2>Disaster dashboard</h2>
+				<p></p>
+			</a>
+		</div></div></div>
+
+
+            </div></div></section><section class="row-index-2"><div class="row-container fixed-width clearfix"><div class="row-content-container fixed-width clearfix"><div data-oc-tabs-name="tabs" class="tab-group profile-featured-links"><div id="tabs-body" class="tab-group-body"><div class="no-js-element clearfix tabs-header for-panel-1 tab-type-homepage-news-listing ">
+    <h1 class="item-text" >News</h1>
+</div>
+<div id="panel-1" class="tabs-panel clearfix tab-type-homepage-news-listing " >
+    
+    <div class="profile-listing-container  profile-news-listing-container profile-news-listing-option-1 clearfix"><div class="profile-tabbed-listing profile-news-listing clearfix" data-total-results="3">
+<div class="grid">
+        <div class="col-xs-12 col-m-6 col-lg-4">
+	<a href="https://www.narrandera.nsw.gov.au/Council/News-and-media/Media-releases/Grow-Our-Own-program-celebrates-further-expansion-with-Narrandera-Shire-Council-partnership" class="profile-list item-0 homepage-show" >		
+		
+       <picture>
+  <source media="(min-width: 992px)" srcset="/files/content/public/v/2/council/news-and-media/media-releases/grow-our-own-program-celebrates-further-expansion-with-narrandera-shire-council-partnership/grow-own-own.png?dimension=homepagelisting&w=380&h=250">
+  <source media="(min-width: 768px)" srcset="/files/content/public/v/2/council/news-and-media/media-releases/grow-our-own-program-celebrates-further-expansion-with-narrandera-shire-council-partnership/grow-own-own.png?dimension=homepagelisting&w=496&h=328">
+  <source srcset="/files/content/public/v/2/council/news-and-media/media-releases/grow-our-own-program-celebrates-further-expansion-with-narrandera-shire-council-partnership/grow-own-own.png?dimension=homepagelisting&w=480&h=316">
+  <img class="large-thumbnail-image" src="/files/content/public/v/2/council/news-and-media/media-releases/grow-our-own-program-celebrates-further-expansion-with-narrandera-shire-council-partnership/grow-own-own.png?dimension=homepagelisting&w=496&h=328" alt=""/>
+  </picture>
+		<h2>Grow Our Own program celebrates further expansion</h2>
+		<p class="published-on small-text">Published on 24 September 2026</p>
+		<p>Grow Our Own, an industry-led alliance, broadens reach to connect Narrandera students and local industry, building on its work across the Western Riverina in previous years.</p>
+	</a>
+</div><div class="col-xs-12 col-m-6 col-lg-4">
+	<a href="https://www.narrandera.nsw.gov.au/Council/News-and-media/Media-releases/Koala-Festival-ends-with-a-big-win-for-Narranderas-koalas" class="profile-list item-1 homepage-show" >		
+		
+       <picture>
+  <source media="(min-width: 992px)" srcset="/files/content/public/v/1/council/news-and-media/media-releases/koala-festival-ends-with-a-big-win-for-narranderas-koalas/_dsf4293.jpg?dimension=homepagelisting&w=380&h=250">
+  <source media="(min-width: 768px)" srcset="/files/content/public/v/1/council/news-and-media/media-releases/koala-festival-ends-with-a-big-win-for-narranderas-koalas/_dsf4293.jpg?dimension=homepagelisting&w=496&h=328">
+  <source srcset="/files/content/public/v/1/council/news-and-media/media-releases/koala-festival-ends-with-a-big-win-for-narranderas-koalas/_dsf4293.jpg?dimension=homepagelisting&w=480&h=316">
+  <img class="large-thumbnail-image" src="/files/content/public/v/1/council/news-and-media/media-releases/koala-festival-ends-with-a-big-win-for-narranderas-koalas/_dsf4293.jpg?dimension=homepagelisting&w=496&h=328" alt=""/>
+  </picture>
+		<h2>Koala Festival ends with a big win for Narrandera's koalas</h2>
+		<p class="published-on small-text">Published on 21 September 2026</p>
+		<p>This year, 200 participants of the Annual Koala Count at the Narrandera Koala Festival, counted 49 koalas including 5 joeys, contributing to what has become a remarkable conservation success story.</p>
+	</a>
+</div><div class="col-xs-12 col-m-6 col-lg-4">
+	<a href="https://www.narrandera.nsw.gov.au/Council/News-and-media/Media-releases/Nominations-open-for-the-2027-Narrandera-Shire-Australia-Day-Awards" class="profile-list item-2 homepage-show" >		
+		
+       <picture>
+  <source media="(min-width: 992px)" srcset="/files/content/public/v/2/council/news-and-media/media-releases/nominations-open-for-the-2027-narrandera-shire-australia-day-awards/picture1.jpg?dimension=homepagelisting&w=380&h=250">
+  <source media="(min-width: 768px)" srcset="/files/content/public/v/2/council/news-and-media/media-releases/nominations-open-for-the-2027-narrandera-shire-australia-day-awards/picture1.jpg?dimension=homepagelisting&w=496&h=328">
+  <source srcset="/files/content/public/v/2/council/news-and-media/media-releases/nominations-open-for-the-2027-narrandera-shire-australia-day-awards/picture1.jpg?dimension=homepagelisting&w=480&h=316">
+  <img class="large-thumbnail-image" src="/files/content/public/v/2/council/news-and-media/media-releases/nominations-open-for-the-2027-narrandera-shire-australia-day-awards/picture1.jpg?dimension=homepagelisting&w=496&h=328" alt=""/>
+  </picture>
+		<h2>Nominations open for the 2027 Narrandera Shire Australia Day Awards</h2>
+		<p class="published-on small-text">Published on 18 September 2026</p>
+		<p>Narrandera Shire Council is calling on the community to nominate local people and organisations who have made a difference to the Narrandera Shire.</p>
+	</a>
+</div></div>
+</div>
+<a href="https://www.narrandera.nsw.gov.au/News-articles" class="panel-button">View More News</a></div>
+        
+    
+</div><div class="no-js-element clearfix tabs-header for-panel-2 tab-type-homepage-public-notices-listing ">
+    <h1 class="item-text">Public notices</h1>
+</div>
+<div id="panel-2" class="tabs-panel clearfix tab-type-homepage-public-notices-listing ">
+    
+    <div class="profile-listing-container  profile-public-notices-listing-container clearfix"><div class="profile-tabbed-listing profile-public-notices-listing clearfix" data-total-results="3">
+<div class="grid">
+        
+        <div class="col-xs-12 col-m-6 col-lg-4">
+	<a href="https://www.narrandera.nsw.gov.au/Council/News-and-media/Public-notices/Labour-Day-closure-arrangements" class="profile-list item-0 homepage-show">	
+		<h2>Labour Day closure arrangements</h2>
+		 
+   
+      <p class="on-display-until small-text"><span class="display-text">On display until </span>
+   
+    
+
+<span class="display-date">06 October 2026</span></p>
+          
+		<p >Narrandera Shire Council advises that the Administration Centre, Narrandera Library, Community Services Building, Works Depot and Waste Facilities will be closed on Monday 5 October 2026 in observance of the Labour Day public holiday.</p>
+	</a>
+</div>
+        
+        <div class="col-xs-12 col-m-6 col-lg-4">
+	<a href="https://www.narrandera.nsw.gov.au/Council/News-and-media/Public-notices/Slowed-traffic-notice-Barellan" class="profile-list item-1 homepage-show">	
+		<h2>Slowed traffic notice - Barellan</h2>
+		 
+   
+      <p class="on-display-until small-text"><span class="display-text">On display until </span>
+   
+    
+
+<span class="display-date">03 October 2026</span></p>
+          
+		<p >Council advises that slow-moving traffic and short delays can be expected between 11am and 1pm on Friday 2 October 2026, due to the Good Old Days Festival parade.</p>
+	</a>
+</div>
+        
+        <div class="col-xs-12 col-m-6 col-lg-4">
+	<a href="https://www.narrandera.nsw.gov.au/Council/News-and-media/Public-notices/Roadworks-notice-Weerona-Road" class="profile-list item-2 homepage-show">	
+		<h2>Roadworks notice - Weerona Road</h2>
+		 
+   
+      <p class="on-display-until small-text"><span class="display-text">On display until </span>
+   
+    
+
+<span class="display-date">15 October 2026</span></p>
+          
+		<p >Council will commence roadworks on Weerona Road, Landervale on Thursday 24 September.</p>
+	</a>
+</div>
+        
+        </div>
+</div>
+<a href="https://www.narrandera.nsw.gov.au/Public-notices" class="panel-button">View More Public Notices</a></div>
+        
+        
+    
+</div>
+          <div class="no-js-element clearfix tabs-header for-panel-3 tab-type-default ">
+    <h1 class="item-text" >Have your say</h1>
+</div>
+<div id="panel-3" class="tabs-panel clearfix tab-type-default ">
+    <div class="wysiwyg-content body-content" ><p>Council invites community feedback on policies, plans, strategies and other documents&nbsp;on public exhibition. Development applications may also be exhibited for public feedback if required.</p>
+<p>When matters are open for exhibition, the documents can be viewed here on the website or at Council's Business Administration building.&nbsp;Please remember to provide written submission prior to the closing date.</p>
+<p><a href="https://www.narrandera.nsw.gov.au/Council/News-and-media/Have-your-say" class="styled-button">View exhibition items here</a></p>
+
+</div>
+    
+    
+</div><div class="no-js-element clearfix tabs-header for-panel-4 tab-type-default ">
+    <h1 class="item-text" >Events</h1>
+</div>
+<div id="panel-4" class="tabs-panel clearfix tab-type-default ">
+    <div class="wysiwyg-content body-content" ><p><div class="oc-quick-list oc-quick-list-grid oc-quick-list-grid-2 landing-page-list-container clearfix"><div class="grid" role="list"><div class="col-xs-12 col-m-4" role="listitem">
+	<div class="list-item-container small-panel" >		
+		<article>
+			<a href="https://www.narrandera.nsw.gov.au/Home/Tabs/Events/Narrandera-Whats-On"   target="_blank">
+				
+       <picture>
+  <source media="(min-width: 992px)" srcset="/files/assets/public/v/1/images/visit/2025-11-01-spring-fair-meg-hollins-17.jpg?dimension=largethumbnail&w=380&h=250">
+  <source media="(min-width: 768px)" srcset="/files/assets/public/v/1/images/visit/2025-11-01-spring-fair-meg-hollins-17.jpg?dimension=largethumbnail&w=330&h=218">
+  <source srcset="/files/assets/public/v/1/images/visit/2025-11-01-spring-fair-meg-hollins-17.jpg?dimension=largethumbnail&w=480&h=316">
+  <img class="large-thumbnail-image" src="/files/assets/public/v/1/images/visit/2025-11-01-spring-fair-meg-hollins-17.jpg?dimension=largethumbnail&w=480&h=316"  alt=""/>
+  </picture>
+				<H2 class="list-item-title">
+					Narrandera What's On
+				</H2>
+				<p>		
+					
+				</p>
+			</a>
+		</article>
+	</div>
+</div></div></div>
+</p></div>
+    
+    
+</div></div></div></div></div></section><section class="row-index-3"><div class="row-container full-width clearfix"><div class="row-content-container fixed-width clearfix"><div class="row-container-title fixed-width" ><h1>In my neighbourhood</h1></div><script>OpenCities.Settings.AddressPickerVariables['oc-75485b91-d34e-468e-8053-c89099e17b2e'] = {"PageUrl":"https://www.narrandera.nsw.gov.au/Sandbox/In-my-neighbourhood","MapId":"979806a0-1b66-4390-ad79-9cbaf34e831d","AddressSource":"CMS"}</script>
+<div class='address-picker-container option-1' data-object-id='oc-75485b91-d34e-468e-8053-c89099e17b2e' role='search' aria-label='Search by address'>
+<h2 class='address-picker-title'>Find your bin collection days, parks, facilities and more</h2>
+<div class='address-picker-input-controls clearfix'> <div class='address-picker-location'><label class='address-picker-location-input-label visuallyhidden' for='input_55999d09-5199-41c4-a2fa-6de26ef63ed9'>Enter your street address</label><input type='text' id='input_55999d09-5199-41c4-a2fa-6de26ef63ed9' class='address-picker-location-input' placeholder='Enter an address'/><input type='button' class='address-picker-my-location' value='Use my location'/></div><input type='submit' class='address-picker-submit' value='Search' /></div>
+</div>
+</div></div></section></div><!--normalTemplateEnd-->
+                        </div>
+                        <div class="back-to-top-container text-center">
+                            <a href="#body-top" id="back-to-top"><i aria-hidden="true"></i><span class="js-visuallyhidden">Back to top</span></a>
+                        </div>
+                </div>
+            </div><!--groupTemplateEnd-->
+            <footer>
+                
+                    <div class="footer-outer-container footer-first-row">
+                        <div class="footer-container clearfix">
+                            <div class="grid grid-pad">
+                                <div class="col-xs-12 col-s-12 col-m-12 col-lg-12 footer-first-paragraph" >
+	
+			<h2 class="visuallyhidden">Site Footer</h2>
+			<h3 class="footer-title">Acknowledgement of Country</h3>
+			
+	
+	<ul class="footer-links without-icons ">   </ul>
+	<p>Narrandera Shire Council respectfully acknowledges the Wiradjuri/Wiradyuri People as the traditional custodians of the land and waters of our area. We pay respect to Elders past, present and emerging, and extend that respect to other Aboriginal and Torres Strait Islander people living in and visiting the Narrandera Shire.</p>
+
+
+</div><div class="col-xs-12 col-s-6 col-m-3 col-lg-3" >
+	
+			<h2 class="visuallyhidden">Site Footer</h2>
+			<h3 class="footer-title">Contact Us</h3>
+			
+	<p><span style="font-size: 100%;">Narrandera Council<br />
+141 East Street<br />
+Narrandera, NSW 2700</span></p>
+<p><a href="tel:0269595510">02 6959 5510</a><br />
+<a href="mailto:council@narrandera.nsw.gov.au?subject=Narrandera%20Enquiry">council@narrandera.nsw.gov.au</a></p>
+
+
+	
+	
+</div><div class="col-xs-12 col-s-6 col-m-3 col-lg-3" >
+	
+			<h2 class="visuallyhidden">Site Footer</h2>
+			<h3 class="footer-title">Share &amp; Connect</h3>
+			
+	
+	<ul class="footer-links with-icons social-media-links">  <li class="footer-link-facebook">
+	<a href="https://www.facebook.com/NarranderaShire/?ref=bookmarks" target="_self"  >
+<i aria-hidden="true"></i>Like us on Facebook
+</a>
+</li>
+          <li class="footer-link-linkedin">
+	<a href="https://au.linkedin.com/company/narrandera-shire-council" target="_self"  >
+<i aria-hidden="true"></i>Connect on LinkedIn
+</a>
+</li>
+          <li class="footer-link-youtube">
+	<a href="https://www.youtube.com/channel/UC895cjyladg1yF67HmEl98g" target="_self"  >
+<i aria-hidden="true"></i>Follow us on YouTube
+</a>
+</li>
+          <li class="footer-link-rss">
+	<a href="https://www.narrandera.nsw.gov.au/Home" target="_self"  >
+<i aria-hidden="true"></i>Subscribe to RSS
+</a>
+</li>
+           </ul>
+	
+</div><div class="col-xs-12 col-s-6 col-m-3 col-lg-3" >
+	
+			<h2 class="visuallyhidden">Site Footer</h2>
+			<h3 class="footer-title">Quick Links</h3>
+			
+	
+	<ul class="footer-links without-icons ">  <li>
+<a href="https://www.narrandera.nsw.gov.au/Council/Working-at-council/Current-vacancies" target="_self"  >Careers</a>
+</li>
+          <li>
+<a href="https://narrandera.disasterdashboards.com/dashboard/overview" target="_self"  >Disaster Dashboard</a>
+</li>
+          <li>
+<a href="https://www.narrandera.nsw.gov.au/Home" target="_self"  >FAQs</a>
+</li>
+           </ul>
+	
+</div><div class="col-xs-12 col-s-6 col-m-3 col-lg-3" >
+	
+			<h2 class="visuallyhidden">Site Footer</h2>
+			<h3 class="footer-title">Subscribe to our eNewsletters</h3>
+			
+	
+	
+	<p><a href="http://eepurl.com/dCw4Pf" target="_blank" class="styled-button-calltoaction">Subscribe to eNewsletter</a></p>
+
+
+</div>
+                            </div>
+                        </div>
+                    </div>
+                
+                <div class="footer-outer-container footer-second-row">
+                    <div class="footer-container clearfix">
+                        <div class="grid grid-pad footer-secondary-links">
+                            <div class="col-xs-12 col-m-7">
+                                
+                                    <div><a href="/files/assets/public/v/2/council/governance/website-documents/2025-12-09-website-disclaimer-copyright.pdf" target="_blank"  >Disclaimer & Copyright</a>&nbsp;| <a href="https://www.narrandera.nsw.gov.au/Council/Governance-and-transparency/Your-privacy" target="_blank"  >Privacy Statement</a>&nbsp;| <a href="https://www.narrandera.nsw.gov.au/Sandbox/Sitemap" target="_self"  >Sitemap</a></div>
+                                
+                            </div>
+                            <div class="col-xs-12 col-m-5 powered-by">
+                                <div class="right">
+                                    &copy; 2026 Narrandera Shire Council&nbsp;|&nbsp;<span class="powered-by">Powered by <a href="https://granicus.com/solution/govaccess/opencities/" target="_blank">Granicus</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+
+    <script src="/files/oc-resources/cf3b5e15-8b9e-48a8-ac84-eaf9b60c4c81/JsTextSnippets.js?ocsvclang=en-AU" type="text/javascript"></script><script></script>
+    
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JCZZQS5XCT"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'G-JCZZQS5XCT');
+</script>
+    
+    
+
+<script type="text/javascript">
+//<![CDATA[
+window.__TsmHiddenField = $get('ctl04_seamless_script_manager_TSM');//]]>
+</script>
+</form>
+</body>
+</html>
